@@ -1,14 +1,12 @@
 # Resilience Engineering notes
 
-This file contains notes about the field of resilience engineering, organized
-by author. I'm using these notes to help me get my head around the
+This file contains notes about people active in resilience engineering, organized
+alphabetically. I'm using these notes to help me get my head around the
 different players and associated concepts.
 
-For each author, I list concepts that they reference in their writings, along
+For each person, I list concepts that they reference in their writings, along
 with some of their publications. The publications listed aren't comprehensive:
 they're ones I've read or have added to my to-read list. 
-
-Authors are listed here in alphabetical order.
 
 * [John Allspaw](#john-allspaw)
 * [Lisanne Bainbridge](#lisanne-bainbridge)
