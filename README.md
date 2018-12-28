@@ -4,22 +4,24 @@ This file contains notes about the field of resilience engineering, organized
 by researcher/author. I'm using these notes to help me get my head around the
 different players and associated concepts.
 
-For each author, I list concepts that I associate with that researcher (i.e.,
-that they reference in their writings), and some selected publications that
-they've written. The publications listed aren't comprehensive: they're either
-ones I've read or ones that are currently on my to-read list. 
+For each author, I list concepts that they reference in their writings, and
+some of their publications. The publications listed aren't comprehensive:
+they're either ones I've read or ones that are currently on my to-read list. 
 
 Authors are listed here in alphabetical order.
 
 * [John Allspaw](#john-allspaw)
 * [Lisanne Bainbridge](#lisanne-bainbridge)
+* [Johan Bergström](#johan-bergström)
 * [Todd Conklin](#todd-conklin)
 * [Richard I. Cook](#richard-i-cook)
 * [Sidney Dekker](#sidney-dekker)
+* [John C. Doyle](#john-c-doyle)
 * [Anders Ericsson](#anders-ericsson)
 * [Erik Hollnagel](#erik-hollnagel)
 * [Gary Klein](#gary-klein)
 * [Nancy Leveson](#nancy-leveson)
+* [Jean Pariès](#jean-paries)
 * [Charles Perrow](#charles-perrow)
 * [Shawna J. Perry](#shawna-j-perry)
 * [Jens Rasmussen](#jens-rasmussen)
@@ -28,6 +30,7 @@ Authors are listed here in alphabetical order.
 * [Diane Vaughan](#diane-vaughan)
 * [Robert L. Wears](#robert-l-wears)
 * [David Woods](#david-woods)
+* [John Wreathall](#john-wreathall)
 
 ## John Allspaw
 
@@ -60,6 +63,17 @@ Bainbridge is (was?) a psychology researcher. (*I have not been able to find any
 ## Selected publications
 * [Ironies of automation](https://doi.org/10.1016/0005-1098(83)90046-8)
 
+## Johan Bergström
+
+[Bergstrom](http://www.jbsafety.se/p/about-me.html) is a safety research and
+consultant. He runs the [Master Program of Human Factors and Systems
+Safety](http://www.humanfactors.lth.se/msc-programme/) at Lund University.
+
+### Selected publications
+
+* [Resilience engineering: Current status of the research and future challenges](https://www.sciencedirect.com/science/article/pii/S0925753516306130)
+* [Rule- and role retreat: An empirical study of procedures and resilience](https://www.researchgate.net/publication/50917226_Rule-_and_role_retreat_An_empirical_study_of_procedures_and_resilience)
+
 
 ## Todd Conklin
 
@@ -86,7 +100,9 @@ Cook is a medical doctor who studies failures in complex systems.  He is one of 
 
 * [How complex systems fail](http://web.mit.edu/2.75/resources/random/How%20Complex%20Systems%20Fail.pdf)
 * [Distancing through differencing: An obstacle to organizational learning following accidents](https://www.researchgate.net/publication/292504703_Distancing_through_differencing_An_obstacle_to_organizational_learning_following_accidents)
+* [Being bumpable](http://csel.eng.ohio-state.edu/productions/woodscta/media/beingbump.pdf)
 * [Behind Human Error](https://www.amazon.com/gp/product/B075QFGTNP/ref=x_gr_w_glide_bb?ie=UTF8&tag=x_gr_w_glide_bb-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B075QFGTNP&SubscriptionId=1MGPYB6YW3HWK55XCGG2)
+* [Incidents - markers of resilience or brittleness?](https://www.researchgate.net/publication/292504952_Incidents_-_markers_of_resilience_or_brittleness)
 
 ## Sidney Dekker
 
@@ -108,6 +124,20 @@ Cook is a medical doctor who studies failures in complex systems.  He is one of 
 * [Reconstructing human contributions to accidents: the new view on error and performance](https://www.sciencedirect.com/science/article/pii/S0022437502000324)
 * [The field guide to 'human error' investigations](https://www.amazon.com/Field-Guide-Understanding-Human-Error/dp/1472439058s://www.amazon.com/Field-Guide-Understanding-Human-Error/dp/1472439058)
 * [Behind Human Error](https://www.amazon.com/gp/product/B075QFGTNP/ref=x_gr_w_glide_bb?ie=UTF8&tag=x_gr_w_glide_bb-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B075QFGTNP&SubscriptionId=1MGPYB6YW3HWK55XCGG2)
+* [Rule- and role retreat: An empirical study of procedures and resilience](https://www.researchgate.net/publication/50917226_Rule-_and_role_retreat_An_empirical_study_of_procedures_and_resilience?enrichId=rgreq-23625e555a0d8e5250c74f24b5fd01ca-XXX&enrichSource=Y292ZXJQYWdlOzUwOTE3MjI2O0FTOjk3MzU5NjY5MjM1NzQ1QDE0MDAyMjM3NjI5NDY%3D&el=1_x_2&_esc=publicationCoverPdf)
+
+## John C. Doyle
+
+[Doyle](http://www.cds.caltech.edu/~doyle/wiki/index.php?title=Main_Page) is a
+control systems researcher.
+
+### Concepts
+* Robust yet fragile
+
+### Selected publications
+
+* [The “robust yet fragile” nature of the Internet](https://doi.org/10.1073/pnas.0501426102)
+
 
 ## Anders Ericsson
 
@@ -156,6 +186,7 @@ Klein studies how experts are able to quickly make effective decisions in high-t
 
 * [Sources of power: how people make decisions](https://www.amazon.com/gp/product/0262534290/ref=dbs_a_def_rwt_bibl_vppi_i0)
 * [Working minds: a practitioner's guide to cognitive task analysis](https://www.amazon.com/gp/product/0262532816/ref=dbs_a_def_rwt_bibl_vppi_i5)
+* [Patterns in Cooperative Cognition](https://www.researchgate.net/publication/262449980_Patterns_in_Cooperative_Cognition)
 
 ## Nancy Leveson
 
@@ -182,6 +213,12 @@ Nancy Leveson is a computer science researcher with a focus in software safety.
 * [A New Accident Model for Engineering Safer Systems](http://sunnyday.mit.edu/accidents/safetyscience-single.pdf)
 * [Resilience Engineering: Concepts and Precepts](https://www.amazon.com/gp/product/B009KNDF64/ref=x_gr_w_glide_bb?ie=UTF8&tag=x_gr_w_glide_bb-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B009KNDF64&SubscriptionId=1MGPYB6YW3HWK55XCGG2)
 
+## Jean Pariès
+
+Pariès is the president of [Dédale](http://www.dedale.net/dedale_en/), a safety and human factors consultancy.
+
+### Selected publications
+* [Resilience engineering in practice: a guidebook]()
 
 ## Charles Perrow
 
@@ -239,8 +276,9 @@ Jens Rasmussen was a very influential researcher in human factors and safety sys
 	- Commitment
 
 ### Selected publications
-* [Risk management in a dynamic society: a modelling problem](https://doi.org/10.1016/S0925-7535(97)00052-0)
 * [Reflecting on Jens Rasmussen’s legacy. A strong program for a hard problem](https://doi.org/10.1016/j.ssci.2014.03.015)
+* [Risk management in a dynamic society: a modelling problem](https://doi.org/10.1016/S0925-7535(97)00052-0)
+* [Coping with complexity](http://orbit.dtu.dk/fedora/objects/orbit:91746/datastreams/file_ecf1b6eb-0b8c-4420-b361-644808e34562/content)
 
 
 ## James Reason
@@ -294,6 +332,7 @@ Wears was a medical researcher who studied emergency medicine.
 
 * [The error of counting "errors"](https://linkinghub.elsevier.com/retrieve/pii/S0196064408006070)
 * [Underground adaptations: case studies from health care](https://doi.org/10.1007/s10111-011-0207-2)
+* [Fundamental On Situational Surprise: A Case Study With Implications For Resilience](https://books.openedition.org/pressesmines/1122)
 
 
 ## Diane Vaughan
@@ -318,14 +357,17 @@ consultancy.
 
 ### Concepts
 
-* resilience
 * the adaptive universe
 * adapative capacity
 * continuous adaptation
 * graceful extensibility
 * sustained adaptability
-* Tangled, layered networks
-* Borderlands
+* Tangled, layered networks (TLN)
+* adaptive cycles/histories
+* precarious present
+* resilient future
+* florescence
+* borderlands
 * anticipate
 * synchronize
 * proactive learning
@@ -336,15 +378,32 @@ consultancy.
 * surprise
 * dynamic fault management
 * software systems as "team players"
-
+* multi-scale
+* unit of adaptive behavior
+* brittleness
 
 ### Selected publications
 
 * [Resilience Engineering: Concepts and Precepts](https://www.amazon.com/gp/product/B009KNDF64/ref=x_gr_w_glide_bb?ie=UTF8&tag=x_gr_w_glide_bb-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B009KNDF64&SubscriptionId=1MGPYB6YW3HWK55XCGG2)
 * [Resilience is a verb](https://www.researchgate.net/publication/329035477_Resilience_is_a_Verb)
 * [Four concepts for resilience and the implications for the future of resilience engineering](https://www.researchgate.net/publication/276139783_Four_concepts_for_resilience_and_the_implications_for_the_future_of_resilience_engineering)
+* [How adaptive systems fail](https://www.researchgate.net/publication/284173754_How_Adaptive_Systems_Fail)
+* [Resilience and the ability to anticipate](https://www.researchgate.net/publication/285487326_Resilience_and_the_ability_to_anticipate)
 * [Distancing through differencing: An obstacle to organizational learning following accidents](https://www.researchgate.net/publication/292504703_Distancing_through_differencing_An_obstacle_to_organizational_learning_following_accidents)
 * [Essential characteristics of resilience](https://www.researchgate.net/publication/284328979_Essential_characteristics_of_resilience)
 * [Learning from Automation Surprises and "Going Sour" Accidents: Progress on Human-Centered Automation](https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19980016965.pdf)
 * [Behind Human Error](https://www.amazon.com/gp/product/B075QFGTNP/ref=x_gr_w_glide_bb?ie=UTF8&tag=x_gr_w_glide_bb-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B075QFGTNP&SubscriptionId=1MGPYB6YW3HWK55XCGG2)
 * [Joint Cognitive Systems: Patterns in Cognitive Systems Engineering](https://www.amazon.com/gp/product/0849339332/ref=x_gr_w_bb?ie=UTF8&tag=x_gr_w_bb-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0849339332&SubscriptionId=1MGPYB6YW3HWK55XCGG2)
+* [Patterns in Cooperative Cognition](https://www.researchgate.net/publication/262449980_Patterns_in_Cooperative_Cognition)
+* [Origins of cognitive systems engineering](https://www.researchgate.net/publication/298793082_Origins_of_Cognitive_Systems_Engineering)
+* [Incidents - markers of resilience or brittleness?](https://www.researchgate.net/publication/292504952_Incidents_-_markers_of_resilience_or_brittleness)
+
+## John Wreathall
+
+Wreathall is an expert in human performance in safety. He works at the
+[WreathWood Group](http://www.wreathall.com/), a risk and safety studies
+consultancy.
+
+### Selected publications
+* [Resilience engineering in practice: a guidebook]()
+
