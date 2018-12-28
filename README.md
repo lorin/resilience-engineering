@@ -11,6 +11,21 @@ ones I've read or ones that are currently on my to-read list.
 
 Authors are listed here in alphabetical order.
 
+* [John Allspaw](#john-allspaw)
+* [Lisanne Bainbridge](#lisanne-bainbridge)
+* [Todd Conklin](#todd-conklin)
+* [Richard I. Cook](#richard-i-cook)
+* [Sidney Dekker](#sidney-dekker)
+* [Anders Ericsson](#anders-ericsson)
+* [Erik Hollnagel](#erik-hollnagel)
+* [Gary Klein](#gary-klein)
+* [Charles Perrow](#charles-perrow)
+* [Shawna J. Perry](#shawna-j-perry)
+* [Jens Rasmussen](#jens-rasmussen)
+* [James Reason](#james-reason)
+* [Robert L. Wears](#robert-l-wears)
+* [David Woods](#david-woods)
+
 ## John Allspaw
 
 Allspaw is the former CTO of Etsy. He applies concepts from resilience engineering to the tech industry.
