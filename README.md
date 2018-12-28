@@ -1,12 +1,12 @@
 # Resilience Engineering notes
 
 This file contains notes about the field of resilience engineering, organized
-by researcher/author. I'm using these notes to help me get my head around the
+by author. I'm using these notes to help me get my head around the
 different players and associated concepts.
 
-For each author, I list concepts that they reference in their writings, and
-some of their publications. The publications listed aren't comprehensive:
-they're either ones I've read or ones that are currently on my to-read list. 
+For each author, I list concepts that they reference in their writings, along
+with some of their publications. The publications listed aren't comprehensive:
+they're ones I've read or have added to my to-read list. 
 
 Authors are listed here in alphabetical order.
 
@@ -40,8 +40,8 @@ He is one of the founders [Adaptive Capacity Labs](http://www.adaptivecapacityla
 ### Selected publications
 
 * [Trade-Offs Under Pressure: Heuristics and Observations Of Teams Resolving Internet Service Outages](https://www.researchgate.net/publication/295011072_Trade-Offs_Under_Pressure_Heuristics_and_Observations_Of_Teams_Resolving_Internet_Service_Outages)
-* [Incidents as we Imagine Them Versus How They Actually
-  Are](https://community.pagerduty.com/t/incidents-as-we-imagine-them-versus-how-they-actually-are-with-john-allspaw/2708) (video)
+* [Incidents as we Imagine Them Versus How They Actually Are](https://community.pagerduty.com/t/incidents-as-we-imagine-them-versus-how-they-actually-are-with-john-allspaw/2708) (video)
+* [Debrief Facilitation Guide](http://extfiles.etsy.com/DebriefingFacilitationGuide.pdf)
 * [Fault Injection in Production: Making the case for resiliency testing](http://queue.acm.org/detail.cfm?id=2353017)
 
 ## Lisanne Bainbridge
@@ -133,10 +133,12 @@ control systems researcher.
 
 ### Concepts
 * Robust yet fragile
+* Highly optimized tolerance
 
 ### Selected publications
 
 * [The “robust yet fragile” nature of the Internet](https://doi.org/10.1073/pnas.0501426102)
+* [Highly Optimized Tolerance: Robustness and Design in Complex Systems](http://dx.doi.org/10.1103/physrevlett.84.2529)
 
 
 ## Anders Ericsson
@@ -173,20 +175,25 @@ interest in how people improve in expertise, so I'm including him here.
 * [FRAM: The Functional Resonance Analysis Method: Modelling Complex Socio-technical System](https://www.amazon.com/gp/product/B010WIDYE8/ref=dbs_a_def_rwt_bibl_vppi_i15)
 * [Joint Cognitive Systems: Patterns in Cognitive Systems Engineering](https://www.amazon.com/gp/product/0849339332/ref=x_gr_w_bb?ie=UTF8&tag=x_gr_w_bb-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0849339332&SubscriptionId=1MGPYB6YW3HWK55XCGG2)
 * [Resilience Engineering: Concepts and Precepts](https://www.amazon.com/gp/product/B009KNDF64/ref=x_gr_w_glide_bb?ie=UTF8&tag=x_gr_w_glide_bb-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B009KNDF64&SubscriptionId=1MGPYB6YW3HWK55XCGG2)
+* [I want to believe: some myths about the management of industrial safety](http://dx.doi.org/10.1007/s10111-012-0237-4)
 
 ## Gary Klein
 
 Klein studies how experts are able to quickly make effective decisions in high-tempo situations. 
 
 ### Concepts
-* Naturalistic decision making (NDM)
-* Cognitive task analysis
+
+* naturalistic decision making (NDM)
+* intuitive expertise
+* cognitive task analysis
 
 ### Selected publications
 
 * [Sources of power: how people make decisions](https://www.amazon.com/gp/product/0262534290/ref=dbs_a_def_rwt_bibl_vppi_i0)
 * [Working minds: a practitioner's guide to cognitive task analysis](https://www.amazon.com/gp/product/0262532816/ref=dbs_a_def_rwt_bibl_vppi_i5)
 * [Patterns in Cooperative Cognition](https://www.researchgate.net/publication/262449980_Patterns_in_Cooperative_Cognition)
+* [Can We Trust Best Practices? Six Cognitive Challenges of Evidence-Based Approaches](https://journals.sagepub.com/doi/abs/10.1177/1555343416637520?journalCode=edma)
+* [Conditions for intuitive expertise: a failure to disagree](http://dx.doi.org/10.1037/a0016755)
 
 ## Nancy Leveson
 
@@ -212,6 +219,7 @@ Nancy Leveson is a computer science researcher with a focus in software safety.
 * [Safeware](https://www.amazon.com/Safeware-Computers-Nancy-G-Leveson/dp/0201119722)
 * [A New Accident Model for Engineering Safer Systems](http://sunnyday.mit.edu/accidents/safetyscience-single.pdf)
 * [Resilience Engineering: Concepts and Precepts](https://www.amazon.com/gp/product/B009KNDF64/ref=x_gr_w_glide_bb?ie=UTF8&tag=x_gr_w_glide_bb-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B009KNDF64&SubscriptionId=1MGPYB6YW3HWK55XCGG2)
+* [HIgh-pressure steam engines and computer software](http://dx.doi.org/10.1145/143062.143076)
 
 ## Jean Pariès
 
@@ -246,6 +254,7 @@ Perry is a medical researcher who studies emergency medicine.
 ### Selected publications
 
 * [Underground adaptations: case studies from health care](https://doi.org/10.1007/s10111-011-0207-2)
+* [Can We Trust Best Practices? Six Cognitive Challenges of Evidence-Based Approaches](https://journals.sagepub.com/doi/abs/10.1177/1555343416637520?journalCode=edma)
 
 
 ## Jens Rasmussen
@@ -397,6 +406,8 @@ consultancy.
 * [Patterns in Cooperative Cognition](https://www.researchgate.net/publication/262449980_Patterns_in_Cooperative_Cognition)
 * [Origins of cognitive systems engineering](https://www.researchgate.net/publication/298793082_Origins_of_Cognitive_Systems_Engineering)
 * [Incidents - markers of resilience or brittleness?](https://www.researchgate.net/publication/292504952_Incidents_-_markers_of_resilience_or_brittleness)
+* [The alarm problem and directed attention in dynamic fault management](https://www.tandfonline.com/doi/abs/10.1080/00140139508925274)
+* [Can We Trust Best Practices? Six Cognitive Challenges of Evidence-Based Approaches](https://journals.sagepub.com/doi/abs/10.1177/1555343416637520?journalCode=edma)
 
 ## John Wreathall
 
