@@ -390,6 +390,9 @@ consultancy.
 * multi-scale
 * unit of adaptive behavior
 * brittleness
+* decompensation
+* cross-purposes
+* proactive learning vs getting stuck
 
 ### Selected publications
 
