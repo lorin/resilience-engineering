@@ -19,6 +19,7 @@ they're ones I've read or have added to my to-read list.
 * [Erik Hollnagel](#erik-hollnagel)
 * [Gary Klein](#gary-klein)
 * [Nancy Leveson](#nancy-leveson)
+* [Elinor Ostrom](#elinor-ostrom)
 * [Jean Pariès](#jean-paries)
 * [Charles Perrow](#charles-perrow)
 * [Shawna J. Perry](#shawna-j-perry)
@@ -219,7 +220,15 @@ Nancy Leveson is a computer science researcher with a focus in software safety.
 * [Safeware](https://www.amazon.com/Safeware-Computers-Nancy-G-Leveson/dp/0201119722)
 * [A New Accident Model for Engineering Safer Systems](http://sunnyday.mit.edu/accidents/safetyscience-single.pdf)
 * [Resilience Engineering: Concepts and Precepts](https://www.amazon.com/gp/product/B009KNDF64/ref=x_gr_w_glide_bb?ie=UTF8&tag=x_gr_w_glide_bb-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B009KNDF64&SubscriptionId=1MGPYB6YW3HWK55XCGG2)
-* [HIgh-pressure steam engines and computer software](http://dx.doi.org/10.1145/143062.143076)
+* [High-pressure steam engines and computer software](http://dx.doi.org/10.1145/143062.143076)
+
+## Elinor Ostrom
+
+[Ostrom](http://elinorostrom.com/) was a Nobel-prize winning economics and
+political science researcher.
+
+## Selected publications
+* [Coping with tragedies of the commons](https://www.annualreviews.org/doi/abs/10.1146/annurev.polisci.2.1.493)
 
 ## Jean Pariès
 
