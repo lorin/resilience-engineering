@@ -22,6 +22,7 @@ they're ones I've read or have added to my to-read list.
 * [Nancy Leveson](#nancy-leveson)
 * [Elinor Ostrom](#elinor-ostrom)
 * [Jean Pariès](#jean-paries)
+* [Emily Patterson](#emily-patterson)
 * [Charles Perrow](#charles-perrow)
 * [Shawna J. Perry](#shawna-j-perry)
 * [Jens Rasmussen](#jens-rasmussen)
@@ -107,6 +108,8 @@ Cook is a medical doctor who studies failures in complex systems.  He is one of 
 * [Incidents - markers of resilience or brittleness?](https://www.researchgate.net/publication/292504952_Incidents_-_markers_of_resilience_or_brittleness)
 * [“Going solid”: a model of system dynamics and consequences for patient safety](https://qualitysafety.bmj.com/content/14/2/130)
 * [Operating at the Sharp End: The Complexity of Human Error](https://www.researchgate.net/publication/313407259_Operating_at_the_Sharp_End_The_Complexity_of_Human_Error)
+* [Patient boarding in the emergency department as a symptom of complexity-induced risks](https://www.researchgate.net/publication/312624891_Patient_boarding_in_the_emergency_department_as_a_symptom_of_complexity-induced_risks)
+
 
 ## Sidney Dekker
 
@@ -245,7 +248,17 @@ political science researcher.
 Pariès is the president of [Dédale](http://www.dedale.net/dedale_en/), a safety and human factors consultancy.
 
 ### Selected publications
-* [Resilience engineering in practice: a guidebook]()
+* [Resilience engineering in practice: a guidebook](https://www.crcpress.com/Resilience-Engineering-in-Practice-A-Guidebook/Paries-Wreathall-Hollnagel/p/book/9781472420749)
+
+# Emily Patterson
+
+[Patterson](https://hrs.osu.edu/faculty-and-staff/faculty-directory/patterson-emily)
+is a researcher who applies human factors engineering to improve patient safety
+in healthcare.
+
+### Selected publications
+
+* [Patient boarding in the emergency department as a symptom of complexity-induced risks](https://www.researchgate.net/publication/312624891_Patient_boarding_in_the_emergency_department_as_a_symptom_of_complexity-induced_risks)
 
 ## Charles Perrow
 
