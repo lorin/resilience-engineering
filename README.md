@@ -92,6 +92,7 @@ Cook is a medical doctor who studies failures in complex systems.  He is one of 
 * complex systems
 * degraded mode
 * sharp end / blunt end
+* Going solid
 
 
 ### Selected publications
@@ -282,6 +283,7 @@ Jens Rasmussen was a very influential researcher in human factors and safety sys
 	- Competency
 	- Awareness
 	- Commitment
+* Going solid
 
 ### Selected publications
 * [Reflecting on Jens Rasmussen’s legacy. A strong program for a hard problem](https://doi.org/10.1016/j.ssci.2014.03.015)
@@ -393,6 +395,9 @@ consultancy.
 * decompensation
 * cross-purposes
 * proactive learning vs getting stuck
+* oversimplification
+* fixation
+* fluency law
 
 ### Selected publications
 
