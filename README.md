@@ -16,6 +16,7 @@ they're ones I've read or have added to my to-read list.
 * [Sidney Dekker](#sidney-dekker)
 * [John C. Doyle](#john-c-doyle)
 * [Anders Ericsson](#anders-ericsson)
+* [Meir Finkel](#meir-finkel)
 * [Erik Hollnagel](#erik-hollnagel)
 * [Gary Klein](#gary-klein)
 * [Nancy Leveson](#nancy-leveson)
@@ -94,6 +95,7 @@ Cook is a medical doctor who studies failures in complex systems.  He is one of 
 * degraded mode
 * sharp end / blunt end
 * Going solid
+* Cycle of error
 
 
 ### Selected publications
@@ -104,6 +106,7 @@ Cook is a medical doctor who studies failures in complex systems.  He is one of 
 * [Behind Human Error](https://www.amazon.com/gp/product/B075QFGTNP/ref=x_gr_w_glide_bb?ie=UTF8&tag=x_gr_w_glide_bb-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B075QFGTNP&SubscriptionId=1MGPYB6YW3HWK55XCGG2)
 * [Incidents - markers of resilience or brittleness?](https://www.researchgate.net/publication/292504952_Incidents_-_markers_of_resilience_or_brittleness)
 * [“Going solid”: a model of system dynamics and consequences for patient safety](https://qualitysafety.bmj.com/content/14/2/130)
+* [Operating at the Sharp End: The Complexity of Human Error](https://www.researchgate.net/publication/313407259_Operating_at_the_Sharp_End_The_Complexity_of_Human_Error)
 
 ## Sidney Dekker
 
@@ -161,6 +164,13 @@ interest in how people improve in expertise, so I'm including him here.
 
 * [Peak: secrets from the new science of expertise](https://www.amazon.com/Peak-Secrets-New-Science-Expertise/dp/1531864880/)
 * [Protocol analysis: verbal reports as data](https://www.amazon.com/Protocol-Analysis-Revd-Verbal-Reports/dp/0262550237)
+
+## Meir Finkel
+
+Finkel is a Colonel in the Israeli Defense Force (IDF) and the Director of the IDF's Ground Forces Concept Development and Doctrine Department
+
+### Selected publications
+* [On Flexibility: Recovery from Technological and Doctrinal Surprise on the Battlefield](https://www.amazon.com/Flexibility-Recovery-Technological-Doctrinal-Battlefield/dp/0804774897/ref=sr_1_3?ie=UTF8&qid=1546046916&sr=8-3&keywords=on+flexibility)
 
 ## Erik Hollnagel
 
@@ -377,6 +387,8 @@ consultancy.
 
 ### Concepts
 
+Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state.edu/ResilienceEngineering.html).
+
 * the adaptive universe
 * adapative capacity
 * continuous adaptation
@@ -407,6 +419,7 @@ consultancy.
 * oversimplification
 * fixation
 * fluency law
+* capacity for maneuver
 
 ### Selected publications
 
@@ -425,6 +438,7 @@ consultancy.
 * [Incidents - markers of resilience or brittleness?](https://www.researchgate.net/publication/292504952_Incidents_-_markers_of_resilience_or_brittleness)
 * [The alarm problem and directed attention in dynamic fault management](https://www.tandfonline.com/doi/abs/10.1080/00140139508925274)
 * [Can We Trust Best Practices? Six Cognitive Challenges of Evidence-Based Approaches](https://journals.sagepub.com/doi/abs/10.1177/1555343416637520?journalCode=edma)
+* [Operating at the Sharp End: The Complexity of Human Error](https://www.researchgate.net/publication/313407259_Operating_at_the_Sharp_End_The_Complexity_of_Human_Error)
 
 ## John Wreathall
 
