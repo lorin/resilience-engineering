@@ -217,9 +217,9 @@ Two main steps:
 
     b. Consider how the designed controls could degrade over time and build in protection, including
 
-        i. Management of change procedures to ensure safety constraints are enforced in planned changes.
-        ii. Performance audits where the assumptions underlying the hazard analysis sis are the preconditions for the operational audits and controls so that unplanned changes that violate the safety constraints can be detected.
-        iii. Accident and incident analysis to trace anomalies to the hazards and to the system design.
+    i. Management of change procedures to ensure safety constraints are enforced in planned changes.
+    ii. Performance audits where the assumptions underlying the hazard analysis sis are the preconditions for the operational audits and controls so that unplanned changes that violate the safety constraints can be detected.
+    iii. Accident and incident analysis to trace anomalies to the hazards and to the system design.
 
 
 ## CAST - accident/incident analysis
