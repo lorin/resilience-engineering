@@ -286,10 +286,13 @@ Nancy Leveson is a computer science researcher with a focus in software safety.
 Leveson developed the accident causality model known as STAMP: the Systems-Theoretic Accident Model and Process.
 
 
+
 ### Concepts
 
 * Software safety
 * STAMP (systems-theoretic accident model and processes)
+* STPA (system-theoretic process analysis) hazard analysis technique
+* CAST (causal analysis based on STAMP) accident analysis technique
 * Systems thinking
 * hazard
 * interactivy complexity
@@ -302,9 +305,10 @@ Leveson developed the accident causality model known as STAMP: the Systems-Theor
 * feedback delays
 
 ## Selected publications
-* [Engineering a safer world](https://mitpress.mit.edu/books/engineering-safer-world)
-* [Safeware](https://www.amazon.com/Safeware-Computers-Nancy-G-Leveson/dp/0201119722)
 * [A New Accident Model for Engineering Safer Systems](http://sunnyday.mit.edu/accidents/safetyscience-single.pdf)
+* [Engineering a safer world](https://mitpress.mit.edu/books/engineering-safer-world)
+* [STPA Handbook](http://psas.scripts.mit.edu/home/get_file.php?name=STPA_handbook.pdf)
+* [Safeware](https://www.amazon.com/Safeware-Computers-Nancy-G-Leveson/dp/0201119722)
 * [Resilience Engineering: Concepts and Precepts](https://www.amazon.com/gp/product/B009KNDF64/ref=x_gr_w_glide_bb?ie=UTF8&tag=x_gr_w_glide_bb-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B009KNDF64&SubscriptionId=1MGPYB6YW3HWK55XCGG2)
 * [High-pressure steam engines and computer software](http://dx.doi.org/10.1145/143062.143076)
 
