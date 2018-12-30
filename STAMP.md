@@ -218,9 +218,9 @@ Two main steps:
 
     b. Consider how the designed controls could degrade over time and build in protection, including
 
-    i. Management of change procedures to ensure safety constraints are enforced in planned changes.
-    ii. Performance audits where the assumptions underlying the hazard analysis sis are the preconditions for the operational audits and controls so that unplanned changes that violate the safety constraints can be detected.
-    iii. Accident and incident analysis to trace anomalies to the hazards and to the system design.
+    1. Management of change procedures to ensure safety constraints are enforced in planned changes.
+    1. Performance audits where the assumptions underlying the hazard analysis sis are the preconditions for the operational audits and controls so that unplanned changes that violate the safety constraints can be detected.
+    1. Accident and incident analysis to trace anomalies to the hazards and to the system design.
 
 
 ## CAST - accident/incident analysis
@@ -237,10 +237,10 @@ CAST - causal analysis based on STAMP
 
    Any human decisions or flawed control actions need to be understood in terms of (at least):
 
-    a. the information available to the decision maker as well as any required information that was not available
-    b. the behavior-shaping mechanisms (the context and influences on the decision-making making process)
-    c. the value structures underlying the decision
-    d. any flaws in the process models of those making the decisions and why those flaws existed.
+    1. the information available to the decision maker as well as any required information that was not available
+    1. the behavior-shaping mechanisms (the context and influences on the decision-making making process)
+    1. the value structures underlying the decision
+    1. any flaws in the process models of those making the decisions and why those flaws existed.
 7. Examine overall coordination and communication contributors to the loss.
 8. Determine the dynamics and changes in the system and the safety control structure relating to the loss and any weakening of the safety control structure over time.
 9. Generate recommendations.
