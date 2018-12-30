@@ -367,6 +367,33 @@ Perry is a medical researcher who studies emergency medicine.
 
 Jens Rasmussen was a very influential researcher in human factors and safety systems.
 
+### Contributions
+
+#### Skill-rule-knowledge (SKR) model
+
+TBD
+
+#### Boundary of acceptable performance
+
+Rasmussen proposed a state-based model of a socio-technical system as a system
+that moves within a region of a state space. The region is surrounded by
+different boundaries:
+
+* economic failure
+* unacceptable work load
+* functionality acceptable performance
+
+![Migration to the boundary](boundary.png)
+
+Incentives push the system towards the boundary of acceptable performance:
+accidents happen when the boundary is exceeded.
+
+Source: [Risk management in a dynamic society: a modelling problem]
+
+#### AcciMaps
+
+TBD
+
 ### Concepts
 
 * Boundaries:
@@ -375,6 +402,7 @@ Jens Rasmussen was a very influential researcher in human factors and safety sys
     - boundary to unnaceptable work load
 * Cognitive systems engineering
 * Skill-rule-knowledge (SKR) model
+* AcciMaps
 * Systems approach
 * Control-theoretic
 * decisions, acts, and errors
@@ -393,10 +421,11 @@ Jens Rasmussen was a very influential researcher in human factors and safety sys
 
 ### Selected publications
 * [Reflecting on Jens Rasmussen’s legacy. A strong program for a hard problem](https://doi.org/10.1016/j.ssci.2014.03.015)
-* [Risk management in a dynamic society: a modelling problem](https://doi.org/10.1016/S0925-7535(97)00052-0)
+* [Risk management in a dynamic society: a modelling problem]
 * [Coping with complexity](http://orbit.dtu.dk/fedora/objects/orbit:91746/datastreams/file_ecf1b6eb-0b8c-4420-b361-644808e34562/content)
 * [“Going solid”: a model of system dynamics and consequences for patient safety](https://qualitysafety.bmj.com/content/14/2/130)
 
+[Risk management in a dynamic society: a modelling problem]: https://doi.org/10.1016/S0925-7535(97)00052-0
 
 ## James Reason
 
@@ -486,6 +515,29 @@ researching NASA accidents.  He is one of the founders [Adaptive Capacity
 Labs](http://www.adaptivecapacitylabs.com/), a resilience engineering
 consultancy.
 
+### Contributions
+
+Woods seems to have contributed an enormous number of concepts. 
+
+#### The adaptive universe
+
+TBD
+
+#### Theory of graceful extensibility
+
+From [The theory of graceful extensibility: basic rules that govern adaptive systems]
+
+1. Boundaries are universal
+2. Surprise occurs, continuously
+3. Risk of saturation is monitored and regulated
+4. Synchronization across multiple units of adaptive behavior in a network is necessary
+5. Risk of saturation can be shared
+6. Pressure changes what is sacrificed when
+7. Pressure for optimality undermines graceful extensibility
+8. All adaptive units are local
+9. Perspective contrast overcomes bounds
+10. Reflective systems continually risk mis-calibration
+
 ### Concepts
 
 Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state.edu/ResilienceEngineering.html).
@@ -540,7 +592,10 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
 * [The alarm problem and directed attention in dynamic fault management](https://www.tandfonline.com/doi/abs/10.1080/00140139508925274)
 * [Can We Trust Best Practices? Six Cognitive Challenges of Evidence-Based Approaches](https://journals.sagepub.com/doi/abs/10.1177/1555343416637520?journalCode=edma)
 * [Operating at the Sharp End: The Complexity of Human Error](https://www.researchgate.net/publication/313407259_Operating_at_the_Sharp_End_The_Complexity_of_Human_Error)
-* [The theory of graceful extensibility: basic rules that govern adaptive systems](https://link.springer.com/article/10.1007%2Fs10669-018-9708-3)
+* [The theory of graceful extensibility: basic rules that govern adaptive systems]
+
+
+[The theory of graceful extensibility: basic rules that govern adaptive systems]: https://link.springer.com/article/10.1007%2Fs10669-018-9708-3
 
 ## John Wreathall
 
