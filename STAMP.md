@@ -201,6 +201,7 @@ Two main steps:
 1. Identify the potential for inadequate control of the system that could lead to a hazardous state.
 
     Hazardous states result from inadequate control or enforcement of the safety constraints, which can occur because:
+
     a. A control action required for safety is not provided or not followed.
     b. An unsafe control action is provided.
     c. A potentially safe control action is provided too early or too late, that is, at the wrong time or in the wrong sequence.
