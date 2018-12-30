@@ -49,6 +49,13 @@ He is one of the founders [Adaptive Capacity Labs](http://www.adaptivecapacityla
 
 Bainbridge is (was?) a psychology researcher. (*I have not been able to find any recent information about her*).
 
+### Contributions
+
+#### Ironies of automation
+
+Bainbridge is famous for her [Ironies of automation] paper, which continues to
+be cited.
+
 ## Concepts
 * automation
 * design errors
@@ -62,7 +69,10 @@ Bainbridge is (was?) a psychology researcher. (*I have not been able to find any
 * interface design 
 
 ## Selected publications
-* [Ironies of automation](https://doi.org/10.1016/0005-1098(83)90046-8)
+* [Ironies of automation]
+
+
+[Ironies of automation]: https://doi.org/10.1016/0005-1098(83)90046-8
 
 ## Johan Bergström
 
@@ -112,6 +122,19 @@ Cook is a medical doctor who studies failures in complex systems.  He is one of 
 
 
 ## Sidney Dekker
+
+### Contributions
+
+#### Drift into failure
+
+Dekker developed the theory of *drift*, characterized by five concepts:
+
+1. Scarcity and competition
+1. Decrementalism, or small steps
+1. Sensitive dependence on initial conditions
+1. Unruly technology
+1. Contribution of the protective structure
+
 
 ### Concepts
 * Drift into failure
@@ -177,14 +200,57 @@ Finkel is a Colonel in the Israeli Defense Force (IDF) and the Director of the I
 
 ## Erik Hollnagel
 
+### Contributions
+
+#### ETTO principle
+
+Hollnagel proposed that there is always a fundamental tradeoff between
+efficiency and thoroughness, which he called the *ETTO principle*.
+
+#### Safety-I vs. Safety-II
+
+Safety-I: avoiding things that go wrong
+* looking at what goes wrong
+* bimodal view of work and activities (acceptable vs unacceptable)
+* find-and-fix approach
+* prevent transition from 'normal' to 'abnormal'
+* causality credo: believe that adverse outcomes happen because something goes
+  wrong (they have causes that can be found and treated)
+* it either works or it doesn't
+* systems are decomposable
+* functioning is bimodal
+
+Saefty-II: performance variability rather than bimodality
+* the system’s ability to succeed under varying conditions, so that the number
+  of intended and acceptable outcomes (in other words, everyday activities) is
+  as high as possible
+* performance is always variable
+* performance variation is ubiquitous
+* things that go right
+* focus on frequent events
+* remain sensitive to possibility of failure
+* be thorough as well as efficient
+
+#### FRAM
+
+Hollnagel proposed the Functional Resonance Analysis Method (FRAM) for modeling
+complex socio-technical systems.
+
 ### Concepts
 * ETTO (efficiency thoroughness tradeoff) principle
-* FRAM (functional resonance analysis metho)
+* FRAM (functional resonance analysis method)
 * Safety-I and Safety-II
+* things that go wrong vs things that go right
+* causality credo
+* performance variability
+* bimodality
+* emergence
+* work-as-imagined vs. work-as-done
 
 ### Selected publications
 
 * [The ETTO Principle: Efficiency-Thoroughness Trade-Off: Why Things That Go Right Sometimes Go Wrong](https://www.amazon.com/ETTO-Principle-Efficiency-Thoroughness-Trade-Off-Sometimes/dp/0754676781/ref=sr_1_1?s=books&ie=UTF8&qid=1545965837&sr=1-1&keywords=etto+principle)
+* [From Safety-I to Safety-II: A White Paper](https://www.skybrary.aero/bookshelf/books/2437.pdf)
 * [Safety-I and Safety-II: The past and future of safety management](https://www.amazon.com/gp/product/1472423089/ref=dbs_a_def_rwt_bibl_vppi_i0)
 * [FRAM: The Functional Resonance Analysis Method: Modelling Complex Socio-technical System](https://www.amazon.com/gp/product/B010WIDYE8/ref=dbs_a_def_rwt_bibl_vppi_i15)
 * [Joint Cognitive Systems: Patterns in Cognitive Systems Engineering](https://www.amazon.com/gp/product/0849339332/ref=x_gr_w_bb?ie=UTF8&tag=x_gr_w_bb-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0849339332&SubscriptionId=1MGPYB6YW3HWK55XCGG2)
@@ -213,7 +279,14 @@ Klein studies how experts are able to quickly make effective decisions in high-t
 
 Nancy Leveson is a computer science researcher with a focus in software safety.
 
-## Concepts
+### Contributions
+
+#### STAMP
+
+Leveson developed the accident causality model known as STAMP: the Systems-Theoretic Accident Model and Process.
+
+
+### Concepts
 
 * Software safety
 * STAMP (systems-theoretic accident model and processes)
@@ -242,6 +315,7 @@ political science researcher.
 
 ## Selected publications
 * [Coping with tragedies of the commons](https://www.annualreviews.org/doi/abs/10.1146/annurev.polisci.2.1.493)
+* [Governing the Commons: The Evolution of Institutions for Collective Action](https://www.amazon.com/Governing-Commons-Evolution-Institutions-Collective/dp/1107569788)
 
 ## Jean Pariès
 
@@ -327,6 +401,20 @@ Jens Rasmussen was a very influential researcher in human factors and safety sys
 ## James Reason
 
 Reason is a psychology researcher who did work on understanding and categorizing human error.
+
+### Contributions
+
+#### Swiss cheese model
+
+Reason developed the *swiss cheese* model of accidents.
+
+#### Human Error model: Slips, laspses and mistakes
+
+Reason developed a model of the types of errors that humans make:
+
+* slips
+* lapses
+* msitakes
 
 ### Concepts
 
