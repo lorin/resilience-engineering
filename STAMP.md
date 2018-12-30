@@ -208,6 +208,7 @@ Two main steps:
 
 
 2. Determine how each potentially hazardous control action identified in step 1 could occur.
+
     a. For each unsafe control action, examine the parts of the control loop to see if they could cause it.
 
        Design controls and mitigation measures if they do not already exist or evaluate existing measures if the analysis is being performed on an existing design.
@@ -216,6 +217,7 @@ Two main steps:
 
 
     b. Consider how the designed controls could degrade over time and build in protection, including
+
         i. Management of change procedures to ensure safety constraints are enforced in planned changes.
         ii. Performance audits where the assumptions underlying the hazard analysis sis are the preconditions for the operational audits and controls so that unplanned changes that violate the safety constraints can be detected.
         iii. Accident and incident analysis to trace anomalies to the hazards and to the system design.
