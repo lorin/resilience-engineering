@@ -317,9 +317,14 @@ See [STAMP](stampm.d) for some more detailed notes of mine.
 [Ostrom](http://elinorostrom.com/) was a Nobel-prize winning economics and
 political science researcher.
 
-## Selected publications
+### Selected publications
 * [Coping with tragedies of the commons](https://www.annualreviews.org/doi/abs/10.1146/annurev.polisci.2.1.493)
 * [Governing the Commons: The Evolution of Institutions for Collective Action](https://www.amazon.com/Governing-Commons-Evolution-Institutions-Collective/dp/1107569788)
+
+### Concepts
+
+* tragedy of the commons
+* polycentric governance
 
 ## Jean Pariès
 
