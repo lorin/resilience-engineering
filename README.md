@@ -285,7 +285,7 @@ Nancy Leveson is a computer science researcher with a focus in software safety.
 
 Leveson developed the accident causality model known as STAMP: the Systems-Theoretic Accident Model and Process.
 
-See [STAMP](stampm.d) for some more detailed notes of mine.
+See [STAMP](STAMP.md) for some more detailed notes of mine.
 
 ### Concepts
 
