@@ -553,6 +553,7 @@ From [The theory of graceful extensibility: basic rules that govern adaptive sys
 Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state.edu/ResilienceEngineering.html).
 
 * the adaptive universe
+* unit of adaptive behavior (UAB), adaptive unit
 * adapative capacity
 * continuous adaptation
 * graceful extensibility
@@ -574,7 +575,6 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
 * dynamic fault management
 * software systems as "team players"
 * multi-scale
-* unit of adaptive behavior, adaptive unit
 * brittleness
 * decompensation
 * working at cross-purposes
