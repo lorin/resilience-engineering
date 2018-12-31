@@ -571,7 +571,7 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
 * unit of adaptive behavior, adaptive unit
 * brittleness
 * decompensation
-* cross-purposes
+* working at cross-purposes
 * proactive learning vs getting stuck
 * oversimplification
 * fixation
