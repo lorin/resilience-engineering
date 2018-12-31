@@ -582,7 +582,7 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
 * proactive learning vs getting stuck
 * oversimplification
 * fixation
-* fluency law
+* fluency law, veil of fluency
 * capacity for maneuver (CfM)
 * crunches
 * sharp end, blunt end
