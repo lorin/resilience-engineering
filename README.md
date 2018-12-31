@@ -559,6 +559,7 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
 * graceful extensibility
 * sustained adaptability
 * Tangled, layered networks (TLN)
+* competence envelope
 * adaptive cycles/histories
 * precarious present
 * resilient future
