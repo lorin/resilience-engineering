@@ -325,6 +325,7 @@ political science researcher.
 
 * tragedy of the commons
 * polycentric governance
+* social-ecological system framework
 
 ## Jean Pariès
 
@@ -582,6 +583,8 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
 * fixation
 * fluency law
 * capacity for maneuver (CfM)
+* crunches
+* sharp end, blunt end
 
 ### Selected publications
 
