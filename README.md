@@ -407,6 +407,8 @@ TBD
 
 #### Risk management framework
 
+Rasmussen proposed a multi-layer view of socio-technical systems:
+
 ![Risk management framework](risk-management-framework.png)
 
 Source: [Risk management in a dynamic society: a modelling problem]
