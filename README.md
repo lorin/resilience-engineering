@@ -424,6 +424,8 @@ Source: [Risk management in a dynamic society: a modelling problem]
 * Cognitive systems engineering
 * Skill-rule-knowledge (SKR) model
 * AcciMaps
+* Means-ends hierarchy
+* Ecological interface design
 * Systems approach
 * Control-theoretic
 * decisions, acts, and errors
