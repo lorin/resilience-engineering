@@ -383,7 +383,7 @@ Jens Rasmussen was a very influential researcher in human factors and safety sys
 
 TBD
 
-#### Boundary of acceptable performance
+#### Dynamic safety model
 
 Rasmussen proposed a state-based model of a socio-technical system as a system
 that moves within a region of a state space. The region is surrounded by
@@ -395,17 +395,26 @@ different boundaries:
 
 ![Migration to the boundary](boundary.png)
 
+Source: [Risk management in a dynamic society: a modelling problem]
+
 Incentives push the system towards the boundary of acceptable performance:
 accidents happen when the boundary is exceeded.
 
-Source: [Risk management in a dynamic society: a modelling problem]
 
 #### AcciMaps
 
 TBD
 
-### Concepts
+#### Risk management framework
 
+![Risk management framework](risk-management-framework.png)
+
+Source: [Risk management in a dynamic society: a modelling problem]
+
+### Concepts
+* Dynamic safety model
+* Migration toward accidents
+* Risk maangement framework
 * Boundaries:
     - boundary of functionally acceptable performance
     - boundary to economic failure
