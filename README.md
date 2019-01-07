@@ -576,7 +576,10 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
 * adaptive cycles/histories
 * precarious present
 * resilient future
-* florescence
+* tradeoffs, five fundamental
+* adaptive florescence
+* reverberation
+* adaptive stalls
 * borderlands
 * anticipate
 * synchronize
@@ -621,6 +624,7 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
 * [Can We Trust Best Practices? Six Cognitive Challenges of Evidence-Based Approaches](https://journals.sagepub.com/doi/abs/10.1177/1555343416637520?journalCode=edma)
 * [Operating at the Sharp End: The Complexity of Human Error](https://www.researchgate.net/publication/313407259_Operating_at_the_Sharp_End_The_Complexity_of_Human_Error)
 * [The theory of graceful extensibility: basic rules that govern adaptive systems]
+* [Simon's Slice: Five Fundamental Tradeoffs that Bound the Performance of Human Work Systems](https://www.researchgate.net/publication/260404967_Simon's_Slice_Five_Fundamental_Tradeoffs_that_Bound_the_Performance_of_Human_Work_Systems)
 
 
 [The theory of graceful extensibility: basic rules that govern adaptive systems]: https://link.springer.com/article/10.1007%2Fs10669-018-9708-3
