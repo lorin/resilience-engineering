@@ -603,8 +603,12 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
 * crunches
 * sharp end, blunt end
 * adaptive landscapes
-* unit working hard to stay in control
 * stretched systems, law of
+* cascades
+* adapt how to adapt
+* unit working hard to stay in control
+* you can monitor how hard you're working to stay in control
+* reality trumps algorithms
 
 ### Selected publications
 
