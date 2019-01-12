@@ -80,10 +80,20 @@ be cited.
 consultant. He runs the [Master Program of Human Factors and Systems
 Safety](http://www.humanfactors.lth.se/msc-programme/) at Lund University.
 
+### Concepts
+
+* Analytical traps in accident investigation
+   - Counterfactual reasoning
+   - Normative language
+   - Mechanistic reasoning
+
 ### Selected publications
 
 * [Resilience engineering: Current status of the research and future challenges](https://www.sciencedirect.com/science/article/pii/S0925753516306130)
 * [Rule- and role retreat: An empirical study of procedures and resilience](https://www.researchgate.net/publication/50917226_Rule-_and_role_retreat_An_empirical_study_of_procedures_and_resilience)
+
+### Videos 
+* [Three analytical traps in accident investigation](https://www.youtube.com/watch?v=TqaFT-0cY7U)
 
 
 ## Todd Conklin
@@ -609,6 +619,12 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
 * unit working hard to stay in control
 * you can monitor how hard you're working to stay in control
 * reality trumps algorithms
+* Properties of resilient organizations
+    - Tangible experience with surprise
+    - uneasy about the precarious present
+    - push intiative down
+    - reciprocity
+    - align goals across multiple units
 
 ### Selected publications
 
