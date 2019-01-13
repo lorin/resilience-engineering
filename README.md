@@ -169,7 +169,9 @@ Dekker developed the theory of *drift*, characterized by five concepts:
 ## John C. Doyle
 
 [Doyle](http://www.cds.caltech.edu/~doyle/wiki/index.php?title=Main_Page) is a
-control systems researcher.
+control systems researcher. He is seeking to identify the universal laws that capture the
+behavior of resilient systems, and is concerned with the architecture of such
+systems.
 
 ### Concepts
 * Robust yet fragile
@@ -629,6 +631,7 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
 * unit working hard to stay in control
 * you can monitor how hard you're working to stay in control (monitor risk of saturation)
 * reality trumps algorithms
+* stand down
 * Properties of resilient organizations
     - Tangible experience with surprise
     - uneasy about the precarious present
