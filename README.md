@@ -625,7 +625,7 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
 * cascades
 * adapt how to adapt
 * unit working hard to stay in control
-* you can monitor how hard you're working to stay in control
+* you can monitor how hard you're working to stay in control (monitor risk of saturation)
 * reality trumps algorithms
 * Properties of resilient organizations
     - Tangible experience with surprise
