@@ -173,9 +173,10 @@ control systems researcher.
 
 ### Concepts
 * Robust yet fragile
-* Universal laws and arecthitectures
+* Universal laws and arcthitectures
 * conservation laws
-* universal arechitectures
+* universal architectures
+* layered architectures
 * Highly optimized tolerance
 
 
