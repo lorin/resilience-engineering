@@ -177,8 +177,10 @@ control systems researcher.
 
 ### Selected publications
 
+* [Universal Laws and Archiectures](http://www.cis.upenn.edu/~ngns/docs/Review_2010/Doyle%20MURI%202010.pdf) (slides)
 * [The “robust yet fragile” nature of the Internet](https://doi.org/10.1073/pnas.0501426102)
 * [Highly Optimized Tolerance: Robustness and Design in Complex Systems](http://dx.doi.org/10.1103/physrevlett.84.2529)
+
 
 
 ## Anders Ericsson
