@@ -178,6 +178,7 @@ control systems researcher.
 * universal architectures
 * layered architectures
 * Highly optimized tolerance
+* constraints that deconstrain
 
 
 ### Selected publications
