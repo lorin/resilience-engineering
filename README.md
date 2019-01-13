@@ -188,7 +188,7 @@ control systems researcher.
 * [The “robust yet fragile” nature of the Internet](https://doi.org/10.1073/pnas.0501426102)
 * [Highly Optimized Tolerance: Robustness and Design in Complex Systems](http://dx.doi.org/10.1103/physrevlett.84.2529)
 * [Robust efficiency and actuator saturation explain healthy heart rate control and variability](https://doi.org/10.1073/pnas.1401883111)
-
+* [Architecture, constraints, and behavior](https://www.pnas.org/content/108/Supplement_3/15624)
 
 
 ## Anders Ericsson
