@@ -596,7 +596,7 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
 * Tangled, layered networks (TLN)
 * competence envelope
 * adaptive cycles/histories
-* precarious present
+* precarious present (unease)
 * resilient future
 * tradeoffs, five fundamental
 * adaptive florescence
@@ -632,6 +632,7 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
 * you can monitor how hard you're working to stay in control (monitor risk of saturation)
 * reality trumps algorithms
 * stand down
+* time matters
 * Properties of resilient organizations
     - Tangible experience with surprise
     - uneasy about the precarious present
