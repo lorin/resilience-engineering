@@ -633,6 +633,7 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
 * reality trumps algorithms
 * stand down
 * time matters
+* goal interactions (follow them!)
 * Properties of resilient organizations
     - Tangible experience with surprise
     - uneasy about the precarious present
