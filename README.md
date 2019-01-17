@@ -583,6 +583,14 @@ From [The theory of graceful extensibility: basic rules that govern adaptive sys
 9. Perspective contrast overcomes bounds
 10. Reflective systems continually risk mis-calibration
 
+#### Charting adaptive cycles
+
+* Trigger
+* Units of adaptive behavior
+* Goals and goal conflicts
+* Pressure points
+* Subcycles
+
 ### Concepts
 
 Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state.edu/ResilienceEngineering.html).
