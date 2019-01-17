@@ -633,7 +633,7 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
 * reality trumps algorithms
 * stand down
 * time matters
-* goal interactions (follow them!)
+* goal conflicts, goal interactions (follow them!)
 * to understand system, must study it under load
 * Properties of resilient organizations
     - Tangible experience with surprise
