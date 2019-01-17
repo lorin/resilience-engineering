@@ -635,7 +635,7 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
 * time matters
 * goal conflicts, goal interactions (follow them!)
 * to understand system, must study it under load
-* adaptive race
+* adaptive races are unstable
 * Properties of resilient organizations
     - Tangible experience with surprise
     - uneasy about the precarious present
