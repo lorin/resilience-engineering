@@ -566,7 +566,21 @@ Woods seems to have contributed an enormous number of concepts.
 
 #### The adaptive universe
 
-TBD
+Woods uses *the adaptive universe* as a lens for understanding the behavior of
+all different kinds of systems.
+
+All systems exist in a dynamic environment, and must adapt to change.
+
+A successful system will need to adapt by virtue of its success.
+
+Systems can be viewed as units of adaptive behavior (UAB) that interact. UABs
+exist at different scales (e.g., cell, organ, individual, group, organization).
+
+All systems have competence envelopes, which are constrained by boundaries. 
+
+The resilience of a system is determined by how it behaves when it comes near
+to a boundary.
+
 
 #### Theory of graceful extensibility
 
