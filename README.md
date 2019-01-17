@@ -633,15 +633,17 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
 * reality trumps algorithms
 * stand down
 * time matters
-* goal conflicts, goal interactions (follow them!)
-* to understand system, must study it under load
-* adaptive races are unstable
 * Properties of resilient organizations
     - Tangible experience with surprise
     - uneasy about the precarious present
     - push intiative down
     - reciprocity
     - align goals across multiple units
+* goal conflicts, goal interactions (follow them!)
+* to understand system, must study it under load
+* adaptive races are unstable
+* adaptive traps
+* roles, nesting of
 
 ### Selected publications
 
