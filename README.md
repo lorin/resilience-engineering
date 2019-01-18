@@ -723,5 +723,5 @@ Wreathall is an expert in human performance in safety. He works at the
 consultancy.
 
 ### Selected publications
-* [Resilience engineering in practice: a guidebook]()
+* [Resilience engineering in practice: a guidebook](https://www.crcpress.com/Resilience-Engineering-in-Practice-A-Guidebook/Paries-Wreathall-Hollnagel/p/book/9781472420749)
 
