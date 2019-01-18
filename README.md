@@ -581,6 +581,8 @@ All systems have competence envelopes, which are constrained by boundaries.
 The resilience of a system is determined by how it behaves when it comes near
 to a boundary.
 
+See [Resilience Engineering Short Course](http://csel.org.ohio-state.edu/ResilienceEngineering.html)
+
 
 #### Theory of graceful extensibility
 
@@ -649,7 +651,8 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
 * crunches
 * sharp end, blunt end
 * adaptive landscapes
-* stretched systems, law of
+* law of stretched systems: with change every system is continuously stretched
+  to operate at its new capacity
 * cascades
 * adapt how to adapt
 * unit working hard to stay in control
