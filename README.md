@@ -667,6 +667,7 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
 * adaptive traps
 * roles, nesting of
 * hidden interdependencies
+* net adaptive value
 
 ### Selected publications
 
