@@ -562,7 +562,7 @@ consultancy.
 
 ### Contributions
 
-Woods seems to have contributed an enormous number of concepts. 
+Woods has contributed an enormous number of concepts. 
 
 #### The adaptive universe
 
@@ -581,14 +581,32 @@ All systems have competence envelopes, which are constrained by boundaries.
 The resilience of a system is determined by how it behaves when it comes near
 to a boundary.
 
-See [Resilience Engineering Short Course](http://csel.org.ohio-state.edu/ResilienceEngineering.html)
+See [Resilience Engineering Short Course](http://csel.org.ohio-state.edu/ResilienceEngineering.html) for more details.
 
 
-#### Theory of graceful extensibility
+Rules of the adaptive universe, from [The theory of graceful extensibility: basic rules that govern adaptive systems]:
 
-From [The theory of graceful extensibility: basic rules that govern adaptive systems]
+(Longer wording)
 
-1. Boundaries are universal
+1. Adaptive capacity is finite
+2. Events will produce demands that challenge boundaries on the adaptive
+   capacity of any UAB
+3. Adaptive capacities are regulated to manage the risk of saturating CfM
+4. No UAB can have sufficient ability to regulate CfM to manage the risk of saturation alone
+5. Some UABs monitor and regulate the CfM of other UABs in response to changes
+   in the risk of saturation
+6. Adaptive capacity is the potential for adjusting patterns of action to
+   handle future situations, events, opportunities and disruptions
+7. Performance of a UAB as it approaches saturation is different from the
+   perforamnce of that UAB when it operates far from saturation
+8. All UABs are local
+9. There are bounds on the perspective any UAB, but these limits are overcome
+   by shifts and contrasts over multiple perspectives.
+10. Reflective systems risk mis-calbiration
+
+(Shorter wording)
+
+1. Boundaries are universal 
 2. Surprise occurs, continuously
 3. Risk of saturation is monitored and regulated
 4. Synchronization across multiple units of adaptive behavior in a network is necessary
@@ -597,7 +615,7 @@ From [The theory of graceful extensibility: basic rules that govern adaptive sys
 7. Pressure for optimality undermines graceful extensibility
 8. All adaptive units are local
 9. Perspective contrast overcomes bounds
-10. Reflective systems continually risk mis-calibration
+10. Mis-calibration is the norm
 
 #### Charting adaptive cycles
 
