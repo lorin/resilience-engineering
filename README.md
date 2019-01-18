@@ -666,6 +666,7 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
 * adaptive races are unstable
 * adaptive traps
 * roles, nesting of
+* hidden interdependencies
 
 ### Selected publications
 
