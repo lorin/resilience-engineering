@@ -621,7 +621,9 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
 * precarious present (unease)
 * resilient future
 * tradeoffs, five fundamental
-* adaptive florescence
+* florescence: the degree that changes in one area tend to recruit or open up
+  beneficial changes in many other aspects of the network - which opens new
+  opportunities across the network ...
 * reverberation
 * adaptive stalls
 * borderlands
