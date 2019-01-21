@@ -691,6 +691,9 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
 * roles, nesting of
 * hidden interdependencies
 * net adaptive value
+* matching tempos
+* tilt toward florescence
+* linear simplification
 
 ### Selected publications
 
