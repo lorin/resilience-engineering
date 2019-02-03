@@ -356,7 +356,7 @@ Pariès is the president of [Dédale](http://www.dedale.net/dedale_en/), a safet
 ### Selected publications
 * [Resilience engineering in practice: a guidebook](https://www.crcpress.com/Resilience-Engineering-in-Practice-A-Guidebook/Paries-Wreathall-Hollnagel/p/book/9781472420749)
 
-# Emily Patterson
+## Emily Patterson
 
 [Patterson](https://hrs.osu.edu/faculty-and-staff/faculty-directory/patterson-emily)
 is a researcher who applies human factors engineering to improve patient safety
