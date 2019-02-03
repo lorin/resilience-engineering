@@ -4,6 +4,8 @@ This file contains notes about people active in resilience engineering, organize
 alphabetically. I'm using these notes to help me get my head around the
 different players and associated concepts.
 
+You might also be interested in my [notes on David Woods's Resilience Engineering short course](https://github.com/lorin/res-eng-short-course-notes)
+
 For each person, I list concepts that they reference in their writings, along
 with some of their publications. The publications listed aren't comprehensive:
 they're ones I've read or have added to my to-read list. 
@@ -32,6 +34,17 @@ they're ones I've read or have added to my to-read list.
 * [Robert L. Wears](#robert-l-wears)
 * [David Woods](#david-woods)
 * [John Wreathall](#john-wreathall)
+
+Some big ideas:
+
+* The adaptive universe (David Woods)
+* Safety-II (Erik Hollnagel)
+* ETTO: Efficiency-tradeoff principle (Erik Hollnagel)
+* Drift into failure (Sidney Dekker)
+* Dynamic safety model (Jens Rasmussen)
+* Robust yet fragile (John C. Doyle)
+* STAMP: Systems-Theoretic Accident Model & Process (Nancy Leveson)
+* Polycentric governance (Elinor Ostrom)
 
 ## John Allspaw
 
