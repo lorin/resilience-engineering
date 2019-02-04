@@ -208,7 +208,7 @@ systems.
 
 ## Anders Ericsson
 
-Ericsson introduced the idea of *deliberative practice* as a mechanism for
+Ericsson introduced the idea of *deliberate practice* as a mechanism for
 achieving high level of expertise.
 
 Ericsson isn't directly associated with the field of resilience engineering.
@@ -218,7 +218,7 @@ interest in how people improve in expertise, so I'm including him here.
 ### Concepts
 
 * Expertise
-* Deliberative practice
+* Deliberate practice
 * Protocol analysis
 
 ### Selected publications
