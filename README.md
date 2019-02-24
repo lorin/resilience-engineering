@@ -479,7 +479,7 @@ Source: [Risk management in a dynamic society: a modelling problem]
 * Going solid
 
 ### Selected publications
-* [Reflecting on Jens Rasmussen’s legacy. A strong program for a hard problem](https://doi.org/10.1016/j.ssci.2014.03.015)
+* [Reflecting on Jens Rasmussen’s legacy. A strong program for a hard problem](https://doi.org/10.1016/j.ssci.2014.03.015) ([my notes](https://github.com/lorin/booknotes/blob/master/papers/Reflecting-on-Jens-Rasmussens-Legacy.md))
 * [Risk management in a dynamic society: a modelling problem]
 * [Coping with complexity](http://orbit.dtu.dk/fedora/objects/orbit:91746/datastreams/file_ecf1b6eb-0b8c-4420-b361-644808e34562/content)
 * [“Going solid”: a model of system dynamics and consequences for patient safety](https://qualitysafety.bmj.com/content/14/2/130)
