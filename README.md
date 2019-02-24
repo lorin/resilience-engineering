@@ -37,13 +37,13 @@ they're ones I've read or have added to my to-read list.
 
 Some big ideas:
 
-* The adaptive universe (David Woods)
-* Safety-II (Erik Hollnagel)
-* ETTO: Efficiency-tradeoff principle (Erik Hollnagel)
-* Drift into failure (Sidney Dekker)
-* Dynamic safety model (Jens Rasmussen)
+* [The adaptive universe](#the-adaptive-universe) (David Woods)
+* [Safety-II](#safety-i-vs-safety-ii) (Erik Hollnagel)
+* [ETTO: Efficiency-tradeoff principle](#etto-principle) (Erik Hollnagel)
+* [Drift into failure](#drift-into-failure) (Sidney Dekker)
+* [Dynamic safety model](#dynamic-safety-model) (Jens Rasmussen)
 * Robust yet fragile (John C. Doyle)
-* STAMP: Systems-Theoretic Accident Model & Process (Nancy Leveson)
+* [STAMP: Systems-Theoretic Accident Model & Process](#stamp) (Nancy Leveson)
 * Polycentric governance (Elinor Ostrom)
 
 ## John Allspaw
@@ -66,8 +66,8 @@ Bainbridge is (was?) a psychology researcher. (*I have not been able to find any
 
 #### Ironies of automation
 
-Bainbridge is famous for her [Ironies of automation] paper, which continues to
-be cited.
+Bainbridge is famous for her 1983 [Ironies of automation] paper, which continues to
+be frequently cited.
 
 ## Concepts
 * automation
@@ -178,6 +178,7 @@ Dekker developed the theory of *drift*, characterized by five concepts:
 * [The field guide to 'human error' investigations](https://www.amazon.com/Field-Guide-Understanding-Human-Error/dp/1472439058s://www.amazon.com/Field-Guide-Understanding-Human-Error/dp/1472439058)
 * [Behind Human Error](https://www.amazon.com/gp/product/B075QFGTNP/ref=x_gr_w_glide_bb?ie=UTF8&tag=x_gr_w_glide_bb-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B075QFGTNP&SubscriptionId=1MGPYB6YW3HWK55XCGG2)
 * [Rule- and role retreat: An empirical study of procedures and resilience](https://www.researchgate.net/publication/50917226_Rule-_and_role_retreat_An_empirical_study_of_procedures_and_resilience?enrichId=rgreq-23625e555a0d8e5250c74f24b5fd01ca-XXX&enrichSource=Y292ZXJQYWdlOzUwOTE3MjI2O0FTOjk3MzU5NjY5MjM1NzQ1QDE0MDAyMjM3NjI5NDY%3D&el=1_x_2&_esc=publicationCoverPdf)
+* [Anticipating the effects of technological change: A new era of dynamics for human factors](https://www.researchgate.net/publication/247512351_Anticipating_the_effects_of_technological_change_A_new_era_of_dynamics_for_human_factors)
 
 ## John C. Doyle
 
@@ -682,8 +683,7 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
 * crunches
 * sharp end, blunt end
 * adaptive landscapes
-* law of stretched systems: with change every system is continuously stretched
-  to operate at its new capacity
+* law of stretched systems: Every system is continuously stretched to operate at capacity.
 * cascades
 * adapt how to adapt
 * unit working hard to stay in control
@@ -728,6 +728,7 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
 * [Operating at the Sharp End: The Complexity of Human Error](https://www.researchgate.net/publication/313407259_Operating_at_the_Sharp_End_The_Complexity_of_Human_Error)
 * [The theory of graceful extensibility: basic rules that govern adaptive systems]
 * [Simon's Slice: Five Fundamental Tradeoffs that Bound the Performance of Human Work Systems](https://www.researchgate.net/publication/260404967_Simon's_Slice_Five_Fundamental_Tradeoffs_that_Bound_the_Performance_of_Human_Work_Systems)
+* [Anticipating the effects of technological change: A new era of dynamics for human factors](https://www.researchgate.net/publication/247512351_Anticipating_the_effects_of_technological_change_A_new_era_of_dynamics_for_human_factors)
 
 
 [The theory of graceful extensibility: basic rules that govern adaptive systems]: https://link.springer.com/article/10.1007%2Fs10669-018-9708-3
