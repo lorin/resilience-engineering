@@ -552,6 +552,7 @@ Wears was a medical researcher who studied emergency medicine.
 * [The error of counting "errors"](https://linkinghub.elsevier.com/retrieve/pii/S0196064408006070)
 * [Underground adaptations: case studies from health care](https://doi.org/10.1007/s10111-011-0207-2)
 * [Fundamental On Situational Surprise: A Case Study With Implications For Resilience](https://books.openedition.org/pressesmines/1122)
+* [Replacing Hindsight With Insight: Toward Better Understanding of Diagnostic Failures](https://www.semanticscholar.org/paper/Replacing-hindsight-with-insight%3A-toward-better-of-Wears-Nemeth/1bef45cae7375eddc8ee584dff100d200d812a8d)
 
 
 ## Diane Vaughan
