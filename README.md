@@ -303,14 +303,18 @@ Klein studies how experts are able to quickly make effective decisions in high-t
 * naturalistic decision making (NDM)
 * intuitive expertise
 * cognitive task analysis
+* command ground
 
 ### Selected publications
 
 * [Sources of power: how people make decisions](https://www.amazon.com/gp/product/0262534290/ref=dbs_a_def_rwt_bibl_vppi_i0)
 * [Working minds: a practitioner's guide to cognitive task analysis](https://www.amazon.com/gp/product/0262532816/ref=dbs_a_def_rwt_bibl_vppi_i5)
 * [Patterns in Cooperative Cognition](https://www.researchgate.net/publication/262449980_Patterns_in_Cooperative_Cognition)
+* [Common Ground and Coordination in Joint Activity]
 * [Can We Trust Best Practices? Six Cognitive Challenges of Evidence-Based Approaches](https://journals.sagepub.com/doi/abs/10.1177/1555343416637520?journalCode=edma)
 * [Conditions for intuitive expertise: a failure to disagree](http://dx.doi.org/10.1037/a0016755)
+
+[Common Ground and Coordination in Joint Activity]: http://jeffreymbradshaw.net/publications/Common_Ground_Single.pdf
 
 ## Nancy Leveson
 
@@ -484,6 +488,7 @@ Source: [Risk management in a dynamic society: a modelling problem]
 * [Risk management in a dynamic society: a modelling problem]
 * [Coping with complexity](http://orbit.dtu.dk/fedora/objects/orbit:91746/datastreams/file_ecf1b6eb-0b8c-4420-b361-644808e34562/content)
 * [“Going solid”: a model of system dynamics and consequences for patient safety](https://qualitysafety.bmj.com/content/14/2/130)
+* [Human error and the problem of causality in analysis of accidents](https://www.ida.liu.se/~729A71/Literature/Human%20Error_T/Rasmussen_1990.pdf)
 
 [Risk management in a dynamic society: a modelling problem]: https://doi.org/10.1016/S0925-7535(97)00052-0
 
@@ -709,6 +714,7 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
 * matching tempos
 * tilt toward florescence
 * linear simplification
+* common ground
 
 ### Selected publications
 
@@ -731,6 +737,7 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
 * [The theory of graceful extensibility: basic rules that govern adaptive systems]
 * [Simon's Slice: Five Fundamental Tradeoffs that Bound the Performance of Human Work Systems](https://www.researchgate.net/publication/260404967_Simon's_Slice_Five_Fundamental_Tradeoffs_that_Bound_the_Performance_of_Human_Work_Systems)
 * [Anticipating the effects of technological change: A new era of dynamics for human factors](https://www.researchgate.net/publication/247512351_Anticipating_the_effects_of_technological_change_A_new_era_of_dynamics_for_human_factors)
+* [Common Ground and Coordination in Joint Activity]
 
 
 [The theory of graceful extensibility: basic rules that govern adaptive systems]: https://link.springer.com/article/10.1007%2Fs10669-018-9708-3
