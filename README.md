@@ -30,6 +30,7 @@ they're ones I've read or have added to my to-read list.
 * [Jens Rasmussen](#jens-rasmussen)
 * [James Reason](#james-reason)
 * [Nadine Sarter](#nadine-sarter)
+* [James C. Scott](#james-c-scott)
 * [Diane Vaughan](#diane-vaughan)
 * [Robert L. Wears](#robert-l-wears)
 * [David Woods](#david-woods)
@@ -560,6 +561,25 @@ Wears was a medical researcher who studied emergency medicine.
 * [Fundamental On Situational Surprise: A Case Study With Implications For Resilience](https://books.openedition.org/pressesmines/1122)
 * [Replacing Hindsight With Insight: Toward Better Understanding of Diagnostic Failures](https://www.semanticscholar.org/paper/Replacing-hindsight-with-insight%3A-toward-better-of-Wears-Nemeth/1bef45cae7375eddc8ee584dff100d200d812a8d)
 * [Seeing patient safety ‘Like a State’](http://dx.doi.org/10.1016%2Fj.ssci.2014.02.007)
+
+## James C. Scott
+
+Scott is an anthropologist who also does research in political science. While
+Scott is not a member of a resilience engineering community, his book *Seeing
+like a state* has long been a staple of the cognitive systems engineering and
+resilience engineering communities.
+
+### Concepts
+
+* authoritarian high-modernism
+* legibility
+* mētis
+
+### Selected publications
+
+* [Seeing like a state: how certain schemes to improve the human condition have failed](https://www.amazon.com/Seeing-like-State-Certain-Condition/dp/0300078153/ref=sr_1_1)
+
+
 
 ## Diane Vaughan
 
