@@ -4,7 +4,7 @@ This file contains notes about people active in resilience engineering, organize
 alphabetically. I'm using these notes to help me get my head around the
 different players and associated concepts.
 
-You might also be interested in my [notes on David Woods's Resilience Engineering short course](https://github.com/lorin/res-eng-short-course-notes)
+You might also be interested in my [notes on David Woods's Resilience Engineering short course](https://github.com/lorin/res-eng-short-course-notes).
 
 For each person, I list concepts that they reference in their writings, along
 with some of their publications. The publications listed aren't comprehensive:
