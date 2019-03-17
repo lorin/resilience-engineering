@@ -501,9 +501,10 @@ Reason is a psychology researcher who did work on understanding and categorizing
 
 ### Contributions
 
-#### Swiss cheese model
+#### Accident causation model (Swiss cheese model)
 
-Reason developed the *swiss cheese* model of accidents.
+Reason developed an accident casuation model that is sometimes known as the *swiss cheese* model of accidents.
+In this model, Reason introduced the terms "sharp end" and "blunt end".
 
 #### Human Error model: Slips, laspses and mistakes
 
@@ -511,17 +512,20 @@ Reason developed a model of the types of errors that humans make:
 
 * slips
 * lapses
-* msitakes
+* mistakes
 
 ### Concepts
 
+* Sharp end / blunt end
 * Human error
 * Slips, lapses and mistakes
 * Swiss cheese model
 
 ### Selected publications
 
-* [Human error](https://www.amazon.com/gp/product/0521314194/ref=dbs_a_def_rwt_bibl_vppi_i0)
+* [Human error]
+
+[Human error]: https://www.amazon.com/gp/product/0521314194/ref=dbs_a_def_rwt_bibl_vppi_i0
 
 ## Nadine Sarter
 
