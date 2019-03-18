@@ -1,4 +1,3 @@
-# Resilience Engineering notes
 
 This file contains notes about people active in resilience engineering, organized
 alphabetically. I'm using these notes to help me get my head around the
@@ -192,12 +191,14 @@ systems.
 
 ### Concepts
 * Robust yet fragile
+* layered architectures
+* constraints that deconstrain
+* protocol-based architectures
+* emergent constraints
 * Universal laws and arcthitectures
 * conservation laws
 * universal architectures
-* layered architectures
 * Highly optimized tolerance
-* constraints that deconstrain
 
 
 ### Selected publications
