@@ -38,10 +38,11 @@ they're ones I've read or have added to my to-read list.
 Some big ideas:
 
 * [The adaptive universe](#the-adaptive-universe) (David Woods)
+* [Dynamic safety model](#dynamic-safety-model) (Jens Rasmussen)
 * [Safety-II](#safety-i-vs-safety-ii) (Erik Hollnagel)
+* [Graceful extensibility](#graceful-extensibility) (David Woods)
 * [ETTO: Efficiency-tradeoff principle](#etto-principle) (Erik Hollnagel)
 * [Drift into failure](#drift-into-failure) (Sidney Dekker)
-* [Dynamic safety model](#dynamic-safety-model) (Jens Rasmussen)
 * Robust yet fragile (John C. Doyle)
 * [STAMP: Systems-Theoretic Accident Model & Process](#stamp) (Nancy Leveson)
 * Polycentric governance (Elinor Ostrom)
@@ -205,10 +206,10 @@ systems.
 
 * [Universal Laws and Archiectures](http://www.cis.upenn.edu/~ngns/docs/Review_2010/Doyle%20MURI%202010.pdf) (slides)
 * [Contrasting Views of Complexity and Their Implications For Network-Centric Infrastructures](http://dx.doi.org/10.1109/TSMCA.2010.2048027)
+* [Architecture, constraints, and behavior](https://www.pnas.org/content/108/Supplement_3/15624)
 * [The “robust yet fragile” nature of the Internet](https://doi.org/10.1073/pnas.0501426102)
 * [Highly Optimized Tolerance: Robustness and Design in Complex Systems](http://dx.doi.org/10.1103/physrevlett.84.2529)
 * [Robust efficiency and actuator saturation explain healthy heart rate control and variability](https://doi.org/10.1073/pnas.1401883111)
-* [Architecture, constraints, and behavior](https://www.pnas.org/content/108/Supplement_3/15624)
 
 
 ## Anders Ericsson
@@ -631,8 +632,17 @@ to a boundary.
 
 See [Resilience Engineering Short Course](http://csel.org.ohio-state.edu/ResilienceEngineering.html) for more details.
 
+#### Charting adaptive cycles
 
-Rules of the adaptive universe, from [The theory of graceful extensibility: basic rules that govern adaptive systems]:
+* Trigger
+* Units of adaptive behavior
+* Goals and goal conflicts
+* Pressure points
+* Subcycles
+
+### Graceful extensibility
+
+From [The theory of graceful extensibility: basic rules that govern adaptive systems]:
 
 (Longer wording)
 
@@ -664,14 +674,6 @@ Rules of the adaptive universe, from [The theory of graceful extensibility: basi
 8. All adaptive units are local
 9. Perspective contrast overcomes bounds
 10. Mis-calibration is the norm
-
-#### Charting adaptive cycles
-
-* Trigger
-* Units of adaptive behavior
-* Goals and goal conflicts
-* Pressure points
-* Subcycles
 
 ### Concepts
 
