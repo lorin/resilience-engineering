@@ -1,3 +1,4 @@
+Alias: <http://resiliencepapers.club> (thanks to [John Allspaw](https://twitter.com/allspaw)).
 
 This file contains notes about people active in resilience engineering, organized
 alphabetically. I'm using these notes to help me get my head around the
