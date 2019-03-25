@@ -18,6 +18,7 @@ they're ones I've read or have added to my to-read list.
 * [Richard I. Cook](#richard-i-cook)
 * [Sidney Dekker](#sidney-dekker)
 * [John C. Doyle](#john-c-doyle)
+* [Bob Edwards](#bob-edwards)
 * [Anders Ericsson](#anders-ericsson)
 * [Meir Finkel](#meir-finkel)
 * [Erik Hollnagel](#erik-hollnagel)
@@ -231,6 +232,10 @@ systems.
 * [Highly Optimized Tolerance: Robustness and Design in Complex Systems](http://dx.doi.org/10.1103/physrevlett.84.2529)
 * [Robust efficiency and actuator saturation explain healthy heart rate control and variability](https://doi.org/10.1073/pnas.1401883111)
 
+## Bob Edwards
+
+[Edwards](http://hopcoach.net/) is a practitioner who provides
+training services in human and organizational performance (HOP).
 
 ## Anders Ericsson
 
