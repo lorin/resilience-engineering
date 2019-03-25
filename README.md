@@ -58,6 +58,7 @@ He is one of the founders [Adaptive Capacity Labs](http://www.adaptivecapacityla
 ### Selected publications
 
 * [Trade-Offs Under Pressure: Heuristics and Observations Of Teams Resolving Internet Service Outages](https://www.researchgate.net/publication/295011072_Trade-Offs_Under_Pressure_Heuristics_and_Observations_Of_Teams_Resolving_Internet_Service_Outages)
+* [Resilience engineering: learning to embrace failure](https://doi.org/10.1145/2366316.2366331)
 * [Incidents as we Imagine Them Versus How They Actually Are](https://community.pagerduty.com/t/incidents-as-we-imagine-them-versus-how-they-actually-are-with-john-allspaw/2708) (video)
 * [Etsy Debrief Facilitation Guide](http://extfiles.etsy.com/DebriefingFacilitationGuide.pdf)
 * [Fault Injection in Production: Making the case for resiliency testing](http://queue.acm.org/detail.cfm?id=2353017)
@@ -148,7 +149,7 @@ Cook is a medical doctor who studies failures in complex systems.  He is one of 
 ### Concepts
 * complex systems
 * degraded mode
-* sharp end / blunt end
+* sharp end (c.f. Reason's blunt end)
 * Going solid
 * Cycle of error
 
@@ -543,7 +544,7 @@ Reason developed a model of the types of errors that humans make:
 
 ### Concepts
 
-* Sharp end / blunt end
+* Blunt end
 * Human error
 * Slips, lapses and mistakes
 * Swiss cheese model
