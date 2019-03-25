@@ -103,8 +103,8 @@ teams.
 
 ### Selected publications
 
-* [A bit about HOP](https://docs.wixstatic.com/ugd/1a0149_21bcf20f158540098d3d7987ffbf3f58.pdf)
-* [A short introduction to human and organizational performance (hop) and learning teams](http://www.safetydifferently.com/a-short-introduction-to-human-and-organizational-performance-hop-and-learning-teams/) 
+* [A bit about HOP](https://docs.wixstatic.com/ugd/1a0149_21bcf20f158540098d3d7987ffbf3f58.pdf) (editorial)
+* [A short introduction to human and organizational performance (hop) and learning teams](http://www.safetydifferently.com/a-short-introduction-to-human-and-organizational-performance-hop-and-learning-teams/) (blog post)
 
 
 ## Johan Bergström
@@ -183,6 +183,7 @@ Dekker developed the theory of *drift*, characterized by five concepts:
 
 ### Concepts
 * Drift into failure
+* Safety differently
 * New view vs old view of human performance
 * Just culture
 * complexity
