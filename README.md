@@ -12,6 +12,7 @@ they're ones I've read or have added to my to-read list.
 
 * [John Allspaw](#john-allspaw)
 * [Lisanne Bainbridge](#lisanne-bainbridge)
+* [Andrea Baker](#andrea-baker)
 * [Johan Bergström](#johan-bergström)
 * [Todd Conklin](#todd-conklin)
 * [Richard I. Cook](#richard-i-cook)
@@ -88,6 +89,23 @@ be frequently cited.
 
 
 [Ironies of automation]: https://doi.org/10.1016/0005-1098(83)90046-8
+
+## Andrea Baker
+
+[Baker](https://www.thehopmentor.com/) is a practitioner who provides
+training services in human and organizational performance (HOP) and learning
+teams.
+
+### Concepts
+
+* Human and organizational performance (HOP)
+* Learning teams
+
+### Selected publications
+
+* [A bit about HOP](https://docs.wixstatic.com/ugd/1a0149_21bcf20f158540098d3d7987ffbf3f58.pdf)
+* [A short introduction to human and organizational performance (hop) and learning teams](http://www.safetydifferently.com/a-short-introduction-to-human-and-organizational-performance-hop-and-learning-teams/) 
+
 
 ## Johan Bergström
 
@@ -769,6 +787,7 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
 * [Anticipating the effects of technological change: A new era of dynamics for human factors](https://www.researchgate.net/publication/247512351_Anticipating_the_effects_of_technological_change_A_new_era_of_dynamics_for_human_factors)
 * [Common Ground and Coordination in Joint Activity]
 * [Resilience as Graceful Extensibility to Overcome Brittleness](https://www.irgc.org/wp-content/uploads/2016/04/Woods-Resilience-as-Graceful-Extensibility-to-Overcome-Brittleness-1.pdf)
+* [Resilience Engineering: Redefining the Culture of Safety and Risk Management](http://ordvac.com/soro/library/Aviation/Aviation%20Safety/General%20Safety%20Articles/resilience%20engineering%20bulletin.pdf)
 
 
 [The theory of graceful extensibility: basic rules that govern adaptive systems]: https://link.springer.com/article/10.1007%2Fs10669-018-9708-3
