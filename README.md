@@ -56,7 +56,7 @@ Some big ideas:
 Allspaw is the former CTO of Etsy. He applies concepts from resilience engineering to the tech industry.
 He is one of the founders [Adaptive Capacity Labs](http://www.adaptivecapacitylabs.com/), a resilience engineering consultancy.
 
-Allspaw tweets as [@allspaw](https://twitter.com/allspaw)
+Allspaw tweets as [@allspaw](https://twitter.com/allspaw).
 
 ### Selected publications
 
@@ -117,7 +117,7 @@ Baker tweets as [@thehopmentor](https://twitter.com/thehopmentor).
 
 ## Johan Bergström
 
-[Bergstrom](http://www.jbsafety.se/p/about-me.html) is a safety research and
+[Bergström](http://www.jbsafety.se/p/about-me.html) is a safety research and
 consultant. He runs the [Master Program of Human Factors and Systems
 Safety](http://www.humanfactors.lth.se/msc-programme/) at Lund University.
 
