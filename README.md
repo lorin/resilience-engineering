@@ -33,6 +33,7 @@ they're ones I've read or have added to my to-read list.
 * [James Reason](#james-reason)
 * [Nadine Sarter](#nadine-sarter)
 * [James C. Scott](#james-c-scott)
+* [Steven Shorrock](#steven-shorrock)
 * [Diane Vaughan](#diane-vaughan)
 * [Robert L. Wears](#robert-l-wears)
 * [David Woods](#david-woods)
@@ -54,6 +55,8 @@ Some big ideas:
 
 Allspaw is the former CTO of Etsy. He applies concepts from resilience engineering to the tech industry.
 He is one of the founders [Adaptive Capacity Labs](http://www.adaptivecapacitylabs.com/), a resilience engineering consultancy.
+
+Allspaw tweets as [@allspaw](https://twitter.com/allspaw)
 
 ### Selected publications
 
@@ -615,6 +618,16 @@ resilience engineering communities.
 * [Seeing like a state: how certain schemes to improve the human condition have failed](https://www.amazon.com/Seeing-like-State-Certain-Condition/dp/0300078153/ref=sr_1_1)
 
 
+## Stephen Shorrock
+
+Shorrock is a chartered psychologist and a chartered ergonomist and human
+factors specialist. He is the editor-in-chief of EUROCONTROL
+[HindSight](https://www.skybrary.aero/index.php/HindSight_-_EUROCONTROL)
+magazine. He runs the excellent [Humanistic Systems](https://humanisticsystems.com/) blog.
+
+He tweets as [@StevenShorrock](https://twitter.com/StevenShorrock).
+
+* [Human Factors and Ergonomics in Practice: Improving System Performance and Human Well-Being in the Real World](https://www.crcpress.com/Human-Factors-and-Ergonomics-in-Practice-Improving-System-Performance-and/Shorrock-Williams/p/book/9781472439253) (book)
 
 ## Diane Vaughan
 
