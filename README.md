@@ -1,13 +1,12 @@
 Alias: <http://resiliencepapers.club> (thanks to [John Allspaw](https://twitter.com/allspaw)).
 
 This file contains notes about people active in resilience engineering, organized
-alphabetically. I'm using these notes to help me get my head around the
-different players and associated concepts.
+alphabetically. I'm using these notes to help get my head around the players and concepts.
 
 You might also be interested in my [notes on David Woods's Resilience Engineering short course](https://github.com/lorin/res-eng-short-course-notes).
 
 For each person, I list concepts that they reference in their writings, along
-with some of their publications. The publications listed aren't comprehensive:
+with some publications. The publications lists aren't comprehensive:
 they're ones I've read or have added to my to-read list. 
 
 * [John Allspaw](#john-allspaw)
@@ -636,7 +635,7 @@ resilience engineering communities.
 * [Seeing like a state: how certain schemes to improve the human condition have failed](https://www.amazon.com/Seeing-like-State-Certain-Condition/dp/0300078153/ref=sr_1_1)
 
 
-## Stephen Shorrock
+## Steven Shorrock
 
 Shorrock is a chartered psychologist and a chartered ergonomist and human
 factors specialist. He is the editor-in-chief of EUROCONTROL
