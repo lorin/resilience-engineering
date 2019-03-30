@@ -102,6 +102,8 @@ be frequently cited.
 training services in human and organizational performance (HOP) and learning
 teams.
 
+Baker tweets as [@thehopmentor](https://twitter.com/thehopmentor).
+
 ### Concepts
 
 * Human and organizational performance (HOP)
@@ -118,6 +120,8 @@ teams.
 [Bergstrom](http://www.jbsafety.se/p/about-me.html) is a safety research and
 consultant. He runs the [Master Program of Human Factors and Systems
 Safety](http://www.humanfactors.lth.se/msc-programme/) at Lund University.
+
+Bergström tweets as [@bergstrom_johan](https://twitter.com/bergstrom_johan).
 
 ### Concepts
 
@@ -141,6 +145,8 @@ Conklin's books are on my reading list, but I haven't read anything by him
 yet. I have listened to his great [Preaccident investigation
 podcast](https://preaccidentpodcast.podbean.com/).
 
+Conklin tweets as [@preaccident](https://twitter.com/preaccident).
+
 ### Selected publications
 * [Pre-accident investigations: an introduction to organizational safety](https://www.amazon.com/Pre-Accident-Investigations-Todd-Conklin/dp/1409447820)
 * [Pre-accident investigations: better questions - an applied approach to
@@ -149,6 +155,8 @@ podcast](https://preaccidentpodcast.podbean.com/).
 ## Richard I. Cook
 
 Cook is a medical doctor who studies failures in complex systems.  He is one of the founders [Adaptive Capacity Labs](http://www.adaptivecapacitylabs.com/), a resilience engineering consultancy.
+
+Cook tweets as [@ri_cook](https://twitter.com/ri_cook).
 
 ### Concepts
 * complex systems
@@ -173,6 +181,12 @@ Cook is a medical doctor who studies failures in complex systems.  He is one of 
 
 
 ## Sidney Dekker
+
+Dekker is a human factors and safety researcher with a background in aviation.
+His books aimed at a lay audience (Drift Into Failure, The Field Guide to 'Human Error' investigations)
+have been enormously influential.
+
+Dekker tweets as [@sidneydekkercom](https://twitter.com/sidneydekkercom).
 
 ### Contributions
 
@@ -241,6 +255,8 @@ systems.
 
 [Edwards](http://hopcoach.net/) is a practitioner who provides
 training services in human and organizational performance (HOP).
+
+Edwards tweets as [@thehopcoach](https://twitter.com/thehopcoach).
 
 ## Anders Ericsson
 
@@ -332,6 +348,8 @@ complex socio-technical systems.
 ## Gary Klein
 
 Klein studies how experts are able to quickly make effective decisions in high-tempo situations. 
+
+Klein tweets as [@KleInsight](https://twitter.com/KleInsight).
 
 ### Concepts
 
@@ -625,7 +643,7 @@ factors specialist. He is the editor-in-chief of EUROCONTROL
 [HindSight](https://www.skybrary.aero/index.php/HindSight_-_EUROCONTROL)
 magazine. He runs the excellent [Humanistic Systems](https://humanisticsystems.com/) blog.
 
-He tweets as [@StevenShorrock](https://twitter.com/StevenShorrock).
+Shorrock tweets as [@StevenShorrock](https://twitter.com/StevenShorrock).
 
 * [Human Factors and Ergonomics in Practice: Improving System Performance and Human Well-Being in the Real World](https://www.crcpress.com/Human-Factors-and-Ergonomics-in-Practice-Improving-System-Performance-and/Shorrock-Williams/p/book/9781472439253) (book)
 
@@ -648,6 +666,8 @@ Woods has a resesarch background in cognitive systems engineering and did work
 researching NASA accidents.  He is one of the founders [Adaptive Capacity
 Labs](http://www.adaptivecapacitylabs.com/), a resilience engineering
 consultancy.
+
+Woods tweets as [@ddwoods2](https://twitter.com/ddwoods2).
 
 ### Contributions
 
@@ -818,6 +838,8 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
 Wreathall is an expert in human performance in safety. He works at the
 [WreathWood Group](http://www.wreathall.com/), a risk and safety studies
 consultancy.
+
+Wreathall tweets as [@wreathall](https://twitter.com/wreathall).
 
 ### Selected publications
 * [Resilience engineering in practice: a guidebook](https://www.crcpress.com/Resilience-Engineering-in-Practice-A-Guidebook/Paries-Wreathall-Hollnagel/p/book/9781472420749)
