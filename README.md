@@ -355,7 +355,8 @@ Klein tweets as [@KleInsight](https://twitter.com/KleInsight).
 * naturalistic decision making (NDM)
 * intuitive expertise
 * cognitive task analysis
-* command ground
+* common ground
+* problem detection
 
 ### Selected publications
 
@@ -365,8 +366,10 @@ Klein tweets as [@KleInsight](https://twitter.com/KleInsight).
 * [Common Ground and Coordination in Joint Activity]
 * [Can We Trust Best Practices? Six Cognitive Challenges of Evidence-Based Approaches](https://journals.sagepub.com/doi/abs/10.1177/1555343416637520?journalCode=edma)
 * [Conditions for intuitive expertise: a failure to disagree](http://dx.doi.org/10.1037/a0016755)
+* [Problem detection]
 
 [Common Ground and Coordination in Joint Activity]: http://jeffreymbradshaw.net/publications/Common_Ground_Single.pdf
+[Problem detection]: https://www.researchgate.net/publication/220579480_Problem_detection
 
 ## Nancy Leveson
 
@@ -803,6 +806,7 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
 * tilt toward florescence
 * linear simplification
 * common ground
+* problem detection
 
 ### Selected publications
 
@@ -828,6 +832,7 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
 * [Common Ground and Coordination in Joint Activity]
 * [Resilience as Graceful Extensibility to Overcome Brittleness](https://www.irgc.org/wp-content/uploads/2016/04/Woods-Resilience-as-Graceful-Extensibility-to-Overcome-Brittleness-1.pdf)
 * [Resilience Engineering: Redefining the Culture of Safety and Risk Management](http://ordvac.com/soro/library/Aviation/Aviation%20Safety/General%20Safety%20Articles/resilience%20engineering%20bulletin.pdf)
+* [Problem detection]
 
 
 [The theory of graceful extensibility: basic rules that govern adaptive systems]: https://link.springer.com/article/10.1007%2Fs10669-018-9708-3
