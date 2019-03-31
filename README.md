@@ -63,8 +63,15 @@ Allspaw tweets as [@allspaw](https://twitter.com/allspaw).
 * [Etsy Debrief Facilitation Guide](http://extfiles.etsy.com/DebriefingFacilitationGuide.pdf)
 * [Blameless PostMortems and a Just Culture](https://codeascraft.com/2012/05/22/blameless-postmortems/) (blog)
 * [Resilience engineering: learning to embrace failure](https://doi.org/10.1145/2366316.2366331)
-* [Incidents as we Imagine Them Versus How They Actually Are](https://community.pagerduty.com/t/incidents-as-we-imagine-them-versus-how-they-actually-are-with-john-allspaw/2708) (video)
 * [Fault Injection in Production: Making the case for resiliency testing](http://queue.acm.org/detail.cfm?id=2353017)
+
+### Selected talks
+
+* [Incidents as we Imagine Them Versus How They Actually Are](https://community.pagerduty.com/t/incidents-as-we-imagine-them-versus-how-they-actually-are-with-john-allspaw/2708) 
+* [Problem detection (papers we love)](https://www.youtube.com/watch?v=NxctiGRI2y8)
+  (presentation of [Problem detection] paper)
+* [Common Ground and Coordination in Joint Activity (papers we love)](https://paperswelove.org/2016/video/john-allspaw-common-ground/) (presentation of [Common Ground and Coordination in Joint Activity] paper)
+
 
 ## Lisanne Bainbridge
 
