@@ -141,8 +141,10 @@ Bergström tweets as [@bergstrom_johan](https://twitter.com/bergstrom_johan).
 * [Resilience engineering: Current status of the research and future challenges](https://www.sciencedirect.com/science/article/pii/S0925753516306130)
 * [Rule- and role retreat: An empirical study of procedures and resilience](https://www.researchgate.net/publication/50917226_Rule-_and_role_retreat_An_empirical_study_of_procedures_and_resilience)
 
-### Videos 
+### Selected talks
+
 * [Three analytical traps in accident investigation](https://www.youtube.com/watch?v=TqaFT-0cY7U)
+* [Two Views on Human Error](https://www.youtube.com/watch?v=rHeukoWWtQ8)
 
 
 ## Todd Conklin
@@ -183,6 +185,11 @@ Cook tweets as [@ri_cook](https://twitter.com/ri_cook).
 * [Operating at the Sharp End: The Complexity of Human Error](https://www.researchgate.net/publication/313407259_Operating_at_the_Sharp_End_The_Complexity_of_Human_Error)
 * [Patient boarding in the emergency department as a symptom of complexity-induced risks](https://www.researchgate.net/publication/312624891_Patient_boarding_in_the_emergency_department_as_a_symptom_of_complexity-induced_risks)
 * [Sensemaking, Safety, and Cooperative Work in the Intensive Care Unit](https://www.researchgate.net/publication/220579381_Sensemaking_Safety_and_Cooperative_Work_in_the_Intensive_Care_Unit)
+* [Medication Reconciliation Is a Window into “Ordinary” Work](https://www.taylorfrancis.com/books/e/9781317164777/chapters/10.1201/9781315572529-4)
+
+### Selected talks
+
+* [How Complex Systems Fail](https://www.youtube.com/watch?v=2S0k12uZR14)
 
 
 
@@ -588,7 +595,8 @@ Reason developed a model of the types of errors that humans make:
 
 ## Nadine Sarter
 
-[Sarter](https://ioe.engin.umich.edu/people/nadine-sarter/) is a researcher in industrial and operations engineering.
+[Sarter](https://ioe.engin.umich.edu/people/nadine-sarter/) is a researcher in industrial and operations engineering. 
+She is the director of the Center for Ergonomics at the University of Michigan.
 
 ### Concepts
 
@@ -604,6 +612,7 @@ Reason developed a model of the types of errors that humans make:
 
 * [Learning from Automation Surprises and "Going Sour" Accidents: Progress on Human-Centered Automation](https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19980016965.pdf)
 * [Behind Human Error](https://www.amazon.com/gp/product/B075QFGTNP/ref=x_gr_w_glide_bb?ie=UTF8&tag=x_gr_w_glide_bb-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B075QFGTNP&SubscriptionId=1MGPYB6YW3HWK55XCGG2)
+* [Designed-Induced Error and Error-Informed Design: A Two-Way Street](https://www.amazon.com/Cognitive-Systems-Engineering-Expertise-Applications-ebook/dp/B076TDR6H9/ref=sr_1_1?keywords=cognitive+systems+engineering&qid=1554075974&s=gateway&sr=8-1)
 
 
 ## Robert L. Wears
@@ -841,8 +850,11 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
 * [Resilience Engineering: Redefining the Culture of Safety and Risk Management](http://ordvac.com/soro/library/Aviation/Aviation%20Safety/General%20Safety%20Articles/resilience%20engineering%20bulletin.pdf)
 * [Problem detection]
 
-
 [The theory of graceful extensibility: basic rules that govern adaptive systems]: https://link.springer.com/article/10.1007%2Fs10669-018-9708-3
+
+### Selected talks
+
+* [The Mystery of Sustained Adaptability](https://www.youtube.com/watch?v=7STcaWjJoww)
 
 ## John Wreathall
 
