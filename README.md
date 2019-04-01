@@ -871,6 +871,7 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
 * [The Messy Details: Insights From the Study of Technical Work in Healthcare]
 * [Nosocomial automation: technology-induced complexity and human performance]
 * [Human-centered software agents: Lessons from clumsy automation](http://www.ifp.illinois.edu/nsfhcs/abstracts/woods.txt)
+* [STELLA: Report from the SNAFUcatchers Workshop on Coping with Complexity](https://snafucatchers.github.io/)
 
 [The theory of graceful extensibility: basic rules that govern adaptive systems]: https://link.springer.com/article/10.1007%2Fs10669-018-9708-3
 
