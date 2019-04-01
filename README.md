@@ -177,6 +177,7 @@ Cook tweets as [@ri_cook](https://twitter.com/ri_cook).
 ### Selected publications
 
 * [How complex systems fail](http://web.mit.edu/2.75/resources/random/How%20Complex%20Systems%20Fail.pdf)
+* [*Where* complex systems fail](https://www.snafucatchers.com/single-post/2017/11/14/void-Incidents-as-Untyped-Pointers)
 * [Distancing through differencing: An obstacle to organizational learning following accidents](https://www.researchgate.net/publication/292504703_Distancing_through_differencing_An_obstacle_to_organizational_learning_following_accidents)
 * [Being bumpable](http://csel.eng.ohio-state.edu/productions/woodscta/media/beingbump.pdf)
 * [Behind Human Error](https://www.amazon.com/gp/product/B075QFGTNP/ref=x_gr_w_glide_bb?ie=UTF8&tag=x_gr_w_glide_bb-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B075QFGTNP&SubscriptionId=1MGPYB6YW3HWK55XCGG2)
@@ -186,6 +187,15 @@ Cook tweets as [@ri_cook](https://twitter.com/ri_cook).
 * [Patient boarding in the emergency department as a symptom of complexity-induced risks](https://www.researchgate.net/publication/312624891_Patient_boarding_in_the_emergency_department_as_a_symptom_of_complexity-induced_risks)
 * [Sensemaking, Safety, and Cooperative Work in the Intensive Care Unit](https://www.researchgate.net/publication/220579381_Sensemaking_Safety_and_Cooperative_Work_in_the_Intensive_Care_Unit)
 * [Medication Reconciliation Is a Window into “Ordinary” Work](https://www.taylorfrancis.com/books/e/9781317164777/chapters/10.1201/9781315572529-4)
+* [Cognitive consequences of clumsy automation on high workload, high consequence human performance]
+* [Implications of automation surprises in aviation for the future of total intravenous anesthesia (TIVA)]
+* [The Messy Details: Insights From the Study of Technical Work in Healthcare]
+* [Nosocomial automation: technology-induced complexity and human performance]
+
+[Cognitive consequences of clumsy automation on high workload, high consequence human performance]: https://ntrs.nasa.gov/search.jsp?R=19910011398
+[Implications of automation surprises in aviation for the future of total intravenous anesthesia (TIVA)]: https://doi.org/10.1016/S0952-8180(96)90009-4
+[The Messy Details: Insights From the Study of Technical Work in Healthcare]: https://doi.org/10.1109%2FTSMCA.2004.836802
+[Nosocomial automation: technology-induced complexity and human performance]: https://www.researchgate.net/profile/David_Woods11/publication/224649052_Nosocomial_automation_technology-induced_complexity_and_human_performance/links/59399b1da6fdcc58ae902c49/Nosocomial-automation-technology-induced-complexity-and-human-performance.pdf
 
 ### Selected talks
 
@@ -346,6 +356,7 @@ complex socio-technical systems.
 * bimodality
 * emergence
 * work-as-imagined vs. work-as-done
+* joint cognitive systems
 
 ### Selected publications
 
@@ -371,6 +382,7 @@ Klein tweets as [@KleInsight](https://twitter.com/KleInsight).
 * cognitive task analysis
 * common ground
 * problem detection
+* automation as a "team player"
 
 ### Selected publications
 
@@ -381,9 +393,11 @@ Klein tweets as [@KleInsight](https://twitter.com/KleInsight).
 * [Can We Trust Best Practices? Six Cognitive Challenges of Evidence-Based Approaches](https://journals.sagepub.com/doi/abs/10.1177/1555343416637520?journalCode=edma)
 * [Conditions for intuitive expertise: a failure to disagree](http://dx.doi.org/10.1037/a0016755)
 * [Problem detection]
+* [Ten challenges for making automation a team player]
 
 [Common Ground and Coordination in Joint Activity]: http://jeffreymbradshaw.net/publications/Common_Ground_Single.pdf
 [Problem detection]: https://www.researchgate.net/publication/220579480_Problem_detection
+[Ten challenges for making automation a team player]: https://ieeexplore.ieee.org/abstract/document/1363742
 
 ## Nancy Leveson
 
@@ -823,6 +837,8 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
 * linear simplification
 * common ground
 * problem detection
+* joint cognitive systems
+* automation as a "team player"
 
 ### Selected publications
 
@@ -849,6 +865,12 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
 * [Resilience as Graceful Extensibility to Overcome Brittleness](https://www.irgc.org/wp-content/uploads/2016/04/Woods-Resilience-as-Graceful-Extensibility-to-Overcome-Brittleness-1.pdf)
 * [Resilience Engineering: Redefining the Culture of Safety and Risk Management](http://ordvac.com/soro/library/Aviation/Aviation%20Safety/General%20Safety%20Articles/resilience%20engineering%20bulletin.pdf)
 * [Problem detection]
+* [Cognitive consequences of clumsy automation on high workload, high consequence human performance]
+* [Implications of automation surprises in aviation for the future of total intravenous anesthesia (TIVA)]
+* [Ten challenges for making automation a team player]
+* [The Messy Details: Insights From the Study of Technical Work in Healthcare]
+* [Nosocomial automation: technology-induced complexity and human performance]
+* [Human-centered software agents: Lessons from clumsy automation](http://www.ifp.illinois.edu/nsfhcs/abstracts/woods.txt)
 
 [The theory of graceful extensibility: basic rules that govern adaptive systems]: https://link.springer.com/article/10.1007%2Fs10669-018-9708-3
 
