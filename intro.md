@@ -1,7 +1,7 @@
 # Where do I start?
 
 The sheer number of resilience engineering papers can be intimidating. Here's
-some guidance on where to start reading if you're new to the fiel.d
+some guidance on where to start reading if you're new to the field.
 
 ## If you read only one paper
 
@@ -16,7 +16,7 @@ opposed to the old view) or "Safety-II" (as opposed to "Safety-I").
 
 Two readable papers that contrast the new perspective with the old one are:
 
-* Dekker's [Reconstructing human contributions to accidents: the new view on error and performance](https://www.sciencedirect.com/science/article/pii/S0022437502000324)
+* Dekker's [Reconstructing human contributions to accidents: the new view on error and performance](https://www.sciencedirect.com/science/article/pii/S0022437502000324) (paywalled)
 * Hollnagel's [From Safety-I to Safety-II: A White Paper](https://www.skybrary.aero/bookshelf/books/2437.pdf)
 
 ## Classics
@@ -24,7 +24,7 @@ Two readable papers that contrast the new perspective with the old one are:
 These are older papers that are often referenced:
 
 * Bainbridge's [Ironies of automation](https://doi.org/10.1016/0005-1098(83)90046-8) (1983)
-* Rasmussen's [Risk management in a dynamic society: a modelling problem](https://doi.org/10.1016/S0925-7535(97)00052-0) (1997)
+* Rasmussen's [Risk management in a dynamic society: a modelling problem](https://doi.org/10.1016/S0925-7535(97)00052-0) (1997) (paywalled)
 
 Bainbridge's paper on automation is as relevant today as when it was written
 almost 40 years ago.
