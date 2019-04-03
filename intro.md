@@ -1,7 +1,18 @@
 # Where do I start?
 
-The sheer number of resilience engineering papers can be intimidating. Here's
-some guidance on where to start reading if you're new to the field.
+(This doc is still in progress).
+
+If you're a software engineer looking to learn about the field of resilience
+engineering, the sheer number of papers can be intimidating. 
+
+The material can also be confusing because resilience engineering evolved from the
+safety systems community (domains such as aviation, medicine, maritime, space flight, nuclear power,
+military, rail), which means that some papers are reactions to earlier approaches to
+achieving safety, which is context the reader is likely to be missing.
+
+I myself am still a novice in this area, so take this guidance with an
+appropriate grain of salt.
+
 
 ## If you read only one paper
 
@@ -11,7 +22,7 @@ starting point. It's short and very easy to read.
 ## Overview of new view / Safety-II
 
 Resilience engineering is synonymous with a new perspective on the role of
-human behavior in accidents. This is sometimes called the "new view" (as
+human behavior in accidents. You'll hear terms such as the "new view" (as
 opposed to the old view) or "Safety-II" (as opposed to "Safety-I").
 
 Two readable papers that contrast the new perspective with the old one are:
