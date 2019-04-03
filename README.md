@@ -114,6 +114,7 @@ Baker tweets as [@thehopmentor](https://twitter.com/thehopmentor).
 
 * Human and organizational performance (HOP)
 * Learning teams
+* Industrial empathy
 
 ### Selected publications
 
