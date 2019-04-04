@@ -173,6 +173,7 @@ Cook tweets as [@ri_cook](https://twitter.com/ri_cook).
 * sharp end (c.f. Reason's blunt end)
 * Going solid
 * Cycle of error
+* "new look"
 
 
 ### Selected publications
@@ -192,11 +193,13 @@ Cook tweets as [@ri_cook](https://twitter.com/ri_cook).
 * [Implications of automation surprises in aviation for the future of total intravenous anesthesia (TIVA)]
 * [The Messy Details: Insights From the Study of Technical Work in Healthcare]
 * [Nosocomial automation: technology-induced complexity and human performance]
+* [The New Look at Error, Safety, and Failure: A Primer for Health Care]
 
 [Cognitive consequences of clumsy automation on high workload, high consequence human performance]: https://ntrs.nasa.gov/search.jsp?R=19910011398
 [Implications of automation surprises in aviation for the future of total intravenous anesthesia (TIVA)]: https://doi.org/10.1016/S0952-8180(96)90009-4
 [The Messy Details: Insights From the Study of Technical Work in Healthcare]: https://doi.org/10.1109%2FTSMCA.2004.836802
 [Nosocomial automation: technology-induced complexity and human performance]: https://www.researchgate.net/profile/David_Woods11/publication/224649052_Nosocomial_automation_technology-induced_complexity_and_human_performance/links/59399b1da6fdcc58ae902c49/Nosocomial-automation-technology-induced-complexity-and-human-performance.pdf
+[The New Look at Error, Safety, and Failure: A Primer for Health Care]: https://pdfs.semanticscholar.org/67f7/53ec089e5a8879f241e2be867dad0a2026fb.pdf
 
 ### Selected talks
 
@@ -841,6 +844,7 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
 * problem detection
 * joint cognitive systems
 * automation as a "team player"
+* "new look"
 
 ### Selected publications
 
@@ -874,6 +878,7 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
 * [Nosocomial automation: technology-induced complexity and human performance]
 * [Human-centered software agents: Lessons from clumsy automation](http://www.ifp.illinois.edu/nsfhcs/abstracts/woods.txt)
 * [STELLA: Report from the SNAFUcatchers Workshop on Coping with Complexity](https://snafucatchers.github.io/)
+* [The New Look at Error, Safety, and Failure: A Primer for Health Care]
 
 [The theory of graceful extensibility: basic rules that govern adaptive systems]: https://link.springer.com/article/10.1007%2Fs10669-018-9708-3
 
