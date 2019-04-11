@@ -21,6 +21,7 @@ they're ones I've read or have added to my to-read list.
 * [Anders Ericsson](#anders-ericsson)
 * [Meir Finkel](#meir-finkel)
 * [Erik Hollnagel](#erik-hollnagel)
+* [Leila Johannesen](#leila-johannesen)
 * [Gary Klein](#gary-klein)
 * [Nancy Leveson](#nancy-leveson)
 * [Elinor Ostrom](#elinor-ostrom)
@@ -194,7 +195,7 @@ Cook tweets as [@ri_cook](https://twitter.com/ri_cook).
 * [The Messy Details: Insights From the Study of Technical Work in Healthcare]
 * [Nosocomial automation: technology-induced complexity and human performance]
 * [The New Look at Error, Safety, and Failure: A Primer for Health Care]
-* [Ground explanations in evolving, diagnostic situations] (based on [Leila Johannesen's](https://www.linkedin.com/in/leilajohannesen/) dissertation work)
+* [Grounding explanations in evolving, diagnostic situations]
 
 [Cognitive consequences of clumsy automation on high workload, high consequence human performance]: https://ntrs.nasa.gov/search.jsp?R=19910011398
 [Implications of automation surprises in aviation for the future of total intravenous anesthesia (TIVA)]: https://doi.org/10.1016/S0952-8180(96)90009-4
@@ -202,7 +203,7 @@ Cook tweets as [@ri_cook](https://twitter.com/ri_cook).
 [Nosocomial automation: technology-induced complexity and human performance]: https://www.researchgate.net/profile/David_Woods11/publication/224649052_Nosocomial_automation_technology-induced_complexity_and_human_performance/links/59399b1da6fdcc58ae902c49/Nosocomial-automation-technology-induced-complexity-and-human-performance.pdf
 [The New Look at Error, Safety, and Failure: A Primer for Health Care]: https://pdfs.semanticscholar.org/67f7/53ec089e5a8879f241e2be867dad0a2026fb.pdf
 
-[Ground explanations in evolving, diagnostic situations]: https://pdfs.semanticscholar.org/1bed/356b5aa67c701f5bad6d943768622095f418.pdf
+[Grounding explanations in evolving, diagnostic situations]: https://pdfs.semanticscholar.org/1bed/356b5aa67c701f5bad6d943768622095f418.pdf
 
 ### Selected talks
 
@@ -214,7 +215,7 @@ Cook tweets as [@ri_cook](https://twitter.com/ri_cook).
 
 Dekker is a human factors and safety researcher with a background in aviation.
 His books aimed at a lay audience (Drift Into Failure, The Field Guide to 'Human Error' investigations)
-have been enormously influential.
+have been enormously influential. His PhD advisor is [David Woods](#david-woods).
 
 Dekker tweets as [@sidneydekkercom](https://twitter.com/sidneydekkercom).
 
@@ -376,6 +377,21 @@ complex socio-technical systems.
 * [Resilience Engineering: Concepts and Precepts](https://www.amazon.com/gp/product/B009KNDF64/ref=x_gr_w_glide_bb?ie=UTF8&tag=x_gr_w_glide_bb-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B009KNDF64&SubscriptionId=1MGPYB6YW3HWK55XCGG2)
 * [I want to believe: some myths about the management of industrial safety](http://dx.doi.org/10.1007/s10111-012-0237-4)
 * [Resilience engineering – Building a Culture of Resilience](http://www.ptil.no/getfile.php/1325150/PDF/Seminar%202013/Integrerte%20operasjoner/Hollnagel_RIO_presentation.pdf) (slides)
+
+## Leila Johannesen
+
+[Johannesen](https://www.linkedin.com/in/leilajohannesen/) is currently a UX researcher and community advocate at IBM.
+Her PhD dissertation work examined how humans cooperate, including studies of anesthesiologists.
+
+### Concepts
+
+* common ground
+
+### Selected publications
+
+* [Grounding explanations in evolving, diagnostic situations]
+* [Maintaining common ground: an analysis of cooperative communication in the operating room](https://www.abdn.ac.uk/iprc/documents/Communication%20Book%20Chapter.pdf)
+
 
 ## Gary Klein
 
@@ -882,7 +898,7 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
 * [Human-centered software agents: Lessons from clumsy automation](http://www.ifp.illinois.edu/nsfhcs/abstracts/woods.txt)
 * [STELLA: Report from the SNAFUcatchers Workshop on Coping with Complexity](https://snafucatchers.github.io/)
 * [The New Look at Error, Safety, and Failure: A Primer for Health Care]
-* [Ground explanations in evolving, diagnostic situations] (based on [Leila Johannesen's](https://www.linkedin.com/in/leilajohannesen/) dissertation work)
+* [Grounding explanations in evolving, diagnostic situations]
 
 [The theory of graceful extensibility: basic rules that govern adaptive systems]: https://link.springer.com/article/10.1007%2Fs10669-018-9708-3
 
