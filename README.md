@@ -194,12 +194,15 @@ Cook tweets as [@ri_cook](https://twitter.com/ri_cook).
 * [The Messy Details: Insights From the Study of Technical Work in Healthcare]
 * [Nosocomial automation: technology-induced complexity and human performance]
 * [The New Look at Error, Safety, and Failure: A Primer for Health Care]
+* [Ground explanations in evolving, diagnostic situations] (based on [Leila Johannesen's](https://www.linkedin.com/in/leilajohannesen/) dissertation work)
 
 [Cognitive consequences of clumsy automation on high workload, high consequence human performance]: https://ntrs.nasa.gov/search.jsp?R=19910011398
 [Implications of automation surprises in aviation for the future of total intravenous anesthesia (TIVA)]: https://doi.org/10.1016/S0952-8180(96)90009-4
 [The Messy Details: Insights From the Study of Technical Work in Healthcare]: https://doi.org/10.1109%2FTSMCA.2004.836802
 [Nosocomial automation: technology-induced complexity and human performance]: https://www.researchgate.net/profile/David_Woods11/publication/224649052_Nosocomial_automation_technology-induced_complexity_and_human_performance/links/59399b1da6fdcc58ae902c49/Nosocomial-automation-technology-induced-complexity-and-human-performance.pdf
 [The New Look at Error, Safety, and Failure: A Primer for Health Care]: https://pdfs.semanticscholar.org/67f7/53ec089e5a8879f241e2be867dad0a2026fb.pdf
+
+[Ground explanations in evolving, diagnostic situations]: https://pdfs.semanticscholar.org/1bed/356b5aa67c701f5bad6d943768622095f418.pdf
 
 ### Selected talks
 
@@ -879,6 +882,7 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
 * [Human-centered software agents: Lessons from clumsy automation](http://www.ifp.illinois.edu/nsfhcs/abstracts/woods.txt)
 * [STELLA: Report from the SNAFUcatchers Workshop on Coping with Complexity](https://snafucatchers.github.io/)
 * [The New Look at Error, Safety, and Failure: A Primer for Health Care]
+* [Ground explanations in evolving, diagnostic situations] (based on [Leila Johannesen's](https://www.linkedin.com/in/leilajohannesen/) dissertation work)
 
 [The theory of graceful extensibility: basic rules that govern adaptive systems]: https://link.springer.com/article/10.1007%2Fs10669-018-9708-3
 
