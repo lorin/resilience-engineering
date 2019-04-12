@@ -20,10 +20,12 @@ they're ones I've read or have added to my to-read list.
 * [Bob Edwards](#bob-edwards)
 * [Anders Ericsson](#anders-ericsson)
 * [Meir Finkel](#meir-finkel)
+* [Ivonne Andrade Herrera](#ivonne-andrade-herrera)
 * [Erik Hollnagel](#erik-hollnagel)
 * [Leila Johannesen](#leila-johannesen)
 * [Gary Klein](#gary-klein)
 * [Nancy Leveson](#nancy-leveson)
+* [Anne-Sophie Nyssen](anne-sophie-nyssen)
 * [Elinor Ostrom](#elinor-ostrom)
 * [Jean Pariès](#jean-paries)
 * [Emily Patterson](#emily-patterson)
@@ -316,6 +318,17 @@ Finkel is a Colonel in the Israeli Defense Force (IDF) and the Director of the I
 ### Selected publications
 * [On Flexibility: Recovery from Technological and Doctrinal Surprise on the Battlefield](https://www.amazon.com/Flexibility-Recovery-Technological-Doctrinal-Battlefield/dp/0804774897/ref=sr_1_3?ie=UTF8&qid=1546046916&sr=8-3&keywords=on+flexibility)
 
+## Ivonne Andrade Herrera
+
+[Herrera](https://www.ntnu.edu/employees/ivonne.a.herrera) is an associate professor in 
+the department of industrial economics and technology management at NTNU and a
+senior research scientist at SINTEF. Her areas of expertise include safety management and
+resilience engineering in avionics and air traffic management.
+
+
+[List of publications](https://wo.cristin.no/as/WebObjects/cristin.woa/wa/fres?sort=ar&pnr=30556&action=sok)
+
+
 ## Erik Hollnagel
 
 ### Contributions
@@ -455,7 +468,7 @@ See [STAMP](STAMP.md) for some more detailed notes of mine.
 * time constants
 * feedback delays
 
-## Selected publications
+### Selected publications
 * [A New Accident Model for Engineering Safer Systems](http://sunnyday.mit.edu/accidents/safetyscience-single.pdf)
 * [Engineering a safer world](https://mitpress.mit.edu/books/engineering-safer-world)
 * [STPA Handbook](http://psas.scripts.mit.edu/home/get_file.php?name=STPA_handbook.pdf)
@@ -463,6 +476,14 @@ See [STAMP](STAMP.md) for some more detailed notes of mine.
 * [Resilience Engineering: Concepts and Precepts](https://www.amazon.com/gp/product/B009KNDF64/ref=x_gr_w_glide_bb?ie=UTF8&tag=x_gr_w_glide_bb-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B009KNDF64&SubscriptionId=1MGPYB6YW3HWK55XCGG2)
 * [High-pressure steam engines and computer software](http://dx.doi.org/10.1145/143062.143076)
 * [Resilience Engineering: Concepts and Precepts]
+
+## Anne-Sophie Nyssen
+
+[Nyssen](http://www.lecit.ulg.ac.be/equipe/anne-sophie-nyssen/) is a psychology professor at the University of Liège,
+who does research on human error in complex systems, in particular in medicine.
+
+A list of publications can be found on her website linked above.
+
 
 ## Elinor Ostrom
 
