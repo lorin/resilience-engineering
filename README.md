@@ -198,6 +198,7 @@ Cook tweets as [@ri_cook](https://twitter.com/ri_cook).
 * [Nosocomial automation: technology-induced complexity and human performance]
 * [The New Look at Error, Safety, and Failure: A Primer for Health Care]
 * [Grounding explanations in evolving, diagnostic situations]
+* [A Tale of Two Stories: Contrasting Views of Patient Safety]
 
 [Cognitive consequences of clumsy automation on high workload, high consequence human performance]: https://ntrs.nasa.gov/search.jsp?R=19910011398
 [Implications of automation surprises in aviation for the future of total intravenous anesthesia (TIVA)]: https://doi.org/10.1016/S0952-8180(96)90009-4
@@ -206,6 +207,9 @@ Cook tweets as [@ri_cook](https://twitter.com/ri_cook).
 [The New Look at Error, Safety, and Failure: A Primer for Health Care]: https://pdfs.semanticscholar.org/67f7/53ec089e5a8879f241e2be867dad0a2026fb.pdf
 
 [Grounding explanations in evolving, diagnostic situations]: https://pdfs.semanticscholar.org/1bed/356b5aa67c701f5bad6d943768622095f418.pdf
+
+
+[A Tale of Two Stories: Contrasting Views of Patient Safety]: https://www.researchgate.net/publication/245102691_A_Tale_of_Two_Stories_Contrasting_Views_of_Patient_Safety
 
 ### Selected talks
 
@@ -925,6 +929,7 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
 * [The New Look at Error, Safety, and Failure: A Primer for Health Care]
 * [Grounding explanations in evolving, diagnostic situations]
 * [Resilience Engineering: Concepts and Precepts]
+* [A Tale of Two Stories: Contrasting Views of Patient Safety]
 
 [The theory of graceful extensibility: basic rules that govern adaptive systems]: https://link.springer.com/article/10.1007%2Fs10669-018-9708-3
 
