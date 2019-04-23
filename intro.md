@@ -1,17 +1,53 @@
-# Where do I start?
+# Resilience engineering: Where do I start?
 
-(This doc is a work in progress).
+(*This doc is a work in progress. PRs welcome! *).
 
-If you're a software engineer looking to learn about the field of resilience
-engineering, the sheer number of papers can be intimidating. 
+This doc is an attempt at an introductory guide to readings in *resilience engineering*, aimed at software engineers. I've tried to organize a few key papers into themes.
 
-The material can also be confusing because resilience engineering evolved from the
-safety systems community (domains such as aviation, medicine, maritime, space flight, nuclear power,
-military, rail), which means that some papers are reactions to earlier approaches to
-achieving safety, which is context the reader is likely to be missing.
+## Complex systems
 
-I myself am still a novice in this area, so take this guidance with an
-appropriate grain of salt.
+A recurring theme in resilience engineering is about reasoning holistically about *systems*, as opposed to breaking things up into components and reasoning about components separately. This perspective is known as *systems thinking*, which is
+a school of thought that has been influential inthe resilience engineering
+community.
+
+[How complex systems fail](http://web.mit.edu/2.75/resources/random/How%20Complex%20Systems%20Fail.pdf) by 
+Richard I. Cook is a great starting point. It's a short paper and very easy to read.
+
+[Drift into failure](https://www.goodreads.com/book/show/10258783) by Sidney Dekker 
+is a book written for a lay audience, so it is also very readable. Dekker draws
+heavily from systems thinking to propose a theory about how complex systems
+can evolve into unsafe states.
+
+## Changing perspectives on accidents and safety
+
+Resilience engineering as a field emerged from the safety science community.
+That's why you'll often see examples from aviation and medicine, as well as
+other safety critical areas like maritime, space flight, nuclear power, and rail.
+
+Because of this history, the earlier papers that we associate with resilience
+engineering are reactions to previous ways of thinking about accidents in 
+particular and safety in general.
+
+### New look / new view
+
+The "new look" or "new view" refers to a change in perspective on how accidents
+happen, which focuses on understanding how actions taken
+by actors involved in the incident were rational, given what information those
+actors had at the time that events were unfolding.
+
+[Reconstructing human contributions to accidents: the new view on error and performance](https://www.sciencedirect.com/science/article/pii/S0022437502000324) 
+by Dekker is a good place to start here.
+
+### Safety-II
+
+Safety-II is a perspective on the role that humans play in safety-critical 
+critical systems, proposed by Erik Hollnagel. In the Safety-II perspective,
+it is the everyday, normal work of the humans in the system that create the safety,
+as opposed to the errors of humans that erode it.
+
+Hollnagel's [From Safety-I to Safety-II: A White Paper](https://www.skybrary.aero/bookshelf/books/2437.pdf) is a very readable
+introduction to Safety-II concepts.
+
 
 ## Themes
 
@@ -31,8 +67,6 @@ overlap in papers that deal with "automation as a team player".
 
 ## If you read only one paper
 
-Richard I. Cook's [How complex systems fail](http://web.mit.edu/2.75/resources/random/How%20Complex%20Systems%20Fail.pdf) is a great
-starting point. It's short and very easy to read.
 
 ## Classics
 
