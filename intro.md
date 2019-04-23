@@ -73,13 +73,20 @@ automation to be genuinely effective.
 
 ## Boundary as a model
 
-* Rasmussen's [Risk management in a dynamic society: a modelling problem](https://doi.org/10.1016/S0925-7535(97)00052-0) (1997) (paywalled)
+The late Jens Rasmussen is an enormously influential figure in the resilience engineering community.
 
-Rasmussen's body of work is extremely influential in the resilience engineering
-community.  In this widely cited paper, Rasmussen advocates for a cross-disciplinary,
+One of Rasmussen's most famous papers is [Risk management in a dynamic society: a modelling problem](https://doi.org/10.1016/S0925-7535(97)00052-0), published in 1997.
+
+In this widely cited paper, Rasmussen advocates for a cross-disciplinary,
 systems-based approach to thinking about how accidents occur. He argues that
 accidents occur because the system migrates across a dangerous boundary, and
 this migration occurs during the course of normal work.
+
+Here is a depiction of the model from that paper:
+
+![boundary](boundary.png)
+
+
 
 
 ## Coordination
