@@ -1,6 +1,6 @@
 # Resilience engineering: Where do I start?
 
-( *This doc is a work in progress. PRs welcome!* ).
+( *This doc is a work in progress.* ).
 
 This doc is an attempt at an introductory guide to readings in *resilience engineering*, aimed at software engineers. I've tried to organize a few key papers into themes.
 
@@ -28,6 +28,14 @@ Because of this history, the earlier papers that we associate with resilience
 engineering are reactions to previous ways of thinking about accidents in 
 particular and safety in general.
 
+Note that traditional approaches to safety often focus on minimizing variance
+associated with humans doing work, using techniques such as documented
+procedures and enforcement mechanisms for deviating from them. 
+
+For those of us who work on cloud web services, we don't have this legacy of
+enforced procedures to contend with.
+
+
 ### New look / new view
 
 The "new look" or "new view" refers to a change in perspective on how accidents
@@ -36,7 +44,7 @@ by actors involved in the incident were rational, given what information those
 actors had at the time that events were unfolding.
 
 [Reconstructing human contributions to accidents: the new view on error and performance](https://www.sciencedirect.com/science/article/pii/S0022437502000324) 
-by Dekker is a good place to start here.
+by Dekker is a good place to start here. (Alas, it's paywalled).
 
 ### Safety-II
 
@@ -48,35 +56,24 @@ as opposed to the errors of humans that erode it.
 Hollnagel's [From Safety-I to Safety-II: A White Paper](https://www.skybrary.aero/bookshelf/books/2437.pdf) is a very readable
 introduction to Safety-II concepts.
 
+## Automation
 
-## Themes
+One thing we software folk do have in common with the safety-critical world is
+the increased adoption of automation. Automation introduces challenges, and
+the nature of these challenges is a topic of many resilience engineering papers.
 
-Some general themes are:
+[Ironies of automation](https://doi.org/10.1016/0005-1098(83)90046-8) by Lisanne
+Bainbridge is a classic paper on the problems that automation can introduce.
+The paper was originally written in 1983, and continues to be widely cited. 
 
-* changing perspective on accidents and safety
-* automation
-* coordination
-* adaptation
-* coping
-* learning
-
-These themes overlap, and so a paper may touch on multiple themes. For eample, automation and coordination
-overlap in papers that deal with "automation as a team player".
-
+[Ten challenges for making automation a team player](https://ieeexplore.ieee.org/abstract/document/1363742)
+by Klein et al. is a more recent paper that outlines the requirements for
+automation to be genuinely effective.
 
 
-## If you read only one paper
+## Boundary as a model
 
-
-## Classics
-
-These are older papers that are often referenced:
-
-* Bainbridge's [Ironies of automation](https://doi.org/10.1016/0005-1098(83)90046-8) (1983)
 * Rasmussen's [Risk management in a dynamic society: a modelling problem](https://doi.org/10.1016/S0925-7535(97)00052-0) (1997) (paywalled)
-
-Bainbridge's paper on automation is as relevant today as when it was written
-almost 40 years ago.
 
 Rasmussen's body of work is extremely influential in the resilience engineering
 community.  In this widely cited paper, Rasmussen advocates for a cross-disciplinary,
@@ -84,31 +81,6 @@ systems-based approach to thinking about how accidents occur. He argues that
 accidents occur because the system migrates across a dangerous boundary, and
 this migration occurs during the course of normal work.
 
-## Changing perspective on accidents and safety
-
-Over the past few decades, there has been a change in the safety science community about how to understand
-accidents in particular, and safety in general. You may hear terms such as "new look", "new view", or "Safety-II".
-
-
-* Dekker, [Reconstructing human contributions to accidents: the new view on error and performance](https://www.sciencedirect.com/science/article/pii/S0022437502000324) (paywalled)
-* Hollnagel [From Safety-I to Safety-II: A White Paper](https://www.skybrary.aero/bookshelf/books/2437.pdf)
-* Woods & Cook, [The New Look at Error, Safety, and Failure: A Primer for Health Care]
-* Wears, [The error of counting "errors"](https://linkinghub.elsevier.com/retrieve/pii/S0196064408006070) 
-
-## Automation
-
-[Ironies of automation](https://doi.org/10.1016/0005-1098(83)90046-8) is discussed in the [classics](#classics) section.
-
-
-
-* [Ten challenges for making automation a team player]
-* [Cognitive consequences of clumsy automation on high workload, high consequence human performance]
-* [Implications of automation surprises in aviation for the future of total intravenous anesthesia (TIVA)]
-
-
-[Ten challenges for making automation a team player]: https://ieeexplore.ieee.org/abstract/document/1363742
-[Cognitive consequences of clumsy automation on high workload, high consequence human performance]: https://ntrs.nasa.gov/search.jsp?R=19910011398
-[Implications of automation surprises in aviation for the future of total intravenous anesthesia (TIVA)]: https://doi.org/10.1016/S0952-8180(96)90009-4
 
 ## Coordination
 
@@ -117,12 +89,11 @@ tasks together.
 
 [Common Ground and Coordination in Joint Activity]: http://jeffreymbradshaw.net/publications/Common_Ground_Single.pdf
 
-## Adaptation
 
-## Coping
-
+## Coping at the boundary
 
 [Being bumpable](http://csel.eng.ohio-state.edu/productions/woodscta/media/beingbump.pdf) looks at how medical professionals cope with increasing load in environments such as an intensive care unit.
 
-## Learning
+## David Woods
 
+TBD
