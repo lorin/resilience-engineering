@@ -73,6 +73,8 @@ automation to be genuinely effective.
 
 ## Boundary as a model
 
+### Dynamic safety model (Rasmussen)
+
 The late Jens Rasmussen is an enormously influential figure in the resilience engineering community.
 
 One of Rasmussen's most famous papers is [Risk management in a dynamic society: a modelling problem](https://doi.org/10.1016/S0925-7535(97)00052-0), published in 1997.
@@ -87,7 +89,20 @@ Here is a depiction of the model from that paper:
 ![boundary](boundary.png)
 
 
+### Dragons at the boundary (Woods)
 
+David Woods also uses the metaphor of a system moving within a boundary in his writings on resilience engineering, but in
+a slightly different way than Rasmussen.
+
+In Woods's view, there are two different regimes of system behavior: far from the boundary and near the boundary.
+
+When a system is far from the boundary, the system (and its environment) behave as expected. By contrast, when a system
+grows near to the boundary, surprises happen. Woods uses the metaphor of *dragons* to capture the surprises that occur when a system moves near the boundary, and how the system's model of the world is violated when it enters this regime.
+
+It is how units within a system adapt when the system moves near the boundary, how these units deal with the dragons,
+that is one of the prime concerns of Woods. 
+
+[Essentials of Resilience, revisited](https://www.researchgate.net/profile/David_Woods11/publication/330116587_4_Essentials_of_resilience_revisited/links/5c2e448ba6fdccd6b58f871e/4-Essentials-of-resilience-revisited.pdf?origin=publication_detail)
 
 ## Coordination
 
@@ -97,9 +112,6 @@ tasks together.
 [Common Ground and Coordination in Joint Activity]: http://jeffreymbradshaw.net/publications/Common_Ground_Single.pdf
 
 
-## Coping at the boundary
-
-[Being bumpable](http://csel.eng.ohio-state.edu/productions/woodscta/media/beingbump.pdf) looks at how medical professionals cope with increasing load in environments such as an intensive care unit.
 
 ## David Woods
 
