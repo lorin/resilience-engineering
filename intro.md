@@ -9,16 +9,18 @@ papers into themes.
 
 ## Definition of resilience
 
-Different people use the word *resilience* to mean different things.  David
-Woods is, I believe, the most influential researcher in the field of resilience
-engineering.  He defines resilience as the ability of an organization to
-*adapt* in the face of surprise.
+A good place to start is to read about what *resilience* means.  Of course,
+different people tend use the word *resilience* to mean different things.
 
-[Four concepts for resilience and the implications for the future of resilience engineering](https://www.researchgate.net/publication/276139783_Four_concepts_for_resilience_and_the_implications_for_the_future_of_resilience_engineering) is a paper
-by Woods where he discusses four different common usages of the term *resilience*, as well as his
-preferred definition.
+The extremely influential researcher David Woods sees *resilient* organizations
+as those that can adapt effectively to surprise. [Four concepts for resilience
+and the implications for the future of resilience
+engineering](https://www.researchgate.net/publication/276139783_Four_concepts_for_resilience_and_the_implications_for_the_future_of_resilience_engineering)
+by Woods discusses four different common usages of the term *resilience*,
+as well as his preferred definitions.
 
-Another very readable paper by Woods on what resilience means is [Resilience is a verb](https://www.researchgate.net/publication/329035477_Resilience_is_a_Verb)
+Another very readable paper on how Woods defines resilience is [Resilience is a verb](https://www.researchgate.net/publication/329035477_Resilience_is_a_Verb)
+
  
 ## Complex systems
 
