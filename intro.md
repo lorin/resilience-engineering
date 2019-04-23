@@ -2,7 +2,20 @@
 
 ( *This doc is a work in progress.* ).
 
-This doc is an attempt at an introductory guide to readings in *resilience engineering*, aimed at software engineers. I've tried to organize a few key papers into themes.
+This doc is an attempt at an introductory guide to readings in *resilience
+engineering*, aimed at software engineers. I've tried to organize a few key
+papers into themes.
+
+
+## Definition of resilience
+
+David Woods is, I believe, the most influential researcher in the field of resilience engineering.
+He defines resilience as the ability of an organization to *adapt* in the face of surprise.
+
+Two good papers on Woods's perspective on the definition of resilience are: 
+
+* [Resilience is a verb](https://www.researchgate.net/publication/329035477_Resilience_is_a_Verb)
+* [Four concepts for resilience and the implications for the future of resilience engineering](https://www.researchgate.net/publication/276139783_Four_concepts_for_resilience_and_the_implications_for_the_future_of_resilience_engineering)
 
 ## Complex systems
 
