@@ -33,6 +33,7 @@ they're ones I've read or have added to my to-read list.
 * [Shawna J. Perry](#shawna-j-perry)
 * [Jens Rasmussen](#jens-rasmussen)
 * [James Reason](#james-reason)
+* [Emilie M. Roth](#emilie-m-roth)
 * [Nadine Sarter](#nadine-sarter)
 * [James C. Scott](#james-c-scott)
 * [Steven Shorrock](#steven-shorrock)
@@ -520,6 +521,9 @@ in healthcare.
 ### Selected publications
 
 * [Patient boarding in the emergency department as a symptom of complexity-induced risks](https://www.researchgate.net/publication/312624891_Patient_boarding_in_the_emergency_department_as_a_symptom_of_complexity-induced_risks)
+* [Using observational study as a tool for discovery: uncovering cognitive and collaborative demands and adaptive strategies]
+
+[Using observational study as a tool for discovery: uncovering cognitive and collaborative demands and adaptive strategies]: https://www.researchgate.net/profile/Emily_Patterson2/publication/237138704_USING_OBSERVATIONAL_STUDY_AS_A_TOOL_FOR_DISCOVERY_UNCOVERING_COGNITIVE_AND_COLLABORATIVE_DEMANDS_AND_ADAPTIVE_STRATEGIES/links/0deec52c8e310b385a000000.pdf
 
 ## Charles Perrow
 
@@ -659,6 +663,18 @@ Reason developed a model of the types of errors that humans make:
 * [Human error]
 
 [Human error]: https://www.amazon.com/gp/product/0521314194/ref=dbs_a_def_rwt_bibl_vppi_i0
+
+## Emilie M. Roth
+
+[Roth](http://www.rothsite.com/resume.html) is a cognitive psychologist who
+serves as the principal scientist at [Roth Cognitive Engineering](http://www.rothsite.com/), a small
+company that conducts research and application in the areas of human factors
+and applied cognitive psychology (cognitive engineering)
+
+### Selected publications
+
+* [Uncovering the Requirements of Cognitive Work](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.564.2044) (see also [Thai Wood's comments](https://www.getrevue.co/profile/resilience/issues/resilience-roundup-uncovering-the-requirements-of-cognitive-work-issue-30-173410) in his Resilience Roundup newsletter)
+* [Using observational study as a tool for discovery: uncovering cognitive and collaborative demands and adaptive strategies]
 
 ## Nadine Sarter
 
