@@ -4,7 +4,7 @@
 
 This doc is an attempt at an introductory guide to readings in *resilience
 engineering*, aimed at software engineers. I've tried to organize a few key
-papers into themes. These papers should all be accessible to casual readers.
+papers into themes. These papers should be accessible to casual readers.
 
 ## Definition of resilience
 
