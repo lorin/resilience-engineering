@@ -119,38 +119,24 @@ The paper was originally written in 1983, and continues to be widely cited.
 by Klein et al. is a more recent paper that outlines the requirements for automation to be genuinely effective in
 socio-technical systems. This work draws heavily from the theme of *coordination* discussed earlier.
 
-## Boundary as a model
+## Boundary as a model (Rasmussen)
 
-### Dynamic safety model (Rasmussen)
 
 The late Jens Rasmussen is an enormously influential figure in the resilience engineering community.
 
-One of Rasmussen's most famous papers is [Risk management in a dynamic society: a modelling problem](https://doi.org/10.1016/S0925-7535(97)00052-0), published in 1997.
+One of Rasmussen's most famous papers is [Risk management in a dynamic society: a modelling problem](https://doi.org/10.1016/S0925-7535(97)00052-0), published in 1997,
+which introduces Rasmussen's *dynamic safety model*.
 
 In this widely cited paper, Rasmussen advocates for a cross-disciplinary,
 systems-based approach to thinking about how accidents occur. He argues that
 accidents occur because the system migrates across a dangerous boundary, and
 this migration occurs during the course of normal work.
 
-Here is a depiction of the model from that paper:
+Here is a depiction of the dmodel from that paper:
 
 ![boundary](boundary.png)
 
 
-### Dragons at the boundary (Woods)
-
-David Woods also uses the metaphor of a system moving within a boundary in his writings on resilience engineering, but in
-a slightly different way than Rasmussen.
-
-Woods sees the boundary as a *competence envelope*. There are two different regimes of system behavior: far from the boundary and near the boundary.
-
-When a system is far from the boundary, the system (and its environment) behave as expected. By contrast, when a system
-grows near to the boundary, surprises happen. Woods uses the metaphor of *dragons* to capture the surprises that occur when a system moves near the boundary, and how the system's model of the world is violated when it enters this regime.
-
-It is how units within a system adapt when the system moves near the boundary, how these units deal with the dragons,
-that is one of the prime concerns of Woods. 
-
-[Essentials of Resilience, revisited](https://www.researchgate.net/profile/David_Woods11/publication/330116587_4_Essentials_of_resilience_revisited/links/5c2e448ba6fdccd6b58f871e/4-Essentials-of-resilience-revisited.pdf?origin=publication_detail)
 
 ## David Woods
 
@@ -168,6 +154,21 @@ Because he's interested in general principles, many of his papers are written at
 a very abstract level, where he discusses generic concepts such as *units of adaptive
 behavior* or *saturation*.
 
+### Dragons at the boundary
+
+David Woods uses the metaphor of a system moving within a boundary in his writings on resilience engineering, but in
+a slightly different way than Rasmussen.
+
+Woods sees the boundary as a *competence envelope*. There are two different regimes of system behavior: far from the boundary and near the boundary.
+
+When a system is far from the boundary, the system (and its environment) behave as expected. By contrast, when a system
+grows near to the boundary, surprises happen. Woods uses the metaphor of *dragons* to capture the surprises that occur when a system moves near the boundary, and how the system's model of the world is violated when it enters this regime.
+
+It is how units within a system adapt when the system moves near the boundary, how these units deal with the dragons,
+that is one of the prime concerns of Woods. 
+
+Woods's [Essentials of Resilience, revisited](https://www.researchgate.net/profile/David_Woods11/publication/330116587_4_Essentials_of_resilience_revisited/links/5c2e448ba6fdccd6b58f871e/4-Essentials-of-resilience-revisited.pdf?origin=publication_detail) discusses behavior at the boundary, although it doesn't use the *dragon* metaphor.
+
 ### The adaptive universe
 
 Woods's idea of the *adaptive universe* is characterized by three properties:
@@ -184,8 +185,7 @@ I recommend watching Woods's [Resilience Engineering short
 course](http://csel.org.ohio-state.edu/ResilienceEngineering.html), which covers this topic. 
 
 I've written my own [notes on the short course](https://github.com/lorin/res-eng-short-course-notes),
-which you might find useful. In particular, check out my [summary notes](https://github.com/lorin/res-eng-short-course-notes/blob/master/summary.md).
-
+which you might find useful. In particular, you might be interested in my [summary notes](https://github.com/lorin/res-eng-short-course-notes/blob/master/summary.md).
 
 ### Graceful extensibility
 
