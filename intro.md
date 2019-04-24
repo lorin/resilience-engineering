@@ -168,8 +168,6 @@ Because he's interested in general principles, many of his papers are written at
 a very abstract level, where he discusses generic concepts such as *units of adaptive
 behavior* or *saturation*.
 
-I'd consider these topics to be more advanced, but worth digging into.
-
 ### The adaptive universe
 
 Woods's idea of the *adaptive universe* is characterized by three properties:
@@ -178,16 +176,21 @@ Woods's idea of the *adaptive universe* is characterized by three properties:
 * Surprise is fundamental
 * Change never stops
 
-I haven't found a good introductory paper for the adaptive universe. Instead,
-I'd recommend watching his [Resilience Engineering short
-course](http://csel.org.ohio-state.edu/ResilienceEngineering.html), which
-covers this topic. 
+I haven't found a good introductory paper for the adaptive universe, as it 
+encompasses an enormous number of topics, including the topic of *dragons at the boundaries*
+that we discussed earlier.
+
+I recommend watching Woods's [Resilience Engineering short
+course](http://csel.org.ohio-state.edu/ResilienceEngineering.html), which covers this topic. 
 
 I've written my own [notes on the short course](https://github.com/lorin/res-eng-short-course-notes),
 which you might find useful. In particular, check out my [summary notes](https://github.com/lorin/res-eng-short-course-notes/blob/master/summary.md).
 
 
-### Theory of graceful extensibility
+### Graceful extensibility
 
-
+Woods introduced the theory of *graceful extensibility* to capture how successful
+systems are adapt effectively to surprise. The most relevant paper here is [The
+theory of graceful extensibility: basic rules that govern adaptive
+systems](https://link.springer.com/article/10.1007%2Fs10669-018-9708-3).
 
