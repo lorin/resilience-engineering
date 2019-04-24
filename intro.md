@@ -18,7 +18,7 @@ engineering](https://www.researchgate.net/publication/276139783_Four_concepts_fo
 by Woods discusses four different common usages of the term *resilience*,
 as well as his preferred definitions.
 
-Another very readable paper on how Woods defines resilience is [Resilience is a verb](https://www.researchgate.net/publication/329035477_Resilience_is_a_Verb)
+Another very readable paper on how Woods defines resilience is [Resilience is a verb](https://www.researchgate.net/publication/329035477_Resilience_is_a_Verb).
 
 ## Changing perspectives on accidents and safety
 
@@ -132,7 +132,7 @@ systems-based approach to thinking about how accidents occur. He argues that
 accidents occur because the system migrates across a dangerous boundary, and
 this migration occurs during the course of normal work.
 
-Here is a depiction of the dmodel from that paper:
+Here is a depiction of the model from that paper:
 
 ![boundary](boundary.png)
 
@@ -140,7 +140,8 @@ Here is a depiction of the dmodel from that paper:
 
 ## David Woods
 
-Woods is a force of nature in the field of resilience engineering, having
+We've already referenced several papers authored or co-authored by
+David Woods. Woods is a force of nature in the field of resilience engineering, having
 played a key role in creating the field itself. Woods is incredibly prolific,
 and has introduced a wide variety of concepts related to resilience
 engineering. Several of the papers already cited were authored or co-authored
