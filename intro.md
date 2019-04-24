@@ -52,7 +52,7 @@ introductory papers on this topic (alas, both paywalled).
 ### Safety-II
 
 Safety-II is a perspective on the role that humans play in safety-critical 
-critical systems, proposed by Erik Hollnagel. In the Safety-II perspective,
+systems, proposed by Erik Hollnagel. In the Safety-II perspective,
 it is the everyday, normal work of the humans in the system that create the safety,
 as opposed to the errors of humans that erode it.
 
@@ -64,7 +64,7 @@ introduction to Safety-II concepts.
 A recurring theme in resilience engineering is about reasoning holistically
 about *systems*, as opposed to breaking things up into components and reasoning
 about components separately. This perspective is known as *systems thinking*,
-which is a school of thought that has been influential inthe resilience
+which is a school of thought that has been influential in the resilience
 engineering community.
 
 You'll often hear the phrase *socio-technical system*. This language emphasizes that 
@@ -144,8 +144,7 @@ We've already referenced several papers authored or co-authored by
 David Woods. Woods is a force of nature in the field of resilience engineering, having
 played a key role in creating the field itself. Woods is incredibly prolific,
 and has introduced a wide variety of concepts related to resilience
-engineering. Several of the papers already cited were authored or co-authored
-by Woods.
+engineering.
 
 Woods is interested in resilience engineering principles that apply across an
 enormous range of different types of systems: whether we're talking about
@@ -191,7 +190,7 @@ which you might find useful. In particular, you might be interested in my [summa
 ### Graceful extensibility
 
 Woods introduced the theory of *graceful extensibility* to capture how successful
-systems are adapt effectively to surprise. The most relevant paper here is [The
+systems adapt effectively to surprise. The most relevant paper here is [The
 theory of graceful extensibility: basic rules that govern adaptive
 systems](https://link.springer.com/article/10.1007%2Fs10669-018-9708-3).
 
