@@ -83,11 +83,17 @@ Another good article is Dekker's [Why do things go right?](http://www.safetydiff
 
 ## Complex systems 
 
+Ever wonder why resilience engineerig advocates natter on about "no root cause?" 
+
 A recurring theme in resilience engineering is about reasoning holistically
 about *systems*, as opposed to breaking things up into components and reasoning
 about components separately. This perspective is known as *systems thinking*,
 which is a school of thought that has been influential in the resilience
 engineering community.
+
+When you view the world as a system, the idea of *cause* becomes meaningless,
+because there's no way to isolate an individual cause. Instead, the world is
+a tangled web of influences.
 
 You'll often hear the phrase *socio-technical system*. This language emphasizes that 
 systems should be thought of as encompassing both humans and technologies, as opposed to
