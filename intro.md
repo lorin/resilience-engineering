@@ -10,12 +10,15 @@ Let's start by defining what *resilience* means. The extremely influential
 researcher David Woods defines *resilient* organizations as those that can adapt
 effectively to surprise. 
 
-Note that this definition is different from what we normally associate with
-building reliable systems. If you read a book like Michael Nygard's [Release It!](https://pragprog.com/book/mnee2/release-it-second-edition), you'll read about techniques such as retries,
-fallbacks, circuit breakers, and bulkheads. These techniques are useful for
-gracefully handling certain kinds of failure modes that we can anticipate in
-advance. Woods uses the term **robustness** to refer to systems that are designed to
-handle known failure modes well. Systems designed using Nygard's principles are robust.
+Note that this definition is very different from how the software industry
+generally thinks about building highly available systems. If you read a book
+like Michael Nygard's [Release
+It!](https://pragprog.com/book/mnee2/release-it-second-edition), you'll read
+about techniques such as retries, fallbacks, circuit breakers, and bulkheads.
+These techniques are useful for gracefully handling certain kinds of failure
+modes that we can anticipate in advance. Woods uses the term **robustness** to
+refer to systems that are designed to handle known failure modes well. Systems
+designed using Nygard's principles are robust.
 
 Resilience, on the other hand, describes how well the system can handle
 troubles that were not foreseeable by the designer. You can think of robustness
@@ -25,8 +28,8 @@ to deal well with *unknown unknowns*.
 [Four concepts for resilience and the implications for
 the future of resilience
 engineering](https://www.researchgate.net/publication/276139783_Four_concepts_for_resilience_and_the_implications_for_the_future_of_resilience_engineering)
-by Woods discusses four different common usages of the term *resilience*,
-and describes why he considers *robustness* to be a separate concept.
+by Woods discusses four different common usages of the term *resilience*.
+In particular, he describes why he considers *robustness* to be a different concept.
 
 Another very readable paper on how Woods defines resilience is [Resilience is a verb](https://www.researchgate.net/publication/329035477_Resilience_is_a_Verb).
 
