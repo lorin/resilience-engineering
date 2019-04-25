@@ -6,17 +6,24 @@ This doc is an attempt at an introductory guide to readings in *resilience
 engineering*, aimed at software engineers. I've tried to organize a few key
 papers into themes. These papers should be accessible to casual readers.
 
-## Definition of resilience
+## What is resilience?
 
-A good place to start is to read about what *resilience* means.  Of course,
-different people tend use the word *resilience* to mean different things.
+Let's start by defining what *resilience* means. The extremely influential
+researcher David Woods defines *resilient* organizations as those that can adapt
+effectively to surprise. 
 
-The extremely influential researcher David Woods sees *resilient* organizations
-as those that can adapt effectively to surprise. [Four concepts for resilience
-and the implications for the future of resilience
+Note that when we use techniques such as retries, fallbacks, circuit breakers, bulkheads,
+and adaptive concurrency limits, we're designing our system to gracefully
+handle known failure modes. Woods refers to this as **robustness**, not
+resilience. Robustness captuers how well we handle troubles that we can foresee
+(known unknowns). Resilience capture how well we can handle troubles that we
+did not foresee (unknown unknowns).
+
+[Four concepts for resilience and the implications for
+the future of resilience
 engineering](https://www.researchgate.net/publication/276139783_Four_concepts_for_resilience_and_the_implications_for_the_future_of_resilience_engineering)
 by Woods discusses four different common usages of the term *resilience*,
-as well as his preferred definitions.
+and describes why he considers *robustness* to be a separate concept.
 
 Another very readable paper on how Woods defines resilience is [Resilience is a verb](https://www.researchgate.net/publication/329035477_Resilience_is_a_Verb).
 
