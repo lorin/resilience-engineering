@@ -52,6 +52,12 @@ happen, which focuses on understanding how actions taken
 by actors involved in the incident were rational, given what information those
 actors had at the time that events were unfolding.
 
+Johan Bergström of Lund University has three excellent short (<10 minute) videos:
+
+* [Was it technical failure or human error?](https://www.youtube.com/watch?v=Ygx2AI2RtkI)
+* [Three analytical traps in accident investigation](https://www.youtube.com/watch?v=TqaFT-0cY7U)
+* [Two views on human error](https://www.youtube.com/watch?v=rHeukoWWtQ8)
+
 [Reconstructing human contributions to accidents: the new view on error and performance](https://www.sciencedirect.com/science/article/pii/S0022437502000324) 
 by Dekker and [The eror of counting errors](https://doi.org/10.1016/j.annemergmed.2008.03.015) by Robert Wears are two great
 introductory papers on this topic (alas, both paywalled).
