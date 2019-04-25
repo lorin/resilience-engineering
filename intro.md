@@ -62,6 +62,7 @@ Johan Bergström of Lund University has three excellent short (<10 minute) video
 by Dekker and [The eror of counting errors](https://doi.org/10.1016/j.annemergmed.2008.03.015) by Robert Wears are two great
 introductory papers on this topic (alas, both paywalled).
 
+
 ### Safety-II
 
 Safety-II is a perspective on the role that humans play in safety-critical 
@@ -71,6 +72,8 @@ as opposed to the errors of humans that erode it.
 
 Hollnagel's [From Safety-I to Safety-II: A White Paper](https://www.skybrary.aero/bookshelf/books/2437.pdf) is a very readable
 introduction to Safety-II concepts.
+
+Another good article is Dekker's [Why do things go right?](http://www.safetydifferently.com/why-do-things-go-right/) on the [Safety Differently](http://www.safetydifferently.com) website.
 
 ## Complex systems 
 
