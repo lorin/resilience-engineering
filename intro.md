@@ -101,7 +101,7 @@ Another good article is Dekker's [Why do things go right?](http://www.safetydiff
 
 ## Complex systems 
 
-Ever wonder why resilience engineerig advocates natter on about "no root cause?" 
+Ever wonder why resilience engineering advocates natter on about "no root cause?" 
 
 A recurring theme in resilience engineering is about reasoning holistically
 about *systems*, as opposed to breaking things up into components and reasoning
