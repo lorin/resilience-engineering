@@ -2,9 +2,24 @@
 
 This doc is an attempt at an introductory guide to readings in *resilience
 engineering*, aimed at software engineers. I've tried to organize a few key
-papers into themes. These papers should be accessible to casual readers.
+papers into themes:
+
+
+* What is resilience?
+* Changing perspectives on accidents and safety
+* Complex systems
+* Boundary as a model (Rasmussen)
+
+The papers linked here should all be accessible to casual readers.
 
 ## What is resilience?
+
+* [Four concepts for resilience and the implications for the future of resilience engineering]
+* [Resilience is a verb]
+
+[Four concepts for resilience and the implications for the future of resilience engineering]: https://www.researchgate.net/publication/276139783_Four_concepts_for_resilience_and_the_implications_for_the_future_of_resilience_engineering
+[Resilience is a verb]: https://www.researchgate.net/publication/329035477_Resilience_is_a_Verb
+
 
 Let's start by defining what *resilience* means. The extremely influential
 researcher David Woods defines *resilient* organizations as those that can adapt
@@ -27,11 +42,11 @@ to deal well with *unknown unknowns*.
 
 [Four concepts for resilience and the implications for
 the future of resilience
-engineering](https://www.researchgate.net/publication/276139783_Four_concepts_for_resilience_and_the_implications_for_the_future_of_resilience_engineering)
+engineering]
 by Woods discusses four different common usages of the term *resilience*.
 In particular, he describes why he considers *robustness* to be a different concept.
 
-Another very readable paper on how Woods defines resilience is [Resilience is a verb](https://www.researchgate.net/publication/329035477_Resilience_is_a_Verb).
+Another very readable paper on how Woods defines resilience is [Resilience is a verb].
 
 ## Changing perspectives on accidents and safety
 
