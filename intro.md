@@ -8,6 +8,8 @@ papers into themes:
 * What is resilience?
 * Changing perspectives on accidents and safety
 * Complex systems
+* Coordination
+* Automation
 * Boundary as a model (Rasmussen)
 * David Woods
 
