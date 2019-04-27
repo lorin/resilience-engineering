@@ -5,13 +5,13 @@ engineering*, aimed at software engineers. I've tried to organize a few key
 papers into themes:
 
 
-* What is resilience?
-* Changing perspectives on accidents and safety
-* Complex systems
-* Coordination
-* Automation
-* Boundary as a model (Rasmussen)
-* David Woods
+* [What is resilience?](#what-is-resilience)
+* [Changing perspectives on accidents and safety](#changing-perspectives-on-accidents-and-safety)
+* [Complex systems](#complex-systems)
+* [Coordination](#coordination)
+* [Automation](#automation)
+* [Boundary as a model (Rasmussen)](#boundary-as-a-model-rasmussen)
+* [David Woods](#david-woods)
 
 The papers linked here should all be accessible to casual readers.
 
