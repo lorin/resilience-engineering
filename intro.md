@@ -80,9 +80,11 @@ Johan Bergström of Lund University has three excellent short (<10 minute) video
 * [Three analytical traps in accident investigation](https://www.youtube.com/watch?v=TqaFT-0cY7U)
 * [Two views on human error](https://www.youtube.com/watch?v=rHeukoWWtQ8)
 
-[Reconstructing human contributions to accidents: the new view on error and performance](https://www.sciencedirect.com/science/article/pii/S0022437502000324) 
-by Dekker and [The eror of counting errors](https://doi.org/10.1016/j.annemergmed.2008.03.015) by Robert Wears are two great
-introductory papers on this topic (alas, both paywalled).
+Two great introductory papers (alas, both paywalled) are:
+
+* [Reconstructing human contributions to accidents: the new view on error and performance](https://www.sciencedirect.com/science/article/pii/S0022437502000324) 
+by Dekker 
+* [The eror of counting errors](https://doi.org/10.1016/j.annemergmed.2008.03.015) by Robert Wears
 
 
 ### Safety-II
@@ -92,10 +94,9 @@ systems, proposed by Erik Hollnagel. In the Safety-II perspective,
 it is the everyday, normal work of the humans in the system that create the safety,
 as opposed to the errors of humans that erode it.
 
-Hollnagel's [From Safety-I to Safety-II: A White Paper](https://www.skybrary.aero/bookshelf/books/2437.pdf) is a very readable
+* [From Safety-I to Safety-II: A White Paper](https://www.skybrary.aero/bookshelf/books/2437.pdf) by Hollnagel is a very readable
 introduction to Safety-II concepts.
-
-Another good article is Dekker's [Why do things go right?](http://www.safetydifferently.com/why-do-things-go-right/) on the [Safety Differently](http://www.safetydifferently.com) website.
+* [Why do things go right?](http://www.safetydifferently.com/why-do-things-go-right/) by Dekker on the [Safety Differently](http://www.safetydifferently.com) website is another good article.
 
 ## Complex systems 
 
@@ -116,13 +117,8 @@ systems should be thought of as encompassing both humans and technologies, as op
 thinking about technological aspects in isolation. 
 
 
-[How complex systems fail](http://web.mit.edu/2.75/resources/random/How%20Complex%20Systems%20Fail.pdf) by 
-Richard I. Cook is a great starting point. It's a short paper and very easy to read.
-
-[Drift into failure](https://www.goodreads.com/book/show/10258783) by Sidney Dekker 
-is a book written for a lay audience, so it is also very readable. Dekker draws
-heavily from systems thinking to propose a theory about how complex systems
-can evolve into unsafe states.
+* [How complex systems fail](http://web.mit.edu/2.75/resources/random/How%20Complex%20Systems%20Fail.pdf) by Richard I. Cook is a great starting point. It's a short paper and very easy to read.
+* [Drift into failure](https://www.goodreads.com/book/show/10258783) by Sidney Dekker is a book written for a lay audience, so it is also very readable. Dekker draws heavily from systems thinking to propose a theory about how complex systems can evolve into unsafe states.
 
 
 ## Coordination
@@ -132,7 +128,7 @@ in some way to achieve a task. One particularly relevant example involves a coll
 working together to troubleshoot and repair a system during an ongoing
 incident.
 
-[Common Ground and Coordination in Joint Activity] is an oft-cited paper on what is required for people
+* [Common Ground and Coordination in Joint Activity] is an oft-cited paper on what is required for people
 to effectively coordinate when working on tasks together.
 
 [Common Ground and Coordination in Joint Activity]: http://jeffreymbradshaw.net/publications/Common_Ground_Single.pdf
@@ -155,11 +151,11 @@ this community is very concerned about the potential *brittleness* associated wi
 use of automation.
 
 
-[Ironies of automation](https://doi.org/10.1016/0005-1098(83)90046-8) by Lisanne
+* [Ironies of automation](https://doi.org/10.1016/0005-1098(83)90046-8) by Lisanne
 Bainbridge is a classic paper on the problems that automation can introduce.
 The paper was originally written in 1983, and continues to be widely cited. 
 
-[Ten challenges for making automation a team player](https://ieeexplore.ieee.org/abstract/document/1363742)
+* [Ten challenges for making automation a team player](https://ieeexplore.ieee.org/abstract/document/1363742)
 by Klein et al. is a more recent paper that outlines the requirements for automation to be genuinely effective in
 socio-technical systems. This work draws heavily from the theme of *coordination* discussed earlier.
 
