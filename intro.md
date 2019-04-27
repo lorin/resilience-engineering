@@ -33,7 +33,7 @@ system to gracefully handle these situations.
 Woods uses the term **robustness** to refer to systems that are designed to
 effectively handle known failure modes.
 
-Resilience, on the other hand, describes how well the system can handle
+**Resilience**, on the other hand, describes how well the system can handle
 troubles that were not foreseeable by the designer. You can think of robustness
 as being able to deal well with *known unknowns*, and resilience as being able
 to deal well with *unknown unknowns*.
