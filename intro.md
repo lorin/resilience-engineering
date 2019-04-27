@@ -17,39 +17,37 @@ The papers linked here should all be accessible to casual readers.
 
 ## What is resilience?
 
-* [Four concepts for resilience and the implications for the future of resilience engineering]
-* [Resilience is a verb]
+A *resilient* organization **adapts effectively to surprise**.
 
-[Four concepts for resilience and the implications for the future of resilience engineering]: https://www.researchgate.net/publication/276139783_Four_concepts_for_resilience_and_the_implications_for_the_future_of_resilience_engineering
-[Resilience is a verb]: https://www.researchgate.net/publication/329035477_Resilience_is_a_Verb
+Here I'm using the definition proposed by [David Woods](https://complexity.osu.edu/people/woods.2).
+Before going into more detail about *resilience*, it's important to distinguish it from
+a different concept that Woods calls *robustness*.
 
+### Robustness vs. resilience
 
-Let's start by defining what *resilience* means. The extremely influential
-researcher David Woods defines *resilient* organizations as those that can adapt
-effectively to surprise. 
+When we talk about designing highly available systems, we usually cover
+techniques such as redundancy, retries, fallbacks, and failovers. We think about
+what might go wrong (e.g., server failure, network partition), and design our
+system to gracefully handle these situations.
 
-Note that this definition is very different from how the software industry
-generally thinks about building highly available systems. If you read a book
-like Michael Nygard's [Release
-It!](https://pragprog.com/book/mnee2/release-it-second-edition), you'll read
-about techniques such as retries, fallbacks, circuit breakers, and bulkheads.
-These techniques are useful for gracefully handling certain kinds of failure
-modes that we can anticipate in advance. Woods uses the term **robustness** to
-refer to systems that are designed to handle known failure modes well. Systems
-designed using Nygard's principles are robust.
+Woods uses the term **robustness** to refer to systems that are designed to
+effectively handle known failure modes.
 
 Resilience, on the other hand, describes how well the system can handle
 troubles that were not foreseeable by the designer. You can think of robustness
 as being able to deal well with *known unknowns*, and resilience as being able
 to deal well with *unknown unknowns*.
 
-[Four concepts for resilience and the implications for
+* [Four concepts for resilience and the implications for
 the future of resilience
 engineering]
 by Woods discusses four different common usages of the term *resilience*.
 In particular, he describes why he considers *robustness* to be a different concept.
+* [Resilience is a verb] is another very readable paper on how Woods defines resilience.
 
-Another very readable paper on how Woods defines resilience is [Resilience is a verb].
+
+[Four concepts for resilience and the implications for the future of resilience engineering]: https://www.researchgate.net/publication/276139783_Four_concepts_for_resilience_and_the_implications_for_the_future_of_resilience_engineering
+[Resilience is a verb]: https://www.researchgate.net/publication/329035477_Resilience_is_a_Verb
 
 ## Changing perspectives on accidents and safety
 
