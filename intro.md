@@ -164,8 +164,8 @@ socio-technical systems. This work draws heavily from the theme of *coordination
 
 The late Jens Rasmussen is an enormously influential figure in the resilience engineering community.
 
-One of Rasmussen's most famous papers is [Risk management in a dynamic society: a modelling problem](https://doi.org/10.1016/S0925-7535(97)00052-0), published in 1997,
-which introduces Rasmussen's *dynamic safety model*.
+* [Risk management in a dynamic society: a modelling problem](https://doi.org/10.1016/S0925-7535(97)00052-0), published in 1997,
+is one of Rasmussen's most famous papers, which introduces Rasmussen's *dynamic safety model*.
 
 In this widely cited paper, Rasmussen advocates for a cross-disciplinary,
 systems-based approach to thinking about how accidents occur. He argues that
@@ -222,15 +222,16 @@ encompasses an enormous number of topics, including the topic of *dragons at the
 that we discussed earlier.
 
 I recommend watching Woods's [Resilience Engineering short
-course](http://csel.org.ohio-state.edu/ResilienceEngineering.html), which covers this topic. 
-
-I've written my own [notes on the short course](https://github.com/lorin/res-eng-short-course-notes),
-which you might find useful. In particular, you might be interested in my [summary notes](https://github.com/lorin/res-eng-short-course-notes/blob/master/summary.md).
+course](http://csel.org.ohio-state.edu/ResilienceEngineering.html), which
+covers this topic.  I've written my own [notes on the short
+course](https://github.com/lorin/res-eng-short-course-notes), which you might
+find useful. In particular, you might be interested in my [summary
+notes](https://github.com/lorin/res-eng-short-course-notes/blob/master/summary.md).
 
 ### Graceful extensibility
 
 Woods introduced the theory of *graceful extensibility* to capture how successful
-systems adapt effectively to surprise. The most relevant paper here is [The
-theory of graceful extensibility: basic rules that govern adaptive
-systems](https://link.springer.com/article/10.1007%2Fs10669-018-9708-3).
+systems adapt effectively to surprise. The most relevant paper here is:
+
+* [The theory of graceful extensibility: basic rules that govern adaptive systems](https://link.springer.com/article/10.1007%2Fs10669-018-9708-3).
 
