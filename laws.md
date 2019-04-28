@@ -1,26 +1,49 @@
 # Laws, tradeoffs and theorems
 
-## Law of fluency
+Many of these are from [Beyond Simon’s Slice: Five Fundamental Trade-Offs that Bound the Performance of Macrocognitive Work Systems]
+by Hoffman and Woods.
+
+[Beyond Simon’s Slice: Five Fundamental Trade-Offs that Bound the Performance of Macrocognitive Work Systems]: https://cmapsinternal.ihmc.us/rid=1K2MHS0D4-1ZT3XRF-HPX/46.%2520Simon's%2520Slice.pdf
+
+* Laws
+  - Law of fluency
+  - Law of stretched systems
+  - Law of requisite variety
+  - Laws of the adaptive universe
+  - Law of coordinative entropy
+  - Mr. Weasley's Law
+  - The Law of the Kludge
+* Tradeoffs
+  - Efficiency-thoroughness tradeoff
+  - Optimality-brittleness tradeoff
+* Theroems
+   - Theorems of graceful extensibility
+
+## Laws
+
+### Law of fluency
 
 Well-adapted cognitive work occurs with a facility that belies the difficulty
 of resolving demands and balancing dilemmas
 
-Source: <https://cmapsinternal.ihmc.us/rid=1K2MHS0D4-1ZT3XRF-HPX/46.%2520Simon's%2520Slice.pdf>
+Source: [Beyond Simon’s Slice: Five Fundamental Trade-Offs that Bound the Performance of Macrocognitive Work Systems]
 
-## Law of stretched systems
+### Law of stretched systems
 
 Every system is stretched to operate at its capacity. 
 
-Source: <https://cmapsinternal.ihmc.us/rid=1K2MHS0D4-1ZT3XRF-HPX/46.%2520Simon's%2520Slice.pdf>
+Source: [Beyond Simon’s Slice: Five Fundamental Trade-Offs that Bound the Performance of Macrocognitive Work Systems]
 
-## Law of requisite variety
+### Law of requisite variety
 
 The larger the variety of actions available to a control system, the larger the
 variety of perturbations it is able to compensate.
 
+This is also called the first law of cybernetics or Ashby's law.
+
 Source: <http://pespmc1.vub.ac.be/REQVAR.html>
 
-## Laws of the adaptive universe
+### Laws of the adaptive universe
 
 * Resources are finite
 * Surprise is fundamental
@@ -28,7 +51,35 @@ Source: <http://pespmc1.vub.ac.be/REQVAR.html>
 
 Source: <http://csel.org.ohio-state.edu/ResilienceEngineering.html>
 
-## Efficiency-thoroughness tradeoff
+### Law of coordinative entropy
+
+Coordination costs, continuously. 
+
+Source: [Beyond Simon’s Slice: Five Fundamental Trade-Offs that Bound the Performance of Macrocognitive Work Systems]
+
+### Law of systems as surrogates
+
+Technology reflects the stances, agendas, and goals of those who design and deploy the technology. 
+
+Source: [Beyond Simon’s Slice: Five Fundamental Trade-Offs that Bound the Performance of Macrocognitive Work Systems]
+
+### Mr. Weasley's Law
+
+Never trust anything that can think for itself if you can’t see where it keeps its brain.
+
+Source: [Beyond Simon’s Slice: Five Fundamental Trade-Offs that Bound the Performance of Macrocognitive Work Systems]
+
+### The Law of the Kludge
+
+Work systems always require workarounds, with resultant kludges that attempt
+to bridge the gap between the original design objectives and current realities
+or to reconcile conflicting goals among workers. 
+
+Source: [Beyond Simon’s Slice: Five Fundamental Trade-Offs that Bound the Performance of Macrocognitive Work Systems]
+
+## Tradeoffs
+
+### Efficiency-thoroughness tradeoff
 
 People (and organisations) as part of their activities frequently – or always –
 have to make a trade-off between the resources (primarily time and effort) they
@@ -37,20 +88,20 @@ effort) they spend on doing it.
 
 Source: <http://erikhollnagel.com/ideas/etto-principle/index.html>
 
-## Optimality-brittleness tradeoff
+### Optimality-brittleness tradeoff
 
 The pursuit of increases in optimality with respect to some criteria 
 guarantees an increase in brittleness with respect to changes or variations
 that fall outside of those criteria.
 
-Source: <https://cmapsinternal.ihmc.us/rid=1K2MHS0D4-1ZT3XRF-HPX/46.%2520Simon's%2520Slice.pdf>
+Source: [Beyond Simon’s Slice: Five Fundamental Trade-Offs that Bound the Performance of Macrocognitive Work Systems]
 
+## Theorems
 
-##  Thereoms of graceful extensibility
+### Theorems of graceful extensibility
 
 * *UAB* stands for unit of adaptive behavior
 * *CfM* stands for capacity for maneuver
-
 
 1. Adaptive capacity is finite
 2. Events will produce demands that challenge boundaries on the adaptive
@@ -68,29 +119,4 @@ Source: <https://cmapsinternal.ihmc.us/rid=1K2MHS0D4-1ZT3XRF-HPX/46.%2520Simon's
    by shifts and contrasts over multiple perspectives.
 10. Reflective systems risk mis-calbiration
 
-
-## Law of coordinative entropy
-
-Coordination costs, continuously. 
-
-Source: <https://cmapsinternal.ihmc.us/rid=1K2MHS0D4-1ZT3XRF-HPX/46.%2520Simon's%2520Slice.pdf>
-
-## Law of systems as surrogates
-
-Technology reflects the stances, agendas, and goals of those who design and deploy the technology. 
-
-Source: <https://cmapsinternal.ihmc.us/rid=1K2MHS0D4-1ZT3XRF-HPX/46.%2520Simon's%2520Slice.pdf>
-
-## Mr. Weasley's Law
-
-Never trust anything that can think for itself if you can’t see where it keeps its brain.
-
-Source: <https://cmapsinternal.ihmc.us/rid=1K2MHS0D4-1ZT3XRF-HPX/46.%2520Simon's%2520Slice.pdf>
-
-## The Law of the Kludge
-
-Work systems always require workarounds, with resultant kludges that attempt
-to bridge the gap between the original design objectives and current realities
-or to reconcile conflicting goals among workers. 
-
-Source: <https://cmapsinternal.ihmc.us/rid=1K2MHS0D4-1ZT3XRF-HPX/46.%2520Simon's%2520Slice.pdf>
+Source: [The Theory of Graceful Extensibility: Basic rules that govern adaptive systems](https://www.researchgate.net/publication/327427067_The_Theory_of_Graceful_Extensibility_Basic_rules_that_govern_adaptive_systems)
