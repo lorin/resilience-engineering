@@ -1,9 +1,10 @@
 Alias: <http://resiliencepapers.club> (thanks to [John Allspaw](https://twitter.com/allspaw)).
 
-This file contains notes about people active in resilience engineering, organized
-alphabetically. I'm using these notes to help get my head around the players and concepts.
-
 If you're not sure what to read first, check out [Resilience engineering: Where do I start?](intro.md)
+
+This file contains notes about people active in resilience engineering, as well as some influential
+researchers who are no longer with us, organized alphabetically. I'm using
+these notes to help get my head around the players and concepts.
 
 You might also be interested in my [notes on David Woods's Resilience Engineering short course](https://github.com/lorin/res-eng-short-course-notes).
 
