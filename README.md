@@ -39,6 +39,7 @@ they're ones I've read or have added to my to-read list.
 * [Nadine Sarter](#nadine-sarter)
 * [James C. Scott](#james-c-scott)
 * [Steven Shorrock](#steven-shorrock)
+* [Barry Turner](#barry-turner)
 * [Diane Vaughan](#diane-vaughan)
 * [Robert L. Wears](#robert-l-wears)
 * [David Woods](#david-woods)
@@ -765,6 +766,14 @@ Vaughan is a sociology researcher who did a famous study of the NASA Challenger 
 
 * [The Challenger Launch Decision: Risky Technology, Culture, and Deviance at
   NASA](https://www.amazon.com/Challenger-Launch-Decision-Technology-Deviance/dp/022634682X/ref=sr_1_1?ie=UTF8&qid=1545966442&sr=8-1&keywords=diane+vaughan)
+
+## Barry Turner
+
+[Turner](https://www.tandfonline.com/doi/pdf/10.1080/10245289508523441) was a sociologist who greatly influenced the field of organization studies. 
+
+### Selected publications
+
+* [Man-made disasters](https://www.amazon.com/Man-Made-Disasters-Second-Barry-Turner/dp/0750620870/ref=sr_1_1)
 
 ## David Woods
 
