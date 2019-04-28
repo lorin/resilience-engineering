@@ -1,8 +1,7 @@
 # Resilience engineering: Where do I start?
 
-This doc is an attempt at an introductory guide to readings in *resilience
-engineering*, aimed at software engineers. I've tried to organize a few key
-papers into themes:
+This an introductory guide to readings in *resilience engineering*, aimed at software engineers. Key
+papers are organized into themes:
 
 
 * [What is resilience?](#what-is-resilience)
