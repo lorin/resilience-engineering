@@ -142,6 +142,7 @@ Bergström tweets as [@bergstrom_johan](https://twitter.com/bergstrom_johan).
    - Counterfactual reasoning
    - Normative language
    - Mechanistic reasoning
+* Generic competencies
 
 ### Selected publications
 
@@ -253,6 +254,7 @@ Dekker developed the theory of *drift*, characterized by five concepts:
 * systems theory
 * unruly technology
 * decrementalism
+* generic competencies
 
 ### Selected publications
 
@@ -766,7 +768,7 @@ Vaughan is a sociology researcher who did a famous study of the NASA Challenger 
 
 ## David Woods
 
-Woods has a resesarch background in cognitive systems engineering and did work
+[Woods](https://complexity.osu.edu/people/woods.2) has a resesarch background in cognitive systems engineering and did work
 researching NASA accidents.  He is one of the founders [Adaptive Capacity
 Labs](http://www.adaptivecapacitylabs.com/), a resilience engineering
 consultancy.
@@ -912,6 +914,7 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
 * joint cognitive systems
 * automation as a "team player"
 * "new look"
+* sacrifice judgment
 
 ### Selected publications
 
