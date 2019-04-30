@@ -281,7 +281,7 @@ systems.
 * constraints that deconstrain
 * protocol-based architectures
 * emergent constraints
-* Universal laws and arcthitectures
+* Universal laws and architectures
 * conservation laws
 * universal architectures
 * Highly optimized tolerance
@@ -289,7 +289,7 @@ systems.
 
 ### Selected publications
 
-* [Universal Laws and Archiectures](http://www.cis.upenn.edu/~ngns/docs/Review_2010/Doyle%20MURI%202010.pdf) (slides)
+* [Universal Laws and Architectures](http://www.cis.upenn.edu/~ngns/docs/Review_2010/Doyle%20MURI%202010.pdf) (slides)
 * [Contrasting Views of Complexity and Their Implications For Network-Centric Infrastructures](http://dx.doi.org/10.1109/TSMCA.2010.2048027)
 * [Architecture, constraints, and behavior](https://www.pnas.org/content/108/Supplement_3/15624)
 * [The “robust yet fragile” nature of the Internet](https://doi.org/10.1073/pnas.0501426102)
@@ -604,11 +604,11 @@ Source: [Risk management in a dynamic society: a modelling problem]
 ### Concepts
 * Dynamic safety model
 * Migration toward accidents
-* Risk maangement framework
+* Risk management framework
 * Boundaries:
     - boundary of functionally acceptable performance
     - boundary to economic failure
-    - boundary to unnaceptable work load
+    - boundary to unacceptable work load
 * Cognitive systems engineering
 * Skill-rule-knowledge (SKR) model
 * AcciMaps
@@ -650,7 +650,7 @@ Reason is a psychology researcher who did work on understanding and categorizing
 Reason developed an accident casuation model that is sometimes known as the *swiss cheese* model of accidents.
 In this model, Reason introduced the terms "sharp end" and "blunt end".
 
-#### Human Error model: Slips, laspses and mistakes
+#### Human Error model: Slips, lapses and mistakes
 
 Reason developed a model of the types of errors that humans make:
 
@@ -694,7 +694,7 @@ She is the director of the Center for Ergonomics at the University of Michigan.
 * organization safety
 * human-automation/robot interaction
 * human error / error management
-* attention / interruption maangement
+* attention / interruption management
 * design of decision support systems
 
 
@@ -778,7 +778,7 @@ Vaughan is a sociology researcher who did a famous study of the NASA Challenger 
 
 ## David Woods
 
-[Woods](https://complexity.osu.edu/people/woods.2) has a resesarch background in cognitive systems engineering and did work
+[Woods](https://complexity.osu.edu/people/woods.2) has a research background in cognitive systems engineering and did work
 researching NASA accidents.  He is one of the founders [Adaptive Capacity
 Labs](http://www.adaptivecapacitylabs.com/), a resilience engineering
 consultancy.
@@ -832,11 +832,11 @@ From [The theory of graceful extensibility: basic rules that govern adaptive sys
 6. Adaptive capacity is the potential for adjusting patterns of action to
    handle future situations, events, opportunities and disruptions
 7. Performance of a UAB as it approaches saturation is different from the
-   perforamnce of that UAB when it operates far from saturation
+   performance of that UAB when it operates far from saturation
 8. All UABs are local
 9. There are bounds on the perspective any UAB, but these limits are overcome
    by shifts and contrasts over multiple perspectives.
-10. Reflective systems risk mis-calbiration
+10. Reflective systems risk mis-calibration
 
 (Shorter wording)
 
@@ -906,7 +906,7 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
 * Properties of resilient organizations
     - Tangible experience with surprise
     - uneasy about the precarious present
-    - push intiative down
+    - push initiative down
     - reciprocity
     - align goals across multiple units
 * goal conflicts, goal interactions (follow them!)
