@@ -281,7 +281,7 @@ systems.
 * constraints that deconstrain
 * protocol-based architectures
 * emergent constraints
-* Universal laws and arcthitectures
+* Universal laws and architectures
 * conservation laws
 * universal architectures
 * Highly optimized tolerance
@@ -363,7 +363,7 @@ Safety-I: avoiding things that go wrong
 * systems are decomposable
 * functioning is bimodal
 
-Saefty-II: performance variability rather than bimodality
+Safety-II: performance variability rather than bimodality
 * the system’s ability to succeed under varying conditions, so that the number
   of intended and acceptable outcomes (in other words, everyday activities) is
   as high as possible
@@ -471,7 +471,7 @@ See [STAMP](STAMP.md) for some more detailed notes of mine.
 * CAST (causal analysis based on STAMP) accident analysis technique
 * Systems thinking
 * hazard
-* interactivy complexity
+* interactive complexity
 * system accident
 * dysfunctional interactions
 * safety constraints
@@ -604,11 +604,11 @@ Source: [Risk management in a dynamic society: a modelling problem]
 ### Concepts
 * Dynamic safety model
 * Migration toward accidents
-* Risk maangement framework
+* Risk management framework
 * Boundaries:
     - boundary of functionally acceptable performance
     - boundary to economic failure
-    - boundary to unnaceptable work load
+    - boundary to unacceptable work load
 * Cognitive systems engineering
 * Skill-rule-knowledge (SKR) model
 * AcciMaps
@@ -648,10 +648,10 @@ Reason is a psychology researcher who did work on understanding and categorizing
 
 #### Accident causation model (Swiss cheese model)
 
-Reason developed an accident casuation model that is sometimes known as the *swiss cheese* model of accidents.
+Reason developed an accident causation model that is sometimes known as the *swiss cheese* model of accidents.
 In this model, Reason introduced the terms "sharp end" and "blunt end".
 
-#### Human Error model: Slips, laspses and mistakes
+#### Human Error model: Slips, lapses and mistakes
 
 Reason developed a model of the types of errors that humans make:
 
@@ -695,7 +695,7 @@ She is the director of the Center for Ergonomics at the University of Michigan.
 * organization safety
 * human-automation/robot interaction
 * human error / error management
-* attention / interruption maangement
+* attention / interruption management
 * design of decision support systems
 
 
@@ -779,7 +779,7 @@ Vaughan is a sociology researcher who did a famous study of the NASA Challenger 
 
 ## David Woods
 
-[Woods](https://complexity.osu.edu/people/woods.2) has a resesarch background in cognitive systems engineering and did work
+[Woods](https://complexity.osu.edu/people/woods.2) has a research background in cognitive systems engineering and did work
 researching NASA accidents.  He is one of the founders [Adaptive Capacity
 Labs](http://www.adaptivecapacitylabs.com/), a resilience engineering
 consultancy.
@@ -833,7 +833,7 @@ From [The theory of graceful extensibility: basic rules that govern adaptive sys
 6. Adaptive capacity is the potential for adjusting patterns of action to
    handle future situations, events, opportunities and disruptions
 7. Performance of a UAB as it approaches saturation is different from the
-   perforamnce of that UAB when it operates far from saturation
+   performance of that UAB when it operates far from saturation
 8. All UABs are local
 9. There are bounds on the perspective any UAB, but these limits are overcome
    by shifts and contrasts over multiple perspectives.
@@ -858,7 +858,7 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
 
 * the adaptive universe
 * unit of adaptive behavior (UAB), adaptive unit
-* adapative capacity
+* adaptive capacity
 * continuous adaptation
 * graceful extensibility
 * sustained adaptability
@@ -892,7 +892,7 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
 * oversimplification
 * fixation
 * fluency law, veil of fluency
-* capacity for maneuver (CfM)
+* capacity for manoeuvre (CfM)
 * crunches
 * sharp end, blunt end
 * adaptive landscapes
@@ -907,7 +907,7 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
 * Properties of resilient organizations
     - Tangible experience with surprise
     - uneasy about the precarious present
-    - push intiative down
+    - push initiative down
     - reciprocity
     - align goals across multiple units
 * goal conflicts, goal interactions (follow them!)

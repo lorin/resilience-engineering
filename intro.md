@@ -83,7 +83,7 @@ Two great introductory papers (alas, both paywalled) are:
 
 * [Reconstructing human contributions to accidents: the new view on error and performance](https://www.sciencedirect.com/science/article/pii/S0022437502000324) 
 by Dekker 
-* [The eror of counting errors](https://doi.org/10.1016/j.annemergmed.2008.03.015) by Robert Wears
+* [The error of counting errors](https://doi.org/10.1016/j.annemergmed.2008.03.015) by Robert Wears
 
 
 ### Safety-II

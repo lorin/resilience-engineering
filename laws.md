@@ -16,7 +16,7 @@ by Hoffman and Woods.
 * Tradeoffs
   - Efficiency-thoroughness tradeoff
   - Optimality-brittleness tradeoff
-* Theroems
+* Theorems
    - Theorems of graceful extensibility
 
 ## Laws
@@ -101,7 +101,7 @@ Source: [Beyond Simon’s Slice: Five Fundamental Trade-Offs that Bound the Perf
 ### Theorems of graceful extensibility
 
 * *UAB* stands for unit of adaptive behavior
-* *CfM* stands for capacity for maneuver
+* *CfM* stands for capacity for manoeuvre
 
 1. Adaptive capacity is finite
 2. Events will produce demands that challenge boundaries on the adaptive
@@ -113,7 +113,7 @@ Source: [Beyond Simon’s Slice: Five Fundamental Trade-Offs that Bound the Perf
 6. Adaptive capacity is the potential for adjusting patterns of action to
    handle future situations, events, opportunities and disruptions
 7. Performance of a UAB as it approaches saturation is different from the
-   perforamnce of that UAB when it operates far from saturation
+   performance of that UAB when it operates far from saturation
 8. All UABs are local
 9. There are bounds on the perspective any UAB, but these limits are overcome
    by shifts and contrasts over multiple perspectives.
