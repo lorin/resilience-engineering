@@ -243,17 +243,17 @@ Dekker developed the theory of *drift*, characterized by five concepts:
 1. Unruly technology
 1. Contribution of the protective structure
 
-### Just culture
+### Just Culture
 
 Dekker examines how cultural norms defining justice can be re-oriented to minimize the negative impact and maximize learning when things go wrong.
 
 1.  Retributive justice as society's traditional idea of justice:  distributing punishment to those responsible based on severity of the violation
 2.  Restorative justice as an improvement for both victims and practicioners:  distributing obligations of rebuliding trust to those responsible based on who is hurt and what they need
 3.  First, second, and third victims:  an incident's negative impact is felt by more than just the obvious victims
-4.  Learning theory:  people break rules when they have learned there are no negative consequences, and there are actually positive consequences - in other words, to get things done to meet production pressure
+4.  Learning theory:  people break rules when they have learned there are no negative consequences, and there are actually positive consequences - in other words, they break rules to get things done to meet production pressure
 5.  Reporting culture:  contributing to reports of adverse events is meant to help the organization understand what went wrong and how to prevent recurrence, but accurate reporting requires appropriate and proportionate accountability actions
-6.  Complex systems:  normal actions of practicioners and professionals in the context of a complex system can appear abnormal or deviant in hindsight, particularly in the eyes of non-expert juries and reviewers
-7.  The nature of practicioners:  professionals typically want to do good work, and therefore want to be held accountable for their mistakes, and generally want to help similarly-situated professionals avoid the same mistake.
+6.  Complex systems:  normal behavior of practicioners and professionals in the context of a complex system can appear abnormal or deviant in hindsight, particularly in the eyes of non-expert juries and reviewers
+7.  The nature of practicioners:  professionals want to do good work, and therefore want to be held accountable for their mistakes; they generally want to help similarly-situated professionals avoid the same mistake.
 
 
 
