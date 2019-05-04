@@ -226,7 +226,7 @@ Cook tweets as [@ri_cook](https://twitter.com/ri_cook).
 ## Sidney Dekker
 
 Dekker is a human factors and safety researcher with a background in aviation.
-His books aimed at a lay audience (Drift Into Failure, The Field Guide to 'Human Error' investigations)
+His books aimed at a lay audience (Drift Into Failure, Just Culture, The Field Guide to 'Human Error' investigations)
 have been enormously influential. His PhD advisor is [David Woods](#david-woods).
 
 Dekker tweets as [@sidneydekkercom](https://twitter.com/sidneydekkercom).
@@ -242,6 +242,10 @@ Dekker developed the theory of *drift*, characterized by five concepts:
 1. Sensitive dependence on initial conditions
 1. Unruly technology
 1. Contribution of the protective structure
+
+## Just culture
+
+
 
 
 ### Concepts
