@@ -262,7 +262,7 @@ Dekker examines how cultural norms defining justice can be re-oriented to minimi
 ### Concepts
 * Drift into failure
 * Safety differently
-* New view vs old view of human performance
+* New view vs old view of human performance & error
 * Just culture
 * complexity
 * broken part
@@ -282,6 +282,7 @@ Dekker examines how cultural norms defining justice can be re-oriented to minimi
 * [Rule- and role retreat: An empirical study of procedures and resilience](https://www.researchgate.net/publication/50917226_Rule-_and_role_retreat_An_empirical_study_of_procedures_and_resilience?enrichId=rgreq-23625e555a0d8e5250c74f24b5fd01ca-XXX&enrichSource=Y292ZXJQYWdlOzUwOTE3MjI2O0FTOjk3MzU5NjY5MjM1NzQ1QDE0MDAyMjM3NjI5NDY%3D&el=1_x_2&_esc=publicationCoverPdf)
 * [Anticipating the effects of technological change: A new era of dynamics for human factors](https://www.researchgate.net/publication/247512351_Anticipating_the_effects_of_technological_change_A_new_era_of_dynamics_for_human_factors)
 * [Why do things go right?](http://www.safetydifferently.com/why-do-things-go-right/)
+* [Six stages to the new view of human error](http://www.humanfactors.lth.se/fileadmin/lusa/Sidney_Dekker/articles/2007/SafetyScienceMonitor.pdf)
 
 ## John C. Doyle
 
