@@ -1,6 +1,6 @@
 # Laws, tradeoffs and theorems
 
-Many of these are from [Beyond Simon’s Slice: Five Fundamental Trade-Offs that Bound the Performance of Macrocognitive Work Systems]
+Many of these are documented in [Beyond Simon’s Slice: Five Fundamental Trade-Offs that Bound the Performance of Macrocognitive Work Systems]
 by Hoffman and Woods.
 
 [Beyond Simon’s Slice: Five Fundamental Trade-Offs that Bound the Performance of Macrocognitive Work Systems]: https://cmapsinternal.ihmc.us/rid=1K2MHS0D4-1ZT3XRF-HPX/46.%2520Simon's%2520Slice.pdf
@@ -13,6 +13,7 @@ by Hoffman and Woods.
   - Law of coordinative entropy
   - Mr. Weasley's Law
   - The Law of the Kludge
+  - First law of cooperative systems
 * Tradeoffs
   - Efficiency-thoroughness tradeoff
   - Optimality-brittleness tradeoff
@@ -76,6 +77,12 @@ to bridge the gap between the original design objectives and current realities
 or to reconcile conflicting goals among workers. 
 
 Source: [Beyond Simon’s Slice: Five Fundamental Trade-Offs that Bound the Performance of Macrocognitive Work Systems]
+
+### First law of cooperative systems
+
+It's not cooperation, if either you do it all or I do it all.
+
+Source: David Woods. Not sure where he first wrote this, but it's referenced in *Cognitive Systems Engineering: The Future for a Changing World*
 
 ## Tradeoffs
 
