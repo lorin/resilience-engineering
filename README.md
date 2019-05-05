@@ -461,6 +461,7 @@ Klein tweets as [@KleInsight](https://twitter.com/KleInsight).
 * [Conditions for intuitive expertise: a failure to disagree](http://dx.doi.org/10.1037/a0016755)
 * [Problem detection]
 * [Ten challenges for making automation a team player]
+* [Decision making in action: models and methods](https://www.amazon.com/Decision-Making-Action-Cognition-Literacy/dp/0893919438)
 
 [Common Ground and Coordination in Joint Activity]: http://jeffreymbradshaw.net/publications/Common_Ground_Single.pdf
 [Problem detection]: https://www.researchgate.net/publication/220579480_Problem_detection
