@@ -941,6 +941,8 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
 * automation as a "team player"
 * "new look"
 * sacrifice judgment
+* task tailoring
+* substitution myth
 
 ### Selected publications
 
