@@ -14,6 +14,7 @@ by Hoffman and Woods.
   - Mr. Weasley's Law
   - The Law of the Kludge
   - First law of cooperative systems
+  - (Robin) Murphy's Law
 * Tradeoffs
   - Efficiency-thoroughness tradeoff
   - Optimality-brittleness tradeoff
@@ -83,6 +84,13 @@ Source: [Beyond Simon’s Slice: Five Fundamental Trade-Offs that Bound the Perf
 It's not cooperation, if either you do it all or I do it all.
 
 Source: David Woods. Not sure where he first wrote this, but it's referenced in *Cognitive Systems Engineering: The Future for a Changing World*
+
+### (Robin) Murphy's Law
+
+Any deployment of robotic systems will fall short of the target level of autonomy, creating or eacerbating a shortfall
+in mechanisms for coordination with human stakeholders.
+
+Source: This is mentioned in [Joint Cognitive Systems: Patterns in Cogntive Systems Engineering](https://www.amazon.com/Joint-Cognitive-Systems-Patterns-Engineering-ebook/dp/B00918NQOE/ref=sr_1_1?keywords=joint+cognitive+systems&qid=1557092907&s=gateway&sr=8-1), Chapter 10 (Automation Surprises).
 
 ## Tradeoffs
 
