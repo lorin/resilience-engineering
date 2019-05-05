@@ -376,7 +376,7 @@ Safety-I: avoiding things that go wrong
 * systems are decomposable
 * functioning is bimodal
 
-Saefty-II: performance variability rather than bimodality
+Safety-II: performance variability rather than bimodality
 * the system’s ability to succeed under varying conditions, so that the number
   of intended and acceptable outcomes (in other words, everyday activities) is
   as high as possible
@@ -484,7 +484,7 @@ See [STAMP](STAMP.md) for some more detailed notes of mine.
 * CAST (causal analysis based on STAMP) accident analysis technique
 * Systems thinking
 * hazard
-* interactivy complexity
+* interactive complexity
 * system accident
 * dysfunctional interactions
 * safety constraints
@@ -661,7 +661,7 @@ Reason is a psychology researcher who did work on understanding and categorizing
 
 #### Accident causation model (Swiss cheese model)
 
-Reason developed an accident casuation model that is sometimes known as the *swiss cheese* model of accidents.
+Reason developed an accident causation model that is sometimes known as the *swiss cheese* model of accidents.
 In this model, Reason introduced the terms "sharp end" and "blunt end".
 
 #### Human Error model: Slips, lapses and mistakes
@@ -871,7 +871,7 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
 
 * the adaptive universe
 * unit of adaptive behavior (UAB), adaptive unit
-* adapative capacity
+* adaptive capacity
 * continuous adaptation
 * graceful extensibility
 * sustained adaptability
@@ -905,7 +905,7 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
 * oversimplification
 * fixation
 * fluency law, veil of fluency
-* capacity for maneuver (CfM)
+* capacity for manoeuvre (CfM)
 * crunches
 * sharp end, blunt end
 * adaptive landscapes

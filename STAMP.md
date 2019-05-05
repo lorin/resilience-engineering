@@ -134,11 +134,11 @@ are not adequately considered in the control algorithm, accidents can result.
 Many accidents relate to *asynchronous evolution* where one part of the system
 changes without the related necessary changes in the other parts.
 
-Communication is a critical factor here as well as monitoring for changes that may occur and feeding back this information to the higher-level control. For example, the safety analysis process that generates constraints always involves some basic assumptions about the operating environment of the process. When the environment ment changes such that those assumptions are no longer true.
+Communication is a critical factor here as well as monitoring for changes that may occur and feeding back this information to the higher-level control. For example, the safety analysis process that generates constraints always involves some basic assumptions about the operating environment of the process. When the environment changes such that those assumptions are no longer true.
 
 #### Inconsistent, incomplete or incorrect process models
 
-Accidents, particularly component interaction accidents, most often result from inconsistencies between the models of the process used by the controllers (both human and automated) and the actual process state. When the controller's model of the process (either the human mental model or the software or hardware model) diverges from the process state, erroneous control commands (based on the incorrect rect model) can lead to an accident.
+Accidents, particularly component interaction accidents, most often result from inconsistencies between the models of the process used by the controllers (both human and automated) and the actual process state. When the controller's model of the process (either the human mental model or the software or hardware model) diverges from the process state, erroneous control commands (based on the incorrect model) can lead to an accident.
 
 The most common form of inconsistency occurs when one or more process models is incomplete in terms of not defining appropriate behavior for all possible process states or all possible disturbances, including unhandled or incorrectly handled component failures.
 
@@ -233,7 +233,7 @@ CAST - causal analysis based on STAMP
 5. Analyze the loss at the physical system level. Identify the contribution of each of the following to the events: physical and operational controls, physical failures, dysfunctional interactions, communication and coordination flaws, and unhandled disturbances. Determine why the physical controls in place were ineffective in preventing the hazard.
 6. Moving up the levels of the safety control structure, determine how and why each successive higher level allowed or contributed to the inadequate control at the current level.
 
-   For each system safety constraint, either the responsibility for enforcing it was never assigned to a component in the safety control structure ture or a component or components did not exercise adequate control to ensure their assigned responsibilities (safety constraints) were enforced in the components below them.
+   For each system safety constraint, either the responsibility for enforcing it was never assigned to a component in the safety control structure or a component or components did not exercise adequate control to ensure their assigned responsibilities (safety constraints) were enforced in the components below them.
 
    Any human decisions or flawed control actions need to be understood in terms of (at least):
 
