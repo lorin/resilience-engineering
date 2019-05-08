@@ -537,8 +537,10 @@ in healthcare.
 Perrow is a sociologist who studied the Three Mile Island disaster.
 
 ### Concepts
-* Normal accidents
-* Common-mode
+* Complex systems: A system of tightly-coupled components with common mode connections that is prone to unintended feedback loops, complex controls, low observability, and poorly-understood mechanisms.  They are not always high-risk, and thus their failure is not always catastrophic.
+* Normal accidents: Complex systems with many components exhibit unexpected interactions in the face of inevitable component failures.  When these components are tightly-coupled, failed parts cannot be isolated from other parts, resulting in unpredictable system failures.  Crucially, adding more safety devices and automated system controls often makes these coupling problems worse.
+* Common-mode:  The failure of one component that serves multiple purposes results in multiple associated failures, often with high interactivity and low linearity - both ingredients for unexpected behavior that is difficult to control.
+* Production pressures and safety:  Organizations adopt processes and devices to improve safety and efficiency, but production pressure often defeats any safety gained from the additions:  the safety devices allow or encourage more risky behavior.  As an unfortunate side-effect, the system is now also more complex.
 
 ### Selected publications
 * [Normal accidents: living with high-risk technologies](https://www.amazon.com/Normal-Accidents-Living-Technologies-Updated-ebook/dp/B00CHRINUI)
