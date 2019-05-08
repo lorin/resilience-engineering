@@ -543,7 +543,7 @@ Perrow is a sociologist who studied the Three Mile Island disaster.  "Normal Acc
 * Production pressures and safety:  Organizations adopt processes and devices to improve safety and efficiency, but production pressure often defeats any safety gained from the additions:  the safety devices allow or encourage more risky behavior.  As an unfortunate side-effect, the system is now also more complex.
 
 ### Selected publications
-* [Normal accidents: living with high-risk technologies](https://www.amazon.com/Normal-Accidents-Living-Technologies-Updated-ebook/dp/B00CHRINUI)
+* [Normal Accidents: Living With High-Risk Technologies](https://www.amazon.com/Normal-Accidents-Living-Technologies-Updated-ebook/dp/B00CHRINUI)
 
 ## Shawna J. Perry
 
