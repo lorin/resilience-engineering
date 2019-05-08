@@ -534,7 +534,7 @@ in healthcare.
 
 ## Charles Perrow
 
-Perrow is a sociologist who studied the Three Mile Island disaster.
+Perrow is a sociologist who studied the Three Mile Island disaster.  "Normal Accidents" is cited by numerous other influential systems engineering publications such as Vaughn's "The Challenger Launch Decision".
 
 ### Concepts
 * Complex systems: A system of tightly-coupled components with common mode connections that is prone to unintended feedback loops, complex controls, low observability, and poorly-understood mechanisms.  They are not always high-risk, and thus their failure is not always catastrophic.
