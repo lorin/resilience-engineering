@@ -207,6 +207,7 @@ Cook tweets as [@ri_cook](https://twitter.com/ri_cook).
 * [The New Look at Error, Safety, and Failure: A Primer for Health Care]
 * [Grounding explanations in evolving, diagnostic situations]
 * [A Tale of Two Stories: Contrasting Views of Patient Safety]
+* ["Those found responsible have been sacked": some observations on the usefulness of error](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.623.5749&rep=rep1&type=pdf)
 
 [Cognitive consequences of clumsy automation on high workload, high consequence human performance]: https://ntrs.nasa.gov/search.jsp?R=19910011398
 [Implications of automation surprises in aviation for the future of total intravenous anesthesia (TIVA)]: https://doi.org/10.1016/S0952-8180(96)90009-4
