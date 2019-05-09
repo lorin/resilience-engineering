@@ -10,11 +10,12 @@ these notes to help get my head around the players and concepts.
 
 You might also be interested in my [notes on David Woods's Resilience Engineering short course](https://github.com/lorin/res-eng-short-course-notes).
 
+Note: there are now [multiple contributors](https://github.com/lorin/resilience-engineering/graphs/contributors) to this repository.
+
 For each person, I list concepts that they reference in their writings, along
 with some publications. The publications lists aren't comprehensive:
 they're ones I've read or have added to my to-read list. 
 
-Note: there are [multiple contributors](https://github.com/lorin/resilience-engineering/graphs/contributors) to this repository.
 
 * [John Allspaw](#john-allspaw)
 * [Lisanne Bainbridge](#lisanne-bainbridge)
