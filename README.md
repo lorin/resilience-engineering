@@ -14,6 +14,8 @@ For each person, I list concepts that they reference in their writings, along
 with some publications. The publications lists aren't comprehensive:
 they're ones I've read or have added to my to-read list. 
 
+Note: there are [multiple contributors](https://github.com/lorin/resilience-engineering/graphs/contributors) to this repository.
+
 * [John Allspaw](#john-allspaw)
 * [Lisanne Bainbridge](#lisanne-bainbridge)
 * [Andrea Baker](#andrea-baker)
