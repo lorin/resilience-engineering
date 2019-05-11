@@ -475,7 +475,7 @@ Klein tweets as [@KleInsight](https://twitter.com/KleInsight).
 * [Conditions for intuitive expertise: a failure to disagree](http://dx.doi.org/10.1037/a0016755)
 * [Problem detection]
 * [Ten challenges for making automation a team player]
-* [Decision making in action: models and methods](https://www.amazon.com/Decision-Making-Action-Cognition-Literacy/dp/0893919438)
+* [Decision making in action: models and methods](http://www.macrocognition.com/documents/Decision-Making-in-Action-Models-and-Methods-0316.pdf)
 * [Critical decision method for eliciting knowledge](https://ieeexplore.ieee.org/document/31053)
 * [A recognition-primed decision (RPD) model of rapid decision making](https://pdfs.semanticscholar.org/0672/092ecc507fb41d81e82d2986cf86c4bff14f.pdf)
 * [Seeing the invisible: perceptual-cognitive aspects of expertise](https://cmapspublic3.ihmc.us/rid=1G9NSY15K-N7MJMZ-LC5/SeeingTheInvisible.pdf)
