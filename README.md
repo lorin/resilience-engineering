@@ -216,6 +216,7 @@ Cook tweets as [@ri_cook](https://twitter.com/ri_cook).
 * [Sensemaking, Safety, and Cooperative Work in the Intensive Care Unit](https://www.researchgate.net/publication/220579381_Sensemaking_Safety_and_Cooperative_Work_in_the_Intensive_Care_Unit)
 * [Perspectives on Human Error: Hindsight Biases and Local Rationality]
 * [Mistaking Error]
+* [Adapting to new technology in the operating room]
 
 [Behind Human Error]: https://www.amazon.com/Behind-Human-Error-David-Woods/dp/0754678342
 [Cognitive consequences of clumsy automation on high workload, high consequence human performance]: https://ntrs.nasa.gov/search.jsp?R=19910011398
@@ -227,6 +228,8 @@ Cook tweets as [@ri_cook](https://twitter.com/ri_cook).
 [A Tale of Two Stories: Contrasting Views of Patient Safety]: https://www.researchgate.net/publication/245102691_A_Tale_of_Two_Stories_Contrasting_Views_of_Patient_Safety
 [Perspectives on Human Error: Hindsight Biases and Local Rationality]: https://www.nifc.gov/PUBLICATIONS/acc_invest_march2010/speakers/Perspectives%20on%20Human%20Error.pdf
 [Mistaking Error]: https://www.researchgate.net/publication/328149714_Mistaking_Error
+
+[Adapting to new technology in the operating room]: https://www.researchgate.net/publication/14230576_Adapting_to_New_Technology_in_the_Operating_Room
 
 ### Selected talks
 
@@ -1033,6 +1036,7 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
 * [Anomaly Response]
 * [The Risks of Autonomy: Doyles Catch](https://www.researchgate.net/publication/303832480_The_Risks_of_Autonomy_Doyles_Catch)
 * [Mistaking Error]
+* [Adapting to new technology in the operating room]
 
 [The theory of graceful extensibility: basic rules that govern adaptive systems]: https://link.springer.com/article/10.1007%2Fs10669-018-9708-3
 
