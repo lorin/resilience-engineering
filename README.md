@@ -704,7 +704,7 @@ and applied cognitive psychology (cognitive engineering)
 
 ### Selected publications
 
-* [Uncovering the Requirements of Cognitive Work](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.564.2044) (see also [Thai Wood's comments](https://www.getrevue.co/profile/resilience/issues/resilience-roundup-uncovering-the-requirements-of-cognitive-work-issue-30-173410) in his Resilience Roundup newsletter)
+* [Uncovering the Requirements of Cognitive Work](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.564.2044) (see also [Thai Wood's comments](https://www.getrevue.co/profile/resilience/issues/resilience-roundup-uncovering-the-requirements-of-cognitive-work-issue-30-173410) in his [Resilience Roundup](https://resilienceroundup.com/) newsletter)
 * [Using observational study as a tool for discovery: uncovering cognitive and collaborative demands and adaptive strategies]
 
 ## Nadine Sarter
