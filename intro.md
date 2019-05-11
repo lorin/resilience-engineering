@@ -24,6 +24,8 @@ a different concept that Woods calls *robustness*.
 
 ### Robustness vs. resilience
 
+![Resilience vs robustness](resilience-doodle.jpg)
+
 When we talk about designing highly available systems, we usually cover
 techniques such as redundancy, retries, fallbacks, and failovers. We think about
 what might go wrong (e.g., server failure, network partition), and design our
