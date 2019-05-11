@@ -215,6 +215,7 @@ Cook tweets as [@ri_cook](https://twitter.com/ri_cook).
 * ["Those found responsible have been sacked": some observations on the usefulness of error](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.623.5749&rep=rep1&type=pdf)
 * [Sensemaking, Safety, and Cooperative Work in the Intensive Care Unit](https://www.researchgate.net/publication/220579381_Sensemaking_Safety_and_Cooperative_Work_in_the_Intensive_Care_Unit)
 * [Perspectives on Human Error: Hindsight Biases and Local Rationality]
+* [Mistaking Error]
 
 [Behind Human Error]: https://www.amazon.com/Behind-Human-Error-David-Woods/dp/0754678342
 [Cognitive consequences of clumsy automation on high workload, high consequence human performance]: https://ntrs.nasa.gov/search.jsp?R=19910011398
@@ -225,6 +226,7 @@ Cook tweets as [@ri_cook](https://twitter.com/ri_cook).
 [Grounding explanations in evolving, diagnostic situations]: https://pdfs.semanticscholar.org/1bed/356b5aa67c701f5bad6d943768622095f418.pdf
 [A Tale of Two Stories: Contrasting Views of Patient Safety]: https://www.researchgate.net/publication/245102691_A_Tale_of_Two_Stories_Contrasting_Views_of_Patient_Safety
 [Perspectives on Human Error: Hindsight Biases and Local Rationality]: https://www.nifc.gov/PUBLICATIONS/acc_invest_march2010/speakers/Perspectives%20on%20Human%20Error.pdf
+[Mistaking Error]: https://www.researchgate.net/publication/328149714_Mistaking_Error
 
 ### Selected talks
 
@@ -1030,6 +1032,7 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
 * [Perspectives on Human Error: Hindsight Biases and Local Rationality]
 * [Anomaly Response]
 * [The Risks of Autonomy: Doyles Catch](https://www.researchgate.net/publication/303832480_The_Risks_of_Autonomy_Doyles_Catch)
+* [Mistaking Error]
 
 [The theory of graceful extensibility: basic rules that govern adaptive systems]: https://link.springer.com/article/10.1007%2Fs10669-018-9708-3
 
