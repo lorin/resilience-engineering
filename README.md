@@ -72,11 +72,13 @@ Allspaw tweets as [@allspaw](https://twitter.com/allspaw).
 
 ### Selected publications
 
+* [STELLA: Report from the SNAFUcatchers Workshop on Coping with Complexity](https://snafucatchers.github.io/)
 * [Trade-Offs Under Pressure: Heuristics and Observations Of Teams Resolving Internet Service Outages](https://www.researchgate.net/publication/295011072_Trade-Offs_Under_Pressure_Heuristics_and_Observations_Of_Teams_Resolving_Internet_Service_Outages)
 * [Etsy Debrief Facilitation Guide](http://extfiles.etsy.com/DebriefingFacilitationGuide.pdf)
 * [Blameless PostMortems and a Just Culture](https://codeascraft.com/2012/05/22/blameless-postmortems/) (blog)
 * [Resilience engineering: learning to embrace failure](https://doi.org/10.1145/2366316.2366331)
 * [Fault Injection in Production: Making the case for resiliency testing](http://queue.acm.org/detail.cfm?id=2353017)
+* [Technical Debt: Challenges and Perspectives](https://doi.org/10.1109/MS.2017.99)
 
 ### Selected talks
 
@@ -196,7 +198,7 @@ Cook tweets as [@ri_cook](https://twitter.com/ri_cook).
 * [*Where* complex systems fail](https://www.snafucatchers.com/single-post/2017/11/14/void-Incidents-as-Untyped-Pointers)
 * [Distancing through differencing: An obstacle to organizational learning following accidents](https://www.researchgate.net/publication/292504703_Distancing_through_differencing_An_obstacle_to_organizational_learning_following_accidents)
 * [Being bumpable](http://csel.eng.ohio-state.edu/productions/woodscta/media/beingbump.pdf)
-* [Behind Human Error](https://www.amazon.com/gp/product/B075QFGTNP/ref=x_gr_w_glide_bb?ie=UTF8&tag=x_gr_w_glide_bb-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B075QFGTNP&SubscriptionId=1MGPYB6YW3HWK55XCGG2)
+* [Behind Human Error]
 * [Incidents - markers of resilience or brittleness?](https://www.researchgate.net/publication/292504952_Incidents_-_markers_of_resilience_or_brittleness)
 * [“Going solid”: a model of system dynamics and consequences for patient safety](https://qualitysafety.bmj.com/content/14/2/130)
 * [Operating at the Sharp End: The Complexity of Human Error](https://www.researchgate.net/publication/313407259_Operating_at_the_Sharp_End_The_Complexity_of_Human_Error)
@@ -211,17 +213,18 @@ Cook tweets as [@ri_cook](https://twitter.com/ri_cook).
 * [Grounding explanations in evolving, diagnostic situations]
 * [A Tale of Two Stories: Contrasting Views of Patient Safety]
 * ["Those found responsible have been sacked": some observations on the usefulness of error](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.623.5749&rep=rep1&type=pdf)
+* [Sensemaking, Safety, and Cooperative Work in the Intensive Care Unit](https://www.researchgate.net/publication/220579381_Sensemaking_Safety_and_Cooperative_Work_in_the_Intensive_Care_Unit)
+* [Perspectives on Human Error: Hindsight Biases and Local Rationality]
 
+[Behind Human Error]: https://www.amazon.com/Behind-Human-Error-David-Woods/dp/0754678342
 [Cognitive consequences of clumsy automation on high workload, high consequence human performance]: https://ntrs.nasa.gov/search.jsp?R=19910011398
 [Implications of automation surprises in aviation for the future of total intravenous anesthesia (TIVA)]: https://doi.org/10.1016/S0952-8180(96)90009-4
 [The Messy Details: Insights From the Study of Technical Work in Healthcare]: https://doi.org/10.1109%2FTSMCA.2004.836802
 [Nosocomial automation: technology-induced complexity and human performance]: https://www.researchgate.net/profile/David_Woods11/publication/224649052_Nosocomial_automation_technology-induced_complexity_and_human_performance/links/59399b1da6fdcc58ae902c49/Nosocomial-automation-technology-induced-complexity-and-human-performance.pdf
 [The New Look at Error, Safety, and Failure: A Primer for Health Care]: https://pdfs.semanticscholar.org/67f7/53ec089e5a8879f241e2be867dad0a2026fb.pdf
-
 [Grounding explanations in evolving, diagnostic situations]: https://pdfs.semanticscholar.org/1bed/356b5aa67c701f5bad6d943768622095f418.pdf
-
-
 [A Tale of Two Stories: Contrasting Views of Patient Safety]: https://www.researchgate.net/publication/245102691_A_Tale_of_Two_Stories_Contrasting_Views_of_Patient_Safety
+[Perspectives on Human Error: Hindsight Biases and Local Rationality]: https://www.nifc.gov/PUBLICATIONS/acc_invest_march2010/speakers/Perspectives%20on%20Human%20Error.pdf
 
 ### Selected talks
 
@@ -287,6 +290,7 @@ Dekker examines how cultural norms defining justice can be re-oriented to minimi
 * [Anticipating the effects of technological change: A new era of dynamics for human factors](https://www.researchgate.net/publication/247512351_Anticipating_the_effects_of_technological_change_A_new_era_of_dynamics_for_human_factors)
 * [Why do things go right?](http://www.safetydifferently.com/why-do-things-go-right/)
 * [Six stages to the new view of human error](http://www.humanfactors.lth.se/fileadmin/lusa/Sidney_Dekker/articles/2007/SafetyScienceMonitor.pdf)
+* [Behind Human Error]
 
 ## John C. Doyle
 
@@ -422,9 +426,11 @@ complex socio-technical systems.
 * [Resilience Engineering: Concepts and Precepts]
 * [I want to believe: some myths about the management of industrial safety](http://dx.doi.org/10.1007/s10111-012-0237-4)
 * [Resilience engineering – Building a Culture of Resilience](http://www.ptil.no/getfile.php/1325150/PDF/Seminar%202013/Integrerte%20operasjoner/Hollnagel_RIO_presentation.pdf) (slides)
+* [Anomaly Response]
 
 
 [Resilience Engineering: Concepts and Precepts]: https://www.amazon.com/gp/product/B009KNDF64/ref=x_gr_w_glide_bb?ie=UTF8&tag=x_gr_w_glide_bb-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B009KNDF64&SubscriptionId=1MGPYB6YW3HWK55XCGG2
+[Anomaly Response]: https://docs.wixstatic.com/ugd/3ad081_f46dda684154447583c8a5b282b60cc2.pdf
 
 ## Leila Johannesen
 
@@ -439,6 +445,7 @@ Her PhD dissertation work examined how humans cooperate, including studies of an
 
 * [Grounding explanations in evolving, diagnostic situations]
 * [Maintaining common ground: an analysis of cooperative communication in the operating room](https://www.abdn.ac.uk/iprc/documents/Communication%20Book%20Chapter.pdf)
+* [Behind Human Error]
 
 
 ## Gary Klein
@@ -467,6 +474,9 @@ Klein tweets as [@KleInsight](https://twitter.com/KleInsight).
 * [Problem detection]
 * [Ten challenges for making automation a team player]
 * [Decision making in action: models and methods](https://www.amazon.com/Decision-Making-Action-Cognition-Literacy/dp/0893919438)
+* [Critical decision method for eliciting knowledge](https://ieeexplore.ieee.org/document/31053)
+* [A recognition-primed decision (RPD) model of rapid decision making](https://pdfs.semanticscholar.org/0672/092ecc507fb41d81e82d2986cf86c4bff14f.pdf)
+* [Seeing the invisible: perceptual-cognitive aspects of expertise](https://cmapspublic3.ihmc.us/rid=1G9NSY15K-N7MJMZ-LC5/SeeingTheInvisible.pdf)
 
 [Common Ground and Coordination in Joint Activity]: http://jeffreymbradshaw.net/publications/Common_Ground_Single.pdf
 [Problem detection]: https://www.researchgate.net/publication/220579480_Problem_detection
@@ -550,8 +560,14 @@ in healthcare.
 
 * [Patient boarding in the emergency department as a symptom of complexity-induced risks](https://www.researchgate.net/publication/312624891_Patient_boarding_in_the_emergency_department_as_a_symptom_of_complexity-induced_risks)
 * [Using observational study as a tool for discovery: uncovering cognitive and collaborative demands and adaptive strategies]
+* [Voice Loops as Coordination Aids in Space Shuttle Mission Control]
+* [Functionally distributed coordination during anomaly response in space shuttle mission control]
 
 [Using observational study as a tool for discovery: uncovering cognitive and collaborative demands and adaptive strategies]: https://www.researchgate.net/profile/Emily_Patterson2/publication/237138704_USING_OBSERVATIONAL_STUDY_AS_A_TOOL_FOR_DISCOVERY_UNCOVERING_COGNITIVE_AND_COLLABORATIVE_DEMANDS_AND_ADAPTIVE_STRATEGIES/links/0deec52c8e310b385a000000.pdf
+
+[Voice Loops as Coordination Aids in Space Shuttle Mission Control]: https://www.semanticscholar.org/paper/Voice-Loops-as-Coordination-Aids-in-Space-Shuttle-Patterson-Watts-Perotti/068dfee1a859a63fa2ef82f008d239e6a81ed004 
+
+[Functionally distributed coordination during anomaly response in space shuttle mission control]: https://www.researchgate.net/publication/3657906_Functionally_distributed_coordination_during_anomaly_response_inspace_shuttle_mission_control
 
 ## Charles Perrow
 
@@ -660,6 +676,7 @@ Source: [Risk management in a dynamic society: a modelling problem]
 * [Coping with complexity](http://orbit.dtu.dk/fedora/objects/orbit:91746/datastreams/file_ecf1b6eb-0b8c-4420-b361-644808e34562/content)
 * [“Going solid”: a model of system dynamics and consequences for patient safety](https://qualitysafety.bmj.com/content/14/2/130)
 * [Human error and the problem of causality in analysis of accidents](https://www.ida.liu.se/~729A71/Literature/Human%20Error_T/Rasmussen_1990.pdf)
+* [Ecological interfaces: A technological imperative in high‐tech systems](https://core.ac.uk/download/pdf/13788397.pdf)
 
 [Risk management in a dynamic society: a modelling problem]: https://doi.org/10.1016/S0925-7535(97)00052-0
 
@@ -725,30 +742,10 @@ She is the director of the Center for Ergonomics at the University of Michigan.
 ### Selected publications
 
 * [Learning from Automation Surprises and "Going Sour" Accidents: Progress on Human-Centered Automation](https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19980016965.pdf)
-* [Behind Human Error](https://www.amazon.com/gp/product/B075QFGTNP/ref=x_gr_w_glide_bb?ie=UTF8&tag=x_gr_w_glide_bb-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B075QFGTNP&SubscriptionId=1MGPYB6YW3HWK55XCGG2)
+* [Behind Human Error]
 * [Designed-Induced Error and Error-Informed Design: A Two-Way Street](https://www.amazon.com/Cognitive-Systems-Engineering-Expertise-Applications-ebook/dp/B076TDR6H9/ref=sr_1_1?keywords=cognitive+systems+engineering&qid=1554075974&s=gateway&sr=8-1)
+* [The Critical Incident Technique: A Method for Identifying System Strengths and Weaknesses Based on Observational Data](https://www.taylorfrancis.com/books/e/9780429134845)
 
-
-## Robert L. Wears
-
-Wears was a medical researcher who studied emergency medicine.
-
-### Concepts
-* Underground adaptations
-* Articulated functions vs. important functions
-* Unintended effects
-* Apparent success vs real success
-* Exceptions
-* Dynamic environments
-* Systems of care are intrinsically hazardous
-
-### Selected publications
-
-* [The error of counting "errors"](https://linkinghub.elsevier.com/retrieve/pii/S0196064408006070)
-* [Underground adaptations: case studies from health care](https://doi.org/10.1007/s10111-011-0207-2)
-* [Fundamental On Situational Surprise: A Case Study With Implications For Resilience](https://books.openedition.org/pressesmines/1122)
-* [Replacing Hindsight With Insight: Toward Better Understanding of Diagnostic Failures](https://www.semanticscholar.org/paper/Replacing-hindsight-with-insight%3A-toward-better-of-Wears-Nemeth/1bef45cae7375eddc8ee584dff100d200d812a8d)
-* [Seeing patient safety ‘Like a State’](http://dx.doi.org/10.1016%2Fj.ssci.2014.02.007)
 
 ## James C. Scott
 
@@ -799,6 +796,29 @@ Vaughan is a sociology researcher who did a famous study of the NASA Challenger 
 ### Selected publications
 
 * [Man-made disasters](https://www.amazon.com/Man-Made-Disasters-Second-Barry-Turner/dp/0750620870/ref=sr_1_1)
+
+## Robert L. Wears
+
+Wears was a medical researcher who studied emergency medicine.
+
+### Concepts
+* Underground adaptations
+* Articulated functions vs. important functions
+* Unintended effects
+* Apparent success vs real success
+* Exceptions
+* Dynamic environments
+* Systems of care are intrinsically hazardous
+
+### Selected publications
+
+* [The error of counting "errors"](https://linkinghub.elsevier.com/retrieve/pii/S0196064408006070)
+* [Underground adaptations: case studies from health care](https://doi.org/10.1007/s10111-011-0207-2)
+* [Fundamental On Situational Surprise: A Case Study With Implications For Resilience](https://books.openedition.org/pressesmines/1122)
+* [Replacing Hindsight With Insight: Toward Better Understanding of Diagnostic Failures](https://www.semanticscholar.org/paper/Replacing-hindsight-with-insight%3A-toward-better-of-Wears-Nemeth/1bef45cae7375eddc8ee584dff100d200d812a8d)
+* [Seeing patient safety ‘Like a State’](http://dx.doi.org/10.1016%2Fj.ssci.2014.02.007)
+* [Fundamental On Situational Surprise: A Case Study With Implications For Resilience](https://books.openedition.org/pressesmines/1122?lang=en)
+
 
 ## David Woods
 
@@ -958,6 +978,7 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
 * buffering capacity
 * context gap
 * Norbert's contrast
+* anomaly response
 
 ### Selected publications
 
@@ -970,7 +991,7 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
 * [Essential characteristics of resilience](https://www.researchgate.net/publication/284328979_Essential_characteristics_of_resilience)
 * [Essentials of resilience, revisited](https://www.researchgate.net/publication/330116587_4_Essentials_of_resilience_revisited)
 * [Learning from Automation Surprises and "Going Sour" Accidents: Progress on Human-Centered Automation](https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19980016965.pdf)
-* [Behind Human Error](https://www.amazon.com/gp/product/B075QFGTNP/ref=x_gr_w_glide_bb?ie=UTF8&tag=x_gr_w_glide_bb-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B075QFGTNP&SubscriptionId=1MGPYB6YW3HWK55XCGG2)
+* [Behind Human Error]
 * [Joint Cognitive Systems: Patterns in Cognitive Systems Engineering](https://www.amazon.com/gp/product/0849339332/ref=x_gr_w_bb?ie=UTF8&tag=x_gr_w_bb-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0849339332&SubscriptionId=1MGPYB6YW3HWK55XCGG2)
 * [Patterns in Cooperative Cognition](https://www.researchgate.net/publication/262449980_Patterns_in_Cooperative_Cognition)
 * [Origins of cognitive systems engineering](https://www.researchgate.net/publication/298793082_Origins_of_Cognitive_Systems_Engineering)
@@ -997,6 +1018,18 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
 * [Grounding explanations in evolving, diagnostic situations]
 * [Resilience Engineering: Concepts and Precepts]
 * [A Tale of Two Stories: Contrasting Views of Patient Safety]
+* [Voice Loops as Coordination Aids in Space Shuttle Mission Control]
+* [The Critical Incident Technique: 40 Years Later](https://journals.sagepub.com/doi/abs/10.1177/154193129403801702)
+* [Functionally distributed coordination during anomaly response in space shuttle mission control]
+* [Cooperative Advocacy: An Approach for Integrating Diverse Perspectives in Anomaly Response](https://www.semanticscholar.org/paper/Cooperative-Advocacy%3A-An-Approach-for-Integrating-Watts-Perotti-Woods/7671e568d33237f8085bebda5f8a43356aa2edcd)
+* [Visual momentum: A concept to improve the cognitive coupling of person and computer](https://www.researchgate.net/publication/222737388_Visual_Momentum_A_Concept_to_Improve_the_Cognitive_Coupling_of_Person_and_Computer)
+* [Cognitive demands and activities in dynamic fault management: abductive reasoning and disturbance management](https://www.researchgate.net/publication/262401824_Cognitive_demands_and_activities_in_dynamic_fault_management_abductive_reasoning_and_disturbance_management)
+* [Coping with complexity: the psychology of human behaviour in complex systems](https://www.dropbox.com/s/ietztofrwejx8v6/Woods.1988.CopingWithComplexityPsychHumBehaviorComplexSys.pdf?dl=0)
+* [Process Tracing Methods for The Study of Cognition Outside of the Experimental Laboratory. In Klein GA, Orasanu J, Calderwood R, Zsambok CE, eds. Decision making in action: Models](https://www.researchgate.net/profile/David_Woods11/publication/232513565_Process-tracing_methods_for_the_study_of_cognition_outside_of_the_experimental_psychology_laboratory/links/00b7d53988a2f7a7f8000000.pdf)
+* [Towards a theoretical base for representation design in the computer medium: ecological perception and aiding human cognition](https://www.researchgate.net/publication/239059408_Towards_a_theoretical_base_for_representation_design_in_the_computer_medium_ecological_perception_and_aiding_human_cognition)
+* [Perspectives on Human Error: Hindsight Biases and Local Rationality]
+* [Anomaly Response]
+* [The Risks of Autonomy: Doyles Catch](https://www.researchgate.net/publication/303832480_The_Risks_of_Autonomy_Doyles_Catch)
 
 [The theory of graceful extensibility: basic rules that govern adaptive systems]: https://link.springer.com/article/10.1007%2Fs10669-018-9708-3
 
