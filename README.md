@@ -27,6 +27,7 @@ they're ones I've read or have added to my to-read list.
 * [John C. Doyle](#john-c-doyle)
 * [Bob Edwards](#bob-edwards)
 * [Anders Ericsson](#anders-ericsson)
+* [Paul Feltovich](#paul-feltovich)
 * [Meir Finkel](#meir-finkel)
 * [Ivonne Andrade Herrera](#ivonne-andrade-herrera)
 * [Erik Hollnagel](#erik-hollnagel)
@@ -352,6 +353,18 @@ interest in how people improve in expertise, so I'm including him here.
 * [Peak: secrets from the new science of expertise](https://www.amazon.com/Peak-Secrets-New-Science-Expertise/dp/1531864880/)
 * [Protocol analysis: verbal reports as data](https://www.amazon.com/Protocol-Analysis-Revd-Verbal-Reports/dp/0262550237)
 
+## Paul Feltovich
+
+[Feltovich](https://www.ihmc.us/groups/pfeltovich/) is a retired Senior Research Scientist at the Florida Institute for Human & Machine Cognition (IHMC),
+who has done extensive reserach in human expertise.
+
+### Selected publications
+
+* [Common Ground and Coordination in Joint Activity]
+* [Issue of expert flexibility in contexts characterized by complexity and change](https://www.researchgate.net/publication/232465540_Issue_of_expert_flexibility_in_contexts_characterized_by_complexity_and_change)
+
+[Common Ground and Coordination in Joint Activity]: http://jeffreymbradshaw.net/publications/Common_Ground_Single.pdf
+
 ## Meir Finkel
 
 Finkel is a Colonel in the Israeli Defense Force (IDF) and the Director of the IDF's Ground Forces Concept Development and Doctrine Department
@@ -471,9 +484,9 @@ Klein tweets as [@KleInsight](https://twitter.com/KleInsight).
 ### Selected publications
 
 * [Sources of power: how people make decisions](https://www.amazon.com/gp/product/0262534290/ref=dbs_a_def_rwt_bibl_vppi_i0)
+* [Common Ground and Coordination in Joint Activity]
 * [Working minds: a practitioner's guide to cognitive task analysis](https://www.amazon.com/gp/product/0262532816/ref=dbs_a_def_rwt_bibl_vppi_i5)
 * [Patterns in Cooperative Cognition](https://www.researchgate.net/publication/262449980_Patterns_in_Cooperative_Cognition)
-* [Common Ground and Coordination in Joint Activity]
 * [Can We Trust Best Practices? Six Cognitive Challenges of Evidence-Based Approaches](https://journals.sagepub.com/doi/abs/10.1177/1555343416637520?journalCode=edma)
 * [Conditions for intuitive expertise: a failure to disagree](http://dx.doi.org/10.1037/a0016755)
 * [Problem detection]
@@ -483,7 +496,6 @@ Klein tweets as [@KleInsight](https://twitter.com/KleInsight).
 * [A recognition-primed decision (RPD) model of rapid decision making](https://pdfs.semanticscholar.org/0672/092ecc507fb41d81e82d2986cf86c4bff14f.pdf)
 * [Seeing the invisible: perceptual-cognitive aspects of expertise](https://cmapspublic3.ihmc.us/rid=1G9NSY15K-N7MJMZ-LC5/SeeingTheInvisible.pdf)
 
-[Common Ground and Coordination in Joint Activity]: http://jeffreymbradshaw.net/publications/Common_Ground_Single.pdf
 [Problem detection]: https://www.researchgate.net/publication/220579480_Problem_detection
 [Ten challenges for making automation a team player]: https://ieeexplore.ieee.org/abstract/document/1363742
 
