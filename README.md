@@ -5,8 +5,9 @@ Alias: <http://resiliencepapers.club> (thanks to [John Allspaw](https://twitter.
 If you're not sure what to read first, check out [Resilience engineering: Where do I start?](intro.md)
 
 This file contains notes about people active in resilience engineering, as well as some influential
-researchers who are no longer with us, organized alphabetically. I'm using
-these notes to help get my head around the players and concepts.
+researchers who are no longer with us, organized alphabetically. It also includes people and papers
+from related fields, such as cognitive systems engineering and naturalistic decision-making.
+
 
 You might also be interested in my [notes on David Woods's Resilience Engineering short course](https://github.com/lorin/res-eng-short-course-notes).
 
@@ -1051,6 +1052,7 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
 * [Adapting to new technology in the operating room]
 * [The Strategic Agility Gap: How organizations are slow and stale to adapt in turbulent worlds](https://www.researchgate.net/publication/330196218_The_Strategic_Agility_Gap_How_organizations_are_slow_and_stale_to_adapt_in_turbulent_worlds)
 * [Resiliency Trade Space Study: The Interaction of Degraded C2 Link and Detect and Avoid Autonomy on Unmanned Aircraft](https://www.researchgate.net/publication/330222613_Resiliency_Trade_Space_Study_The_Interaction_of_Degraded_C2_Link_and_Detect_and_Avoid_Autonomy_on_Unmanned_Aircraft)
+* [Cognitive Technologies: The Design of Joint Human-Machine Cognitive Systems](https://www.researchgate.net/publication/220604613_Cognitive_Technologies_The_Design_of_Joint_Human-Machine_Cognitive_Systems)
 
 [The theory of graceful extensibility: basic rules that govern adaptive systems]: https://link.springer.com/article/10.1007%2Fs10669-018-9708-3
 
