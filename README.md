@@ -38,7 +38,7 @@ they're ones I've read or have added to my to-read list.
 * [Elizabeth Lay](https://www.linkedin.com/in/bethlay/)
 * [Nancy Leveson](#nancy-leveson)
 * [Carl Macrae](#carl-macrae)
-* [Laura Maguire](https://www.linkedin.com/in/lauramaguire/)
+* [Laura Maguire](#laura-maguire)
 * [Anne-Sophie Nyssen](anne-sophie-nyssen)
 * [Elinor Ostrom](#elinor-ostrom)
 * [Jean Pariès](#jean-paries)
@@ -561,6 +561,13 @@ Macrae tweets at [@CarlMacrae](https://twitter.com/CarlMacrae).
 
 * [Close calls](http://www.closecalls.cc/)
 * [Early warnings, weak signals and learning from healthcare disasters](https://qualitysafety.bmj.com/content/23/6/440)
+
+## Laura Maguire
+
+[Maguire](https://www.linkedin.com/in/lauramaguire/) is a cognitive systems engineering researcher who is currently completing a PhD at Ohio State University.
+Maguire has done safety work in multiple domains, including forestry, avalanches, and software services.
+
+Maguire tweets as [@LauraMDMaguire](https://twitter.com/lauramdmaguire).
 
 ## Anne-Sophie Nyssen
 
