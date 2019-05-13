@@ -259,7 +259,7 @@ Dekker developed the theory of *drift*, characterized by five concepts:
 1. Unruly technology
 1. Contribution of the protective structure
 
-### Just Culture
+#### Just Culture
 
 Dekker examines how cultural norms defining justice can be re-oriented to minimize the negative impact and maximize learning when things go wrong.
 
