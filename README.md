@@ -35,6 +35,7 @@ they're ones I've read or have added to my to-read list.
 * [Leila Johannesen](#leila-johannesen)
 * [Gary Klein](#gary-klein)
 * [Nancy Leveson](#nancy-leveson)
+* [Carl Macrae](#carl-macrae)
 * [Anne-Sophie Nyssen](anne-sophie-nyssen)
 * [Elinor Ostrom](#elinor-ostrom)
 * [Jean Pariès](#jean-paries)
@@ -243,7 +244,8 @@ Cook tweets as [@ri_cook](https://twitter.com/ri_cook).
 
 Dekker is a human factors and safety researcher with a background in aviation.
 His books aimed at a lay audience (Drift Into Failure, Just Culture, The Field Guide to 'Human Error' investigations)
-have been enormously influential. His PhD advisor is [David Woods](#david-woods).
+have been enormously influential. He was a founder of the MSc programme in Human Factors & Systems Safety at Lund University.
+His PhD advisor is [David Woods](#david-woods).
 
 Dekker tweets as [@sidneydekkercom](https://twitter.com/sidneydekkercom).
 
@@ -537,6 +539,25 @@ See [STAMP](STAMP.md) for some more detailed notes of mine.
 * [Resilience Engineering: Concepts and Precepts](https://www.amazon.com/gp/product/B009KNDF64/ref=x_gr_w_glide_bb?ie=UTF8&tag=x_gr_w_glide_bb-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B009KNDF64&SubscriptionId=1MGPYB6YW3HWK55XCGG2)
 * [High-pressure steam engines and computer software](http://dx.doi.org/10.1145/143062.143076)
 * [Resilience Engineering: Concepts and Precepts]
+
+## Carl Macrae
+
+[Macrae](https://www.nottingham.ac.uk/business/people/lizcjm.html) is a social psychology
+researcher who has done safety research in multiple domains, including aviation
+and healthcare. He helped set up the new healthcare investigation agency in
+England. He is currently a professor of organizational behavior and psychology
+at the Notthingham University Business School.
+
+Macrae tweets at [@CarlMacrae](https://twitter.com/CarlMacrae).
+
+### Concepts
+
+* risk resilience
+
+### Selected publications
+
+* [Close calls](http://www.closecalls.cc/)
+* [Early warnings, weak signals and learning from healthcare disasters](https://qualitysafety.bmj.com/content/23/6/440)
 
 ## Anne-Sophie Nyssen
 
