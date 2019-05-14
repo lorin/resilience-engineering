@@ -14,6 +14,8 @@ papers are organized into themes:
 
 The papers linked here should all be accessible to casual readers.
 
+When you're ready for more, check out [resilience engineering notes](README.md).
+
 ## What is resilience?
 
 A *resilient* organization **adapts effectively to surprise**.
