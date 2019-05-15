@@ -223,6 +223,7 @@ Cook tweets as [@ri_cook](https://twitter.com/ri_cook).
 * [Perspectives on Human Error: Hindsight Biases and Local Rationality]
 * [Mistaking Error]
 * [Adapting to new technology in the operating room]
+* [Verite, Abstraction, and Ordinateur Systems in the Evolution of Complex Process Control](https://www.researchgate.net/publication/3657912_Verite_abstraction_and_ordinateur_systems_in_the_evolution_of_complex_process_control)
 
 [Behind Human Error]: https://www.amazon.com/Behind-Human-Error-David-Woods/dp/0754678342
 [Cognitive consequences of clumsy automation on high workload, high consequence human performance]: https://ntrs.nasa.gov/search.jsp?R=19910011398
