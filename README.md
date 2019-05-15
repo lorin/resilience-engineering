@@ -303,6 +303,7 @@ Dekker examines how cultural norms defining justice can be re-oriented to minimi
 * [Why do things go right?](http://www.safetydifferently.com/why-do-things-go-right/)
 * [Six stages to the new view of human error](http://www.humanfactors.lth.se/fileadmin/lusa/Sidney_Dekker/articles/2007/SafetyScienceMonitor.pdf)
 * [Behind Human Error]
+* [Employees: A Problem to Control or Solution to Harness?](http://sidneydekker.com/wp-content/uploads/2014/08/DekkerPS2014.pdf)
 
 ## John C. Doyle
 
