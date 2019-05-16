@@ -89,6 +89,10 @@ Two great introductory papers (alas, both paywalled) are:
 by Dekker 
 * [The error of counting errors](https://doi.org/10.1016/j.annemergmed.2008.03.015) by Robert Wears
 
+A great book on putting these ideas into practice in incident investigations is:
+
+* [The Field Guide to Understanding "Human Error"](https://www.amazon.com/Field-Guide-Understanding-Human-Error/dp/1472439058/) by Dekker
+
 
 ### Safety-II
 
