@@ -601,6 +601,10 @@ Pariès is the president of [Dédale](http://www.dedale.net/dedale_en/), a safet
 ### Selected publications
 * [Resilience engineering in practice: a guidebook](https://www.crcpress.com/Resilience-Engineering-in-Practice-A-Guidebook/Paries-Wreathall-Hollnagel/p/book/9781472420749)
 
+### Selected talks
+
+* [Predicting The fatal flaws: The challenge of The unpredictable...](paries-keynote-2015.pptx)
+
 ## Emily Patterson
 
 [Patterson](https://hrs.osu.edu/faculty-and-staff/faculty-directory/patterson-emily)
