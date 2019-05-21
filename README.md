@@ -453,10 +453,13 @@ complex socio-technical systems.
 * [I want to believe: some myths about the management of industrial safety](http://dx.doi.org/10.1007/s10111-012-0237-4)
 * [Resilience engineering – Building a Culture of Resilience](http://www.ptil.no/getfile.php/1325150/PDF/Seminar%202013/Integrerte%20operasjoner/Hollnagel_RIO_presentation.pdf) (slides)
 * [Anomaly Response]
+* [Cognitive Systems Engineering: New wine in new bottles] (see also [Thai Wood's notes](https://www.getrevue.co/profile/resilience/issues/resilience-roundup-cognitive-systems-engineering-new-wine-in-new-bottles-issue-32-175912) in his [Resilience Roundup] newsletter)
 
 
 [Resilience Engineering: Concepts and Precepts]: https://www.amazon.com/gp/product/B009KNDF64/ref=x_gr_w_glide_bb?ie=UTF8&tag=x_gr_w_glide_bb-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B009KNDF64&SubscriptionId=1MGPYB6YW3HWK55XCGG2
 [Anomaly Response]: https://docs.wixstatic.com/ugd/3ad081_f46dda684154447583c8a5b282b60cc2.pdf
+[Cognitive Systems Engineering: New wine in new bottles]: https://www.ida.liu.se/~729A15/mtrl/CSEnew.pdf?utm_campaign=Resilience%20Roundup&utm_medium=email&utm_source=Revue%20newsletter
+[Resilience Roundup]: https://resilienceroundup.com/
 
 ## Leila Johannesen
 
@@ -776,7 +779,7 @@ and applied cognitive psychology (cognitive engineering)
 
 ### Selected publications
 
-* [Uncovering the Requirements of Cognitive Work](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.564.2044) (see also [Thai Wood's comments](https://www.getrevue.co/profile/resilience/issues/resilience-roundup-uncovering-the-requirements-of-cognitive-work-issue-30-173410) in his [Resilience Roundup](https://resilienceroundup.com/) newsletter)
+* [Uncovering the Requirements of Cognitive Work](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.564.2044) (see also [Thai Wood's notes](https://www.getrevue.co/profile/resilience/issues/resilience-roundup-uncovering-the-requirements-of-cognitive-work-issue-30-173410) in his [Resilience Roundup] newsletter)
 * [Using observational study as a tool for discovery: uncovering cognitive and collaborative demands and adaptive strategies]
 
 ## Nadine Sarter
@@ -1090,6 +1093,7 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
 * [The Strategic Agility Gap: How organizations are slow and stale to adapt in turbulent worlds](https://www.researchgate.net/publication/330196218_The_Strategic_Agility_Gap_How_organizations_are_slow_and_stale_to_adapt_in_turbulent_worlds)
 * [Resiliency Trade Space Study: The Interaction of Degraded C2 Link and Detect and Avoid Autonomy on Unmanned Aircraft](https://www.researchgate.net/publication/330222613_Resiliency_Trade_Space_Study_The_Interaction_of_Degraded_C2_Link_and_Detect_and_Avoid_Autonomy_on_Unmanned_Aircraft)
 * [Cognitive Technologies: The Design of Joint Human-Machine Cognitive Systems](https://www.researchgate.net/publication/220604613_Cognitive_Technologies_The_Design_of_Joint_Human-Machine_Cognitive_Systems)
+* [Cognitive Systems Engineering: New wine in new bottles] (see also [Thai Wood's notes](https://www.getrevue.co/profile/resilience/issues/resilience-roundup-cognitive-systems-engineering-new-wine-in-new-bottles-issue-32-175912) in his [Resilience Roundup] newsletter)
 
 [The theory of graceful extensibility: basic rules that govern adaptive systems]: https://link.springer.com/article/10.1007%2Fs10669-018-9708-3
 
