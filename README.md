@@ -32,6 +32,7 @@ they're ones I've read or have added to my to-read list.
 * [Pedro Ferreira](http://www.resilience-engineering-association.org/user/pedro/)
 * [Meir Finkel](#meir-finkel)
 * [Ivonne Andrade Herrera](#ivonne-andrade-herrera)
+* [Robert Hoffman](#robert-hoffman)
 * [Erik Hollnagel](#erik-hollnagel)
 * [Leila Johannesen](#leila-johannesen)
 * [Gary Klein](#gary-klein)
@@ -389,6 +390,22 @@ resilience engineering in avionics and air traffic management.
 
 
 [List of publications](https://wo.cristin.no/as/WebObjects/cristin.woa/wa/fres?sort=ar&pnr=30556&action=sok)
+
+
+## Robert Hoffman
+
+[Hoffman](https://www.ihmc.us/groups/rhoffman/) is a senior research scientist at Florida Institute for Human & Machine Cognition (IHMC),
+who has done extensive reserach in human expertise.
+
+### Selected publications
+
+* [Measuring resilience](https://journals.sagepub.com/doi/abs/10.1177/0018720816686248)
+* [Myths of automation and their implications for military procurement]
+* [The Seven Deadly Myths of "Autonomous Systems"]
+
+[Myths of automation and their implications for military procurement]:https://www.researchgate.net/publication/326000581_Myths_of_automation_and_their_implications_for_military_procurement 
+
+[The Seven Deadly Myths of "Autonomous Systems"]: https://www.researchgate.net/publication/260304859_The_Seven_Deadly_Myths_of_Autonomous_Systems
 
 
 ## Erik Hollnagel
@@ -803,6 +820,7 @@ She is the director of the Center for Ergonomics at the University of Michigan.
 * [Behind Human Error]
 * [Designed-Induced Error and Error-Informed Design: A Two-Way Street](https://www.amazon.com/Cognitive-Systems-Engineering-Expertise-Applications-ebook/dp/B076TDR6H9/ref=sr_1_1?keywords=cognitive+systems+engineering&qid=1554075974&s=gateway&sr=8-1)
 * [The Critical Incident Technique: A Method for Identifying System Strengths and Weaknesses Based on Observational Data](https://www.taylorfrancis.com/books/e/9780429134845)
+* [Myths of automation and their implications for military procurement]
 
 
 ## James C. Scott
@@ -1094,6 +1112,7 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
 * [Resiliency Trade Space Study: The Interaction of Degraded C2 Link and Detect and Avoid Autonomy on Unmanned Aircraft](https://www.researchgate.net/publication/330222613_Resiliency_Trade_Space_Study_The_Interaction_of_Degraded_C2_Link_and_Detect_and_Avoid_Autonomy_on_Unmanned_Aircraft)
 * [Cognitive Technologies: The Design of Joint Human-Machine Cognitive Systems](https://www.researchgate.net/publication/220604613_Cognitive_Technologies_The_Design_of_Joint_Human-Machine_Cognitive_Systems)
 * [Cognitive Systems Engineering: New wine in new bottles] (see also [Thai Wood's notes](https://www.getrevue.co/profile/resilience/issues/resilience-roundup-cognitive-systems-engineering-new-wine-in-new-bottles-issue-32-175912) in his [Resilience Roundup] newsletter)
+* [The Seven Deadly Myths of "Autonomous Systems"]
 
 [The theory of graceful extensibility: basic rules that govern adaptive systems]: https://link.springer.com/article/10.1007%2Fs10669-018-9708-3
 
