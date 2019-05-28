@@ -164,6 +164,9 @@ Bergström tweets as [@bergstrom_johan](https://twitter.com/bergstrom_johan).
 
 * [Resilience engineering: Current status of the research and future challenges](https://www.sciencedirect.com/science/article/pii/S0925753516306130)
 * [Rule- and role retreat: An empirical study of procedures and resilience](https://www.researchgate.net/publication/50917226_Rule-_and_role_retreat_An_empirical_study_of_procedures_and_resilience)
+* [Team Coordination in Escalating Situations: An Empirical Study Using Mid-Fidelity Simulation]
+
+[Team Coordination in Escalating Situations: An Empirical Study Using Mid-Fidelity Simulation]: https://portal.research.lu.se/ws/files/1376441/3014838.pdf
 
 ### Selected talks
 
@@ -225,6 +228,7 @@ Cook tweets as [@ri_cook](https://twitter.com/ri_cook).
 * [Mistaking Error]
 * [Adapting to new technology in the operating room]
 * [Verite, Abstraction, and Ordinateur Systems in the Evolution of Complex Process Control](https://www.researchgate.net/publication/3657912_Verite_abstraction_and_ordinateur_systems_in_the_evolution_of_complex_process_control)
+* [Collaborative Cross-Checking to Enhance Resilience]
 
 [Behind Human Error]: https://www.amazon.com/Behind-Human-Error-David-Woods/dp/0754678342
 [Cognitive consequences of clumsy automation on high workload, high consequence human performance]: https://ntrs.nasa.gov/search.jsp?R=19910011398
@@ -238,6 +242,8 @@ Cook tweets as [@ri_cook](https://twitter.com/ri_cook).
 [Mistaking Error]: https://www.researchgate.net/publication/328149714_Mistaking_Error
 
 [Adapting to new technology in the operating room]: https://www.researchgate.net/publication/14230576_Adapting_to_New_Technology_in_the_Operating_Room
+[Collaborative Cross-Checking to Enhance Resilience]: https://www.researchgate.net/publication/220579448_Collaborative_Cross-Checking_to_Enhance_Resilience
+
 
 ### Selected talks
 
@@ -306,6 +312,7 @@ Dekker examines how cultural norms defining justice can be re-oriented to minimi
 * [Six stages to the new view of human error](http://www.humanfactors.lth.se/fileadmin/lusa/Sidney_Dekker/articles/2007/SafetyScienceMonitor.pdf)
 * [Behind Human Error]
 * [Employees: A Problem to Control or Solution to Harness?](http://sidneydekker.com/wp-content/uploads/2014/08/DekkerPS2014.pdf)
+* [Team Coordination in Escalating Situations: An Empirical Study Using Mid-Fidelity Simulation]
 
 ## John C. Doyle
 
@@ -471,6 +478,7 @@ complex socio-technical systems.
 * [Resilience engineering – Building a Culture of Resilience](http://www.ptil.no/getfile.php/1325150/PDF/Seminar%202013/Integrerte%20operasjoner/Hollnagel_RIO_presentation.pdf) (slides)
 * [Anomaly Response]
 * [Cognitive Systems Engineering: New wine in new bottles] (see also [Thai Wood's notes](https://www.getrevue.co/profile/resilience/issues/resilience-roundup-cognitive-systems-engineering-new-wine-in-new-bottles-issue-32-175912) in his [Resilience Roundup] newsletter)
+* [Epilogue: Resilience Engineering Precepts](https://www.researchgate.net/publication/265074845_Epilogue_Resilience_Engineering_Precepts)
 
 
 [Resilience Engineering: Concepts and Precepts]: https://www.amazon.com/gp/product/B009KNDF64/ref=x_gr_w_glide_bb?ie=UTF8&tag=x_gr_w_glide_bb-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B009KNDF64&SubscriptionId=1MGPYB6YW3HWK55XCGG2
@@ -523,9 +531,11 @@ Klein tweets as [@KleInsight](https://twitter.com/KleInsight).
 * [Critical decision method for eliciting knowledge](https://ieeexplore.ieee.org/document/31053)
 * [A recognition-primed decision (RPD) model of rapid decision making](https://pdfs.semanticscholar.org/0672/092ecc507fb41d81e82d2986cf86c4bff14f.pdf)
 * [Seeing the invisible: perceptual-cognitive aspects of expertise](https://cmapspublic3.ihmc.us/rid=1G9NSY15K-N7MJMZ-LC5/SeeingTheInvisible.pdf)
+* [Patterns in Cooperative Cognition]
 
 [Problem detection]: https://www.researchgate.net/publication/220579480_Problem_detection
 [Ten challenges for making automation a team player]: https://ieeexplore.ieee.org/abstract/document/1363742
+[Patterns in Cooperative Cognition]: https://www.researchgate.net/publication/262449980_Patterns_in_Cooperative_Cognition
 
 ## Nancy Leveson
 
@@ -637,6 +647,8 @@ in healthcare.
 * [Using observational study as a tool for discovery: uncovering cognitive and collaborative demands and adaptive strategies]
 * [Voice Loops as Coordination Aids in Space Shuttle Mission Control]
 * [Functionally distributed coordination during anomaly response in space shuttle mission control]
+* [Patterns in Cooperative Cognition]
+* [Collaborative Cross-Checking to Enhance Resilience]
 
 [Using observational study as a tool for discovery: uncovering cognitive and collaborative demands and adaptive strategies]: https://www.researchgate.net/profile/Emily_Patterson2/publication/237138704_USING_OBSERVATIONAL_STUDY_AS_A_TOOL_FOR_DISCOVERY_UNCOVERING_COGNITIVE_AND_COLLABORATIVE_DEMANDS_AND_ADAPTIVE_STRATEGIES/links/0deec52c8e310b385a000000.pdf
 
@@ -1059,6 +1071,8 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
 ### Selected publications
 
 * [Resilience Engineering: Concepts and Precepts](https://www.amazon.com/gp/product/B009KNDF64/ref=x_gr_w_glide_bb?ie=UTF8&tag=x_gr_w_glide_bb-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B009KNDF64&SubscriptionId=1MGPYB6YW3HWK55XCGG2)
+    - [Prologue: Resilience Engineering Concepts](http://erikhollnagel.com/onewebmedia/Prologue.pdf)
+    - [Epilogue: Resilience Engineering Precepts](https://www.researchgate.net/publication/265074845_Epilogue_Resilience_Engineering_Precepts)
 * [Resilience is a verb](https://www.researchgate.net/publication/329035477_Resilience_is_a_Verb)
 * [Four concepts for resilience and the implications for the future of resilience engineering](https://www.researchgate.net/publication/276139783_Four_concepts_for_resilience_and_the_implications_for_the_future_of_resilience_engineering)
 * [How adaptive systems fail](https://www.researchgate.net/publication/284173754_How_Adaptive_Systems_Fail)
@@ -1113,6 +1127,9 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
 * [Cognitive Technologies: The Design of Joint Human-Machine Cognitive Systems](https://www.researchgate.net/publication/220604613_Cognitive_Technologies_The_Design_of_Joint_Human-Machine_Cognitive_Systems)
 * [Cognitive Systems Engineering: New wine in new bottles] (see also [Thai Wood's notes](https://www.getrevue.co/profile/resilience/issues/resilience-roundup-cognitive-systems-engineering-new-wine-in-new-bottles-issue-32-175912) in his [Resilience Roundup] newsletter)
 * [The Seven Deadly Myths of "Autonomous Systems"]
+* [Resilience and the ability to anticipate](https://www.researchgate.net/publication/285487326_Resilience_and_the_ability_to_anticipate)
+* [Patterns in Cooperative Cognition]
+* [Collaborative Cross-Checking to Enhance Resilience]
 
 [The theory of graceful extensibility: basic rules that govern adaptive systems]: https://link.springer.com/article/10.1007%2Fs10669-018-9708-3
 
