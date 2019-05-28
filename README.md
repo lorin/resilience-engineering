@@ -200,6 +200,7 @@ Cook tweets as [@ri_cook](https://twitter.com/ri_cook).
 * Going solid
 * Cycle of error
 * "new look"
+* first vs second stories
 
 
 ### Selected publications
@@ -207,7 +208,7 @@ Cook tweets as [@ri_cook](https://twitter.com/ri_cook).
 * [How complex systems fail](http://web.mit.edu/2.75/resources/random/How%20Complex%20Systems%20Fail.pdf)
 * [*Where* complex systems fail](https://www.snafucatchers.com/single-post/2017/11/14/void-Incidents-as-Untyped-Pointers)
 * [Distancing through differencing: An obstacle to organizational learning following accidents](https://www.researchgate.net/publication/292504703_Distancing_through_differencing_An_obstacle_to_organizational_learning_following_accidents)
-* [Being bumpable](http://csel.eng.ohio-state.edu/productions/woodscta/media/beingbump.pdf)
+* [Being bumpable](http://csel.eng.ohio-state.edu/productions/woodscta/media/beingbump.pdf) (see also [Thai Wood's notes](https://www.getrevue.co/profile/resilience/issues/resilience-roundup-navigating-through-large-display-networks-in-dynamic-control-applications-issue-31-174509) in his [Resilience Roundup] newsletter)
 * [Behind Human Error]
 * [Incidents - markers of resilience or brittleness?](https://www.researchgate.net/publication/292504952_Incidents_-_markers_of_resilience_or_brittleness)
 * [“Going solid”: a model of system dynamics and consequences for patient safety](https://qualitysafety.bmj.com/content/14/2/130)
@@ -382,8 +383,10 @@ who has done extensive reserach in human expertise.
 
 * [Common Ground and Coordination in Joint Activity]
 * [Issue of expert flexibility in contexts characterized by complexity and change](https://www.researchgate.net/publication/232465540_Issue_of_expert_flexibility_in_contexts_characterized_by_complexity_and_change)
+* [A rose by any other name...would probably be given an acronym]
 
 [Common Ground and Coordination in Joint Activity]: http://jeffreymbradshaw.net/publications/Common_Ground_Single.pdf
+[A rose by any other name...would probably be given an acronym]: https://www.researchgate.net/publication/3454029_A_rose_by_any_other_namewould_probably_be_given_an_acronym
 
 ## Meir Finkel
 
@@ -413,6 +416,7 @@ who has done extensive reserach in human expertise.
 * [Measuring resilience](https://journals.sagepub.com/doi/abs/10.1177/0018720816686248)
 * [Myths of automation and their implications for military procurement]
 * [The Seven Deadly Myths of "Autonomous Systems"]
+* [A rose by any other name...would probably be given an acronym]
 
 [Myths of automation and their implications for military procurement]:https://www.researchgate.net/publication/326000581_Myths_of_automation_and_their_implications_for_military_procurement 
 
@@ -1136,6 +1140,7 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
 * [Patterns in Cooperative Cognition]
 * [Collaborative Cross-Checking to Enhance Resilience]
 * [Resilience Engineering: New directions for measuring and maintaining safety in complex systems]
+* [A rose by any other name...would probably be given an acronym]
 
 [The theory of graceful extensibility: basic rules that govern adaptive systems]: https://link.springer.com/article/10.1007%2Fs10669-018-9708-3
 
