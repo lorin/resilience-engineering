@@ -21,6 +21,7 @@ they're ones I've read or have added to my to-read list.
 * [John Allspaw](#john-allspaw)
 * [Lisanne Bainbridge](#lisanne-bainbridge)
 * [Andrea Baker](#andrea-baker)
+* [E. Asher Balkin](#e-asher-balkin)
 * [Johan Bergström](#johan-bergström)
 * [Todd Conklin](#todd-conklin)
 * [Richard I. Cook](#richard-i-cook)
@@ -31,6 +32,7 @@ they're ones I've read or have added to my to-read list.
 * [Paul Feltovich](#paul-feltovich)
 * [Pedro Ferreira](http://www.resilience-engineering-association.org/user/pedro/)
 * [Meir Finkel](#meir-finkel)
+* [Marisa Grayson](#marisa-grayson)
 * [Ivonne Andrade Herrera](#ivonne-andrade-herrera)
 * [Robert Hoffman](#robert-hoffman)
 * [Erik Hollnagel](#erik-hollnagel)
@@ -143,6 +145,11 @@ Baker tweets as [@thehopmentor](https://twitter.com/thehopmentor).
 * [A bit about HOP](https://docs.wixstatic.com/ugd/1a0149_21bcf20f158540098d3d7987ffbf3f58.pdf) (editorial)
 * [A short introduction to human and organizational performance (hop) and learning teams](http://www.safetydifferently.com/a-short-introduction-to-human-and-organizational-performance-hop-and-learning-teams/) (blog post)
 
+## E. Asher Balkin
+
+### Selected talks
+
+* [Root cause and the wrong path](https://www.youtube.com/watch?v=kK6t-gttsJw)
 
 ## Johan Bergström
 
@@ -395,6 +402,14 @@ Finkel is a Colonel in the Israeli Defense Force (IDF) and the Director of the I
 ### Selected publications
 * [On Flexibility: Recovery from Technological and Doctrinal Surprise on the Battlefield](https://www.amazon.com/Flexibility-Recovery-Technological-Doctrinal-Battlefield/dp/0804774897/ref=sr_1_3?ie=UTF8&qid=1546046916&sr=8-3&keywords=on+flexibility)
 
+## Marisa Grayson
+
+[Grayson](https://www.linkedin.com/in/marisa-grayson/) is a cognitive systems engineer at Mile Two, LLC.
+
+### Selected Publications
+
+* [Approaching Overload: Diagnosis and Response to Anomalies in Complex and Automated Production Software Systems](https://www.researchgate.net/publication/333091997_Approaching_Overload_Diagnosis_and_Response_to_Anomalies_in_Complex_and_Automated_Production_Software_Systems)
+
 ## Ivonne Andrade Herrera
 
 [Herrera](https://www.ntnu.edu/employees/ivonne.a.herrera) is an associate professor in 
@@ -472,6 +487,7 @@ complex socio-technical systems.
 * emergence
 * work-as-imagined vs. work-as-done
 * joint cognitive systems
+* systems of the first, second, third, fourth kind
 
 ### Selected publications
 
@@ -488,6 +504,7 @@ complex socio-technical systems.
 * [Cognitive Systems Engineering: New wine in new bottles] (see also [Thai Wood's notes](https://www.getrevue.co/profile/resilience/issues/resilience-roundup-cognitive-systems-engineering-new-wine-in-new-bottles-issue-32-175912) in his [Resilience Roundup] newsletter)
 * [Epilogue: Resilience Engineering Precepts](https://www.researchgate.net/publication/265074845_Epilogue_Resilience_Engineering_Precepts)
 * [Resilience Engineering: New directions for measuring and maintaining safety in complex systems]
+* [Resilience Engineering](https://erikhollnagel.com/ideas/resilience-engineering.html) (web essay)
 
 
 [Resilience Engineering: Concepts and Precepts]: https://www.amazon.com/gp/product/B009KNDF64/ref=x_gr_w_glide_bb?ie=UTF8&tag=x_gr_w_glide_bb-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B009KNDF64&SubscriptionId=1MGPYB6YW3HWK55XCGG2
