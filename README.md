@@ -1147,6 +1147,7 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
 ### Selected talks
 
 * [The Mystery of Sustained Adaptability](https://www.youtube.com/watch?v=7STcaWjJoww)
+* [Resilience is a verb](https://www.youtube.com/watch?v=V2qj5gMsjrU)
 
 ## John Wreathall
 
