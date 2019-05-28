@@ -229,6 +229,9 @@ Cook tweets as [@ri_cook](https://twitter.com/ri_cook).
 * [Adapting to new technology in the operating room]
 * [Verite, Abstraction, and Ordinateur Systems in the Evolution of Complex Process Control](https://www.researchgate.net/publication/3657912_Verite_abstraction_and_ordinateur_systems_in_the_evolution_of_complex_process_control)
 * [Collaborative Cross-Checking to Enhance Resilience]
+* [Resilience Engineering: New directions for measuring and maintaining safety in complex systems]
+
+
 
 [Behind Human Error]: https://www.amazon.com/Behind-Human-Error-David-Woods/dp/0754678342
 [Cognitive consequences of clumsy automation on high workload, high consequence human performance]: https://ntrs.nasa.gov/search.jsp?R=19910011398
@@ -240,9 +243,9 @@ Cook tweets as [@ri_cook](https://twitter.com/ri_cook).
 [A Tale of Two Stories: Contrasting Views of Patient Safety]: https://www.researchgate.net/publication/245102691_A_Tale_of_Two_Stories_Contrasting_Views_of_Patient_Safety
 [Perspectives on Human Error: Hindsight Biases and Local Rationality]: https://www.nifc.gov/PUBLICATIONS/acc_invest_march2010/speakers/Perspectives%20on%20Human%20Error.pdf
 [Mistaking Error]: https://www.researchgate.net/publication/328149714_Mistaking_Error
-
 [Adapting to new technology in the operating room]: https://www.researchgate.net/publication/14230576_Adapting_to_New_Technology_in_the_Operating_Room
 [Collaborative Cross-Checking to Enhance Resilience]: https://www.researchgate.net/publication/220579448_Collaborative_Cross-Checking_to_Enhance_Resilience
+[Resilience Engineering: New directions for measuring and maintaining safety in complex systems]: https://pdfs.semanticscholar.org/a0d3/9cc66adc64e297048a32b71aeee209a451af.pdf
 
 
 ### Selected talks
@@ -313,6 +316,7 @@ Dekker examines how cultural norms defining justice can be re-oriented to minimi
 * [Behind Human Error]
 * [Employees: A Problem to Control or Solution to Harness?](http://sidneydekker.com/wp-content/uploads/2014/08/DekkerPS2014.pdf)
 * [Team Coordination in Escalating Situations: An Empirical Study Using Mid-Fidelity Simulation]
+* [Resilience Engineering: New directions for measuring and maintaining safety in complex systems]
 
 ## John C. Doyle
 
@@ -479,6 +483,7 @@ complex socio-technical systems.
 * [Anomaly Response]
 * [Cognitive Systems Engineering: New wine in new bottles] (see also [Thai Wood's notes](https://www.getrevue.co/profile/resilience/issues/resilience-roundup-cognitive-systems-engineering-new-wine-in-new-bottles-issue-32-175912) in his [Resilience Roundup] newsletter)
 * [Epilogue: Resilience Engineering Precepts](https://www.researchgate.net/publication/265074845_Epilogue_Resilience_Engineering_Precepts)
+* [Resilience Engineering: New directions for measuring and maintaining safety in complex systems]
 
 
 [Resilience Engineering: Concepts and Precepts]: https://www.amazon.com/gp/product/B009KNDF64/ref=x_gr_w_glide_bb?ie=UTF8&tag=x_gr_w_glide_bb-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B009KNDF64&SubscriptionId=1MGPYB6YW3HWK55XCGG2
@@ -1130,6 +1135,7 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
 * [Resilience and the ability to anticipate](https://www.researchgate.net/publication/285487326_Resilience_and_the_ability_to_anticipate)
 * [Patterns in Cooperative Cognition]
 * [Collaborative Cross-Checking to Enhance Resilience]
+* [Resilience Engineering: New directions for measuring and maintaining safety in complex systems]
 
 [The theory of graceful extensibility: basic rules that govern adaptive systems]: https://link.springer.com/article/10.1007%2Fs10669-018-9708-3
 
