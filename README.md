@@ -147,6 +147,10 @@ Baker tweets as [@thehopmentor](https://twitter.com/thehopmentor).
 
 ## E. Asher Balkin
 
+### Selected publications
+
+* [Resiliency Trade Space Study: The Interaction of Degraded C2 Link and Detect and Avoid Autonomy on Unmanned Aircraft](https://www.researchgate.net/publication/330222613_Resiliency_Trade_Space_Study_The_Interaction_of_Degraded_C2_Link_and_Detect_and_Avoid_Autonomy_on_Unmanned_Aircraft)
+
 ### Selected talks
 
 * [Root cause and the wrong path](https://www.youtube.com/watch?v=kK6t-gttsJw)
