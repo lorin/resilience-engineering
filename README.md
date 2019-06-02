@@ -329,6 +329,7 @@ Dekker examines how cultural norms defining justice can be re-oriented to minimi
 * [Employees: A Problem to Control or Solution to Harness?](http://sidneydekker.com/wp-content/uploads/2014/08/DekkerPS2014.pdf)
 * [Team Coordination in Escalating Situations: An Empirical Study Using Mid-Fidelity Simulation]
 * [Resilience Engineering: New directions for measuring and maintaining safety in complex systems]
+* [Illusions of explanation: A critical essay on error classification](http://www.humanfactors.lth.se/fileadmin/lusa/Sidney_Dekker/articles/2003_and_before/Illusions_of_explanation.pdf)
 
 ## John C. Doyle
 
