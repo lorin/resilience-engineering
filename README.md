@@ -632,6 +632,11 @@ Maguire has done safety work in multiple domains, including forestry, avalanches
 
 Maguire tweets as [@LauraMDMaguire](https://twitter.com/lauramdmaguire).
 
+### Selected talks
+
+* [Mental models – why saying “I didn’t know it worked that way” is a sign of expertise not incompetence](https://www.youtube.com/watch?v=VEprjLtHzg0)
+
+
 ## Anne-Sophie Nyssen
 
 [Nyssen](http://www.lecit.ulg.ac.be/equipe/anne-sophie-nyssen/) is a psychology professor at the University of Liège,
