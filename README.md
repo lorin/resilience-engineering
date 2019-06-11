@@ -833,11 +833,14 @@ Shorrock tweets as [@StevenShorrock](https://twitter.com/StevenShorrock).
 
 ## Diane Vaughan
 
-Vaughan is a sociology researcher who did a famous study of the NASA Challenger accident.
+Vaughan is a sociology researcher who did a famous study of the NASA Challenger accident, concluding that it was the result of organizational failure rather than a technical failure.  Specifically, production pressure overrode the rigorous scientific safety culture in place at NASA.
 
 ### Concepts
 
-* normalization of deviance
+* Structural Secrecy:
+* Social Construction of Risk:
+* Normalization of Deviance:
+* Weak signals, mixed signals, signals of potential danger:  
 
 ### Selected publications
 
