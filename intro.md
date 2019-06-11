@@ -66,10 +66,6 @@ Note that traditional approaches to safety often focus on minimizing variance
 associated with humans doing work, using techniques such as documented
 procedures and enforcement mechanisms for deviating from them. 
 
-For those of us who work on cloud web services, we don't have this legacy of
-enforced procedures to contend with.
-
-
 ### New look / new view
 
 The "new look" or "new view" refers to a change in perspective on how accidents
