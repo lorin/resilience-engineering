@@ -906,10 +906,13 @@ Vaughan is a sociology researcher who did a famous study of the NASA Challenger 
 
 ### Concepts
 
-* Structural Secrecy:
-* Social Construction of Risk:
-* Normalization of Deviance:
-* Weak signals, mixed signals, signals of potential danger:  
+* Structural Secrecy:  Organizational structure, processes, and information exchange patterns can systematically undermine the ability to "see the whole picture" and conceal risky decisions.
+* Social Construction of Risk:  Out of the necessity to balance risk with the associated reward, any group of people will develop efficient heuristics to solve the problems they face.  The understanding of risk that faces one subgroup may not match that of another subgroup or of the whole group.  The ability of an individual to change a social construction of risk, formed over years with good intentions and often with evidence, is limited.  (Though the evidence is usually accurate, the conclusion might not be, leading to an inadvertent scientific paradigm.)
+* Normalization of Deviance:  During operation of a complex system, inadvertent deviations from system design may occur and not result in a system failure.  Because the intial construction of risk is usually conservative, the deviation is seen as showing that the system and its redundancies "worked", leading to a new accepted safe operating envelope.
+* Signals of potential danger:  Information gained through the operation of a system that may indicate the system does not work as designed.  Most risk constructions are based on a comprehensive understanding of the operation of the system, so information to the contrary is a sign that the system could leave the safe operation envelope in unexpected ways - a danger.
+* Weak signals, mixed signals, missed signals:  signals of potential danger that have been interpreted as non-threats or acceptable risk because at the time they didn't represent a clear and present danger sufficient to overcome the Social Construction of Risk.  Often, post-hoc, these are seen as causes due to cherry-picking - such signals were ignored before with no negative consequences.
+* Competition for Scarce Resources:  An ongoing need to justify investment to customers leads to Efficiency-Thoroughness Tradeoffs (ETTOs).  In NASA's case, justifying the cost of the Space Shuttle program to taxpayers and their congressional representatives meant pressure to quickly develop payload delivery capability at the lowest cost possible.
+* Belief in Redundancy:  Constructing risk from a signal of potential danger such that a redundant subsystem becomes part of the normal operating strategy for a primary subsystem.  In NASA's case, signals that the primary O-ring assembly did not operate as expected formed an acceptable risk because a secondary O-ring would contain a failure.  Redundancy was eliminated from the design in this construction of risk - the secondary system now became part of the primary system, eliminating system redundancy.
 
 ### Selected publications
 
