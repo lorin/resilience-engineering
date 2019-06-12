@@ -1176,7 +1176,7 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
 * [A rose by any other name...would probably be given an acronym]
 * [How do systems manage their adaptive capacity to successfully handle disruptions? A resilience engineering perspective](https://www.researchgate.net/publication/286581322_How_do_systems_manage_their_adaptive_capacity_to_successfully_handle_disruptions_A_resilience_engineering_perspective)
 
-[The theory of graceful extensibility: basic rules that govern adaptive systems]: https://link.springer.com/article/10.1007%2Fs10669-018-9708-3
+[The theory of graceful extensibility: basic rules that govern adaptive systems]: https://www.researchgate.net/publication/327427067_The_Theory_of_Graceful_Extensibility_Basic_rules_that_govern_adaptive_systems
 
 ### Selected talks
 
