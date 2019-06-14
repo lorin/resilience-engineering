@@ -81,7 +81,7 @@ Johan Bergström of Lund University has three excellent short (<10 minute) video
 
 Two great introductory papers (alas, both paywalled) are:
 
-* [Reconstructing human contributions to accidents: the new view on error and performance](https://www.sciencedirect.com/science/article/pii/S0022437502000324) 
+* [Reconstructing human contributions to accidents: the new view on error and performance](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.411.4985&rep=rep1&type=pdf) 
 by Dekker 
 * [The error of counting errors](https://doi.org/10.1016/j.annemergmed.2008.03.015) by Robert Wears
 
