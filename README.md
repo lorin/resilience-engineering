@@ -685,12 +685,15 @@ in healthcare.
 * [Functionally distributed coordination during anomaly response in space shuttle mission control]
 * [Patterns in Cooperative Cognition]
 * [Collaborative Cross-Checking to Enhance Resilience]
+* [How Unexpected Events Produce An Escalation Of Cognitive And Coordinative Demands]
 
 [Using observational study as a tool for discovery: uncovering cognitive and collaborative demands and adaptive strategies]: https://www.researchgate.net/profile/Emily_Patterson2/publication/237138704_USING_OBSERVATIONAL_STUDY_AS_A_TOOL_FOR_DISCOVERY_UNCOVERING_COGNITIVE_AND_COLLABORATIVE_DEMANDS_AND_ADAPTIVE_STRATEGIES/links/0deec52c8e310b385a000000.pdf
 
 [Voice Loops as Coordination Aids in Space Shuttle Mission Control]: https://www.semanticscholar.org/paper/Voice-Loops-as-Coordination-Aids-in-Space-Shuttle-Patterson-Watts-Perotti/068dfee1a859a63fa2ef82f008d239e6a81ed004 
 
 [Functionally distributed coordination during anomaly response in space shuttle mission control]: https://www.researchgate.net/publication/3657906_Functionally_distributed_coordination_during_anomaly_response_inspace_shuttle_mission_control
+
+[How Unexpected Events Produce An Escalation Of Cognitive And Coordinative Demands]: http://csel.eng.ohio-state.edu/productions/laws/laws_mediapaper/2_4_escalation.pdf
 
 ## Charles Perrow
 
@@ -1175,6 +1178,7 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
 * [Resilience Engineering: New directions for measuring and maintaining safety in complex systems]
 * [A rose by any other name...would probably be given an acronym]
 * [How do systems manage their adaptive capacity to successfully handle disruptions? A resilience engineering perspective](https://www.researchgate.net/publication/286581322_How_do_systems_manage_their_adaptive_capacity_to_successfully_handle_disruptions_A_resilience_engineering_perspective)
+* [How Unexpected Events Produce An Escalation Of Cognitive And Coordinative Demands]
 
 [The theory of graceful extensibility: basic rules that govern adaptive systems]: https://www.researchgate.net/publication/327427067_The_Theory_of_Graceful_Extensibility_Basic_rules_that_govern_adaptive_systems
 
