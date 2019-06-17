@@ -437,6 +437,7 @@ who has done extensive reserach in human expertise.
 * [Myths of automation and their implications for military procurement]
 * [The Seven Deadly Myths of "Autonomous Systems"]
 * [A rose by any other name...would probably be given an acronym]
+* [Seeing the invisible: perceptual-cognitive aspects of expertise](https://cmapspublic3.ihmc.us/rid=1G9NSY15K-N7MJMZ-LC5/SeeingTheInvisible.pdf)
 
 [Myths of automation and their implications for military procurement]:https://www.researchgate.net/publication/326000581_Myths_of_automation_and_their_implications_for_military_procurement 
 
