@@ -121,7 +121,7 @@ be frequently cited.
 * interface design 
 
 ## Selected publications
-* [Ironies of automation]
+* [Ironies of automation]  (see also [Thai Wood's notes](https://resilienceroundup.com/issues/35/) in his [Resilience Roundup] newsletter)
 
 
 [Ironies of automation]: https://www.ise.ncsu.edu/wp-content/uploads/2017/02/Bainbridge_1983_Automatica.pdf
