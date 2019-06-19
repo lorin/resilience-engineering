@@ -1122,7 +1122,7 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
     - [Epilogue: Resilience Engineering Precepts](https://www.researchgate.net/publication/265074845_Epilogue_Resilience_Engineering_Precepts)
 * [Resilience is a verb](https://www.researchgate.net/publication/329035477_Resilience_is_a_Verb)
 * [Four concepts for resilience and the implications for the future of resilience engineering](https://www.researchgate.net/publication/276139783_Four_concepts_for_resilience_and_the_implications_for_the_future_of_resilience_engineering)
-* [How adaptive systems fail](https://www.researchgate.net/publication/284173754_How_Adaptive_Systems_Fail)
+* [How adaptive systems fail](https://www.researchgate.net/publication/284173754_How_Adaptive_Systems_Fail) ([Thai Wood's notes](https://resilienceroundup.com/issues/34/))
 * [Resilience and the ability to anticipate](https://www.researchgate.net/publication/285487326_Resilience_and_the_ability_to_anticipate)
 * [Distancing through differencing: An obstacle to organizational learning following accidents](https://www.researchgate.net/publication/292504703_Distancing_through_differencing_An_obstacle_to_organizational_learning_following_accidents)
 * [Essential characteristics of resilience](https://www.researchgate.net/publication/284328979_Essential_characteristics_of_resilience)
@@ -1172,7 +1172,7 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
 * [The Strategic Agility Gap: How organizations are slow and stale to adapt in turbulent worlds](https://www.researchgate.net/publication/330196218_The_Strategic_Agility_Gap_How_organizations_are_slow_and_stale_to_adapt_in_turbulent_worlds)
 * [Resiliency Trade Space Study: The Interaction of Degraded C2 Link and Detect and Avoid Autonomy on Unmanned Aircraft](https://www.researchgate.net/publication/330222613_Resiliency_Trade_Space_Study_The_Interaction_of_Degraded_C2_Link_and_Detect_and_Avoid_Autonomy_on_Unmanned_Aircraft)
 * [Cognitive Technologies: The Design of Joint Human-Machine Cognitive Systems](https://www.researchgate.net/publication/220604613_Cognitive_Technologies_The_Design_of_Joint_Human-Machine_Cognitive_Systems)
-* [Cognitive Systems Engineering: New wine in new bottles] (see also [Thai Wood's notes](https://www.getrevue.co/profile/resilience/issues/resilience-roundup-cognitive-systems-engineering-new-wine-in-new-bottles-issue-32-175912) in his [Resilience Roundup] newsletter)
+* [Cognitive Systems Engineering: New wine in new bottles] ([Thai Wood's notes](https://resilienceroundup.com/issues/32/))
 * [The Seven Deadly Myths of "Autonomous Systems"]
 * [Resilience and the ability to anticipate](https://www.researchgate.net/publication/285487326_Resilience_and_the_ability_to_anticipate)
 * [Patterns in Cooperative Cognition]
