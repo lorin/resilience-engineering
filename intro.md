@@ -154,7 +154,7 @@ this community is very concerned about the potential *brittleness* associated wi
 use of automation.
 
 
-* [Ironies of automation](https://doi.org/10.1016/0005-1098(83)90046-8) by Lisanne
+* [Ironies of automation](https://www.ise.ncsu.edu/wp-content/uploads/2017/02/Bainbridge_1983_Automatica.pdf) by Lisanne
 Bainbridge is a classic paper on the problems that automation can introduce.
 The paper was originally written in 1983, and continues to be widely cited. 
 

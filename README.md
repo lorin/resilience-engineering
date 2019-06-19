@@ -124,7 +124,7 @@ be frequently cited.
 * [Ironies of automation]
 
 
-[Ironies of automation]: https://doi.org/10.1016/0005-1098(83)90046-8
+[Ironies of automation]: https://www.ise.ncsu.edu/wp-content/uploads/2017/02/Bainbridge_1983_Automatica.pdf
 
 ## Andrea Baker
 
