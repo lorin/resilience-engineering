@@ -438,10 +438,13 @@ who has done extensive reserach in human expertise.
 * [The Seven Deadly Myths of "Autonomous Systems"]
 * [A rose by any other name...would probably be given an acronym]
 * [Seeing the invisible: perceptual-cognitive aspects of expertise](https://cmapspublic3.ihmc.us/rid=1G9NSY15K-N7MJMZ-LC5/SeeingTheInvisible.pdf)
+* [Toward a Theory of Complex and Cognitive Systems]
 
 [Myths of automation and their implications for military procurement]:https://www.researchgate.net/publication/326000581_Myths_of_automation_and_their_implications_for_military_procurement 
 
 [The Seven Deadly Myths of "Autonomous Systems"]: https://www.researchgate.net/publication/260304859_The_Seven_Deadly_Myths_of_Autonomous_Systems
+
+[Toward a Theory of Complex and Cognitive Systems]: https://www.researchgate.net/publication/3454245_Toward_a_Theory_of_Complex_and_Cognitive_Systems
 
 
 ## Erik Hollnagel
@@ -1182,6 +1185,7 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
 * [How do systems manage their adaptive capacity to successfully handle disruptions? A resilience engineering perspective](https://www.researchgate.net/publication/286581322_How_do_systems_manage_their_adaptive_capacity_to_successfully_handle_disruptions_A_resilience_engineering_perspective)
 * [How Unexpected Events Produce An Escalation Of Cognitive And Coordinative Demands]
 * [How to Make Automated Systems Team Players](https://www.researchgate.net/profile/David_Woods11/publication/2483863_How_to_Make_Automated_Systems_Team_Players/links/5a4f829eaca272940bf8202c/How-to-Make-Automated-Systems-Team-Players.pdf)
+* [Toward a Theory of Complex and Cognitive Systems]
 
 [The theory of graceful extensibility: basic rules that govern adaptive systems]: https://www.researchgate.net/publication/327427067_The_Theory_of_Graceful_Extensibility_Basic_rules_that_govern_adaptive_systems
 
