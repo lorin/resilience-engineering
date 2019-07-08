@@ -158,6 +158,10 @@ use of automation.
 Bainbridge is a classic paper on the problems that automation can introduce.
 The paper was originally written in 1983, and continues to be widely cited. 
 
+* [How to make automated systems team players](https://researchgate.net/publication/2483863)
+by Christoffersen and Woods discusses how previous automated systems have been problematic and proposes strategies
+for improving automating.
+
 * [Ten challenges for making automation a team player](https://ieeexplore.ieee.org/abstract/document/1363742)
 by Klein et al. is a more recent paper that outlines the requirements for automation to be genuinely effective in
 socio-technical systems. This work draws heavily from the theme of *coordination* discussed earlier.
