@@ -567,6 +567,7 @@ Klein tweets as [@KleInsight](https://twitter.com/KleInsight).
 * [A recognition-primed decision (RPD) model of rapid decision making](https://pdfs.semanticscholar.org/0672/092ecc507fb41d81e82d2986cf86c4bff14f.pdf)
 * [Seeing the invisible: perceptual-cognitive aspects of expertise](https://cmapspublic3.ihmc.us/rid=1G9NSY15K-N7MJMZ-LC5/SeeingTheInvisible.pdf)
 * [Patterns in Cooperative Cognition]
+* [The strengths and limitations of teams for detecting problems](https://link.springer.com/article/10.1007/s10111-005-0024-6)
 
 [Problem detection]: https://www.researchgate.net/publication/220579480_Problem_detection
 [Ten challenges for making automation a team player]: https://ieeexplore.ieee.org/abstract/document/1363742
