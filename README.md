@@ -937,9 +937,10 @@ Vaughan is a sociology researcher who did a famous study of the NASA Challenger 
 
 ## Robert L. Wears
 
-Wears was a medical researcher who studied emergency medicine.
+Wears was a medical researcher who also had a PhD in industrial safety.
 
 ### Concepts
+
 * Underground adaptations
 * Articulated functions vs. important functions
 * Unintended effects
@@ -956,6 +957,10 @@ Wears was a medical researcher who studied emergency medicine.
 * [Replacing Hindsight With Insight: Toward Better Understanding of Diagnostic Failures](https://www.semanticscholar.org/paper/Replacing-hindsight-with-insight%3A-toward-better-of-Wears-Nemeth/1bef45cae7375eddc8ee584dff100d200d812a8d)
 * [Seeing patient safety ‘Like a State’](http://dx.doi.org/10.1016%2Fj.ssci.2014.02.007)
 * [Fundamental On Situational Surprise: A Case Study With Implications For Resilience](https://books.openedition.org/pressesmines/1122?lang=en)
+
+### Selected talks
+
+* [Design of resilient systems](https://www.youtube.com/watch?v=nV52yh6GDMg)
 
 
 ## David Woods
