@@ -1114,6 +1114,7 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
 * sacrifice judgment
 * task tailoring
 * substitution myth
+* observability
 * directability
 * directed attention
 * inter-predictability
@@ -1122,6 +1123,7 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
 * context gap
 * Norbert's contrast
 * anomaly response
+* automation surprises
 
 ### Selected publications
 
