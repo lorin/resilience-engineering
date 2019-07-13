@@ -91,6 +91,7 @@ Allspaw tweets as [@allspaw](https://twitter.com/allspaw).
 
 ### Selected talks
 
+* [Resilience Engineering: The What and How](https://devopsdays.org/events/2019-washington-dc/program/john-allspaw/)
 * [Incidents as we Imagine Them Versus How They Actually Are](https://community.pagerduty.com/t/incidents-as-we-imagine-them-versus-how-they-actually-are-with-john-allspaw/2708) 
 * [Problem detection (papers we love)](https://www.youtube.com/watch?v=NxctiGRI2y8)
   (presentation of [Problem detection] paper)
