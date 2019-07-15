@@ -21,7 +21,7 @@ There are recurring patterns that characterize model surprise - how events chall
 ## Network of adaptive units
 ### No UAB can have sufficient ability to regulate CfM to manage the risk of saturation alone / Synchronization across multiple units of adaptive behavior in a network is necessary
 
-UABs exist in and are defined relative to a network of interacting and interdpeent UABs at multiple scales → networks with multiple roles, multiple echelons
+UABs exist in and are defined relative to a network of interacting and interdependent UABs at multiple scales → networks with multiple roles, multiple echelons
 
 ### Some UABs monitor and regulate the CfM of other UABs in response to changes in the risk of saturation / Risk of saturation can be shared
 
