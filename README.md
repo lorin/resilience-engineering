@@ -1040,6 +1040,10 @@ From [The theory of graceful extensibility: basic rules that govern adaptive sys
 9. Perspective contrast overcomes bounds
 10. Mis-calibration is the norm
 
+### SCAD (Systemic Contributors Analysis and Diagram)
+
+(tbd)
+
 ### Concepts
 
 Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state.edu/ResilienceEngineering.html).
@@ -1195,6 +1199,7 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
 * [How Unexpected Events Produce An Escalation Of Cognitive And Coordinative Demands]
 * [How to Make Automated Systems Team Players](https://www.researchgate.net/profile/David_Woods11/publication/2483863_How_to_Make_Automated_Systems_Team_Players/links/5a4f829eaca272940bf8202c/How-to-Make-Automated-Systems-Team-Players.pdf)
 * [Toward a Theory of Complex and Cognitive Systems]
+* [Multiple systemic contributors versus root cause: learning from a NASA Near Miss](https://www.researchgate.net/publication/308194080_Multiple_Systemic_Contributors_versus_Root_Cause_Learning_from_a_NASA_Near_Miss)
 
 [The theory of graceful extensibility: basic rules that govern adaptive systems]: https://www.researchgate.net/publication/327427067_The_Theory_of_Graceful_Extensibility_Basic_rules_that_govern_adaptive_systems
 
