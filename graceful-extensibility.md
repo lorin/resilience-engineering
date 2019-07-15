@@ -1,7 +1,7 @@
 # Theorems of graceful extensibility
 ## Managing risk of saturation
 ### Adaptive capacity is finite / boundaries are universal
-The location of boundaries to the ability to meet demands is uncertain
+The location of boundaries to the ability to meet demands is uncertain.
 
 Given a finite range, there is a general parameter - capacity for maneuver (CfM) which specifies how much of the range the unit has used and what capacity reamints to handle upcoming demands.
 
@@ -11,12 +11,12 @@ There are recurring patterns that characterize model surprise - how events chall
 
 * Events will occur at some rate and of some size and of some kind that increase the risk of saturation - exhausting the remaining CfM
 * Brittleness is how rapidly a unit's eprformance declines when it nears and reaches its boundaries.
-* The range of adaptive behavior of a UAB is a model of fitness
-* Events that occur near or outside a UAB's boundary increases the risk of stauration, and this occurs independent ofhow well that UAB matches responses to demands
+* The range of adaptive behavior of a UAB is a model of fitness.
+* Events that occur near or outside a UAB's boundary increases the risk of stauration, and this occurs independent ofhow well that UAB matches responses to demands.
 
 ### Adaptive capacities are regulated to manage the risk of saturating CfM / Risk of saturation is monitored and regulated
-* The work required to adapt and handle changing demands increases as CfM decreases
-* As risk of saturation increases and CfM approaches exhaustion, UABs need to adapt to stretch or extend their base range of adaptive behavior to accomodate surprises
+* The work required to adapt and handle changing demands increases as CfM decreases.
+* As risk of saturation increases and CfM approaches exhaustion, UABs need to adapt to stretch or extend their base range of adaptive behavior to accomodate surprises.
 
 ## Network of adaptive units
 ### No UAB can have sufficient ability to regulate CfM to manage the risk of saturation alone / Synchronization across multiple units of adaptive behavior in a network is necessary

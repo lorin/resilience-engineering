@@ -1040,6 +1040,8 @@ From [The theory of graceful extensibility: basic rules that govern adaptive sys
 9. Perspective contrast overcomes bounds
 10. Mis-calibration is the norm
 
+For more details, see [summary of graceful extensibility theorems](graceful-extensibility.md).
+
 ### SCAD (Systemic Contributors Analysis and Diagram)
 
 (tbd)
