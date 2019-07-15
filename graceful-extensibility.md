@@ -1,4 +1,8 @@
 # Theorems of graceful extensibility
+
+Source: [The theory of graceful extensibility: basic rules that govern adaptive systems]
+
+
 ## Managing risk of saturation
 ### Adaptive capacity is finite / boundaries are universal
 The location of boundaries to the ability to meet demands is uncertain.
@@ -40,3 +44,4 @@ What architectural properties of the network influence the way units in a networ
 ### Reflective systems risk mis-calibration / Mis-calibration is the norm
 
 
+[The theory of graceful extensibility: basic rules that govern adaptive systems]: https://www.researchgate.net/publication/327427067_The_Theory_of_Graceful_Extensibility_Basic_rules_that_govern_adaptive_systems
