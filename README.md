@@ -243,7 +243,7 @@ Cook tweets as [@ri_cook](https://twitter.com/ri_cook).
 * [Verite, Abstraction, and Ordinateur Systems in the Evolution of Complex Process Control](https://www.researchgate.net/publication/3657912_Verite_abstraction_and_ordinateur_systems_in_the_evolution_of_complex_process_control)
 * [Collaborative Cross-Checking to Enhance Resilience]
 * [Resilience Engineering: New directions for measuring and maintaining safety in complex systems]
-
+* [The Role of Automation in Complex System Failures]
 
 
 [Behind Human Error]: https://www.amazon.com/Behind-Human-Error-David-Woods/dp/0754678342
@@ -259,6 +259,7 @@ Cook tweets as [@ri_cook](https://twitter.com/ri_cook).
 [Adapting to new technology in the operating room]: https://www.researchgate.net/publication/14230576_Adapting_to_New_Technology_in_the_Operating_Room
 [Collaborative Cross-Checking to Enhance Resilience]: https://www.researchgate.net/publication/220579448_Collaborative_Cross-Checking_to_Enhance_Resilience
 [Resilience Engineering: New directions for measuring and maintaining safety in complex systems]: https://pdfs.semanticscholar.org/a0d3/9cc66adc64e297048a32b71aeee209a451af.pdf
+[The Role of Automation in Complex System Failures]: https://www.researchgate.net/publication/232191704_The_Role_of_Automation_in_Complex_System_Failures
 
 
 ### Selected talks
@@ -730,7 +731,7 @@ Perry is a medical researcher who studies emergency medicine.
 
 * [Underground adaptations: case studies from health care](https://doi.org/10.1007/s10111-011-0207-2)
 * [Can We Trust Best Practices? Six Cognitive Challenges of Evidence-Based Approaches](https://journals.sagepub.com/doi/abs/10.1177/1555343416637520?journalCode=edma)
-
+* [The Role of Automation in Complex System Failures]
 
 ## Jens Rasmussen
 
@@ -959,6 +960,7 @@ Wears was a medical researcher who also had a PhD in industrial safety.
 * [Replacing Hindsight With Insight: Toward Better Understanding of Diagnostic Failures](https://www.semanticscholar.org/paper/Replacing-hindsight-with-insight%3A-toward-better-of-Wears-Nemeth/1bef45cae7375eddc8ee584dff100d200d812a8d)
 * [Seeing patient safety ‘Like a State’](http://dx.doi.org/10.1016%2Fj.ssci.2014.02.007)
 * [Fundamental On Situational Surprise: A Case Study With Implications For Resilience](https://books.openedition.org/pressesmines/1122?lang=en)
+* [The Role of Automation in Complex System Failures]
 
 ### Selected talks
 
