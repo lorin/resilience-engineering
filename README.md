@@ -265,6 +265,10 @@ Cook tweets as [@ri_cook](https://twitter.com/ri_cook).
 ### Selected talks
 
 * [How Complex Systems Fail](https://www.youtube.com/watch?v=2S0k12uZR14)
+* [Bootstrapping, Artifacts, and Tokaimura, 1999](https://vimeo.com/87849921/2b74fd45ff)
+* [Panel discussion: Safety Culture, Lean, and DevOps]
+
+[Panel discussion: Safety Culture, Lean, and DevOps]: https://www.youtube.com/watch?v=gtxtb9z_4FY&feature=youtu.be
 
 
 
@@ -332,6 +336,11 @@ Dekker examines how cultural norms defining justice can be re-oriented to minimi
 * [Team Coordination in Escalating Situations: An Empirical Study Using Mid-Fidelity Simulation]
 * [Resilience Engineering: New directions for measuring and maintaining safety in complex systems]
 * [Illusions of explanation: A critical essay on error classification](http://www.humanfactors.lth.se/fileadmin/lusa/Sidney_Dekker/articles/2003_and_before/Illusions_of_explanation.pdf)
+
+### Selected talks
+
+* [Panel discussion: Safety Culture, Lean, and DevOps]
+
 
 ## John C. Doyle
 
