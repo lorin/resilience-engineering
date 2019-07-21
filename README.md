@@ -1108,8 +1108,10 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
 * software systems as "team players"
 * multi-scale
 * brittleness
-* decompensation
-* working at cross-purposes
+* how adaptive systems fail (see: [How do systems manage their adaptive capacity to successfully handle disruptions? A resilience engineering perspective])
+    - decompensation
+    - working at cross-purposes
+    - getting stuck in outdated behaviors
 * proactive learning vs getting stuck
 * oversimplification
 * fixation
@@ -1233,6 +1235,8 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
 * [Bootstrapping multiple converging cognitive task analysis techniques for system design]
 
 [The theory of graceful extensibility: basic rules that govern adaptive systems]: https://www.researchgate.net/publication/327427067_The_Theory_of_Graceful_Extensibility_Basic_rules_that_govern_adaptive_systems
+[How do systems manage their adaptive capacity to successfully handle disruptions? A resilience engineering perspective]: https://www.researchgate.net/publication/286581322_How_do_systems_manage_their_adaptive_capacity_to_successfully_handle_disruptions_A_resilience_engineering_perspective
+* [How Unexpected Events Produce An Escalation Of Cognitive And Coordinative Demands]
 
 ### Selected talks
 
