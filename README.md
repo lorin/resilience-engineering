@@ -461,6 +461,17 @@ who has done extensive reserach in human expertise.
 
 [Toward a Theory of Complex and Cognitive Systems]: https://www.researchgate.net/publication/3454245_Toward_a_Theory_of_Complex_and_Cognitive_Systems
 
+### Concepts
+
+#### Seven deadly myths of autonomous systems:
+
+1. "Autonomy" is unidimensional.
+2. The conceptualization of "levels of autonomy" is a useful scientific grounding for the development of autonomous system roadmaps.
+3. Autonomy is a widget.
+4. Autonomous systems are autonomous.
+5. Once achieved, full autonomy obviates the need for human-machine collaboration.
+6. As machines acquire more autonomy, they will work as simple sibstitutes (or multipliers) of human capability
+7. "Full autonomy"  is not only possible, but is always desireable.
 
 ## Erik Hollnagel
 
@@ -893,7 +904,9 @@ She is the director of the Center for Ergonomics at the University of Michigan.
 * [Designed-Induced Error and Error-Informed Design: A Two-Way Street](https://www.amazon.com/Cognitive-Systems-Engineering-Expertise-Applications-ebook/dp/B076TDR6H9/ref=sr_1_1?keywords=cognitive+systems+engineering&qid=1554075974&s=gateway&sr=8-1)
 * [The Critical Incident Technique: A Method for Identifying System Strengths and Weaknesses Based on Observational Data](https://www.taylorfrancis.com/books/e/9780429134845)
 * [Myths of automation and their implications for military procurement]
+* [Bootstrapping multiple converging cognitive task analysis techniques for system design]
 
+[Bootstrapping multiple converging cognitive task analysis techniques for system design]: https://www.researchgate.net/publication/313737506_Bootstrapping_multiple_converging_cognitive_task_analysis_techniques_for_system_design
 
 ## James C. Scott
 
@@ -1217,6 +1230,7 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
 * [How to Make Automated Systems Team Players](https://www.researchgate.net/profile/David_Woods11/publication/2483863_How_to_Make_Automated_Systems_Team_Players/links/5a4f829eaca272940bf8202c/How-to-Make-Automated-Systems-Team-Players.pdf)
 * [Toward a Theory of Complex and Cognitive Systems]
 * [Multiple systemic contributors versus root cause: learning from a NASA Near Miss](https://www.researchgate.net/publication/308194080_Multiple_Systemic_Contributors_versus_Root_Cause_Learning_from_a_NASA_Near_Miss)
+* [Bootstrapping multiple converging cognitive task analysis techniques for system design]
 
 [The theory of graceful extensibility: basic rules that govern adaptive systems]: https://www.researchgate.net/publication/327427067_The_Theory_of_Graceful_Extensibility_Basic_rules_that_govern_adaptive_systems
 
