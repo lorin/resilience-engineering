@@ -38,6 +38,7 @@ they're ones I've read or have added to my to-read list.
 * [Robert Hoffman](#robert-hoffman)
 * [Erik Hollnagel](#erik-hollnagel)
 * [Leila Johannesen](#leila-johannesen)
+w your systems keep running day after day 
 * [Gary Klein](#gary-klein)
 * [Elizabeth Lay](https://www.linkedin.com/in/bethlay/)
 * [Nancy Leveson](#nancy-leveson)
@@ -94,6 +95,7 @@ Allspaw tweets as [@allspaw](https://twitter.com/allspaw).
 
 * [Resilience Engineering: The What and How](https://devopsdays.org/events/2019-washington-dc/program/john-allspaw/)
 * [Incidents as we Imagine Them Versus How They Actually Are](https://community.pagerduty.com/t/incidents-as-we-imagine-them-versus-how-they-actually-are-with-john-allspaw/2708) 
+* [How your systems keep running day after day](https://www.youtube.com/watch?v=xA5U85LSk0M)
 * [Problem detection (papers we love)](https://www.youtube.com/watch?v=NxctiGRI2y8)
   (presentation of [Problem detection] paper)
 * [Common Ground and Coordination in Joint Activity (papers we love)](https://paperswelove.org/2016/video/john-allspaw-common-ground/) (presentation of [Common Ground and Coordination in Joint Activity] paper)
