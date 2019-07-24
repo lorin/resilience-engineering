@@ -18,7 +18,6 @@ For each person, I list concepts that they reference in their writings, along
 with some publications. The publications lists aren't comprehensive:
 they're ones I've read or have added to my to-read list. 
 
-
 * [John Allspaw](#john-allspaw)
 * [Lisanne Bainbridge](#lisanne-bainbridge)
 * [Andrea Baker](#andrea-baker)
@@ -43,6 +42,7 @@ they're ones I've read or have added to my to-read list.
 * [Nancy Leveson](#nancy-leveson)
 * [Carl Macrae](#carl-macrae)
 * [Laura Maguire](#laura-maguire)
+* [Christopher Nemeth](#christopher-nemeth)
 * [Anne-Sophie Nyssen](anne-sophie-nyssen)
 * [Elinor Ostrom](#elinor-ostrom)
 * [Jean Pariès](#jean-paries)
@@ -666,7 +666,18 @@ Maguire tweets as [@LauraMDMaguire](https://twitter.com/lauramdmaguire).
 ### Selected talks
 
 * [Mental models – why saying “I didn’t know it worked that way” is a sign of expertise not incompetence](https://www.youtube.com/watch?v=VEprjLtHzg0)
+* [Operating at the edge of the envelope](https://re-deploy.io/videos/27-maguire.html)
 
+## Christopher Nemeth
+
+[Nemeth](https://www.linkedin.com/in/christopher-nemeth-6651204) is a principal scientist at Applied Resesarch Associates, Inc.
+
+### Selected publications
+
+* [Replacing Hindsight With Insight: Toward Better Understanding of Diagnostic Failures]
+
+
+[Replacing Hindsight With Insight: Toward Better Understanding of Diagnostic Failures]: https://www.semanticscholar.org/paper/Replacing-hindsight-with-insight%3A-toward-better-of-Wears-Nemeth/1bef45cae7375eddc8ee584dff100d200d812a8d
 
 ## Anne-Sophie Nyssen
 
@@ -983,7 +994,7 @@ Wears was a medical researcher who also had a PhD in industrial safety.
 * [The error of counting "errors"](https://linkinghub.elsevier.com/retrieve/pii/S0196064408006070)
 * [Underground adaptations: case studies from health care](https://doi.org/10.1007/s10111-011-0207-2)
 * [Fundamental On Situational Surprise: A Case Study With Implications For Resilience](https://books.openedition.org/pressesmines/1122)
-* [Replacing Hindsight With Insight: Toward Better Understanding of Diagnostic Failures](https://www.semanticscholar.org/paper/Replacing-hindsight-with-insight%3A-toward-better-of-Wears-Nemeth/1bef45cae7375eddc8ee584dff100d200d812a8d)
+* [Replacing Hindsight With Insight: Toward Better Understanding of Diagnostic Failures]
 * [Seeing patient safety ‘Like a State’](http://dx.doi.org/10.1016%2Fj.ssci.2014.02.007)
 * [Fundamental On Situational Surprise: A Case Study With Implications For Resilience](https://books.openedition.org/pressesmines/1122?lang=en)
 * [The Role of Automation in Complex System Failures]
