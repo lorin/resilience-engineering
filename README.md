@@ -1,4 +1,4 @@
-# Resilience engineering notes
+# Resilience engineering papers
 
 Alias: <http://resiliencepapers.club> (thanks to [John Allspaw](https://twitter.com/allspaw)).
 
@@ -6,7 +6,7 @@ If you're not sure what to read first, check out [Resilience engineering: Where 
 
 These papers (and others) are also in the [zotero res-eng group](https://www.zotero.org/groups/2335189/res-eng/items).
 
-This file contains notes about people active in resilience engineering, as well as some influential
+This doc contains notes about people active in resilience engineering, as well as some influential
 researchers who are no longer with us, organized alphabetically. It also includes people and papers
 from related fields, such as cognitive systems engineering and naturalistic decision-making.
 
@@ -38,7 +38,6 @@ they're ones I've read or have added to my to-read list.
 * [Robert Hoffman](#robert-hoffman)
 * [Erik Hollnagel](#erik-hollnagel)
 * [Leila Johannesen](#leila-johannesen)
-w your systems keep running day after day 
 * [Gary Klein](#gary-klein)
 * [Elizabeth Lay](https://www.linkedin.com/in/bethlay/)
 * [Nancy Leveson](#nancy-leveson)
