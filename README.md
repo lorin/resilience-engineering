@@ -339,6 +339,7 @@ Dekker examines how cultural norms defining justice can be re-oriented to minimi
 * [Team Coordination in Escalating Situations: An Empirical Study Using Mid-Fidelity Simulation]
 * [Resilience Engineering: New directions for measuring and maintaining safety in complex systems]
 * [Illusions of explanation: A critical essay on error classification](http://www.humanfactors.lth.se/fileadmin/lusa/Sidney_Dekker/articles/2003_and_before/Illusions_of_explanation.pdf)
+* [Failure to adapt or adaptations that fail: contrasting models on procedures and safety](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.606.3361&rep=rep1&type=pdf)
 
 ### Selected talks
 
