@@ -268,7 +268,7 @@ Cook tweets as [@ri_cook](https://twitter.com/ri_cook).
 ### Selected talks
 
 * [How Complex Systems Fail](https://www.youtube.com/watch?v=2S0k12uZR14)
-* [Bootstrapping, Artifacts, and Tokaimura, 1999](https://vimeo.com/87849921/2b74fd45ff)
+* [Lectures on the study of cognitive work](https://vimeo.com/showcase/6184024)
 * [Panel discussion: Safety Culture, Lean, and DevOps]
 
 [Panel discussion: Safety Culture, Lean, and DevOps]: https://www.youtube.com/watch?v=gtxtb9z_4FY&feature=youtu.be
