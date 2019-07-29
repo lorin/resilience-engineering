@@ -17,9 +17,9 @@ Engineering, and Human Factors Concepts in Software
 Contexts](https://www.youtube.com/playlist?list=PLb1aZTnPf3-OMChMkrr6WsokRI6LOnuem)
 YouTube playlist maintained by John Allspaw.
 
-The papers linked here are also in the [zotero res-eng group](https://www.zotero.org/groups/2335189/res-eng/items).
-
 You might also be interested in my [notes on David Woods's Resilience Engineering short course](https://github.com/lorin/res-eng-short-course-notes).
+
+The papers linked here are also in the [zotero res-eng group](https://www.zotero.org/groups/2335189/res-eng/items).
 
 ## People
 
