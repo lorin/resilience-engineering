@@ -1,10 +1,14 @@
 # Resilience engineering papers
 
+## Overview
+
 Alias: <http://resiliencepapers.club> (thanks to [John Allspaw](https://twitter.com/allspaw)).
 
 This doc contains notes about people active in resilience engineering, as well as some influential
 researchers who are no longer with us, organized alphabetically. It also includes people and papers
 from related fields, such as cognitive systems engineering and naturalistic decision-making.
+
+## Other interesting links
 
 If you're not sure what to read first, check out [Resilience engineering: Where do I start?](intro.md)
 
@@ -17,7 +21,7 @@ The papers linked here are also in the [zotero res-eng group](https://www.zotero
 
 You might also be interested in my [notes on David Woods's Resilience Engineering short course](https://github.com/lorin/res-eng-short-course-notes).
 
-Note: there are now [multiple contributors](https://github.com/lorin/resilience-engineering/graphs/contributors) to this repository.
+## People
 
 For each person, I list concepts that they reference in their writings, along
 with some publications. The publications lists aren't comprehensive:
@@ -66,7 +70,7 @@ they're ones I've read or have added to my to-read list.
 * [David Woods](#david-woods)
 * [John Wreathall](#john-wreathall)
 
-Some big ideas:
+## Some big ideas
 
 * [The adaptive universe](#the-adaptive-universe) (David Woods)
 * [Dynamic safety model](#dynamic-safety-model) (Jens Rasmussen)
@@ -77,6 +81,8 @@ Some big ideas:
 * Robust yet fragile (John C. Doyle)
 * [STAMP: Systems-Theoretic Accident Model & Process](#stamp) (Nancy Leveson)
 * Polycentric governance (Elinor Ostrom)
+
+Note: there are now [multiple contributors](https://github.com/lorin/resilience-engineering/graphs/contributors) to this repository.
 
 ## John Allspaw
 
