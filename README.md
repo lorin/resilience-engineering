@@ -2,13 +2,18 @@
 
 Alias: <http://resiliencepapers.club> (thanks to [John Allspaw](https://twitter.com/allspaw)).
 
-If you're not sure what to read first, check out [Resilience engineering: Where do I start?](intro.md)
-
-These papers (and others) are also in the [zotero res-eng group](https://www.zotero.org/groups/2335189/res-eng/items).
-
 This doc contains notes about people active in resilience engineering, as well as some influential
 researchers who are no longer with us, organized alphabetically. It also includes people and papers
 from related fields, such as cognitive systems engineering and naturalistic decision-making.
+
+If you're not sure what to read first, check out [Resilience engineering: Where do I start?](intro.md)
+
+For a collection of talks, check out the [Resilience Engineering, Cognitive Systems
+Engineering, and Human Factors Concepts in Software
+Contexts](https://www.youtube.com/playlist?list=PLb1aZTnPf3-OMChMkrr6WsokRI6LOnuem)
+YouTube playlist maintained by John Allspaw.
+
+The papers linked here are also in the [zotero res-eng group](https://www.zotero.org/groups/2335189/res-eng/items).
 
 You might also be interested in my [notes on David Woods's Resilience Engineering short course](https://github.com/lorin/res-eng-short-course-notes).
 
