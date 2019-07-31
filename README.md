@@ -10,7 +10,10 @@ from related fields, such as cognitive systems engineering and naturalistic deci
 
 ## Other interesting links
 
-If you're not sure what to read first, check out [Resilience engineering: Where do I start?](intro.md)
+If you're not sure what to read first, check out:
+
+* [resilience-for-software](https://github.com/res-eng/resilience-for-software): introduction to resilience engineering concepts for software engineers, FAQ style
+* [Resilience engineering: Where do I start?](intro.md) for which foundational papers to start with
 
 For a collection of talks, check out the [Resilience Engineering, Cognitive Systems
 Engineering, and Human Factors Concepts in Software
