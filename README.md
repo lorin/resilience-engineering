@@ -525,6 +525,13 @@ Safety-II: performance variability rather than bimodality
 Hollnagel proposed the Functional Resonance Analysis Method (FRAM) for modeling
 complex socio-technical systems.
 
+
+#### Four abilities necessary for resilient performance
+* respond
+* monitor
+* learn
+* anticipate
+
 ### Concepts
 * ETTO (efficiency thoroughness tradeoff) principle
 * FRAM (functional resonance analysis method)
@@ -554,6 +561,8 @@ complex socio-technical systems.
 * [Epilogue: Resilience Engineering Precepts](https://www.researchgate.net/publication/265074845_Epilogue_Resilience_Engineering_Precepts)
 * [Resilience Engineering: New directions for measuring and maintaining safety in complex systems]
 * [Resilience Engineering](https://erikhollnagel.com/ideas/resilience-engineering.html) (web essay)
+* [RAG - Resilience Analysis Grid](http://erikhollnagel.com/onewebmedia/RAG%20Outline%20V2.pdf)
+* [Resilience engineering in practice: a guidebook]
 
 
 [Resilience Engineering: Concepts and Precepts]: https://www.amazon.com/gp/product/B009KNDF64/ref=x_gr_w_glide_bb?ie=UTF8&tag=x_gr_w_glide_bb-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B009KNDF64&SubscriptionId=1MGPYB6YW3HWK55XCGG2
@@ -721,8 +730,10 @@ political science researcher.
 Pariès is the president of [Dédale](http://www.dedale.net/dedale_en/), a safety and human factors consultancy.
 
 ### Selected publications
-* [Resilience engineering in practice: a guidebook](https://www.crcpress.com/Resilience-Engineering-in-Practice-A-Guidebook/Paries-Wreathall-Hollnagel/p/book/9781472420749)
+* [Resilience engineering in practice: a guidebook]
 
+
+[Resilience engineering in practice: a guidebook]: https://www.crcpress.com/Resilience-Engineering-in-Practice-A-Guidebook/Paries-Wreathall-Hollnagel/p/book/9781472420749
 ### Selected talks
 
 * [Predicting The fatal flaws: The challenge of The unpredictable...](paries-keynote-2015.pptx)
