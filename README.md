@@ -451,8 +451,11 @@ the department of industrial economics and technology management at NTNU and a
 senior research scientist at SINTEF. Her areas of expertise include safety management and
 resilience engineering in avionics and air traffic management.
 
+### Selected publications
 
-[List of publications](https://wo.cristin.no/as/WebObjects/cristin.woa/wa/fres?sort=ar&pnr=30556&action=sok)
+* [Organisational accidents and resilient organisations: six perspectives](https://www.sintef.no/globalassets/upload/teknologi_og_samfunn/sikkerhet-og-palitelighet/rapporter/sintef-a17034-organisational-accidents-and-resilience-organisations-six-perspectives.-revision-2.pdf) (SINTEF A17034 report)
+
+See also: [list of publications](https://wo.cristin.no/as/WebObjects/cristin.woa/wa/fres?sort=ar&pnr=30556&action=sok)
 
 
 ## Robert Hoffman
