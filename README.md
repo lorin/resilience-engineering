@@ -261,6 +261,7 @@ Cook tweets as [@ri_cook](https://twitter.com/ri_cook).
 * [Resilience Engineering: New directions for measuring and maintaining safety in complex systems]
 * [The Role of Automation in Complex System Failures]
 * [Thinking about accidents and systems](https://www.researchgate.net/publication/228352596_Thinking_about_accidents_and_systems)
+* [The Stockholm blizzard of 2012](https://www.taylorfrancis.com/books/e/9781315605739/chapters/10.1201/9781315605739-11)
 
 
 [Behind Human Error]: https://www.amazon.com/Behind-Human-Error-David-Woods/dp/0754678342
