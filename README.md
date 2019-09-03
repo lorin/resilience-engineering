@@ -262,6 +262,7 @@ Cook tweets as [@ri_cook](https://twitter.com/ri_cook).
 * [The Role of Automation in Complex System Failures]
 * [Thinking about accidents and systems](https://www.researchgate.net/publication/228352596_Thinking_about_accidents_and_systems)
 * [The Stockholm blizzard of 2012](https://www.taylorfrancis.com/books/e/9781315605739/chapters/10.1201/9781315605739-11)
+* [New Arctic Air Crash Aftermath Role-Play Simulation Orchestrating a Fundamental Surprise]
 
 
 [Behind Human Error]: https://www.amazon.com/Behind-Human-Error-David-Woods/dp/0754678342
@@ -278,7 +279,7 @@ Cook tweets as [@ri_cook](https://twitter.com/ri_cook).
 [Collaborative Cross-Checking to Enhance Resilience]: https://www.researchgate.net/publication/220579448_Collaborative_Cross-Checking_to_Enhance_Resilience
 [Resilience Engineering: New directions for measuring and maintaining safety in complex systems]: https://pdfs.semanticscholar.org/a0d3/9cc66adc64e297048a32b71aeee209a451af.pdf
 [The Role of Automation in Complex System Failures]: https://www.researchgate.net/publication/232191704_The_Role_of_Automation_in_Complex_System_Failures
-
+[New Arctic Air Crash Aftermath Role-Play Simulation Orchestrating a Fundamental Surprise]: https://www.researchgate.net/publication/2484621_New_Arctic_Air_Crash_Aftermath_Role-Play_Simulation_Orchestrating_a_Fundamental_Surprise
 
 ### Selected talks
 
@@ -757,6 +758,7 @@ in healthcare.
 * [Patterns in Cooperative Cognition]
 * [Collaborative Cross-Checking to Enhance Resilience]
 * [How Unexpected Events Produce An Escalation Of Cognitive And Coordinative Demands]
+* [New Arctic Air Crash Aftermath Role-Play Simulation Orchestrating a Fundamental Surprise]
 
 [Using observational study as a tool for discovery: uncovering cognitive and collaborative demands and adaptive strategies]: https://www.researchgate.net/profile/Emily_Patterson2/publication/237138704_USING_OBSERVATIONAL_STUDY_AS_A_TOOL_FOR_DISCOVERY_UNCOVERING_COGNITIVE_AND_COLLABORATIVE_DEMANDS_AND_ADAPTIVE_STRATEGIES/links/0deec52c8e310b385a000000.pdf
 
@@ -1273,6 +1275,7 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
 * [Toward a Theory of Complex and Cognitive Systems]
 * [Multiple systemic contributors versus root cause: learning from a NASA Near Miss](https://www.researchgate.net/publication/308194080_Multiple_Systemic_Contributors_versus_Root_Cause_Learning_from_a_NASA_Near_Miss)
 * [Bootstrapping multiple converging cognitive task analysis techniques for system design]
+* [New Arctic Air Crash Aftermath Role-Play Simulation Orchestrating a Fundamental Surprise]
 
 [The theory of graceful extensibility: basic rules that govern adaptive systems]: https://www.researchgate.net/publication/327427067_The_Theory_of_Graceful_Extensibility_Basic_rules_that_govern_adaptive_systems
 [How do systems manage their adaptive capacity to successfully handle disruptions? A resilience engineering perspective]: https://www.researchgate.net/publication/286581322_How_do_systems_manage_their_adaptive_capacity_to_successfully_handle_disruptions_A_resilience_engineering_perspective
