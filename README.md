@@ -263,6 +263,7 @@ Cook tweets as [@ri_cook](https://twitter.com/ri_cook).
 * [Thinking about accidents and systems](https://www.researchgate.net/publication/228352596_Thinking_about_accidents_and_systems)
 * [The Stockholm blizzard of 2012](https://www.taylorfrancis.com/books/e/9781315605739/chapters/10.1201/9781315605739-11)
 * [New Arctic Air Crash Aftermath Role-Play Simulation Orchestrating a Fundamental Surprise]
+* [Dissenting Statement: Health IT Is a Class III Medical Device](https://www.nap.edu/read/13269/chapter/14)
 
 
 [Behind Human Error]: https://www.amazon.com/Behind-Human-Error-David-Woods/dp/0754678342
