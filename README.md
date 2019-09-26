@@ -569,12 +569,14 @@ complex socio-technical systems.
 * [Resilience Engineering](https://erikhollnagel.com/ideas/resilience-engineering.html) (web essay)
 * [RAG - Resilience Analysis Grid](http://erikhollnagel.com/onewebmedia/RAG%20Outline%20V2.pdf)
 * [Resilience engineering in practice: a guidebook]
+* [Mapping Cognitive Demands in Complex Problem-Solving Worlds]
 
 
 [Resilience Engineering: Concepts and Precepts]: https://www.amazon.com/gp/product/B009KNDF64/ref=x_gr_w_glide_bb?ie=UTF8&tag=x_gr_w_glide_bb-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B009KNDF64&SubscriptionId=1MGPYB6YW3HWK55XCGG2
 [Anomaly Response]: https://docs.wixstatic.com/ugd/3ad081_f46dda684154447583c8a5b282b60cc2.pdf
 [Cognitive Systems Engineering: New wine in new bottles]: https://www.ida.liu.se/~729A15/mtrl/CSEnew.pdf?utm_campaign=Resilience%20Roundup&utm_medium=email&utm_source=Revue%20newsletter
 [Resilience Roundup]: https://resilienceroundup.com/
+[Mapping Cognitive Demands in Complex Problem-Solving Worlds]: https://www.researchgate.net/publication/220108174_Mapping_Cognitive_Demands_in_Complex_Problem-Solving_Worlds<Paste>
 
 ## Leila Johannesen
 
@@ -1277,10 +1279,11 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
 * [Multiple systemic contributors versus root cause: learning from a NASA Near Miss](https://www.researchgate.net/publication/308194080_Multiple_Systemic_Contributors_versus_Root_Cause_Learning_from_a_NASA_Near_Miss)
 * [Bootstrapping multiple converging cognitive task analysis techniques for system design]
 * [New Arctic Air Crash Aftermath Role-Play Simulation Orchestrating a Fundamental Surprise]
+* [How Unexpected Events Produce An Escalation Of Cognitive And Coordinative Demands]
+* [Mapping Cognitive Demands in Complex Problem-Solving Worlds]
 
 [The theory of graceful extensibility: basic rules that govern adaptive systems]: https://www.researchgate.net/publication/327427067_The_Theory_of_Graceful_Extensibility_Basic_rules_that_govern_adaptive_systems
 [How do systems manage their adaptive capacity to successfully handle disruptions? A resilience engineering perspective]: https://www.researchgate.net/publication/286581322_How_do_systems_manage_their_adaptive_capacity_to_successfully_handle_disruptions_A_resilience_engineering_perspective
-* [How Unexpected Events Produce An Escalation Of Cognitive And Coordinative Demands]
 
 ### Selected talks
 
