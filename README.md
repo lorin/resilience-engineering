@@ -357,6 +357,10 @@ Dekker examines how cultural norms defining justice can be re-oriented to minimi
 * [Resilience Engineering: New directions for measuring and maintaining safety in complex systems]
 * [Illusions of explanation: A critical essay on error classification](http://www.humanfactors.lth.se/fileadmin/lusa/Sidney_Dekker/articles/2003_and_before/Illusions_of_explanation.pdf)
 * [Failure to adapt or adaptations that fail: contrasting models on procedures and safety](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.606.3361&rep=rep1&type=pdf)
+* [Human factors and folk models]
+
+
+[Human factors and folk models]: https://link.springer.com/article/10.1007%2Fs10111-003-0136-9
 
 ### Selected talks
 
@@ -570,6 +574,7 @@ complex socio-technical systems.
 * [RAG - Resilience Analysis Grid](http://erikhollnagel.com/onewebmedia/RAG%20Outline%20V2.pdf)
 * [Resilience engineering in practice: a guidebook]
 * [Mapping Cognitive Demands in Complex Problem-Solving Worlds]
+* [Human factors and folk models]
 
 
 [Resilience Engineering: Concepts and Precepts]: https://www.amazon.com/gp/product/B009KNDF64/ref=x_gr_w_glide_bb?ie=UTF8&tag=x_gr_w_glide_bb-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B009KNDF64&SubscriptionId=1MGPYB6YW3HWK55XCGG2
