@@ -1038,6 +1038,7 @@ Wears was a medical researcher who also had a PhD in industrial safety.
 * [Seeing patient safety ‘Like a State’](http://dx.doi.org/10.1016%2Fj.ssci.2014.02.007)
 * [Fundamental On Situational Surprise: A Case Study With Implications For Resilience](https://books.openedition.org/pressesmines/1122?lang=en)
 * [The Role of Automation in Complex System Failures]
+* [Exploring the Dynamics of Resilient Performance](https://pastel.archives-ouvertes.fr/pastel-00664145/document)
 
 ### Selected talks
 
