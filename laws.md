@@ -34,7 +34,11 @@ Source: [Beyond Simon’s Slice: Five Fundamental Trade-Offs that Bound the Perf
 
 Every system is stretched to operate at its capacity. 
 
-Source: [Beyond Simon’s Slice: Five Fundamental Trade-Offs that Bound the Performance of Macrocognitive Work Systems]
+Sources:
+
+* [Beyond Simon’s Slice: Five Fundamental Trade-Offs that Bound the Performance of Macrocognitive Work Systems]
+
+This law is attributed to Lawrence Hirschhorn, and has been popularized by David Woods and Richard Cook.
 
 ### Law of requisite variety
 
