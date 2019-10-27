@@ -809,6 +809,9 @@ Perry is a medical researcher who studies emergency medicine.
 * [Underground adaptations: case studies from health care](https://doi.org/10.1007/s10111-011-0207-2)
 * [Can We Trust Best Practices? Six Cognitive Challenges of Evidence-Based Approaches](https://journals.sagepub.com/doi/abs/10.1177/1555343416637520?journalCode=edma)
 * [The Role of Automation in Complex System Failures]
+* [Extemporaneous Adaptation to Evolving Complexity: A Case Study of Resilience in Healthcare] (see also [Thai Wood's notes](https://resilienceroundup.com/issues/55)).
+
+[Extemporaneous Adaptation to Evolving Complexity: A Case Study of Resilience in Healthcare]: https://pdfs.semanticscholar.org/1423/f18530599b9de186af0eee4852bb7e619384.pdf
 
 ## Jens Rasmussen
 
@@ -1041,6 +1044,7 @@ Wears was a medical researcher who also had a PhD in industrial safety.
 * [Fundamental On Situational Surprise: A Case Study With Implications For Resilience](https://books.openedition.org/pressesmines/1122?lang=en)
 * [The Role of Automation in Complex System Failures]
 * [Exploring the Dynamics of Resilient Performance](https://pastel.archives-ouvertes.fr/pastel-00664145/document)
+* [Extemporaneous Adaptation to Evolving Complexity: A Case Study of Resilience in Healthcare] (see also [Thai Wood's notes](https://resilienceroundup.com/issues/55)).
 
 ### Selected talks
 
