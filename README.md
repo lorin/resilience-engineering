@@ -8,7 +8,7 @@ This doc contains notes about people active in resilience engineering, as well a
 researchers who are no longer with us, organized alphabetically. It also includes people and papers
 from related fields, such as cognitive systems engineering and naturalistic decision-making.
 
-Some papers have a [TWRR](http://resilienceroundup.com) link next to them. This
+Some papers have a ([TWRR](http://resilienceroundup.com)) link next to them. This
 stands for Thai Wood's [Resilience Roundup](http://resilienceroundup.com). Thai publishes a newsletter that
 summarizes resilience engineering papers.
 
@@ -239,7 +239,7 @@ Cook tweets as [@ri_cook](https://twitter.com/ri_cook).
 * [How complex systems fail](http://web.mit.edu/2.75/resources/random/How%20Complex%20Systems%20Fail.pdf)
 * [*Where* complex systems fail](https://www.snafucatchers.com/single-post/2017/11/14/void-Incidents-as-Untyped-Pointers)
 * [Distancing through differencing: An obstacle to organizational learning following accidents](https://www.researchgate.net/publication/292504703_Distancing_through_differencing_An_obstacle_to_organizational_learning_following_accidents)
-* [Being bumpable](http://csel.eng.ohio-state.edu/productions/woodscta/media/beingbump.pdf) [TWRR](https://www.getrevue.co/profile/resilience/issues/resilience-roundup-navigating-through-large-display-networks-in-dynamic-control-applications-issue-31-174509)
+* [Being bumpable](http://csel.eng.ohio-state.edu/productions/woodscta/media/beingbump.pdf) ([TWRR](https://www.getrevue.co/profile/resilience/issues/resilience-roundup-navigating-through-large-display-networks-in-dynamic-control-applications-issue-31-174509))
 * [Behind Human Error]
 * [Incidents - markers of resilience or brittleness?](https://www.researchgate.net/publication/292504952_Incidents_-_markers_of_resilience_or_brittleness)
 * [“Going solid”: a model of system dynamics and consequences for patient safety](https://qualitysafety.bmj.com/content/14/2/130)
@@ -573,7 +573,7 @@ complex socio-technical systems.
 * [I want to believe: some myths about the management of industrial safety](http://dx.doi.org/10.1007/s10111-012-0237-4)
 * [Resilience engineering – Building a Culture of Resilience](http://www.ptil.no/getfile.php/1325150/PDF/Seminar%202013/Integrerte%20operasjoner/Hollnagel_RIO_presentation.pdf) (slides)
 * [Anomaly Response]
-* [Cognitive Systems Engineering: New wine in new bottles] [TWRR](https://www.getrevue.co/profile/resilience/issues/resilience-roundup-cognitive-systems-engineering-new-wine-in-new-bottles-issue-32-175912)
+* [Cognitive Systems Engineering: New wine in new bottles] ([TWRR](https://www.getrevue.co/profile/resilience/issues/resilience-roundup-cognitive-systems-engineering-new-wine-in-new-bottles-issue-32-175912))
 * [Epilogue: Resilience Engineering Precepts](https://www.researchgate.net/publication/265074845_Epilogue_Resilience_Engineering_Precepts)
 * [Resilience Engineering: New directions for measuring and maintaining safety in complex systems]
 * [Resilience Engineering](https://erikhollnagel.com/ideas/resilience-engineering.html) (web essay)
@@ -773,7 +773,7 @@ in healthcare.
 * [Collaborative Cross-Checking to Enhance Resilience]
 * [How Unexpected Events Produce An Escalation Of Cognitive And Coordinative Demands]
 * [New Arctic Air Crash Aftermath Role-Play Simulation Orchestrating a Fundamental Surprise]
-* [Handoff strategies in settings with high consequences for failure: lessons for health care operations] [TWRR](https://resilienceroundup.com/issues/56)
+* [Handoff strategies in settings with high consequences for failure: lessons for health care operations] ([TWRR](https://resilienceroundup.com/issues/56))
 
 [Using observational study as a tool for discovery: uncovering cognitive and collaborative demands and adaptive strategies]: https://www.researchgate.net/profile/Emily_Patterson2/publication/237138704_USING_OBSERVATIONAL_STUDY_AS_A_TOOL_FOR_DISCOVERY_UNCOVERING_COGNITIVE_AND_COLLABORATIVE_DEMANDS_AND_ADAPTIVE_STRATEGIES/links/0deec52c8e310b385a000000.pdf
 
@@ -816,7 +816,7 @@ Perry is a medical researcher who studies emergency medicine.
 * [Underground adaptations: case studies from health care](https://doi.org/10.1007/s10111-011-0207-2)
 * [Can We Trust Best Practices? Six Cognitive Challenges of Evidence-Based Approaches](https://journals.sagepub.com/doi/abs/10.1177/1555343416637520?journalCode=edma)
 * [The Role of Automation in Complex System Failures]
-* [Extemporaneous Adaptation to Evolving Complexity: A Case Study of Resilience in Healthcare] [TWRR](https://resilienceroundup.com/issues/55)
+* [Extemporaneous Adaptation to Evolving Complexity: A Case Study of Resilience in Healthcare] ([TWRR](https://resilienceroundup.com/issues/55))
 
 [Extemporaneous Adaptation to Evolving Complexity: A Case Study of Resilience in Healthcare]: https://pdfs.semanticscholar.org/1423/f18530599b9de186af0eee4852bb7e619384.pdf
 
@@ -942,9 +942,9 @@ and applied cognitive psychology (cognitive engineering)
 
 ### Selected publications
 
-* [Uncovering the Requirements of Cognitive Work](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.564.2044) [TWRR](https://www.getrevue.co/profile/resilience/issues/resilience-roundup-uncovering-the-requirements-of-cognitive-work-issue-30-173410)
-* [Using observational study as a tool for discovery: uncovering cognitive and collaborative demands and adaptive strategies]
-* [Handoff strategies in settings with high consequences for failure: lessons for health care operations] [TWRR](https://resilienceroundup.com/issues/56)
+* [Uncovering the Requirements of Cognitive Work](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.564.2044) ([TWRR](https://www.getrevue.co/profile/resilience/issues/resilience-roundup-uncovering-the-requirements-of-cognitive-work-issue-30-173410)
+)* [Using observational study as a tool for discovery: uncovering cognitive and collaborative demands and adaptive strategies]
+* [Handoff strategies in settings with high consequences for failure: lessons for health care operations] ([TWRR](https://resilienceroundup.com/issues/56))
 
 ## Nadine Sarter
 
@@ -1052,7 +1052,7 @@ Wears was a medical researcher who also had a PhD in industrial safety.
 * [Fundamental On Situational Surprise: A Case Study With Implications For Resilience](https://books.openedition.org/pressesmines/1122?lang=en)
 * [The Role of Automation in Complex System Failures]
 * [Exploring the Dynamics of Resilient Performance](https://pastel.archives-ouvertes.fr/pastel-00664145/document)
-* [Extemporaneous Adaptation to Evolving Complexity: A Case Study of Resilience in Healthcare] [TWRR](https://resilienceroundup.com/issues/55)
+* [Extemporaneous Adaptation to Evolving Complexity: A Case Study of Resilience in Healthcare] ([TWRR](https://resilienceroundup.com/issues/55))
 
 ### Selected talks
 
@@ -1237,8 +1237,8 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
     - [Epilogue: Resilience Engineering Precepts](https://www.researchgate.net/publication/265074845_Epilogue_Resilience_Engineering_Precepts)
 * [Resilience is a verb](https://www.researchgate.net/publication/329035477_Resilience_is_a_Verb)
 * [Four concepts for resilience and the implications for the future of resilience engineering](https://www.researchgate.net/publication/276139783_Four_concepts_for_resilience_and_the_implications_for_the_future_of_resilience_engineering)
-* [Basic patterns in how adaptive systems fail](https://www.researchgate.net/publication/284324002_Basic_patterns_in_how_adaptive_systems_fail) [TWRR](https://resilienceroundup.com/issues/34/)
-* [Resilience and the ability to anticipate](https://www.researchgate.net/publication/285487326_Resilience_and_the_ability_to_anticipate)
+* [Basic patterns in how adaptive systems fail](https://www.researchgate.net/publication/284324002_Basic_patterns_in_how_adaptive_systems_fail) ([TWRR](https://resilienceroundup.com/issues/34/)
+)* [Resilience and the ability to anticipate](https://www.researchgate.net/publication/285487326_Resilience_and_the_ability_to_anticipate)
 * [Distancing through differencing: An obstacle to organizational learning following accidents](https://www.researchgate.net/publication/292504703_Distancing_through_differencing_An_obstacle_to_organizational_learning_following_accidents)
 * [Essential characteristics of resilience](https://www.researchgate.net/publication/284328979_Essential_characteristics_of_resilience)
 * [Essentials of resilience, revisited](https://www.researchgate.net/publication/330116587_4_Essentials_of_resilience_revisited)
@@ -1287,7 +1287,7 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
 * [The Strategic Agility Gap: How organizations are slow and stale to adapt in turbulent worlds](https://www.researchgate.net/publication/330196218_The_Strategic_Agility_Gap_How_organizations_are_slow_and_stale_to_adapt_in_turbulent_worlds)
 * [Resiliency Trade Space Study: The Interaction of Degraded C2 Link and Detect and Avoid Autonomy on Unmanned Aircraft](https://www.researchgate.net/publication/330222613_Resiliency_Trade_Space_Study_The_Interaction_of_Degraded_C2_Link_and_Detect_and_Avoid_Autonomy_on_Unmanned_Aircraft)
 * [Cognitive Technologies: The Design of Joint Human-Machine Cognitive Systems](https://www.researchgate.net/publication/220604613_Cognitive_Technologies_The_Design_of_Joint_Human-Machine_Cognitive_Systems)
-* [Cognitive Systems Engineering: New wine in new bottles] [TWRR](https://resilienceroundup.com/issues/32/)
+* [Cognitive Systems Engineering: New wine in new bottles] ([TWRR](https://resilienceroundup.com/issues/32/))
 * [The Seven Deadly Myths of "Autonomous Systems"]
 * [Resilience and the ability to anticipate](https://www.researchgate.net/publication/285487326_Resilience_and_the_ability_to_anticipate)
 * [Patterns in Cooperative Cognition]
@@ -1305,7 +1305,7 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
 * [Mapping Cognitive Demands in Complex Problem-Solving Worlds]
 * [Fixation Errors: Failures to Revise Situation Assessment in Dynamic and Risky Systems](https://www.researchgate.net/publication/290071190_Fixation_Errors_Failures_to_Revise_Situation_Assessment_in_Dynamic_and_Risky_Systems)
 * [Nine Steps to Move Forward From Error]
-* [Handoff strategies in settings with high consequences for failure: lessons for health care operations] [TWRR](https://resilienceroundup.com/issues/56)
+* [Handoff strategies in settings with high consequences for failure: lessons for health care operations] ([TWRR](https://resilienceroundup.com/issues/56))
 
 [The theory of graceful extensibility: basic rules that govern adaptive systems]: https://www.researchgate.net/publication/327427067_The_Theory_of_Graceful_Extensibility_Basic_rules_that_govern_adaptive_systems
 [How do systems manage their adaptive capacity to successfully handle disruptions? A resilience engineering perspective]: https://www.researchgate.net/publication/286581322_How_do_systems_manage_their_adaptive_capacity_to_successfully_handle_disruptions_A_resilience_engineering_perspective
