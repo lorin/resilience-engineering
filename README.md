@@ -141,7 +141,7 @@ be frequently cited.
 * interface design 
 
 ## Selected publications
-* [Ironies of automation] [TWRR](https://resilienceroundup.com/issues/35/)
+* [Ironies of automation] ([TWRR](https://resilienceroundup.com/issues/35/))
 
 
 [Ironies of automation]: https://www.ise.ncsu.edu/wp-content/uploads/2017/02/Bainbridge_1983_Automatica.pdf
