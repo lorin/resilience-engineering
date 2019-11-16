@@ -363,9 +363,11 @@ Dekker examines how cultural norms defining justice can be re-oriented to minimi
 * [Illusions of explanation: A critical essay on error classification](http://www.humanfactors.lth.se/fileadmin/lusa/Sidney_Dekker/articles/2003_and_before/Illusions_of_explanation.pdf)
 * [Failure to adapt or adaptations that fail: contrasting models on procedures and safety](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.606.3361&rep=rep1&type=pdf)
 * [Human factors and folk models]
+* [The High Reliability Organization Perspective] ([TWRR](https://resilienceroundup.com/issues/09/))
 
 
 [Human factors and folk models]: https://link.springer.com/article/10.1007%2Fs10111-003-0136-9
+[The High Reliability Organization Perspective]: http://sidneydekker.com/wp-content/uploads/2013/01/CH005.pdf
 
 ### Selected talks
 
@@ -1306,6 +1308,7 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
 * [Fixation Errors: Failures to Revise Situation Assessment in Dynamic and Risky Systems](https://www.researchgate.net/publication/290071190_Fixation_Errors_Failures_to_Revise_Situation_Assessment_in_Dynamic_and_Risky_Systems)
 * [Nine Steps to Move Forward From Error]
 * [Handoff strategies in settings with high consequences for failure: lessons for health care operations] ([TWRR](https://resilienceroundup.com/issues/56))
+* [The High Reliability Organization Perspective] ([TWRR](https://resilienceroundup.com/issues/09/))
 
 [The theory of graceful extensibility: basic rules that govern adaptive systems]: https://www.researchgate.net/publication/327427067_The_Theory_of_Graceful_Extensibility_Basic_rules_that_govern_adaptive_systems
 [How do systems manage their adaptive capacity to successfully handle disruptions? A resilience engineering perspective]: https://www.researchgate.net/publication/286581322_How_do_systems_manage_their_adaptive_capacity_to_successfully_handle_disruptions_A_resilience_engineering_perspective
