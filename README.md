@@ -364,6 +364,7 @@ Dekker examines how cultural norms defining justice can be re-oriented to minimi
 * [Failure to adapt or adaptations that fail: contrasting models on procedures and safety](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.606.3361&rep=rep1&type=pdf)
 * [Human factors and folk models]
 * [The High Reliability Organization Perspective] ([TWRR](https://resilienceroundup.com/issues/09/))
+* [Illusions of explanation: A critical essay on error classification](http://www.humanfactors.lth.se/fileadmin/lusa/Sidney_Dekker/articles/2003_and_before/Illusions_of_explanation.pdf) ([TWRR](https://resilienceroundup.com/issues/42/))
 
 
 [Human factors and folk models]: https://link.springer.com/article/10.1007%2Fs10111-003-0136-9
@@ -628,7 +629,7 @@ Klein tweets as [@KleInsight](https://twitter.com/KleInsight).
 * [Common Ground and Coordination in Joint Activity]
 * [Working minds: a practitioner's guide to cognitive task analysis](https://www.amazon.com/gp/product/0262532816/ref=dbs_a_def_rwt_bibl_vppi_i5)
 * [Patterns in Cooperative Cognition](https://www.researchgate.net/publication/262449980_Patterns_in_Cooperative_Cognition)
-* [Can We Trust Best Practices? Six Cognitive Challenges of Evidence-Based Approaches](https://journals.sagepub.com/doi/abs/10.1177/1555343416637520?journalCode=edma)
+* [Can We Trust Best Practices? Six Cognitive Challenges of Evidence-Based Approaches]
 * [Conditions for intuitive expertise: a failure to disagree](http://dx.doi.org/10.1037/a0016755)
 * [Problem detection]
 * [Ten challenges for making automation a team player]
@@ -642,6 +643,7 @@ Klein tweets as [@KleInsight](https://twitter.com/KleInsight).
 [Problem detection]: https://www.researchgate.net/publication/220579480_Problem_detection
 [Ten challenges for making automation a team player]: https://ieeexplore.ieee.org/abstract/document/1363742
 [Patterns in Cooperative Cognition]: https://www.researchgate.net/publication/262449980_Patterns_in_Cooperative_Cognition
+[Can We Trust Best Practices? Six Cognitive Challenges of Evidence-Based Approaches]: https://journals.sagepub.com/doi/abs/10.1177/1555343416637520?journalCode=edma
 
 ## Nancy Leveson
 
@@ -816,7 +818,7 @@ Perry is a medical researcher who studies emergency medicine.
 ### Selected publications
 
 * [Underground adaptations: case studies from health care](https://doi.org/10.1007/s10111-011-0207-2)
-* [Can We Trust Best Practices? Six Cognitive Challenges of Evidence-Based Approaches](https://journals.sagepub.com/doi/abs/10.1177/1555343416637520?journalCode=edma)
+* [Can We Trust Best Practices? Six Cognitive Challenges of Evidence-Based Approaches]
 * [The Role of Automation in Complex System Failures]
 * [Extemporaneous Adaptation to Evolving Complexity: A Case Study of Resilience in Healthcare] ([TWRR](https://resilienceroundup.com/issues/55))
 
@@ -1253,7 +1255,7 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
 * [Origins of cognitive systems engineering](https://www.researchgate.net/publication/298793082_Origins_of_Cognitive_Systems_Engineering)
 * [Incidents - markers of resilience or brittleness?](https://www.researchgate.net/publication/292504952_Incidents_-_markers_of_resilience_or_brittleness)
 * [The alarm problem and directed attention in dynamic fault management](https://www.tandfonline.com/doi/abs/10.1080/00140139508925274)
-* [Can We Trust Best Practices? Six Cognitive Challenges of Evidence-Based Approaches](https://journals.sagepub.com/doi/abs/10.1177/1555343416637520?journalCode=edma)
+* [Can We Trust Best Practices? Six Cognitive Challenges of Evidence-Based Approaches]
 * [Operating at the Sharp End: The Complexity of Human Error](https://www.researchgate.net/publication/313407259_Operating_at_the_Sharp_End_The_Complexity_of_Human_Error)
 * [The theory of graceful extensibility: basic rules that govern adaptive systems]
 * [Simon's Slice: Five Fundamental Tradeoffs that Bound the Performance of Human Work Systems](https://www.researchgate.net/publication/260404967_Simon's_Slice_Five_Fundamental_Tradeoffs_that_Bound_the_Performance_of_Human_Work_Systems)
