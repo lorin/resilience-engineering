@@ -581,7 +581,7 @@ complex socio-technical systems.
 * [Resilience Engineering](https://erikhollnagel.com/ideas/resilience-engineering.html) (web essay)
 * [RAG - Resilience Analysis Grid](http://erikhollnagel.com/onewebmedia/RAG%20Outline%20V2.pdf)
 * [Resilience engineering in practice: a guidebook]
-* [Mapping Cognitive Demands in Complex Problem-Solving Worlds]
+* [Mapping Cognitive Demands in Complex Problem-Solving Worlds] (mentions disturbance management)
 * [Human factors and folk models]
 
 
@@ -971,8 +971,10 @@ She is the director of the Center for Ergonomics at the University of Michigan.
 * [The Critical Incident Technique: A Method for Identifying System Strengths and Weaknesses Based on Observational Data](https://www.taylorfrancis.com/books/e/9780429134845)
 * [Myths of automation and their implications for military procurement]
 * [Bootstrapping multiple converging cognitive task analysis techniques for system design]
+* [Automation surprises]
 
 [Bootstrapping multiple converging cognitive task analysis techniques for system design]: https://www.researchgate.net/publication/313737506_Bootstrapping_multiple_converging_cognitive_task_analysis_techniques_for_system_design
+[Automation surprises]: https://www.researchgate.net/publication/270960170_Automation_surprises
 
 ## James C. Scott
 
@@ -1304,11 +1306,12 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
 * [Bootstrapping multiple converging cognitive task analysis techniques for system design]
 * [New Arctic Air Crash Aftermath Role-Play Simulation Orchestrating a Fundamental Surprise]
 * [How Unexpected Events Produce An Escalation Of Cognitive And Coordinative Demands]
-* [Mapping Cognitive Demands in Complex Problem-Solving Worlds]
+* [Mapping Cognitive Demands in Complex Problem-Solving Worlds] (mentions disturbance management)
 * [Fixation Errors: Failures to Revise Situation Assessment in Dynamic and Risky Systems](https://www.researchgate.net/publication/290071190_Fixation_Errors_Failures_to_Revise_Situation_Assessment_in_Dynamic_and_Risky_Systems)
 * [Nine Steps to Move Forward From Error]
 * [Handoff strategies in settings with high consequences for failure: lessons for health care operations] ([TWRR](https://resilienceroundup.com/issues/56))
 * [The High Reliability Organization Perspective] ([TWRR](https://resilienceroundup.com/issues/09/))
+* [Automation surprises]
 
 [The theory of graceful extensibility: basic rules that govern adaptive systems]: https://www.researchgate.net/publication/327427067_The_Theory_of_Graceful_Extensibility_Basic_rules_that_govern_adaptive_systems
 [How do systems manage their adaptive capacity to successfully handle disruptions? A resilience engineering perspective]: https://www.researchgate.net/publication/286581322_How_do_systems_manage_their_adaptive_capacity_to_successfully_handle_disruptions_A_resilience_engineering_perspective
