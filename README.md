@@ -16,6 +16,7 @@ summarizes resilience engineering papers.
 
 If you're not sure what to read first, check out:
 
+* [learningfromincidents.io](http://learningfromincidents.io) is the Learning From Incidents in Software community site.
 * [Resilience engineering: Where do I start?](intro.md) for which foundational papers to start with
 
 For a collection of talks, check out the [Resilience Engineering, Cognitive Systems
