@@ -218,6 +218,10 @@ Conklin tweets as [@preaccident](https://twitter.com/preaccident).
 * [Pre-accident investigations: an introduction to organizational safety](https://www.amazon.com/Pre-Accident-Investigations-Todd-Conklin/dp/1409447820)
 * [Pre-accident investigations: better questions - an applied approach to
   operational learning](https://www.amazon.com/gp/product/1472486137)
+  
+### Selected talks
+
+Quanta - [Risk and Safety Conf 2019](https://www.youtube.com/watch?v=5WTbeFj2kJY&feature=youtu.be)
 
 ## Richard I. Cook
 
