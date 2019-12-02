@@ -244,7 +244,7 @@ Cook tweets as [@ri_cook](https://twitter.com/ri_cook).
 * [How complex systems fail](http://web.mit.edu/2.75/resources/random/How%20Complex%20Systems%20Fail.pdf)
 * [*Where* complex systems fail](https://www.snafucatchers.com/single-post/2017/11/14/void-Incidents-as-Untyped-Pointers)
 * [Distancing through differencing: An obstacle to organizational learning following accidents](https://www.researchgate.net/publication/292504703_Distancing_through_differencing_An_obstacle_to_organizational_learning_following_accidents)
-* [Being bumpable](http://csel.eng.ohio-state.edu/productions/woodscta/media/beingbump.pdf) ([TWRR](https://www.getrevue.co/profile/resilience/issues/resilience-roundup-navigating-through-large-display-networks-in-dynamic-control-applications-issue-31-174509))
+* [Being bumpable](http://csel.eng.ohio-state.edu/productions/woodscta/media/beingbump.pdf) ([TWRR](https://www.getrevue.co/profile/resilience/issues/resilience-roundup-being-bumpable-issue-33-177340))
 * [Behind Human Error]
 * [Incidents - markers of resilience or brittleness?](https://www.researchgate.net/publication/292504952_Incidents_-_markers_of_resilience_or_brittleness)
 * [“Going solid”: a model of system dynamics and consequences for patient safety](https://qualitysafety.bmj.com/content/14/2/130)
