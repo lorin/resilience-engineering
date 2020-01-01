@@ -117,6 +117,7 @@ Allspaw tweets as [@allspaw](https://twitter.com/allspaw).
 * [Problem detection (papers we love)](https://www.youtube.com/watch?v=NxctiGRI2y8)
   (presentation of [Problem detection] paper)
 * [Common Ground and Coordination in Joint Activity (papers we love)](https://paperswelove.org/2016/video/john-allspaw-common-ground/) (presentation of [Common Ground and Coordination in Joint Activity] paper)
+* [Amplifying sources of resilience](https://www.infoq.com/presentations/resilience-thinking-paradigm/) (presentation about applying Resilience Engineering thinking & paradigms to the world of software engineering)
 
 
 ## Lisanne Bainbridge
