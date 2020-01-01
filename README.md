@@ -67,6 +67,7 @@ they're ones I've read or have added to my to-read list.
 * [Shawna J. Perry](#shawna-j-perry)
 * [Jens Rasmussen](#jens-rasmussen)
 * [James Reason](#james-reason)
+* [J. Paul Reed](#j-paul-reed)
 * [Emilie M. Roth](#emilie-m-roth)
 * [Nadine Sarter](#nadine-sarter)
 * [James C. Scott](#james-c-scott)
@@ -944,6 +945,21 @@ Reason developed a model of the types of errors that humans make:
 * [Human error]
 
 [Human error]: https://www.amazon.com/gp/product/0521314194/ref=dbs_a_def_rwt_bibl_vppi_i0
+
+## J. Paul Reed
+
+[Reed](https://jpaulreed.com/) is a Senior Applied Resilience engineer at Netflix and runs [REdeploy](https://re-deploy.io), a conference focused on Resilience Engineering in the software development and operations industry.
+
+Reed tweets as [@jpaulreed](https://twitter.com/jpaulreed).
+
+### Selected Publications
+
+[Maps, Context, and Tribal Knowledge: On the Structure and Use of Post-Incident Analysis Artifacts in Software Development and Operations](https://lup.lub.lu.se/student-papers/search/publication/8966930)
+
+### Concepts
+
+* [Blame "Aware"](https://jpaulreed.com/blame-aware) (versus "Blameless") Culture
+* Postmortem Artifact _Archetypes_
 
 ## Emilie M. Roth
 
