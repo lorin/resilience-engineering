@@ -227,7 +227,7 @@ Quanta - [Risk and Safety Conf 2019](https://www.youtube.com/watch?v=5WTbeFj2kJY
 
 ## Richard I. Cook
 
-Cook is a medical doctor who studies failures in complex systems.  He is one of the founders [Adaptive Capacity Labs](http://www.adaptivecapacitylabs.com/), a resilience engineering consultancy.
+Cook is an anasthesiologist who studies failures in complex systems.  He is one of the founders [Adaptive Capacity Labs](http://www.adaptivecapacitylabs.com/), a resilience engineering consultancy.
 
 Cook tweets as [@ri_cook](https://twitter.com/ri_cook).
 
@@ -275,7 +275,7 @@ Cook tweets as [@ri_cook](https://twitter.com/ri_cook).
 * [New Arctic Air Crash Aftermath Role-Play Simulation Orchestrating a Fundamental Surprise]
 * [Dissenting Statement: Health IT Is a Class III Medical Device](https://www.nap.edu/read/13269/chapter/14)
 * [Nine Steps to Move Forward From Error]
-
+* [Gaps in the continuity of care and progress on patient safety]
 
 [Behind Human Error]: https://www.amazon.com/Behind-Human-Error-David-Woods/dp/0754678342
 [Cognitive consequences of clumsy automation on high workload, high consequence human performance]: https://ntrs.nasa.gov/search.jsp?R=19910011398
@@ -293,6 +293,7 @@ Cook tweets as [@ri_cook](https://twitter.com/ri_cook).
 [The Role of Automation in Complex System Failures]: https://www.researchgate.net/publication/232191704_The_Role_of_Automation_in_Complex_System_Failures
 [New Arctic Air Crash Aftermath Role-Play Simulation Orchestrating a Fundamental Surprise]: https://www.researchgate.net/publication/2484621_New_Arctic_Air_Crash_Aftermath_Role-Play_Simulation_Orchestrating_a_Fundamental_Surprise
 [Nine Steps to Move Forward From Error]: http://csel.eng.ohio-state.edu/productions/pexis/readings/submod4/nine%20steps%20CTW2002.pdf
+[Gaps in the continuity of care and progress on patient safety]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1117777/
 
 ### Selected talks
 
@@ -1340,6 +1341,7 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
 * [The High Reliability Organization Perspective] ([TWRR](https://resilienceroundup.com/issues/09/))
 * [Automation surprises]
 * [Safety II professionals: How resilience engineering can transform safety practice]
+* [Gaps in the continuity of care and progress on patient safety]
 
 [The theory of graceful extensibility: basic rules that govern adaptive systems]: https://www.researchgate.net/publication/327427067_The_Theory_of_Graceful_Extensibility_Basic_rules_that_govern_adaptive_systems
 [How do systems manage their adaptive capacity to successfully handle disruptions? A resilience engineering perspective]: https://www.researchgate.net/publication/286581322_How_do_systems_manage_their_adaptive_capacity_to_successfully_handle_disruptions_A_resilience_engineering_perspective
