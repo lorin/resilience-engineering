@@ -497,12 +497,16 @@ who has done extensive reserach in human expertise.
 * [A rose by any other name...would probably be given an acronym]
 * [Seeing the invisible: perceptual-cognitive aspects of expertise](https://cmapspublic3.ihmc.us/rid=1G9NSY15K-N7MJMZ-LC5/SeeingTheInvisible.pdf)
 * [Toward a Theory of Complex and Cognitive Systems]
+* [Macrocognition] ([TWRR](https://resilienceroundup.com/issues/62/))
 
 [Myths of automation and their implications for military procurement]:https://www.researchgate.net/publication/326000581_Myths_of_automation_and_their_implications_for_military_procurement 
 
 [The Seven Deadly Myths of "Autonomous Systems"]: https://www.researchgate.net/publication/260304859_The_Seven_Deadly_Myths_of_Autonomous_Systems
 
 [Toward a Theory of Complex and Cognitive Systems]: https://www.researchgate.net/publication/3454245_Toward_a_Theory_of_Complex_and_Cognitive_Systems
+
+[Macrocognition]: https://pdfs.semanticscholar.org/df74/b2909f54b41a485cd4c0189fc4aa19d176d0.pdf
+
 
 ### Concepts
 
@@ -595,6 +599,7 @@ complex socio-technical systems.
 * [Mapping Cognitive Demands in Complex Problem-Solving Worlds] (mentions disturbance management)
 * [Human factors and folk models]
 * [Designing for joint cognitive systems](https://www.researchgate.net/publication/4213914_Designing_for_joint_cognitive_systems)
+* [Macrocognition] ([TWRR](https://resilienceroundup.com/issues/62/))
 
 
 [Resilience Engineering: Concepts and Precepts]: https://www.amazon.com/gp/product/B009KNDF64/ref=x_gr_w_glide_bb?ie=UTF8&tag=x_gr_w_glide_bb-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B009KNDF64&SubscriptionId=1MGPYB6YW3HWK55XCGG2
@@ -650,6 +655,7 @@ Klein tweets as [@KleInsight](https://twitter.com/KleInsight).
 * [Seeing the invisible: perceptual-cognitive aspects of expertise](https://cmapspublic3.ihmc.us/rid=1G9NSY15K-N7MJMZ-LC5/SeeingTheInvisible.pdf)
 * [Patterns in Cooperative Cognition]
 * [The strengths and limitations of teams for detecting problems](https://link.springer.com/article/10.1007/s10111-005-0024-6)
+* [Macrocognition] ([TWRR](https://resilienceroundup.com/issues/62/))
 
 [Problem detection]: https://www.researchgate.net/publication/220579480_Problem_detection
 [Ten challenges for making automation a team player]: https://ieeexplore.ieee.org/abstract/document/1363742
