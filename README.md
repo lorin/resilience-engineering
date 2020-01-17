@@ -1354,6 +1354,7 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
 
 ### Selected talks
 
+* [Creating safety by engineering resilience](https://vimeo.com/104759707)
 * [The Mystery of Sustained Adaptability](https://www.youtube.com/watch?v=7STcaWjJoww)
 * [Resilience is a verb](https://www.youtube.com/watch?v=V2qj5gMsjrU)
 * [Complexity workshop keynote](https://www.youtube.com/watch?v=KJJ2NCjc2Wg)
