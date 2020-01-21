@@ -373,7 +373,7 @@ Dekker examines how cultural norms defining justice can be re-oriented to minimi
 * [Human factors and folk models]
 * [The High Reliability Organization Perspective] ([TWRR](https://resilienceroundup.com/issues/09/))
 * [Illusions of explanation: A critical essay on error classification](http://www.humanfactors.lth.se/fileadmin/lusa/Sidney_Dekker/articles/2003_and_before/Illusions_of_explanation.pdf) ([TWRR](https://resilienceroundup.com/issues/42/))
-* [Safety II professionals: How resilience engineering can transform safety practice]
+* [Safety II professionals: How resilience engineering can transform safety practice] ([TWRR](https://resilienceroundup.com/issues/64/))
 
 
 [Human factors and folk models]: https://link.springer.com/article/10.1007%2Fs10111-003-0136-9
@@ -1346,7 +1346,8 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
 * [Handoff strategies in settings with high consequences for failure: lessons for health care operations] ([TWRR](https://resilienceroundup.com/issues/56))
 * [The High Reliability Organization Perspective] ([TWRR](https://resilienceroundup.com/issues/09/))
 * [Automation surprises]
-* [Safety II professionals: How resilience engineering can transform safety practice]
+* [Safety II professionals: How resilience engineering can transform safety practice] ([TWRR](https://resilienceroundup.com/issues/64/))
+
 * [Gaps in the continuity of care and progress on patient safety]
 
 [The theory of graceful extensibility: basic rules that govern adaptive systems]: https://www.researchgate.net/publication/327427067_The_Theory_of_Graceful_Extensibility_Basic_rules_that_govern_adaptive_systems
