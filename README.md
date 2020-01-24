@@ -262,7 +262,6 @@ Cook tweets as [@ri_cook](https://twitter.com/ri_cook).
 * [Grounding explanations in evolving, diagnostic situations]
 * [A Tale of Two Stories: Contrasting Views of Patient Safety]
 * ["Those found responsible have been sacked": some observations on the usefulness of error](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.623.5749&rep=rep1&type=pdf)
-* [Sensemaking, Safety, and Cooperative Work in the Intensive Care Unit](https://www.researchgate.net/publication/220579381_Sensemaking_Safety_and_Cooperative_Work_in_the_Intensive_Care_Unit)
 * [Perspectives on Human Error: Hindsight Biases and Local Rationality]
 * [Mistaking Error]
 * [Adapting to new technology in the operating room]
