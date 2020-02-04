@@ -450,9 +450,11 @@ who has done extensive reserach in human expertise.
 * [Issue of expert flexibility in contexts characterized by complexity and change](https://www.researchgate.net/publication/232465540_Issue_of_expert_flexibility_in_contexts_characterized_by_complexity_and_change)
 * [A rose by any other name...would probably be given an acronym]
 * [Learners' (mis)understanding of important and difficult concepts: a challenge to smart machines in education](https://www.researchgate.net/publication/234818797_Learners'_misunderstanding_of_important_and_difficult_concepts_a_challenge_to_smart_machines_in_education)
+* [Ten challenges for making automation a team player] ([TWRR](https://resilienceroundup.com/issues/66))
 
 [Common Ground and Coordination in Joint Activity]: http://jeffreymbradshaw.net/publications/Common_Ground_Single.pdf
 [A rose by any other name...would probably be given an acronym]: https://www.researchgate.net/publication/3454029_A_rose_by_any_other_namewould_probably_be_given_an_acronym
+[Ten challenges for making automation a team player]: https://ieeexplore.ieee.org/abstract/document/1363742
 
 ## Meir Finkel
 
@@ -647,7 +649,7 @@ Klein tweets as [@KleInsight](https://twitter.com/KleInsight).
 * [Can We Trust Best Practices? Six Cognitive Challenges of Evidence-Based Approaches]
 * [Conditions for intuitive expertise: a failure to disagree](http://dx.doi.org/10.1037/a0016755)
 * [Problem detection]
-* [Ten challenges for making automation a team player]
+* [Ten challenges for making automation a team player] ([TWRR](https://resilienceroundup.com/issues/66))
 * [Decision making in action: models and methods](http://www.macrocognition.com/documents/Decision-Making-in-Action-Models-and-Methods-0316.pdf)
 * [Critical decision method for eliciting knowledge](https://ieeexplore.ieee.org/document/31053)
 * [A recognition-primed decision (RPD) model of rapid decision making](https://pdfs.semanticscholar.org/0672/092ecc507fb41d81e82d2986cf86c4bff14f.pdf)
@@ -657,7 +659,6 @@ Klein tweets as [@KleInsight](https://twitter.com/KleInsight).
 * [Macrocognition] ([TWRR](https://resilienceroundup.com/issues/62/))
 
 [Problem detection]: https://www.researchgate.net/publication/220579480_Problem_detection
-[Ten challenges for making automation a team player]: https://ieeexplore.ieee.org/abstract/document/1363742
 [Patterns in Cooperative Cognition]: https://www.researchgate.net/publication/262449980_Patterns_in_Cooperative_Cognition
 [Can We Trust Best Practices? Six Cognitive Challenges of Evidence-Based Approaches]: https://journals.sagepub.com/doi/abs/10.1177/1555343416637520?journalCode=edma
 
@@ -1298,7 +1299,7 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
 * [Problem detection]
 * [Cognitive consequences of clumsy automation on high workload, high consequence human performance]
 * [Implications of automation surprises in aviation for the future of total intravenous anesthesia (TIVA)]
-* [Ten challenges for making automation a team player]
+* [Ten challenges for making automation a team player] ([TWRR](https://resilienceroundup.com/issues/66))
 * [The Messy Details: Insights From the Study of Technical Work in Healthcare]
 * [Nosocomial automation: technology-induced complexity and human performance]
 * [Human-centered software agents: Lessons from clumsy automation](http://www.ifp.illinois.edu/nsfhcs/abstracts/woods.txt)
