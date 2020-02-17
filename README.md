@@ -1271,8 +1271,8 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
 ### Selected publications
 
 * [Resilience Engineering: Concepts and Precepts](https://www.amazon.com/gp/product/B009KNDF64/ref=x_gr_w_glide_bb?ie=UTF8&tag=x_gr_w_glide_bb-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B009KNDF64&SubscriptionId=1MGPYB6YW3HWK55XCGG2)
-    - [Prologue: Resilience Engineering Concepts](http://erikhollnagel.com/onewebmedia/Prologue.pdf)
-    - [Epilogue: Resilience Engineering Precepts](https://www.researchgate.net/publication/265074845_Epilogue_Resilience_Engineering_Precepts)
+* [Prologue: Resilience Engineering Concepts](http://erikhollnagel.com/onewebmedia/Prologue.pdf)
+* [Epilogue: Resilience Engineering Precepts](https://www.researchgate.net/publication/265074845_Epilogue_Resilience_Engineering_Precepts)
 * [Resilience is a verb](https://www.researchgate.net/publication/329035477_Resilience_is_a_Verb)
 * [Four concepts for resilience and the implications for the future of resilience engineering](https://www.researchgate.net/publication/276139783_Four_concepts_for_resilience_and_the_implications_for_the_future_of_resilience_engineering) ([TWRR](https://resilienceroundup.com/issues/65))
 * [Basic patterns in how adaptive systems fail](https://www.researchgate.net/publication/284324002_Basic_patterns_in_how_adaptive_systems_fail) ([TWRR](https://resilienceroundup.com/issues/34/))
