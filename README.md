@@ -275,6 +275,7 @@ Cook tweets as [@ri_cook](https://twitter.com/ri_cook).
 * [Dissenting Statement: Health IT Is a Class III Medical Device](https://www.nap.edu/read/13269/chapter/14)
 * [Nine Steps to Move Forward From Error]
 * [Gaps in the continuity of care and progress on patient safety]
+* [Above the Line, Below the Line](https://queue.acm.org/detail.cfm?id=3380777) ([TWRR](https://resilienceroundup.com/issues/68/))
 
 [Behind Human Error]: https://www.amazon.com/Behind-Human-Error-David-Woods/dp/0754678342
 [Cognitive consequences of clumsy automation on high workload, high consequence human performance]: https://ntrs.nasa.gov/search.jsp?R=19910011398
