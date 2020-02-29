@@ -1287,7 +1287,7 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
 * [Patterns in Cooperative Cognition](https://www.researchgate.net/publication/262449980_Patterns_in_Cooperative_Cognition)
 * [Origins of cognitive systems engineering](https://www.researchgate.net/publication/298793082_Origins_of_Cognitive_Systems_Engineering)
 * [Incidents - markers of resilience or brittleness?](https://www.researchgate.net/publication/292504952_Incidents_-_markers_of_resilience_or_brittleness)
-* [The alarm problem and directed attention in dynamic fault management](https://www.tandfonline.com/doi/abs/10.1080/00140139508925274)
+* [The alarm problem and directed attention in dynamic fault management](https://www.researchgate.net/publication/40961767_The_Alarm_problem_and_directed_attention_in_dynamic_fault_management)
 * [Can We Trust Best Practices? Six Cognitive Challenges of Evidence-Based Approaches]
 * [Operating at the Sharp End: The Complexity of Human Error](https://www.researchgate.net/publication/313407259_Operating_at_the_Sharp_End_The_Complexity_of_Human_Error)
 * [The theory of graceful extensibility: basic rules that govern adaptive systems]
