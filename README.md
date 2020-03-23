@@ -980,9 +980,10 @@ and applied cognitive psychology (cognitive engineering)
 
 ### Selected publications
 
-* [Uncovering the Requirements of Cognitive Work](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.564.2044) ([TWRR](https://www.getrevue.co/profile/resilience/issues/resilience-roundup-uncovering-the-requirements-of-cognitive-work-issue-30-173410)
-)* [Using observational study as a tool for discovery: uncovering cognitive and collaborative demands and adaptive strategies]
+* [Uncovering the Requirements of Cognitive Work](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.564.2044) ([TWRR](https://www.getrevue.co/profile/resilience/issues/resilience-roundup-uncovering-the-requirements-of-cognitive-work-issue-30-173410))
+* [Using observational study as a tool for discovery: uncovering cognitive and collaborative demands and adaptive strategies]
 * [Handoff strategies in settings with high consequences for failure: lessons for health care operations] ([TWRR](https://resilienceroundup.com/issues/56))
+* [Bootstrapping multiple converging cognitive task analysis techniques for system design] ([TWRR](https://resilienceroundup.com/issues/70))
 
 ## Nadine Sarter
 
@@ -1006,7 +1007,6 @@ She is the director of the Center for Ergonomics at the University of Michigan.
 * [Designed-Induced Error and Error-Informed Design: A Two-Way Street](https://www.amazon.com/Cognitive-Systems-Engineering-Expertise-Applications-ebook/dp/B076TDR6H9/ref=sr_1_1?keywords=cognitive+systems+engineering&qid=1554075974&s=gateway&sr=8-1)
 * [The Critical Incident Technique: A Method for Identifying System Strengths and Weaknesses Based on Observational Data](https://www.taylorfrancis.com/books/e/9780429134845)
 * [Myths of automation and their implications for military procurement]
-* [Bootstrapping multiple converging cognitive task analysis techniques for system design]
 * [Automation surprises]
 
 [Bootstrapping multiple converging cognitive task analysis techniques for system design]: https://www.researchgate.net/publication/313737506_Bootstrapping_multiple_converging_cognitive_task_analysis_techniques_for_system_design
@@ -1339,7 +1339,7 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
 * [How to Make Automated Systems Team Players](https://www.researchgate.net/profile/David_Woods11/publication/2483863_How_to_Make_Automated_Systems_Team_Players/links/5a4f829eaca272940bf8202c/How-to-Make-Automated-Systems-Team-Players.pdf)
 * [Toward a Theory of Complex and Cognitive Systems]
 * [Multiple systemic contributors versus root cause: learning from a NASA Near Miss](https://www.researchgate.net/publication/308194080_Multiple_Systemic_Contributors_versus_Root_Cause_Learning_from_a_NASA_Near_Miss)
-* [Bootstrapping multiple converging cognitive task analysis techniques for system design]
+* [Bootstrapping multiple converging cognitive task analysis techniques for system design] ([TWRR](https://resilienceroundup.com/issues/70))
 * [New Arctic Air Crash Aftermath Role-Play Simulation Orchestrating a Fundamental Surprise]
 * [How Unexpected Events Produce An Escalation Of Cognitive And Coordinative Demands]
 * [Mapping Cognitive Demands in Complex Problem-Solving Worlds] (mentions disturbance management)
