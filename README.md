@@ -39,6 +39,7 @@ they're ones I've read or have added to my to-read list.
 * [Andrea Baker](#andrea-baker)
 * [E. Asher Balkin](#e-asher-balkin)
 * [Johan Bergström](#johan-bergström)
+* [Sheuwen Chuang](#sheuwen-chuang)
 * [Todd Conklin](#todd-conklin)
 * [Richard I. Cook](#richard-i-cook)
 * [Sidney Dekker](#sidney-dekker)
@@ -207,6 +208,16 @@ Bergström tweets as [@bergstrom_johan](https://twitter.com/bergstrom_johan).
 
 * [Three analytical traps in accident investigation](https://www.youtube.com/watch?v=TqaFT-0cY7U)
 * [Two Views on Human Error](https://www.youtube.com/watch?v=rHeukoWWtQ8)
+
+## Sheuwen Chuang
+
+### Selected publications
+
+* [Beyond surge: Coping with mass burn casualty in the closest hospital to the Formosa Fun Coast Dust Explosion]
+
+[Beyond surge: Coping with mass burn casualty in the closest hospital to the Formosa Fun Coast Dust Explosion]: https://doi.org/10.1016/j.burns.2018.12.003
+
+
 
 
 ## Todd Conklin
@@ -1353,6 +1364,7 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
 * [Gaps in the continuity of care and progress on patient safety]
 * [Systems with human monitors: a signal detection analysis](https://www.researchgate.net/publication/250890631_Systems_with_Human_Monitors_A_Signal_Detection_Analysis)
 * [On taking human performance seriously](https://www.sciencedirect.com/science/article/abs/pii/095183209090022F), 1990
+* [Beyond surge: Coping with mass burn casualty in the closest hospital to the Formosa Fun Coast Dust Explosion]
 
 [The theory of graceful extensibility: basic rules that govern adaptive systems]: https://www.researchgate.net/publication/327427067_The_Theory_of_Graceful_Extensibility_Basic_rules_that_govern_adaptive_systems
 [How do systems manage their adaptive capacity to successfully handle disruptions? A resilience engineering perspective]: https://www.researchgate.net/publication/286581322_How_do_systems_manage_their_adaptive_capacity_to_successfully_handle_disruptions_A_resilience_engineering_perspective
