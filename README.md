@@ -39,6 +39,7 @@ they're ones I've read or have added to my to-read list.
 * [Andrea Baker](#andrea-baker)
 * [E. Asher Balkin](#e-asher-balkin)
 * [Johan Bergström](#johan-bergström)
+* [Matthieu Branlat](#matthieu-branlat)
 * [Sheuwen Chuang](#sheuwen-chuang)
 * [Todd Conklin](#todd-conklin)
 * [Richard I. Cook](#richard-i-cook)
@@ -208,6 +209,13 @@ Bergström tweets as [@bergstrom_johan](https://twitter.com/bergstrom_johan).
 
 * [Three analytical traps in accident investigation](https://www.youtube.com/watch?v=TqaFT-0cY7U)
 * [Two Views on Human Error](https://www.youtube.com/watch?v=rHeukoWWtQ8)
+
+## Matthieu Branlat
+
+### Selected publications
+
+* [Basic patterns in how adaptive systems fail](https://www.researchgate.net/publication/284324002_Basic_patterns_in_how_adaptive_systems_fail) ([TWRR](https://resilienceroundup.com/issues/34/))
+
 
 ## Sheuwen Chuang
 
