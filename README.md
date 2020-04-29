@@ -287,7 +287,7 @@ Cook tweets as [@ri_cook](https://twitter.com/ri_cook).
 * [Mistaking Error]
 * [Adapting to new technology in the operating room]
 * [Verite, Abstraction, and Ordinateur Systems in the Evolution of Complex Process Control](https://www.researchgate.net/publication/3657912_Verite_abstraction_and_ordinateur_systems_in_the_evolution_of_complex_process_control)
-* [Collaborative Cross-Checking to Enhance Resilience]
+* [Collaborative Cross-Checking to Enhance Resilience] ([TWRR](https://resilienceroundup.com/issues/73/))
 * [Resilience Engineering: New directions for measuring and maintaining safety in complex systems]
 * [The Role of Automation in Complex System Failures]
 * [Thinking about accidents and systems](https://www.researchgate.net/publication/228352596_Thinking_about_accidents_and_systems)
@@ -814,8 +814,7 @@ in healthcare.
 * [Voice Loops as Coordination Aids in Space Shuttle Mission Control]
 * [Functionally distributed coordination during anomaly response in space shuttle mission control]
 * [Patterns in Cooperative Cognition]
-* [Collaborative Cross-Checking to Enhance Resilience]
-* [How Unexpected Events Produce An Escalation Of Cognitive And Coordinative Demands]
+* [Collaborative Cross-Checking to Enhance Resilience] ([TWRR](https://resilienceroundup.com/issues/73/))
 * [New Arctic Air Crash Aftermath Role-Play Simulation Orchestrating a Fundamental Surprise]
 * [Handoff strategies in settings with high consequences for failure: lessons for health care operations] ([TWRR](https://resilienceroundup.com/issues/56))
 
@@ -1352,7 +1351,7 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
 * [The Seven Deadly Myths of "Autonomous Systems"]
 * [Resilience and the ability to anticipate](https://www.researchgate.net/publication/285487326_Resilience_and_the_ability_to_anticipate)
 * [Patterns in Cooperative Cognition]
-* [Collaborative Cross-Checking to Enhance Resilience]
+* [Collaborative Cross-Checking to Enhance Resilience] ([TWRR](https://resilienceroundup.com/issues/73/))
 * [Resilience Engineering: New directions for measuring and maintaining safety in complex systems]
 * [A rose by any other name...would probably be given an acronym]
 * [How do systems manage their adaptive capacity to successfully handle disruptions? A resilience engineering perspective](https://www.researchgate.net/publication/286581322_How_do_systems_manage_their_adaptive_capacity_to_successfully_handle_disruptions_A_resilience_engineering_perspective)
