@@ -1385,6 +1385,10 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
 * [Resilience is a verb](https://www.youtube.com/watch?v=V2qj5gMsjrU)
 * [Complexity workshop keynote](https://www.youtube.com/watch?v=KJJ2NCjc2Wg)
 
+### Online courses
+
+* [Resilience Engineering: An Introductory Short Course](https://www.youtube.com/playlist?list=PLvlZBj1NU_ikTy1ot30EbEbYMAoBf9eAt)
+
 ## John Wreathall
 
 Wreathall is an expert in human performance in safety. He works at the
