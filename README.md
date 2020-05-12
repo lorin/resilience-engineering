@@ -110,6 +110,7 @@ Allspaw tweets as [@allspaw](https://twitter.com/allspaw).
 * [Resilience engineering: learning to embrace failure](https://doi.org/10.1145/2366316.2366331)
 * [Fault Injection in Production: Making the case for resiliency testing](http://queue.acm.org/detail.cfm?id=2353017)
 * [Technical Debt: Challenges and Perspectives](https://doi.org/10.1109/MS.2017.99)
+* [Revealing the Critical Role of Human Performance in Software](https://queue.acm.org/detail.cfm?id=3380776)
 
 ### Selected talks
 
@@ -493,6 +494,7 @@ Finkel is a Colonel in the Israeli Defense Force (IDF) and the Director of the I
 ### Selected Publications
 
 * [Approaching Overload: Diagnosis and Response to Anomalies in Complex and Automated Production Software Systems](https://www.researchgate.net/publication/333091997_Approaching_Overload_Diagnosis_and_Response_to_Anomalies_in_Complex_and_Automated_Production_Software_Systems)
+* [Cognitive Work of Hypothesis Exploration During Anomaly Response](https://queue.acm.org/detail.cfm?id=3380778)
 
 ## Ivonne Andrade Herrera
 
@@ -749,6 +751,10 @@ Maguire has done safety work in multiple domains, including forestry, avalanches
 
 Maguire tweets as [@LauraMDMaguire](https://twitter.com/lauramdmaguire).
 
+### Selected publications
+
+* [Managing the Hidden Costs of Coordination](https://queue.acm.org/detail.cfm?id=3380779)
+
 ### Selected talks
 
 * [Mental models – why saying “I didn’t know it worked that way” is a sign of expertise not incompetence](https://www.youtube.com/watch?v=VEprjLtHzg0)
@@ -984,7 +990,9 @@ Reed tweets as [@jpaulreed](https://twitter.com/jpaulreed).
 
 ### Selected Publications
 
-[Maps, Context, and Tribal Knowledge: On the Structure and Use of Post-Incident Analysis Artifacts in Software Development and Operations](https://lup.lub.lu.se/student-papers/search/publication/8966930)
+* [Maps, Context, and Tribal Knowledge: On the Structure and Use of Post-Incident Analysis Artifacts in Software Development and Operations](https://lup.lub.lu.se/student-papers/search/publication/8966930)
+* [Beyond the "Fix-it" Treadmill](https://queue.acm.org/detail.cfm?id=3380780d)
+
 
 ### Concepts
 
