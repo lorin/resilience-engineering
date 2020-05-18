@@ -12,6 +12,7 @@ This page clusters notable resilience engineers [papers](README.md) by topic.
 
 * [Anomaly Response](https://docs.wixstatic.com/ugd/3ad081_f46dda684154447583c8a5b282b60cc2.pdf)
 * [Problem detection](https://www.researchgate.net/publication/220579480_Problem_detection)
+* [The strengths and limitations of teams for detecting problems](https://link.springer.com/article/10.1007/s10111-005-0024-6)
 
 
 ## Human-human interaction
@@ -26,6 +27,7 @@ This page clusters notable resilience engineers [papers](README.md) by topic.
 
 * [Governing the Commons: The Evolution of Institutions for Collective Action](https://www.amazon.com/Governing-Commons-Evolution-Institutions-Collective/dp/1107569788)
 * [Common Ground and Coordination in Joint Activity](http://jeffreymbradshaw.net/publications/Common_Ground_Single.pdf)
+* [Patterns in Cooperative Cognition](https://www.researchgate.net/publication/262449980_Patterns_in_Cooperative_Cognition)
 
 ## Nature of complex systems
 
@@ -39,10 +41,12 @@ This page clusters notable resilience engineers [papers](README.md) by topic.
 * strange loops
 * dark debt
 * well-adapted, under-adapted, over-adapted
+* decompensation, working at cross-purposes, getting stuck in outdated behaviors
 
 ### Readings
 
 * [How complex systems fail](http://web.mit.edu/2.75/resources/random/How%20Complex%20Systems%20Fail.pdf)
+* [Basic Patterns in How Adaptive Systems Fail](https://www.researchgate.net/publication/284324002_Basic_patterns_in_how_adaptive_systems_fail)
 * [STELLA: Report from the SNAFUcatchers Workshop on Coping with Complexity](https://snafucatchers.github.io/)
 * [Highly Optimized Tolerance: Robustness and Design in Complex Systems](http://dx.doi.org/10.1103/physrevlett.84.2529)
 * [Drift into failure](https://www.amazon.com/Drift-into-Failure-Sidney-Dekker/dp/1409422216)
