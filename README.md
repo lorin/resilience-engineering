@@ -1382,6 +1382,8 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
 * [On taking human performance seriously](https://www.sciencedirect.com/science/article/abs/pii/095183209090022F), 1990
 * [Beyond surge: Coping with mass burn casualty in the closest hospital to the Formosa Fun Coast Dust Explosion]
 * [Designing for Expertise](https://www.researchgate.net/publication/284173210_Designing_for_Expertise)
+* [Steering the Reverberations of Technology Change on Fields of Practice: Laws that Govern Cognitive Work](http://www.lrdc.pitt.edu/schunn/cogsci2002/program/plenaries/woods.pdf)
+
 
 [The theory of graceful extensibility: basic rules that govern adaptive systems]: https://www.researchgate.net/publication/327427067_The_Theory_of_Graceful_Extensibility_Basic_rules_that_govern_adaptive_systems
 [How do systems manage their adaptive capacity to successfully handle disruptions? A resilience engineering perspective]: https://www.researchgate.net/publication/286581322_How_do_systems_manage_their_adaptive_capacity_to_successfully_handle_disruptions_A_resilience_engineering_perspective
