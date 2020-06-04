@@ -224,9 +224,10 @@ Bergström tweets as [@bergstrom_johan](https://twitter.com/bergstrom_johan).
 ### Selected publications
 
 * [Beyond surge: Coping with mass burn casualty in the closest hospital to the Formosa Fun Coast Dust Explosion]
+* [Coping With a Mass Casualty: Insights into a Hospital’s Emergency Response and Adaptations After the Formosa Fun Coast Dust Explosion] ([TWRR](https://resilienceroundup.com/issues/76/))
 
 [Beyond surge: Coping with mass burn casualty in the closest hospital to the Formosa Fun Coast Dust Explosion]: https://doi.org/10.1016/j.burns.2018.12.003
-
+[Coping With a Mass Casualty: Insights into a Hospital’s Emergency Response and Adaptations After the Formosa Fun Coast Dust Explosion]: https://www.researchgate.net/publication/335366770_Coping_With_a_Mass_Casualty_Insights_into_a_Hospital's_Emergency_Response_and_Adaptations_After_the_Formosa_Fun_Coast_Dust_Explosion
 
 
 
@@ -298,6 +299,7 @@ Cook tweets as [@ri_cook](https://twitter.com/ri_cook).
 * [Nine Steps to Move Forward From Error]
 * [Gaps in the continuity of care and progress on patient safety]
 * [Above the Line, Below the Line](https://queue.acm.org/detail.cfm?id=3380777) ([TWRR](https://resilienceroundup.com/issues/68/))
+* [Coping With a Mass Casualty: Insights into a Hospital’s Emergency Response and Adaptations After the Formosa Fun Coast Dust Explosion] ([TWRR](https://resilienceroundup.com/issues/76/))
 
 [Behind Human Error]: https://www.amazon.com/Behind-Human-Error-David-Woods/dp/0754678342
 [Cognitive consequences of clumsy automation on high workload, high consequence human performance]: https://ntrs.nasa.gov/search.jsp?R=19910011398
@@ -1384,6 +1386,8 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
 * [Designing for Expertise](https://www.researchgate.net/publication/284173210_Designing_for_Expertise)
 * [Steering the Reverberations of Technology Change on Fields of Practice: Laws that Govern Cognitive Work](http://www.lrdc.pitt.edu/schunn/cogsci2002/program/plenaries/woods.pdf)
 * [Distant Supervision–Local Action Given the Potential for Surprise](https://www.researchgate.net/profile/David_Woods11/publication/225921479_Distant_Supervision-Local_Action_Given_the_Potential_for_Surprise/links/0a85e53baa4009ad8e000000/Distant-Supervision-Local-Action-Given-the-Potential-for-Surprise.pdf) ([TWRR](https://resilienceroundup.com/issues/75/))
+* [Coping With a Mass Casualty: Insights into a Hospital’s Emergency Response and Adaptations After the Formosa Fun Coast Dust Explosion] ([TWRR](https://resilienceroundup.com/issues/76/))
+
 
 
 
