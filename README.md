@@ -1159,7 +1159,7 @@ All systems have competence envelopes, which are constrained by boundaries.
 The resilience of a system is determined by how it behaves when it comes near
 to a boundary.
 
-See [Resilience Engineering Short Course](http://csel.org.ohio-state.edu/ResilienceEngineering.html) for more details.
+See [Resilience Engineering Short Course](https://www.youtube.com/playlist?list=PLvlZBj1NU_ikTy1ot30EbEbYMAoBf9eAt) for more details.
 
 #### Charting adaptive cycles
 
