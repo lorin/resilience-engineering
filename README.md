@@ -427,6 +427,17 @@ systems.
 * conservation laws
 * universal architectures
 * Highly optimized tolerance
+* Doyle's catch
+
+#### Doyle's catch
+
+*Doyle's catch* is a term introduced by David Woods, but attributed to John Doyle. Here's how 
+[Woods quotes Doyle](https://www.researchgate.net/publication/303832480_The_Risks_of_Autonomy_Doyles_Catch):
+
+> Computer-based simulation and rapid prototyping tools are now broadly available and powerful enough that it is
+> relatively easy to demonstrate almost anything, provided that conditions are made sufficiently idealized. 
+> However, the real world is typically far from idealized, and thus a system must have enough robustness in order to close 
+> the gap between demonstration and the real thing. 
 
 
 ### Selected publications
@@ -1351,7 +1362,7 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
 * [Towards a theoretical base for representation design in the computer medium: ecological perception and aiding human cognition](https://www.researchgate.net/publication/239059408_Towards_a_theoretical_base_for_representation_design_in_the_computer_medium_ecological_perception_and_aiding_human_cognition)
 * [Perspectives on Human Error: Hindsight Biases and Local Rationality]
 * [Anomaly Response]
-* [The Risks of Autonomy: Doyles Catch](https://www.researchgate.net/publication/303832480_The_Risks_of_Autonomy_Doyles_Catch)
+* [The Risks of Autonomy: Doyle's Catch](https://www.researchgate.net/publication/303832480_The_Risks_of_Autonomy_Doyles_Catch)
 * [Mistaking Error]
 * [Adapting to new technology in the operating room]
 * [The Strategic Agility Gap: How organizations are slow and stale to adapt in turbulent worlds](https://www.researchgate.net/publication/330196218_The_Strategic_Agility_Gap_How_organizations_are_slow_and_stale_to_adapt_in_turbulent_worlds)
