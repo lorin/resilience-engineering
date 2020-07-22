@@ -1225,9 +1225,9 @@ For more details, see [summary of graceful extensibility theorems](graceful-exte
 
 Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state.edu/ResilienceEngineering.html).
 
-* the adaptive universe
-* unit of adaptive behavior (UAB), adaptive unit
 * adaptive capacity
+* adaptive universe
+* unit of adaptive behavior (UAB), adaptive unit
 * continuous adaptation
 * graceful extensibility
 * sustained adaptability
@@ -1265,6 +1265,7 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
 * fluency law, veil of fluency
 * capacity for manoeuvre (CfM)
 * crunches
+* turnaround test
 * sharp end, blunt end
 * adaptive landscapes
 * law of stretched systems: Every system is continuously stretched to operate at capacity.
@@ -1310,6 +1311,7 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
 * anomaly response
 * automation surprises
 * disturbance management
+* Doyle's catch
 
 ### Selected publications
 
