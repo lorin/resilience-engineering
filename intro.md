@@ -2,8 +2,6 @@
 
 This an introductory guide to readings in *resilience engineering*, aimed at software engineers.
 
-For an FAQ style introduction to resilience engineering, see [resilience-for-software](https://github.com/res-eng/resilience-for-software).
-
 Key papers are organized into themes:
 
 
