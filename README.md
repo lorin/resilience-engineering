@@ -881,11 +881,17 @@ Perry is a medical researcher who studies emergency medicine.
 * [The Role of Automation in Complex System Failures]
 * [Extemporaneous Adaptation to Evolving Complexity: A Case Study of Resilience in Healthcare] ([TWRR](https://resilienceroundup.com/issues/55))
 
+### Other
+
+* [Interview on Naturalistic Decision Making podcast](https://open.spotify.com/episode/7lHcgt2KuDoLyvTP9wMbEn?si=nPIyk9L8QB2Iuck2fKKrNA)
+
+
+
 [Extemporaneous Adaptation to Evolving Complexity: A Case Study of Resilience in Healthcare]: https://pdfs.semanticscholar.org/1423/f18530599b9de186af0eee4852bb7e619384.pdf
 
 ## Jens Rasmussen
 
-Jens Rasmussen was a very influential researcher in human factors and safety systems.
+Jens Rasmussen was an enormously influential researcher in human factors and safety systems. In particular, you can see his influence in the work of Sidney Dekker, Nancy Leveson, David Woods
 
 ### Contributions
 
@@ -961,6 +967,7 @@ Source: [Risk management in a dynamic society: a modelling problem]
 * [Human error and the problem of causality in analysis of accidents](https://www.ida.liu.se/~729A71/Literature/Human%20Error_T/Rasmussen_1990.pdf)
 * [Ecological interfaces: A technological imperative in high‐tech systems](https://core.ac.uk/download/pdf/13788397.pdf)
 * [Information processing and human-machine interaction: an approach to cognitive engineering](https://www.amazon.com/Information-Processing-Human-Machine-Interaction-North-Holland/dp/0444009876)
+* [The role of hierarchical knowledge representation in decisionmaking and system management](https://backend.orbit.dtu.dk/ws/files/158019622/HISMC.PDF)
 
 [Risk management in a dynamic society: a modelling problem]: https://doi.org/10.1016/S0925-7535(97)00052-0
 
