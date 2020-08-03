@@ -1034,6 +1034,10 @@ and applied cognitive psychology (cognitive engineering)
 * [Handoff strategies in settings with high consequences for failure: lessons for health care operations] ([TWRR](https://resilienceroundup.com/issues/56))
 * [Bootstrapping multiple converging cognitive task analysis techniques for system design] ([TWRR](https://resilienceroundup.com/issues/70))
 
+### Other
+
+* [Interview on Naturalistic Decision Making podcast](https://naturalisticdecisionmaking.org/podcasts/#Emilie-Roth-Cognitive-Engineering)
+
 ## Nadine Sarter
 
 [Sarter](https://ioe.engin.umich.edu/people/nadine-sarter/) is a researcher in industrial and operations engineering. 
