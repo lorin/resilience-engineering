@@ -760,8 +760,11 @@ Macrae tweets at [@CarlMacrae](https://twitter.com/CarlMacrae).
 
 ## Laura Maguire
 
-[Maguire](https://www.linkedin.com/in/lauramaguire/) is a cognitive systems engineering researcher who is currently completing a PhD at Ohio State University.
-Maguire has done safety work in multiple domains, including forestry, avalanches, and software services.
+[Maguire](https://www.linkedin.com/in/lauramaguire/) is a cognitive systems
+engineering researcher with a PhD from Ohio State
+University. Maguire has done safety work in multiple domains, including
+forestry, avalanches, and software services. She currently works as a researcher
+at [jeli.io](jeli.io)
 
 Maguire tweets as [@LauraMDMaguire](https://twitter.com/lauramdmaguire).
 
@@ -771,6 +774,7 @@ Maguire tweets as [@LauraMDMaguire](https://twitter.com/lauramdmaguire).
 
 ### Selected talks
 
+* [How Many Is Too Much? Exploring Costs of Coordination During Outages](https://www.infoq.com/presentations/incident-command-system/)
 * [Mental models – why saying “I didn’t know it worked that way” is a sign of expertise not incompetence](https://www.youtube.com/watch?v=VEprjLtHzg0)
 * [Operating at the edge of the envelope](https://re-deploy.io/videos/27-maguire.html)
 
@@ -1011,7 +1015,7 @@ Reed tweets as [@jpaulreed](https://twitter.com/jpaulreed).
 
 ### Selected Publications
 
-* [Maps, Context, and Tribal Knowledge: On the Structure and Use of Post-Incident Analysis Artifacts in Software Development and Operations](https://lup.lub.lu.se/student-papers/search/publication/8966930)
+* [Maps, Context, and Tribal Knowledge: On the Structure and Use of Post-Incident Analysis Artifacts in Software Development and Operations](https://lup.lub.lu.se/student-papers/search/publication/8966930j
 * [Beyond the "Fix-it" Treadmill](https://queue.acm.org/detail.cfm?id=3380780d)
 
 
