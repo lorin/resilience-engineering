@@ -972,6 +972,7 @@ Source: [Risk management in a dynamic society: a modelling problem]
 * [Ecological interfaces: A technological imperative in high‐tech systems](https://core.ac.uk/download/pdf/13788397.pdf)
 * [Information processing and human-machine interaction: an approach to cognitive engineering](https://www.amazon.com/Information-Processing-Human-Machine-Interaction-North-Holland/dp/0444009876)
 * [The role of hierarchical knowledge representation in decisionmaking and system management](https://backend.orbit.dtu.dk/ws/files/158019622/HISMC.PDF)
+* [A Model of Human Decision Making in Complex Systems and its Use for Design of System Control Strategies](https://core.ac.uk/download/pdf/13777954.pdf)
 
 [Risk management in a dynamic society: a modelling problem]: https://doi.org/10.1016/S0925-7535(97)00052-0
 
