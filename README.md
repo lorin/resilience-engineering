@@ -211,6 +211,7 @@ Bergström tweets as [@bergstrom_johan](https://twitter.com/bergstrom_johan).
 
 * [Three analytical traps in accident investigation](https://www.youtube.com/watch?v=TqaFT-0cY7U)
 * [Two Views on Human Error](https://www.youtube.com/watch?v=rHeukoWWtQ8)
+* [What, Where and When is Risk in System Design?](https://www.youtube.com/watch?v=BtJIumyCrtE&feature=youtu.be) (Velocity 2013)
 
 ## Matthieu Branlat
 
