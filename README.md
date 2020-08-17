@@ -111,9 +111,9 @@ Allspaw tweets as [@allspaw](https://twitter.com/allspaw).
 * [Fault Injection in Production: Making the case for resiliency testing](http://queue.acm.org/detail.cfm?id=2353017)
 * [Technical Debt: Challenges and Perspectives](https://doi.org/10.1109/MS.2017.99)
 * [Revealing the Critical Role of Human Performance in Software](https://queue.acm.org/detail.cfm?id=3380776)
-* [Center of the Cyclone: What, so what, and what's next in SRE cognitive work] in [Seeking SRE]
+* [SRE Cognitive Work] in [Seeking SRE]
 
-[Center of the Cyclone: What, so what, and what's next in SRE cognitive work]: https://www.researchgate.net/publication/343430302_SRE_Cognitive_Work
+[SRE Cognitive Work]: https://www.researchgate.net/publication/343430302_SRE_Cognitive_Work
 [Seeking SRE]: https://www.oreilly.com/library/view/seeking-sre/9781491978856/
 
 ### Selected talks
@@ -305,7 +305,7 @@ Cook tweets as [@ri_cook](https://twitter.com/ri_cook).
 * [Gaps in the continuity of care and progress on patient safety]
 * [Above the Line, Below the Line](https://queue.acm.org/detail.cfm?id=3380777) ([TWRR](https://resilienceroundup.com/issues/68/))
 * [Coping With a Mass Casualty: Insights into a Hospital’s Emergency Response and Adaptations After the Formosa Fun Coast Dust Explosion] ([TWRR](https://resilienceroundup.com/issues/76/))
-* [Center of the Cyclone: What, so what, and what's next in SRE cognitive work] in [Seeking SRE]
+* [SRE Cognitive Work] in [Seeking SRE]
 
 [Behind Human Error]: https://www.amazon.com/Behind-Human-Error-David-Woods/dp/0754678342
 [Cognitive consequences of clumsy automation on high workload, high consequence human performance]: https://ntrs.nasa.gov/search.jsp?R=19910011398
