@@ -322,9 +322,11 @@ Cook tweets as [@ri_cook](https://twitter.com/ri_cook).
 ### Selected talks
 
 * [How Complex Systems Fail](https://www.youtube.com/watch?v=2S0k12uZR14) (Velocity 2012)
+* [Resilience in Complex Adaptive Systems: Operating at the Edge of Failure](https://www.youtube.com/watch?v=PGLYEDpNu60&feature=youtu.be) (Velocity 2013)
 * [Lectures on the study of cognitive work](https://vimeo.com/showcase/6184024) (Graduate student lecture-discussions at The Royal Institute of Technology, Huddinge, SWEDEN in 2012 )
 * [Panel discussion: Safety Culture, Lean, and DevOps] (DOES 2017)
 * [Working at the center of the Cyclone](https://www.youtube.com/watch?v=3ZP98stDUf0&feature=youtu.be) (DOES 2018)
+* [A Few Observations on the Marvelous Resilience of Bone & Resilience Engineeringard Cook](https://www.youtube.com/watch?v=8LbePBiOvZ4) (REdeploy 2019)
 
 [Panel discussion: Safety Culture, Lean, and DevOps]: https://www.youtube.com/watch?v=gtxtb9z_4FY&feature=youtu.be
 
