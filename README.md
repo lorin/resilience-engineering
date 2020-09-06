@@ -709,6 +709,10 @@ Klein tweets as [@KleInsight](https://twitter.com/KleInsight).
 [Patterns in Cooperative Cognition]: https://www.researchgate.net/publication/262449980_Patterns_in_Cooperative_Cognition
 [Can We Trust Best Practices? Six Cognitive Challenges of Evidence-Based Approaches]: https://journals.sagepub.com/doi/abs/10.1177/1555343416637520?journalCode=edma
 
+### Selected talks
+
+* [Problem detection](https://www.youtube.com/watch?v=UXx51qK4ItQ&feature=emb_title)
+
 ## Nancy Leveson
 
 Nancy Leveson is a computer science researcher with a focus in software safety.
