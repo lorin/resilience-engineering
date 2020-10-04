@@ -1435,7 +1435,7 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
 * [Coping With a Mass Casualty: Insights into a Hospital’s Emergency Response and Adaptations After the Formosa Fun Coast Dust Explosion] ([TWRR](https://resilienceroundup.com/issues/76/))
 * [A Shared Pilot-Autopilot Control Architecture for Resilient Flight](http://aaclab.mit.edu/resources/FarjadianAnnaswamyWoods2019.pdf) ([TWRR](https://resilienceroundup.com/issues/a-shared-pilot-autopilot-control-architecture-for-resilient-flight/))
 * [Team Play with a Powerful and Independent Agent: A Full-Mission Simulation Study] ([TWRR](https://resilienceroundup.com/issues/team-play-with-a-powerful-and-independent-agent-a-full-mission-simulation-study/))
-
+* [How Not to Have to Navigate Through Too Many Displays](https://www.researchgate.net/publication/239030256_How_Not_to_Have_to_Navigate_Through_Too_Many_Displays)
 
 
 [The theory of graceful extensibility: basic rules that govern adaptive systems]: https://www.researchgate.net/publication/327427067_The_Theory_of_Graceful_Extensibility_Basic_rules_that_govern_adaptive_systems
@@ -1463,4 +1463,3 @@ Wreathall tweets as [@wreathall](https://twitter.com/wreathall).
 
 ### Selected publications
 * [Resilience engineering in practice: a guidebook](https://www.crcpress.com/Resilience-Engineering-in-Practice-A-Guidebook/Paries-Wreathall-Hollnagel/p/book/9781472420749)
-
