@@ -1080,9 +1080,11 @@ She is the director of the Center for Ergonomics at the University of Michigan.
 * [The Critical Incident Technique: A Method for Identifying System Strengths and Weaknesses Based on Observational Data](https://www.taylorfrancis.com/books/e/9780429134845)
 * [Myths of automation and their implications for military procurement]
 * [Automation surprises]
+* [Team Play with a Powerful and Independent Agent: A Full-Mission Simulation Study] ([TWRR](https://resilienceroundup.com/issues/team-play-with-a-powerful-and-independent-agent-a-full-mission-simulation-study/))
 
 [Bootstrapping multiple converging cognitive task analysis techniques for system design]: https://www.researchgate.net/publication/313737506_Bootstrapping_multiple_converging_cognitive_task_analysis_techniques_for_system_design
 [Automation surprises]: https://www.researchgate.net/publication/270960170_Automation_surprises
+[Team Play with a Powerful and Independent Agent: A Full-Mission Simulation Study]: https://www.researchgate.net/publication/12195752_Team_Play_with_a_Powerful_and_Independent_Agent_A_Full-Mission_Simulation_Study
 
 ## James C. Scott
 
@@ -1431,9 +1433,8 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
 * [Steering the Reverberations of Technology Change on Fields of Practice: Laws that Govern Cognitive Work](http://www.lrdc.pitt.edu/schunn/cogsci2002/program/plenaries/woods.pdf)
 * [Distant Supervision–Local Action Given the Potential for Surprise](https://www.researchgate.net/profile/David_Woods11/publication/225921479_Distant_Supervision-Local_Action_Given_the_Potential_for_Surprise/links/0a85e53baa4009ad8e000000/Distant-Supervision-Local-Action-Given-the-Potential-for-Surprise.pdf) ([TWRR](https://resilienceroundup.com/issues/75/))
 * [Coping With a Mass Casualty: Insights into a Hospital’s Emergency Response and Adaptations After the Formosa Fun Coast Dust Explosion] ([TWRR](https://resilienceroundup.com/issues/76/))
-* [A Shared Pilot-Autopilot Control Architecture for Resilient Flight](http://aaclab.mit.edu/resources/FarjadianAnnaswamyWoods2019.pdf) ([TWRR](https://resilienceroundup.com/issues/a-shared-pilot-autopilot-control-architecture-for-resilient-flight/)
-)
-
+* [A Shared Pilot-Autopilot Control Architecture for Resilient Flight](http://aaclab.mit.edu/resources/FarjadianAnnaswamyWoods2019.pdf) ([TWRR](https://resilienceroundup.com/issues/a-shared-pilot-autopilot-control-architecture-for-resilient-flight/))
+* [Team Play with a Powerful and Independent Agent: A Full-Mission Simulation Study] ([TWRR](https://resilienceroundup.com/issues/team-play-with-a-powerful-and-independent-agent-a-full-mission-simulation-study/))
 
 
 
