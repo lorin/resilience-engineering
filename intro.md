@@ -121,7 +121,7 @@ systems should be thought of as encompassing both humans and technologies, as op
 thinking about technological aspects in isolation. 
 
 
-* [How complex systems fail](http://web.mit.edu/2.75/resources/random/How%20Complex%20Systems%20Fail.pdf) by Richard I. Cook is a great starting point. It's a short paper and very easy to read.
+* [How complex systems fail](http://how.complexsystems.fail) by Richard I. Cook is a great starting point. It's a short paper and very easy to read.
 * [Drift into failure](https://www.goodreads.com/book/show/10258783) by Sidney Dekker is a book written for a lay audience, so it is also very readable. Dekker draws heavily from systems thinking to propose a theory about how complex systems can evolve into unsafe states.
 
 
