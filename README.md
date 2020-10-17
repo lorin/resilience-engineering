@@ -306,7 +306,7 @@ Cook tweets as [@ri_cook](https://twitter.com/ri_cook).
 * [Above the Line, Below the Line](https://queue.acm.org/detail.cfm?id=3380777) ([TWRR](https://resilienceroundup.com/issues/68/))
 * [Coping With a Mass Casualty: Insights into a Hospital’s Emergency Response and Adaptations After the Formosa Fun Coast Dust Explosion] ([TWRR](https://resilienceroundup.com/issues/76/))
 * [SRE Cognitive Work] in [Seeking SRE]
-* Building and revising adaptive capacity sharing for technical incident response: A case of resilience engineering](https://www.sciencedirect.com/science/article/pii/S0003687020301903) ([TWRR](https://resilienceroundup.com/issues/building-and-revising-adaptive-capacity-sharing-for-technical-incident-response-a-case-of-resilience-engineering/))
+* [Building and revising adaptive capacity sharing for technical incident response: A case of resilience engineering](https://www.sciencedirect.com/science/article/pii/S0003687020301903) ([TWRR](https://resilienceroundup.com/issues/building-and-revising-adaptive-capacity-sharing-for-technical-incident-response-a-case-of-resilience-engineering/))
 
 [Behind Human Error]: https://www.amazon.com/Behind-Human-Error-David-Woods/dp/0754678342
 [Cognitive consequences of clumsy automation on high workload, high consequence human performance]: https://ntrs.nasa.gov/search.jsp?R=19910011398
