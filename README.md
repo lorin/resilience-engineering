@@ -784,6 +784,7 @@ Maguire tweets as [@LauraMDMaguire](https://twitter.com/lauramdmaguire).
 ### Selected publications
 
 * [Managing the Hidden Costs of Coordination](https://queue.acm.org/detail.cfm?id=3380779)
+* [Controlling the Costs of Coordination in Large-scale Distributed Software Systems](http://rave.ohiolink.edu/etdc/view?acc_num=osu1593661547087969) (PhD dissertation)
 
 ### Selected talks
 
