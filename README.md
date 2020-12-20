@@ -1398,7 +1398,7 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
 * [Towards a theoretical base for representation design in the computer medium: ecological perception and aiding human cognition](https://www.researchgate.net/publication/239059408_Towards_a_theoretical_base_for_representation_design_in_the_computer_medium_ecological_perception_and_aiding_human_cognition)
 * [Perspectives on Human Error: Hindsight Biases and Local Rationality]
 * [Anomaly Response]
-* [The Risks of Autonomy: Doyle's Catch](https://www.researchgate.net/publication/303832480_The_Risks_of_Autonomy_Doyles_Catch)
+* [The Risks of Autonomy: Doyle's Catch](https://www.researchgate.net/publication/303832480_The_Risks_of_Autonomy_Doyles_Catch) ([TWRR](https://resilienceroundup.com/issues/the-risks-of-autonomy-doyles-catch/))
 * [Mistaking Error]
 * [Adapting to new technology in the operating room]
 * [The Strategic Agility Gap: How organizations are slow and stale to adapt in turbulent worlds](https://www.researchgate.net/publication/330196218_The_Strategic_Agility_Gap_How_organizations_are_slow_and_stale_to_adapt_in_turbulent_worlds)
