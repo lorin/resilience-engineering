@@ -306,6 +306,7 @@ Cook tweets as [@ri_cook](https://twitter.com/ri_cook).
 * [Coping With a Mass Casualty: Insights into a Hospital’s Emergency Response and Adaptations After the Formosa Fun Coast Dust Explosion] ([TWRR](https://resilienceroundup.com/issues/76/))
 * [SRE Cognitive Work] in [Seeking SRE]
 * [Building and revising adaptive capacity sharing for technical incident response: A case of resilience engineering](https://www.sciencedirect.com/science/article/pii/S0003687020301903) ([TWRR](https://resilienceroundup.com/issues/building-and-revising-adaptive-capacity-sharing-for-technical-incident-response-a-case-of-resilience-engineering/))
+* [Automation, interaction, complexity, and failure: A case study]
 
 [Behind Human Error]: https://www.amazon.com/Behind-Human-Error-David-Woods/dp/0754678342
 [Cognitive consequences of clumsy automation on high workload, high consequence human performance]: https://ntrs.nasa.gov/search.jsp?R=19910011398
@@ -324,6 +325,7 @@ Cook tweets as [@ri_cook](https://twitter.com/ri_cook).
 [New Arctic Air Crash Aftermath Role-Play Simulation Orchestrating a Fundamental Surprise]: https://www.researchgate.net/publication/2484621_New_Arctic_Air_Crash_Aftermath_Role-Play_Simulation_Orchestrating_a_Fundamental_Surprise
 [Nine Steps to Move Forward From Error]: http://csel.eng.ohio-state.edu/productions/pexis/readings/submod4/nine%20steps%20CTW2002.pdf
 [Gaps in the continuity of care and progress on patient safety]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1117777/
+[Automation, interaction, complexity, and failure: A case study]: https://doi.org/10.1016/j.ress.2006.01.009
 
 ### Selected talks
 
@@ -897,6 +899,7 @@ Perry is a medical researcher who studies emergency medicine.
 * [Can We Trust Best Practices? Six Cognitive Challenges of Evidence-Based Approaches]
 * [The Role of Automation in Complex System Failures]
 * [Extemporaneous Adaptation to Evolving Complexity: A Case Study of Resilience in Healthcare] ([TWRR](https://resilienceroundup.com/issues/55))
+* [Automation, interaction, complexity, and failure: A case study]
 
 ### Other
 
@@ -1168,6 +1171,7 @@ Wears was a medical researcher who also had a PhD in industrial safety.
 * [The Role of Automation in Complex System Failures]
 * [Exploring the Dynamics of Resilient Performance](https://pastel.archives-ouvertes.fr/pastel-00664145/document)
 * [Extemporaneous Adaptation to Evolving Complexity: A Case Study of Resilience in Healthcare] ([TWRR](https://resilienceroundup.com/issues/55))
+* [Automation, interaction, complexity, and failure: A case study]
 
 ### Selected talks
 
