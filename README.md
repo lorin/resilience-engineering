@@ -307,6 +307,7 @@ Cook tweets as [@ri_cook](https://twitter.com/ri_cook).
 * [SRE Cognitive Work] in [Seeking SRE]
 * [Building and revising adaptive capacity sharing for technical incident response: A case of resilience engineering](https://www.sciencedirect.com/science/article/pii/S0003687020301903) ([TWRR](https://resilienceroundup.com/issues/building-and-revising-adaptive-capacity-sharing-for-technical-incident-response-a-case-of-resilience-engineering/))
 * [Automation, interaction, complexity, and failure: A case study]
+* [Human Performance in Anesthesia]
 
 [Behind Human Error]: https://www.amazon.com/Behind-Human-Error-David-Woods/dp/0754678342
 [Cognitive consequences of clumsy automation on high workload, high consequence human performance]: https://ntrs.nasa.gov/search.jsp?R=19910011398
@@ -326,9 +327,10 @@ Cook tweets as [@ri_cook](https://twitter.com/ri_cook).
 [Nine Steps to Move Forward From Error]: http://csel.eng.ohio-state.edu/productions/pexis/readings/submod4/nine%20steps%20CTW2002.pdf
 [Gaps in the continuity of care and progress on patient safety]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1117777/
 [Automation, interaction, complexity, and failure: A case study]: https://doi.org/10.1016/j.ress.2006.01.009
+[Human Performance in Anesthesia]: http://dx.doi.org/10.13140/RG.2.2.29675.36648
+
 
 ### Selected talks
-
 * [How Complex Systems Fail](https://www.youtube.com/watch?v=2S0k12uZR14) (Velocity 2012)
 * [Resilience in Complex Adaptive Systems: Operating at the Edge of Failure](https://www.youtube.com/watch?v=PGLYEDpNu60&feature=youtu.be) (Velocity 2013)
 * [Lectures on the study of cognitive work](https://vimeo.com/showcase/6184024) (Graduate student lecture-discussions at The Royal Institute of Technology, Huddinge, SWEDEN in 2012 )
@@ -1442,6 +1444,7 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
 * [Team Play with a Powerful and Independent Agent: A Full-Mission Simulation Study] ([TWRR](https://resilienceroundup.com/issues/team-play-with-a-powerful-and-independent-agent-a-full-mission-simulation-study/))
 * [How Not to Have to Navigate Through Too Many Displays](https://www.researchgate.net/publication/239030256_How_Not_to_Have_to_Navigate_Through_Too_Many_Displayjjs)
 * [Discovering How Distributed Cognitive Systems Work](https://www.researchgate.net/publication/251196422_Discovering_How_Distributed_Cognitive_Systems_Work)
+* [Human Performance in Anesthesia]
 
 
 [The theory of graceful extensibility: basic rules that govern adaptive systems]: https://www.researchgate.net/publication/327427067_The_Theory_of_Graceful_Extensibility_Basic_rules_that_govern_adaptive_systems
