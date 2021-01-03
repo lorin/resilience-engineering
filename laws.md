@@ -98,22 +98,65 @@ Source: This is mentioned in [Joint Cognitive Systems: Patterns in Cogntive Syst
 
 ## Tradeoffs
 
-### Efficiency-thoroughness tradeoff
+### Optimality vs. resilience
+
+The pursuit of increases in optimality with respect to some criteria 
+guarantees an increase in brittleness with respect to changes or variations
+that fall outside of those criteria.
+
+Described in *Beyond Simon's Slice* as:
+* bounded ecology
+* *optimality-resilience of adaptive capacity trade-off*
+
+
+### Efficiency vs. thoroughness
 
 People (and organisations) as part of their activities frequently – or always –
 have to make a trade-off between the resources (primarily time and effort) they
 spend on preparing to do something and the resources (primarily time and
 effort) they spend on doing it. 
 
+
+Described in *Beyond Simon's Slice* as:
+* bounded cognizance
+* *efficiency-thoroughness of situated plans trade-off*
+
 Source: <http://erikhollnagel.com/ideas/etto-principle/index.html>
 
-### Optimality-brittleness tradeoff
+### Revelation vs. reflection
 
-The pursuit of increases in optimality with respect to some criteria 
-guarantees an increase in brittleness with respect to changes or variations
-that fall outside of those criteria.
+Because every perspective reveals some details and hides others, we
+gain an advantage from reflecting on different perspectives. But this
+reflection has a cost, it takes effort.
 
-Source: [Beyond Simon’s Slice: Five Fundamental Trade-Offs that Bound the Performance of Macrocognitive Work Systems]
+(The text itself doesn't describe "revelation", but my sense is that this is an explore/exploit
+style tradeoff, where we have to trade off going broader on perspectives with going deeper in
+a specific perspective).
+
+Described in *Beyond Simon's Slice* as:
+* bounded perspectives
+* *revelation-reflection on perspectives trade-off*
+
+### Acute goal vs. chronic goal
+
+There are ongoing (chronic) goals that we are always responsible for (e.g., safety), but we often
+face some shorter term deadline (acute) that demands more of our attention.
+
+Described in *Beyond Simon's Slice* as:
+* bounded responsibility
+* *acute-chronic goal responsibility trade-off*
+
+
+### Concentrated action vs. distributed action
+
+Distributing autonomy allows systems to act more quickly, but it makes synchronization across
+actions more difficult.
+
+Described in *Beyond Simon's Slice* as:
+* bounded effectiveness
+* *concentrated-distributed action trade-off*
+
+
 
 ## Theorems
 
