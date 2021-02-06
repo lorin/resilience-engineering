@@ -126,7 +126,7 @@ Allspaw tweets as [@allspaw](https://twitter.com/allspaw).
 * [Common Ground and Coordination in Joint Activity (papers we love)](https://paperswelove.org/2016/video/john-allspaw-common-ground/) (presentation of [Common Ground and Coordination in Joint Activity] paper)
 * [Amplifying sources of resilience](https://www.infoq.com/presentations/resilience-thinking-paradigm/) (presentation about applying Resilience Engineering thinking & paradigms to the world of software engineering)
 * [Incidents: What Is Often Missed & What Can Be Done About That](https://www.adaptivecapacitylabs.com/blog/2020/03/30/incidents-what-is-often-missed-what-can-be-done-about-that/#fvp_10,1s)
-* [Incident Analysis: How *Learning* is Different Than *Fixing*](https://www.youtube.com/watch?v=VFcTNH2iUBM)
+* [Incident Analysis: How *Learning* is Different Than *Fixing*](https://www.adaptivecapacitylabs.com/blog/2020/05/06/how-learning-is-different-than-fixing/)
 
 
 ## Lisanne Bainbridge
