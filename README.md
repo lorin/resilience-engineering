@@ -858,6 +858,7 @@ in healthcare.
 * [Collaborative Cross-Checking to Enhance Resilience] ([TWRR](https://resilienceroundup.com/issues/73/))
 * [New Arctic Air Crash Aftermath Role-Play Simulation Orchestrating a Fundamental Surprise]
 * [Handoff strategies in settings with high consequences for failure: lessons for health care operations] ([TWRR](https://resilienceroundup.com/issues/56))
+* [How Unexpected Events Produce An Escalation Of Cognitive And Coordinative Demands] ([TWRR](https://resilienceroundup.com/issues/how-unexpected-events-produce-an-escalation-of-cognitive-and-coordinative-demands/))
 
 [Using observational study as a tool for discovery: uncovering cognitive and collaborative demands and adaptive strategies]: https://www.researchgate.net/profile/Emily_Patterson2/publication/237138704_USING_OBSERVATIONAL_STUDY_AS_A_TOOL_FOR_DISCOVERY_UNCOVERING_COGNITIVE_AND_COLLABORATIVE_DEMANDS_AND_ADAPTIVE_STRATEGIES/links/0deec52c8e310b385a000000.pdf
 
@@ -1418,13 +1419,12 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
 * [Resilience Engineering: New directions for measuring and maintaining safety in complex systems]
 * [A rose by any other name...would probably be given an acronym]
 * [How do systems manage their adaptive capacity to successfully handle disruptions? A resilience engineering perspective](https://www.researchgate.net/publication/286581322_How_do_systems_manage_their_adaptive_capacity_to_successfully_handle_disruptions_A_resilience_engineering_perspective)
-* [How Unexpected Events Produce An Escalation Of Cognitive And Coordinative Demands]
+* [How Unexpected Events Produce An Escalation Of Cognitive And Coordinative Demands] ([TWRR](https://resilienceroundup.com/issues/how-unexpected-events-produce-an-escalation-of-cognitive-and-coordinative-demands/))
 * [How to Make Automated Systems Team Players](https://www.researchgate.net/profile/David_Woods11/publication/2483863_How_to_Make_Automated_Systems_Team_Players/links/5a4f829eaca272940bf8202c/How-to-Make-Automated-Systems-Team-Players.pdf)
 * [Toward a Theory of Complex and Cognitive Systems]
 * [Multiple systemic contributors versus root cause: learning from a NASA Near Miss](https://www.researchgate.net/publication/308194080_Multiple_Systemic_Contributors_versus_Root_Cause_Learning_from_a_NASA_Near_Miss)
 * [Bootstrapping multiple converging cognitive task analysis techniques for system design] ([TWRR](https://resilienceroundup.com/issues/70))
 * [New Arctic Air Crash Aftermath Role-Play Simulation Orchestrating a Fundamental Surprise]
-* [How Unexpected Events Produce An Escalation Of Cognitive And Coordinative Demands]
 * [Mapping Cognitive Demands in Complex Problem-Solving Worlds] (mentions disturbance management)
 * [Fixation Errors: Failures to Revise Situation Assessment in Dynamic and Risky Systems](https://www.researchgate.net/publication/290071190_Fixation_Errors_Failures_to_Revise_Situation_Assessment_in_Dynamic_and_Risky_Systems)
 * [Nine Steps to Move Forward From Error]
