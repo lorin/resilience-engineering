@@ -1461,6 +1461,7 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
 * [De-Confounding Reliability, Robustness, and Resilience](https://www.youtube.com/watch?v=QSiXEZLZ1y0&t=6s)
 * [2003 Senate Hearing testimony](https://www.c-span.org/video/?c4531343/user-clip-david-woods-senate-hearing)
 * [Shock and Resilience](https://www.youtube.com/watch?v=ZuLUp94wki4)
+* [Hedging bets](https://www.youtube.com/watch?v=vlYtd-eUjY8)
 
 ### Online courses
 
