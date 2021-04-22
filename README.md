@@ -276,7 +276,7 @@ Cook tweets as [@ri_cook](https://twitter.com/ri_cook).
 * [Being bumpable](http://csel.eng.ohio-state.edu/productions/woodscta/media/beingbump.pdf) ([TWRR](https://www.getrevue.co/profile/resilience/issues/resilience-roundup-being-bumpable-issue-33-177340))
 * [Behind Human Error]
 * [Incidents - markers of resilience or brittleness?](https://www.researchgate.net/publication/292504952_Incidents_-_markers_of_resilience_or_brittleness)
-* [“Going solid”: a model of system dynamics and consequences for patient safety](https://qualitysafety.bmj.com/content/14/2/130)
+* [“Going solid”: a model of system dynamics and consequences for patient safety](https://qualitysafety.bmj.com/content/14/2/130) ([TWRR](https://resilienceroundup.com/issues/going-solid-a-model-of-system-dynamics-and-consequences-for-patient-safety/))
 * [Operating at the Sharp End: The Complexity of Human Error](https://www.researchgate.net/publication/313407259_Operating_at_the_Sharp_End_The_Complexity_of_Human_Error)
 * [Patient boarding in the emergency department as a symptom of complexity-induced risks](https://www.researchgate.net/publication/312624891_Patient_boarding_in_the_emergency_department_as_a_symptom_of_complexity-induced_risks)
 * [Sensemaking, Safety, and Cooperative Work in the Intensive Care Unit](https://www.researchgate.net/publication/220579381_Sensemaking_Safety_and_Cooperative_Work_in_the_Intensive_Care_Unit)
@@ -1445,7 +1445,7 @@ Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state
 * [How Not to Have to Navigate Through Too Many Displays](https://www.researchgate.net/publication/239030256_How_Not_to_Have_to_Navigate_Through_Too_Many_Displayjjs)
 * [Discovering How Distributed Cognitive Systems Work](https://www.researchgate.net/publication/251196422_Discovering_How_Distributed_Cognitive_Systems_Work)
 * [Human Performance in Anesthesia]
-* [Creating Foresight: Lessons for Enhancing Resilience from Columbia](https://www.researchgate.net/profile/David-Woods-19/publication/255648297_Creating_Foresight_Lessons_for_Enhancing_Resilience_from_Columbia/links/542becf50cf29bbc126ac095/Creating-Foresight-Lessons-for-Enhancing-Resilience-from-Columbia.pdf)
+* [Creating Foresight: Lessons for Enhancing Resilience from Columbia](https://www.researchgate.net/profile/David-Woods-19/publication/jjgg255648297_Creating_Foresight_Lessons_for_Enhancing_Resilience_from_Columbia/links/542becf50cf29bbc126ac095/Creating-Foresight-Lessons-for-Enhancing-Resilience-from-Columbia.pdf)
 
 
 [The theory of graceful extensibility: basic rules that govern adaptive systems]: https://www.researchgate.net/publication/327427067_The_Theory_of_Graceful_Extensibility_Basic_rules_that_govern_adaptive_systems
