@@ -308,7 +308,6 @@ Cook tweets as [@ri_cook](https://twitter.com/ri_cook).
 * [Building and revising adaptive capacity sharing for technical incident response: A case of resilience engineering](https://www.sciencedirect.com/science/article/pii/S0003687020301903) ([TWRR](https://resilienceroundup.com/issues/building-and-revising-adaptive-capacity-sharing-for-technical-incident-response-a-case-of-resilience-engineering/))
 * [Automation, interaction, complexity, and failure: A case study]
 * [Human Performance in Anesthesia]
-* [Above the Line, Below the Line](https://queue.acm.org/detail.cfm?id=3380777)
 
 [Behind Human Error]: https://www.amazon.com/Behind-Human-Error-David-Woods/dp/0754678342
 [Cognitive consequences of clumsy automation on high workload, high consequence human performance]: https://ntrs.nasa.gov/search.jsp?R=19910011398
