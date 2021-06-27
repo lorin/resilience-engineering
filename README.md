@@ -287,7 +287,7 @@ Cook tweets as [@ri_cook](https://twitter.com/ri_cook).
 * [Nosocomial automation: technology-induced complexity and human performance]
 * [The New Look at Error, Safety, and Failure: A Primer for Health Care]
 * [Grounding explanations in evolving, diagnostic situations]
-* [A Tale of Two Stories: Contrasting Views of Patient Safety]
+* [A Tale of Two Stories: Contrasting Views of Patient Safety] (appendix B, starting on page 64 (numbered 52) contains the talk by Charles Billings, MD, Chief Scientist (retired), NASA Ames on the lessons learned from incident reporting in aviation. Dr. Billings designed, started, and managed the Aviation Safety REporting System)
 * ["Those found responsible have been sacked": some observations on the usefulness of error](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.623.5749&rep=rep1&type=pdf)
 * [Perspectives on Human Error: Hindsight Biases and Local Rationality]
 * [Mistaking Error]
