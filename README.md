@@ -859,6 +859,7 @@ in healthcare.
 * [New Arctic Air Crash Aftermath Role-Play Simulation Orchestrating a Fundamental Surprise]
 * [Handoff strategies in settings with high consequences for failure: lessons for health care operations] ([TWRR](https://resilienceroundup.com/issues/56))
 * [How Unexpected Events Produce An Escalation Of Cognitive And Coordinative Demands] ([TWRR](https://resilienceroundup.com/issues/how-unexpected-events-produce-an-escalation-of-cognitive-and-coordinative-demands/))
+* [Communication Strategies from High-reliability Organizations: Translation is Hard Work](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1876978/) ([TWRR](https://resilienceroundup.com/issues/communication-strategies-from-high-reliability-organizations-translation-is-hard-work/))
 
 [Using observational study as a tool for discovery: uncovering cognitive and collaborative demands and adaptive strategies]: https://www.researchgate.net/profile/Emily_Patterson2/publication/237138704_USING_OBSERVATIONAL_STUDY_AS_A_TOOL_FOR_DISCOVERY_UNCOVERING_COGNITIVE_AND_COLLABORATIVE_DEMANDS_AND_ADAPTIVE_STRATEGIES/links/0deec52c8e310b385a000000.pdf
 
