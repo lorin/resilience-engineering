@@ -1123,6 +1123,10 @@ Shorrock tweets as [@StevenShorrock](https://twitter.com/StevenShorrock).
 
 * [Human Factors and Ergonomics in Practice: Improving System Performance and Human Well-Being in the Real World](https://www.crcpress.com/Human-Factors-and-Ergonomics-in-Practice-Improving-System-Performance-and/Shorrock-Williams/p/book/9781472439253) (book)
 
+### Selected talks
+
+[Life After Human Error](https://www.youtube.com/watch?v=STU3Or6ZU60) (Velocity Europe 2014 keynote)
+
 ## Diane Vaughan
 
 Vaughan is a sociology researcher who did a famous study of the NASA Challenger accident, concluding that it was the result of organizational failure rather than a technical failure.  Specifically, production pressure overrode the rigorous scientific safety culture in place at NASA.
