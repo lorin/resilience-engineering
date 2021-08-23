@@ -413,7 +413,6 @@ Dekker examines how cultural norms defining justice can be re-oriented to minimi
 * [Safety II professionals: How resilience engineering can transform safety practice] ([TWRR](https://resilienceroundup.com/issues/64/))
 * [The complexity of failure: implications of complexity theory for safety investigation](https://static1.squarespace.com/static/53b78765e4b0949940758017/t/5722beb0d51cd4d11675a69c/1461894833950/Dekker%2C+Cilliers+and+Hofmeyr+-+The+Complexity+of+Failure.pdf)
 
-
 [Human factors and folk models]: https://link.springer.com/article/10.1007%2Fs10111-003-0136-9
 [The High Reliability Organization Perspective]: http://sidneydekker.com/wp-content/uploads/2013/01/CH005.pdf
 [Safety II professionals: How resilience engineering can transform safety practice]: https://doi.org/10.1016/j.ress.2019.106740
@@ -1121,7 +1120,10 @@ magazine. He runs the excellent [Humanistic Systems](https://humanisticsystems.c
 
 Shorrock tweets as [@StevenShorrock](https://twitter.com/StevenShorrock).
 
+### Selected publications
+
 * [Human Factors and Ergonomics in Practice: Improving System Performance and Human Well-Being in the Real World](https://www.crcpress.com/Human-Factors-and-Ergonomics-in-Practice-Improving-System-Performance-and/Shorrock-Williams/p/book/9781472439253) (book)
+* [State of science: evolving perspectives on ‘human error’](https://doi.org/10.1080/00140139.2021.1953615)
 
 ### Selected talks
 
