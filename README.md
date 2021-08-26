@@ -803,7 +803,7 @@ Maguire tweets as [@LauraMDMaguire](https://twitter.com/lauramdmaguire).
 * [Replacing Hindsight With Insight: Toward Better Understanding of Diagnostic Failures]
 
 
-[Replacing Hindsight With Insight: Toward Better Understanding of Diagnostic Failures]: https://www.semanticscholar.org/paper/Replacing-hindsight-with-insight%3A-toward-better-of-Wears-Nemeth/1bef45cae7375eddc8ee584dff100d200d812a8d
+[Replacing Hindsight With Insight: Toward Better Understanding of Diagnostic Failures]: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.458.7283&rep=rep1&type=pdf
 
 ## Anne-Sophie Nyssen
 
