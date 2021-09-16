@@ -21,7 +21,7 @@ When you're ready for more, check out [resilience engineering notes](README.md).
 
 A *resilient* organization **adapts effectively to surprise**.
 
-Here I'm using the definition proposed by [David Woods](https://complexity.osu.edu/people/woods.2).
+Here I'm using the definition proposed by [David Woods](https://csel.engineering.osu.edu/people/woods.2).
 Before going into more detail about *resilience*, it's important to distinguish it from
 a different concept that Woods calls *robustness*.
 
