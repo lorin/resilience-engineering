@@ -1190,7 +1190,7 @@ Wears was a medical researcher who also had a PhD in industrial safety.
 
 ## David Woods
 
-[Woods](https://complexity.osu.edu/people/woods.2) has a research background in cognitive systems engineering and did work
+[Woods](https://csel.engineering.osu.edu/people/woods.2) has a research background in cognitive systems engineering and did work
 researching NASA accidents.  He is one of the founders [Adaptive Capacity
 Labs](http://www.adaptivecapacitylabs.com/), a resilience engineering
 consultancy.
