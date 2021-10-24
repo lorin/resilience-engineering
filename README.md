@@ -32,7 +32,7 @@ The papers linked here are also in the [zotero res-eng group](https://www.zotero
 
 For each person, I list concepts that they reference in their writings, along
 with some publications. The publications lists aren't comprehensive:
-they're ones I've read or have added to my to-read list. 
+they're ones I've read or have added to my to-read list.
 
 * [John Allspaw](#john-allspaw)
 * [Lisanne Bainbridge](#lisanne-bainbridge)
@@ -143,14 +143,14 @@ be frequently cited.
 ## Concepts
 * automation
 * design errors
-* human factors/ ergonomics 
-* cognitive modelling 
-* cognitive architecture 
-* mental workload 
+* human factors/ ergonomics
+* cognitive modelling
+* cognitive architecture
+* mental workload
 * situation awareness
-* cognitive error 
-* skill and training 
-* interface design 
+* cognitive error
+* skill and training
+* interface design
 
 ## Selected publications
 * [Ironies of automation] ([TWRR](https://resilienceroundup.com/issues/35/))
@@ -248,7 +248,7 @@ Conklin tweets as [@preaccident](https://twitter.com/preaccident).
 * [Pre-accident investigations: an introduction to organizational safety](https://www.amazon.com/Pre-Accident-Investigations-Todd-Conklin/dp/1409447820)
 * [Pre-accident investigations: better questions - an applied approach to
   operational learning](https://www.amazon.com/gp/product/1472486137)
-  
+
 ### Selected talks
 
 Quanta - [Risk and Safety Conf 2019](https://www.youtube.com/watch?v=5WTbeFj2kJY&feature=youtu.be)
@@ -443,13 +443,13 @@ systems.
 
 #### Doyle's catch
 
-*Doyle's catch* is a term introduced by David Woods, but attributed to John Doyle. Here's how 
+*Doyle's catch* is a term introduced by David Woods, but attributed to John Doyle. Here's how
 [Woods quotes Doyle](https://www.researchgate.net/publication/303832480_The_Risks_of_Autonomy_Doyles_Catch):
 
 > Computer-based simulation and rapid prototyping tools are now broadly available and powerful enough that it is
-> relatively easy to demonstrate almost anything, provided that conditions are made sufficiently idealized. 
-> However, the real world is typically far from idealized, and thus a system must have enough robustness in order to close 
-> the gap between demonstration and the real thing. 
+> relatively easy to demonstrate almost anything, provided that conditions are made sufficiently idealized.
+> However, the real world is typically far from idealized, and thus a system must have enough robustness in order to close
+> the gap between demonstration and the real thing.
 
 
 ### Selected publications
@@ -523,7 +523,7 @@ Finkel is a Colonel in the Israeli Defense Force (IDF) and the Director of the I
 
 ## Ivonne Andrade Herrera
 
-[Herrera](https://www.ntnu.edu/employees/ivonne.a.herrera) is an associate professor in 
+[Herrera](https://www.ntnu.edu/employees/ivonne.a.herrera) is an associate professor in
 the department of industrial economics and technology management at NTNU and a
 senior research scientist at SINTEF. Her areas of expertise include safety management and
 resilience engineering in avionics and air traffic management.
@@ -550,7 +550,7 @@ who has done extensive reserach in human expertise.
 * [Toward a Theory of Complex and Cognitive Systems]
 * [Macrocognition] ([TWRR](https://resilienceroundup.com/issues/62/))
 
-[Myths of automation and their implications for military procurement]:https://www.researchgate.net/publication/326000581_Myths_of_automation_and_their_implications_for_military_procurement 
+[Myths of automation and their implications for military procurement]:https://www.researchgate.net/publication/326000581_Myths_of_automation_and_their_implications_for_military_procurement
 
 [The Seven Deadly Myths of "Autonomous Systems"]: https://www.researchgate.net/publication/260304859_The_Seven_Deadly_Myths_of_Autonomous_Systems
 
@@ -677,7 +677,7 @@ Her PhD dissertation work examined how humans cooperate, including studies of an
 
 ## Gary Klein
 
-Klein studies how experts are able to quickly make effective decisions in high-tempo situations. 
+Klein studies how experts are able to quickly make effective decisions in high-tempo situations.
 
 Klein tweets as [@KleInsight](https://twitter.com/KleInsight).
 
@@ -862,7 +862,7 @@ in healthcare.
 
 [Using observational study as a tool for discovery: uncovering cognitive and collaborative demands and adaptive strategies]: https://www.researchgate.net/profile/Emily_Patterson2/publication/237138704_USING_OBSERVATIONAL_STUDY_AS_A_TOOL_FOR_DISCOVERY_UNCOVERING_COGNITIVE_AND_COLLABORATIVE_DEMANDS_AND_ADAPTIVE_STRATEGIES/links/0deec52c8e310b385a000000.pdf
 
-[Voice Loops as Coordination Aids in Space Shuttle Mission Control]: https://www.semanticscholar.org/paper/Voice-Loops-as-Coordination-Aids-in-Space-Shuttle-Patterson-Watts-Perotti/068dfee1a859a63fa2ef82f008d239e6a81ed004 
+[Voice Loops as Coordination Aids in Space Shuttle Mission Control]: https://www.semanticscholar.org/paper/Voice-Loops-as-Coordination-Aids-in-Space-Shuttle-Patterson-Watts-Perotti/068dfee1a859a63fa2ef82f008d239e6a81ed004
 
 [Functionally distributed coordination during anomaly response in space shuttle mission control]: https://www.researchgate.net/publication/3657906_Functionally_distributed_coordination_during_anomaly_response_inspace_shuttle_mission_control
 
@@ -1066,7 +1066,7 @@ and applied cognitive psychology (cognitive engineering)
 
 ## Nadine Sarter
 
-[Sarter](https://ioe.engin.umich.edu/people/nadine-sarter/) is a researcher in industrial and operations engineering. 
+[Sarter](https://ioe.engin.umich.edu/people/nadine-sarter/) is a researcher in industrial and operations engineering.
 She is the director of the Center for Ergonomics at the University of Michigan.
 
 ### Concepts
@@ -1150,7 +1150,7 @@ Vaughan is a sociology researcher who did a famous study of the NASA Challenger 
 
 ## Barry Turner
 
-[Turner](https://www.tandfonline.com/doi/pdf/10.1080/10245289508523441) was a sociologist who greatly influenced the field of organization studies. 
+[Turner](https://www.tandfonline.com/doi/pdf/10.1080/10245289508523441) was a sociologist who greatly influenced the field of organization studies.
 
 ### Selected publications
 
@@ -1190,7 +1190,7 @@ Wears was a medical researcher who also had a PhD in industrial safety.
 
 ## David Woods
 
-[Woods](https://complexity.osu.edu/people/woods.2) has a research background in cognitive systems engineering and did work
+[Woods](https://csel.engineering.osu.edu/people/woods.2) has a research background in cognitive systems engineering and did work
 researching NASA accidents.  He is one of the founders [Adaptive Capacity
 Labs](http://www.adaptivecapacitylabs.com/), a resilience engineering
 consultancy.
@@ -1199,7 +1199,7 @@ Woods tweets as [@ddwoods2](https://twitter.com/ddwoods2).
 
 ### Contributions
 
-Woods has contributed an enormous number of concepts. 
+Woods has contributed an enormous number of concepts.
 
 #### The adaptive universe
 
@@ -1213,7 +1213,7 @@ A successful system will need to adapt by virtue of its success.
 Systems can be viewed as units of adaptive behavior (UAB) that interact. UABs
 exist at different scales (e.g., cell, organ, individual, group, organization).
 
-All systems have competence envelopes, which are constrained by boundaries. 
+All systems have competence envelopes, which are constrained by boundaries.
 
 The resilience of a system is determined by how it behaves when it comes near
 to a boundary.
@@ -1252,7 +1252,7 @@ From [The theory of graceful extensibility: basic rules that govern adaptive sys
 
 (Shorter wording)
 
-1. Boundaries are universal 
+1. Boundaries are universal
 2. Surprise occurs, continuously
 3. Risk of saturation is monitored and regulated
 4. Synchronization across multiple units of adaptive behavior in a network is necessary

@@ -21,7 +21,7 @@ When you're ready for more, check out [resilience engineering notes](README.md).
 
 A *resilient* organization **adapts effectively to surprise**.
 
-Here I'm using the definition proposed by [David Woods](https://complexity.osu.edu/people/woods.2).
+Here I'm using the definition proposed by [David Woods](https://csel.engineering.osu.edu/people/woods.2).
 Before going into more detail about *resilience*, it's important to distinguish it from
 a different concept that Woods calls *robustness*.
 
@@ -60,12 +60,12 @@ That's why you'll often see examples from aviation and medicine, as well as
 other safety critical areas like maritime, space flight, nuclear power, and rail.
 
 Because of this history, the earlier papers that we associate with resilience
-engineering are reactions to previous ways of thinking about accidents in 
+engineering are reactions to previous ways of thinking about accidents in
 particular and safety in general.
 
 Note that traditional approaches to safety often focus on minimizing variance
 associated with humans doing work, using techniques such as documented
-procedures and enforcement mechanisms for deviating from them. 
+procedures and enforcement mechanisms for deviating from them.
 
 ### New look / new view
 
@@ -93,7 +93,7 @@ A great book on putting these ideas into practice in incident investigations is:
 
 ### Safety-II
 
-Safety-II is a perspective on the role that humans play in safety-critical 
+Safety-II is a perspective on the role that humans play in safety-critical
 systems, proposed by Erik Hollnagel. In the Safety-II perspective,
 it is the everyday, normal work of the humans in the system that create the safety,
 as opposed to the errors of humans that erode it.
@@ -102,9 +102,9 @@ as opposed to the errors of humans that erode it.
 introduction to Safety-II concepts.
 * [Why do things go right?](http://www.safetydifferently.com/why-do-things-go-right/) by Dekker on the [Safety Differently](http://www.safetydifferently.com) website is another good article.
 
-## Complex systems 
+## Complex systems
 
-Ever wonder why resilience engineering advocates natter on about "no root cause?" 
+Ever wonder why resilience engineering advocates natter on about "no root cause?"
 
 A recurring theme in resilience engineering is about reasoning holistically
 about *systems*, as opposed to breaking things up into components and reasoning
@@ -116,9 +116,9 @@ When you view the world as a system, the idea of *cause* becomes meaningless,
 because there's no way to isolate an individual cause. Instead, the world is
 a tangled web of influences.
 
-You'll often hear the phrase *socio-technical system*. This language emphasizes that 
+You'll often hear the phrase *socio-technical system*. This language emphasizes that
 systems should be thought of as encompassing both humans and technologies, as opposed to
-thinking about technological aspects in isolation. 
+thinking about technological aspects in isolation.
 
 
 * [How complex systems fail](https://www.adaptivecapacitylabs.com/HowComplexSystemsFail.pdf) by Richard I. Cook is a great starting point. It's a short paper and very easy to read.
@@ -157,7 +157,7 @@ use of automation.
 
 * [Ironies of automation](https://www.ise.ncsu.edu/wp-content/uploads/2017/02/Bainbridge_1983_Automatica.pdf) by Lisanne
 Bainbridge is a classic paper on the problems that automation can introduce.
-The paper was originally written in 1983, and continues to be widely cited. 
+The paper was originally written in 1983, and continues to be widely cited.
 
 * [How to make automated systems team players](https://researchgate.net/publication/2483863)
 by Christoffersen and Woods discusses how previous automated systems have been problematic and proposes strategies
@@ -196,7 +196,7 @@ engineering.
 
 Woods is interested in resilience engineering principles that apply across an
 enormous range of different types of systems: whether we're talking about
-the organs in a biological organism up to organizations like NASA. 
+the organs in a biological organism up to organizations like NASA.
 
 Because he's interested in general principles, many of his papers are written at
 a very abstract level, where he discusses generic concepts such as *units of adaptive
@@ -213,7 +213,7 @@ When a system is far from the boundary, the system (and its environment) behave 
 grows near to the boundary, surprises happen. Woods uses the metaphor of *dragons* to capture the surprises that occur when a system moves near the boundary, and how the system's model of the world is violated when it enters this regime.
 
 It is how units within a system adapt when the system moves near the boundary, how these units deal with the dragons,
-that is one of the prime concerns of Woods. 
+that is one of the prime concerns of Woods.
 
 Woods's [Essentials of Resilience, revisited](https://www.researchgate.net/profile/David_Woods11/publication/330116587_4_Essentials_of_resilience_revisited/links/5c2e448ba6fdccd6b58f871e/4-Essentials-of-resilience-revisited.pdf?origin=publication_detail) discusses behavior at the boundary, although it doesn't use the *dragon* metaphor.
 
@@ -225,7 +225,7 @@ Woods's idea of the *adaptive universe* is characterized by three properties:
 * Surprise is fundamental
 * Change never stops
 
-I haven't found a good introductory paper for the adaptive universe, as it 
+I haven't found a good introductory paper for the adaptive universe, as it
 encompasses an enormous number of topics, including the topic of *dragons at the boundaries*
 that we discussed earlier.
 
