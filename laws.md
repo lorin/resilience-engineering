@@ -3,7 +3,7 @@
 Many of these are documented in [Beyond Simon’s Slice: Five Fundamental Trade-Offs that Bound the Performance of Macrocognitive Work Systems]
 by Hoffman and Woods.
 
-[Beyond Simon’s Slice: Five Fundamental Trade-Offs that Bound the Performance of Macrocognitive Work Systems]: https://cmapsinternal.ihmc.us/rid=1K2MHS0D4-1ZT3XRF-HPX/46.%2520Simon's%2520Slice.pdf
+[Beyond Simon’s Slice: Five Fundamental Trade-Offs that Bound the Performance of Macrocognitive Work Systems]: https://www.researchgate.net/publication/220628177_Beyond_Simon%27s_Slice_Five_Fundamental_Trade-Offs_that_Bound_the_Performance_of_Macrocognitive_Work_Systems
 
 * Laws
   - Law of fluency
