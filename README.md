@@ -500,6 +500,7 @@ who has done extensive reserach in human expertise.
 * [A rose by any other name...would probably be given an acronym]
 * [Learners' (mis)understanding of important and difficult concepts: a challenge to smart machines in education](https://www.researchgate.net/publication/234818797_Learners'_misunderstanding_of_important_and_difficult_concepts_a_challenge_to_smart_machines_in_education)
 * [Ten challenges for making automation a team player] ([TWRR](https://resilienceroundup.com/issues/ten-challenges-for-making-automation-a-team-player-in-joint-human-agent-activity/))
+* [Issue of expert flexibility in contexts characterized by complexity and change](https://www.researchgate.net/publication/232465540_Issue_of_expert_flexibility_in_contexts_characterized_by_complexity_and_change)
 
 [Common Ground and Coordination in Joint Activity]: http://jeffreymbradshaw.net/publications/Common_Ground_Single.pdf
 [A rose by any other name...would probably be given an acronym]: https://www.researchgate.net/publication/3454029_A_rose_by_any_other_namewould_probably_be_given_an_acronym
