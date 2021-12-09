@@ -32,7 +32,7 @@ Source: [Beyond Simon’s Slice: Five Fundamental Trade-Offs that Bound the Perf
 
 ### Law of stretched systems
 
-Every system is stretched to operate at its capacity. 
+Every system is stretched to operate at its capacity.
 
 Sources:
 
@@ -55,17 +55,17 @@ Source: <http://pespmc1.vub.ac.be/REQVAR.html>
 * Surprise is fundamental
 * Change never stops
 
-Source: <http://csel.org.ohio-state.edu/ResilienceEngineering.html>
+Source: <https://www.youtube.com/playlist?list=PLvlZBj1NU_ikTy1ot30EbEbYMAoBf9eAt.>
 
 ### Law of coordinative entropy
 
-Coordination costs, continuously. 
+Coordination costs, continuously.
 
 Source: [Beyond Simon’s Slice: Five Fundamental Trade-Offs that Bound the Performance of Macrocognitive Work Systems]
 
 ### Law of systems as surrogates
 
-Technology reflects the stances, agendas, and goals of those who design and deploy the technology. 
+Technology reflects the stances, agendas, and goals of those who design and deploy the technology.
 
 Source: [Beyond Simon’s Slice: Five Fundamental Trade-Offs that Bound the Performance of Macrocognitive Work Systems]
 
@@ -79,7 +79,7 @@ Source: [Beyond Simon’s Slice: Five Fundamental Trade-Offs that Bound the Perf
 
 Work systems always require workarounds, with resultant kludges that attempt
 to bridge the gap between the original design objectives and current realities
-or to reconcile conflicting goals among workers. 
+or to reconcile conflicting goals among workers.
 
 Source: [Beyond Simon’s Slice: Five Fundamental Trade-Offs that Bound the Performance of Macrocognitive Work Systems]
 
@@ -100,7 +100,7 @@ Source: This is mentioned in [Joint Cognitive Systems: Patterns in Cogntive Syst
 
 ### Optimality vs. resilience
 
-The pursuit of increases in optimality with respect to some criteria 
+The pursuit of increases in optimality with respect to some criteria
 guarantees an increase in brittleness with respect to changes or variations
 that fall outside of those criteria.
 
@@ -114,7 +114,7 @@ Described in *Beyond Simon's Slice* as:
 People (and organisations) as part of their activities frequently – or always –
 have to make a trade-off between the resources (primarily time and effort) they
 spend on preparing to do something and the resources (primarily time and
-effort) they spend on doing it. 
+effort) they spend on doing it.
 
 
 Described in *Beyond Simon's Slice* as:

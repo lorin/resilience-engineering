@@ -1273,7 +1273,7 @@ For more details, see [summary of graceful extensibility theorems](graceful-exte
 
 ### Concepts
 
-Many of these are mentioned in Woods's [short course](http://csel.org.ohio-state.edu/ResilienceEngineering.html).
+Many of these are mentioned in Woods's [short course](https://www.youtube.com/playlist?list=PLvlZBj1NU_ikTy1ot30EbEbYMAoBf9eAt).
 
 * adaptive capacity
 * adaptive universe

@@ -82,8 +82,8 @@ Johan Bergström of Lund University has three excellent short (<10 minute) video
 
 Two great introductory papers (alas, 2nd one is paywalled) are:
 
-* [Reconstructing human contributions to accidents: the new view on error and performance](http://sidneydekker.stackedsite.com/wp-content/uploads/sites/899/2013/01/SafetyResearch.pdf) 
-by Dekker 
+* [Reconstructing human contributions to accidents: the new view on error and performance](http://sidneydekker.stackedsite.com/wp-content/uploads/sites/899/2013/01/SafetyResearch.pdf)
+by Dekker
 * [The error of counting errors](https://doi.org/10.1016/j.annemergmed.2008.03.015) by Robert Wears
 
 A great book on putting these ideas into practice in incident investigations is:
@@ -230,7 +230,7 @@ encompasses an enormous number of topics, including the topic of *dragons at the
 that we discussed earlier.
 
 I recommend watching Woods's [Resilience Engineering short
-course](http://csel.org.ohio-state.edu/ResilienceEngineering.html), which
+course](https://www.youtube.com/playlist?list=PLvlZBj1NU_ikTy1ot30EbEbYMAoBf9eAt), which
 covers this topic.  I've written my own [notes on the short
 course](https://github.com/lorin/res-eng-short-course-notes), which you might
 find useful. In particular, you might be interested in my [summary
