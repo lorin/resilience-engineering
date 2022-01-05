@@ -653,6 +653,7 @@ complex socio-technical systems.
 * [Human factors and folk models]
 * [Designing for joint cognitive systems](https://www.researchgate.net/publication/4213914_Designing_for_joint_cognitive_systems)
 * [Macrocognition] ([TWRR](https://resilienceroundup.com/issues/62/))
+* [A day when (Almost) nothing happened](https://www.sciencedirect.com/science/article/abs/pii/S0925753521004719)
 
 
 [Resilience Engineering: Concepts and Precepts]: https://www.amazon.com/gp/product/B009KNDF64/ref=x_gr_w_glide_bb?ie=UTF8&tag=x_gr_w_glide_bb-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B009KNDF64&SubscriptionId=1MGPYB6YW3HWK55XCGG2
