@@ -937,13 +937,13 @@ out. An example would be: if threads are blocked, restart the server. You can th
 *the environment, and then selects which one to use. The challenging incidents
 *are the ones that require knowledge-based behavior to resolve.
 
-He also proposed three models of input that humans process as they perform work.
+He also proposed three types of information that humans process as they perform work.
 
-**Signals**
+**Signals**. Example: weather vane
 
-**Signs**
+**Signs**. Example: stop sign
 
-**Symbols**
+**Symbols**. Example: written language
 
 
 
