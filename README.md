@@ -924,7 +924,28 @@ Jens Rasmussen was an enormously influential researcher in human factors and saf
 
 #### Skill-rule-knowledge (SKR) model
 
-TBD
+Rasmussen proposed three models of human performance.
+
+**Skill-based** behavior doesn't require conscious attention. The prototypical example is riding a bicycle.
+
+**Rule-based** behavior is based on a set of rules that we have internalized in
+advance. We select which rule to use based on experience, and then carry it
+out. An example would be: if threads are blocked, restart the server. You can think of rule-based behavior as a memorized runbook.
+
+**Knowledge-based** behavior comes into play when facing an unfamiliar
+*situation. The person generates a set of plans based on their understanding of
+*the environment, and then selects which one to use. The challenging incidents
+*are the ones that require knowledge-based behavior to resolve.
+
+He also proposed three models of input that humans process as they perform work.
+
+**Signals**
+
+**Signs**
+
+**Symbols**
+
+
 
 #### Dynamic safety model
 
