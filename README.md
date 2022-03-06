@@ -1496,6 +1496,7 @@ Many of these are mentioned in Woods's [short course](https://www.youtube.com/pl
 * [2003 Senate Hearing testimony](https://www.c-span.org/video/?c4531343/user-clip-david-woods-senate-hearing)
 * [Shock and Resilience](https://www.youtube.com/watch?v=ZuLUp94wki4)
 * [Hedging bets](https://www.youtube.com/watch?v=vlYtd-eUjY8)
+* [REA 2021](https://youtu.be/OwdMgEf2MsA)
 
 ### Online courses
 
