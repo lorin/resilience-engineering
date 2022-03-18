@@ -156,7 +156,7 @@ be frequently cited.
 * [Ironies of automation] ([TWRR](https://resilienceroundup.com/issues/35/))
 
 
-[Ironies of automation]: https://www.ise.ncsu.edu/wp-content/uploads/2017/02/Bainbridge_1983_Automatica.pdf
+[Ironies of automation]: https://www.sciencedirect.com/science/article/abs/pii/0005109883900468
 
 ## Andrea Baker
 
