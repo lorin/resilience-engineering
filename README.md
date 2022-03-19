@@ -1148,6 +1148,7 @@ Shorrock tweets as [@StevenShorrock](https://twitter.com/StevenShorrock).
 
 ### Selected publications
 
+* [Systems Thinking for Safety: Ten Principles A White Paper Moving towards Safety-II](https://skybrary.aero/sites/default/files/bookshelf/2882.pdf)
 * [Human Factors and Ergonomics in Practice: Improving System Performance and Human Well-Being in the Real World](https://www.crcpress.com/Human-Factors-and-Ergonomics-in-Practice-Improving-System-Performance-and/Shorrock-Williams/p/book/9781472439253) (book)
 * [State of science: evolving perspectives on ‘human error’](https://doi.org/10.1080/00140139.2021.1953615)
 
