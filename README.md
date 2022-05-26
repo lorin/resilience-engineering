@@ -1498,6 +1498,7 @@ Many of these are mentioned in Woods's [short course](https://www.youtube.com/pl
 * [Shock and Resilience](https://www.youtube.com/watch?v=ZuLUp94wki4)
 * [Hedging bets](https://www.youtube.com/watch?v=vlYtd-eUjY8)
 * [REA 2021](https://youtu.be/OwdMgEf2MsA)
+* [Adobe Summit Talk: Why do reliable systems fail?](https://www.youtube.com/watch?v=fbwDnpuys7w)
 
 ### Online courses
 
