@@ -1019,7 +1019,7 @@ Source: [Risk management in a dynamic society: a modelling problem]
 * [A Model of Human Decision Making in Complex Systems and its Use for Design of System Control Strategies](https://core.ac.uk/download/pdf/13777954.pdf)
 * [The role of error in organizing behaviour](https://qualitysafety.bmj.com/content/qhc/12/5/377.full.pdf) ([TWRR](https://resilienceroundup.com/issues/the-role-of-error-in-organizing-behaviour/))
 * [Information processing and human-machine interaction](https://www.osti.gov/biblio/7011990-information-processing-human-machine-interaction)
-* [Information Processing and Human-Machine Interaction: An Approach to Cognitive Engineering](https://www.iwolm.com/wp-content/downloads/SkillsRulesAndKnowledge-Rasmussen.pdf)
+* [Skills, rules, and knowledge; signals, signs, and symbols, and other distinctions in human performance models](https://www.iwolm.com/wp-content/downloads/SkillsRulesAndKnowledge-Rasmussen.pdf)
 * [Mental procedures in real-life tasks: a case study of electronic trouble shooting](https://www.tandfonline.com/doi/abs/10.1080/00140137408931355) (1974)
 
 [Risk management in a dynamic society: a modelling problem]: https://doi.org/10.1016/S0925-7535(97)00052-0
