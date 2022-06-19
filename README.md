@@ -1007,10 +1007,9 @@ Source: [Risk management in a dynamic society: a modelling problem]
 * Going solid
 
 ### Selected publications
-* [Reflecting on Jens Rasmussen’s legacy. A strong program for a hard problem](https://doi.org/10.1016/j.ssci.2014.03.015) ([my notes](https://github.com/lorin/booknotes/blob/master/papers/Reflecting-on-Jens-Rasmussens-Legacy.md))
-* [Reflecting on Jens Rasmussen's legacy (2) behind and beyond, a ‘constructivist turn’](https://doi.org/10.1016/j.apergo.2015.07.013)
-* [Risk management in a dynamic society: a modelling problem]
+* [Mental procedures in real-life tasks: a case study of electronic trouble shooting](https://www.tandfonline.com/doi/abs/10.1080/00140137408931355) (1974)
 * [Coping with complexity](https://orbit.dtu.dk/en/publications/coping-with-complexity)
+* [Skills, rules, and knowledge; signals, signs, and symbols, and other distinctions in human performance models](https://www.iwolm.com/wp-content/downloads/SkillsRulesAndKnowledge-Rasmussen.pdf)
 * [“Going solid”: a model of system dynamics and consequences for patient safety](https://qualitysafety.bmj.com/content/14/2/130)
 * [Human error and the problem of causality in analysis of accidents](https://www.ida.liu.se/~729A71/Literature/Human%20Error_T/Rasmussen_1990.pdf) ([TWRR](https://resilienceroundup.com/issues/human-error-and-the-problem-of-causality-in-analysis-of-accidents/))
 * [Ecological interfaces: A technological imperative in high‐tech systems](https://core.ac.uk/download/pdf/13788397.pdf)
@@ -1019,8 +1018,12 @@ Source: [Risk management in a dynamic society: a modelling problem]
 * [A Model of Human Decision Making in Complex Systems and its Use for Design of System Control Strategies](https://core.ac.uk/download/pdf/13777954.pdf)
 * [The role of error in organizing behaviour](https://qualitysafety.bmj.com/content/qhc/12/5/377.full.pdf) ([TWRR](https://resilienceroundup.com/issues/the-role-of-error-in-organizing-behaviour/))
 * [Information processing and human-machine interaction](https://www.osti.gov/biblio/7011990-information-processing-human-machine-interaction)
-* [Skills, rules, and knowledge; signals, signs, and symbols, and other distinctions in human performance models](https://www.iwolm.com/wp-content/downloads/SkillsRulesAndKnowledge-Rasmussen.pdf)
-* [Mental procedures in real-life tasks: a case study of electronic trouble shooting](https://www.tandfonline.com/doi/abs/10.1080/00140137408931355) (1974)
+* [Risk management in a dynamic society: a modelling problem]
+
+(These are written but others about Rasmussen's work)
+* [Recurring themes in the legacy of Jens Rasmussen](https://www.sciencedirect.com/science/article/abs/pii/S0003687016302150?via%3Dihub) - special issue of Applied Ergonomics
+* [Reflecting on Jens Rasmussen’s legacy. A strong program for a hard problem](https://doi.org/10.1016/j.ssci.2014.03.015) ([my notes](https://github.com/lorin/booknotes/blob/master/papers/Reflecting-on-Jens-Rasmussens-Legacy.md))
+* [Reflecting on Jens Rasmussen's legacy (2) behind and beyond, a ‘constructivist turn’](https://doi.org/10.1016/j.apergo.2015.07.013)
 
 [Risk management in a dynamic society: a modelling problem]: https://doi.org/10.1016/S0925-7535(97)00052-0
 
