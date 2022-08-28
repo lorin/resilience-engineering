@@ -1414,8 +1414,7 @@ Many of these are mentioned in Woods's [short course](https://www.youtube.com/pl
 * [Can We Trust Best Practices? Six Cognitive Challenges of Evidence-Based Approaches]
 * [Operating at the Sharp End: The Complexity of Human Error](https://www.researchgate.net/publication/313407259_Operating_at_the_Sharp_End_The_Complexity_of_Human_Error)
 * [The theory of graceful extensibility: basic rules that govern adaptive systems]
-* [Simon's Slice: Five Fundamental Tradeoffs that Bound the Performance of Human Work Systems](https://www.researchgate.net/publication/260404967_Simon's_Slice_Five_Fundamental_Tradeoffs_that_Bound_the_Performance_of_Human_Work_Systems)
-* [Beyond Simon’s Slice: Five Fundamental Trade-Offs that Bound the Performance of Macrocognitive Work Systems](https://cmapsinternal.ihmc.us/rid=1K2MHS0D4-1ZT3XRF-HPX/46.%2520Simon's%2520Slice.pdf)
+* [Beyond Simon’s Slice: Five Fundamental Trade-Offs that Bound the Performance of Macrocognitive Work Systems](https://www.researchgate.net/publication/220628177_Beyond_Simon%27s_Slice_Five_Fundamental_Trade-Offs_that_Bound_the_Performance_of_Macrocognitive_Work_Systems) ([TWRR](https://resilienceroundup.com/issues/five-fundamental-trade-offs-in-cognitive-work/))
 * [Anticipating the effects of technological change: A new era of dynamics for human factors](https://www.researchgate.net/publication/247512351_Anticipating_the_effects_of_technological_change_A_new_era_of_dynamics_for_human_factors)
 * [Common Ground and Coordination in Joint Activity]
 * [Resilience as Graceful Extensibility to Overcome Brittleness](https://www.irgc.org/wp-content/uploads/2016/04/Woods-Resilience-as-Graceful-Extensibility-to-Overcome-Brittleness-1.pdf)
