@@ -918,7 +918,7 @@ Perry is a medical researcher who studies emergency medicine.
 
 ## Jens Rasmussen
 
-Jens Rasmussen was an enormously influential researcher in human factors and safety systems. In particular, you can see his influence in the work of Sidney Dekker, Nancy Leveson, David Woods
+Jens Rasmussen was an enormously influential researcher in human factors and safety systems. In particular, you can see his influence in the work of Sidney Dekker, Nancy Leveson, David Woods.
 
 ### Contributions
 
@@ -945,6 +945,19 @@ He also proposed three types of information that humans process as they perform 
 
 **Symbols**. Example: written language
 
+#### Abstraction hierarchy
+
+Rasmussen proposed a model of how operators reason about the behavior of a
+system they are supervising called the *abstraction hierarchy*. 
+The levels in the hierarchy are
+
+1. functional purpose
+2. abstract functions
+3. general functions
+4. physical funcitons
+5. physical form
+
+The hierarchy forms a means-ends relationship: proper function is described top-down (ends), and problems are explained bottom-up (means)
 
 
 #### Dynamic safety model
@@ -967,7 +980,8 @@ accidents happen when the boundary is exceeded.
 
 #### AcciMaps
 
-TBD
+The AcciMaps approach is a technique for reasoning about the causes of an accident, using a diagram.
+
 
 #### Risk management framework
 
