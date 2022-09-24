@@ -131,7 +131,7 @@ Allspaw tweets as [@allspaw](https://twitter.com/allspaw).
 
 ## Lisanne Bainbridge
 
-Bainbridge is (was?) a psychology researcher. (*I have not been able to find any recent information about her*).
+Bainbridge is a psychology researcher. She has a website at http://www.complexcognition.co.uk/
 
 ### Contributions
 
