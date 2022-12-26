@@ -255,7 +255,7 @@ Quanta - [Risk and Safety Conf 2019](https://www.youtube.com/watch?v=5WTbeFj2kJY
 
 ## Richard I. Cook
 
-Cook was an anasthesiologist who studies failures in complex systems.  He is one of the founders [Adaptive Capacity Labs](http://www.adaptivecapacitylabs.com/), a resilience engineering consultancy.
+[Cook](https://en.wikipedia.org/wiki/Richard_Cook_(safety_researcher)) was an anasthesiologist who studies failures in complex systems.  He is one of the founders [Adaptive Capacity Labs](http://www.adaptivecapacitylabs.com/), a resilience engineering consultancy.
 He tweeted as [@ri_cook](https://twitter.com/ri_cook).
 
 ### Concepts
@@ -309,6 +309,8 @@ He tweeted as [@ri_cook](https://twitter.com/ri_cook).
 * [Automation, interaction, complexity, and failure: A case study]
 * [Human Performance in Anesthesia]
 * [Two years before the mast: Learning how to learn about patient safety](https://www.researchgate.net/publication/285346573_Two_years_before_the_mast_Learning_how_to_learn_about_patient_safety)
+* [Resilience is not control: healthcare, crisis management, and ICT]
+* [Taking Things in One’s Stride: Cognitive Features of Two Resilient Performances]
 
 [Behind Human Error]: https://www.amazon.com/Behind-Human-Error-David-Woods/dp/0754678342
 [Cognitive consequences of clumsy automation on high workload, high consequence human performance]: https://ntrs.nasa.gov/search.jsp?R=19910011398
@@ -329,6 +331,8 @@ He tweeted as [@ri_cook](https://twitter.com/ri_cook).
 [Gaps in the continuity of care and progress on patient safety]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1117777/
 [Automation, interaction, complexity, and failure: A case study]: https://doi.org/10.1016/j.ress.2006.01.009
 [Human Performance in Anesthesia]: http://dx.doi.org/10.13140/RG.2.2.29675.36648
+[Resilience is not control: healthcare, crisis management, and ICT]: https://www.researchgate.net/profile/Robert-Wears/publication/225108705_Resilience_is_Not_Control_Healthcare_Crisis_Management_and_ICT/links/00b49532b2c7f3ed62000000/Resilience-is-Not-Control-Healthcare-Crisis-Management-and-ICT.pdf
+[Taking Things in One’s Stride: Cognitive Features of Two Resilient Performances]: https://www.taylorfrancis.com/chapters/edit/10.1201/9781315605685-19/taking-things-one-stride-cognitive-features-two-resilient-performances-richard-cook-christopher-nemeth
 
 
 ### Selected talks
@@ -805,6 +809,8 @@ Maguire tweets as [@LauraMDMaguire](https://twitter.com/lauramdmaguire).
 ### Selected publications
 
 * [Replacing Hindsight With Insight: Toward Better Understanding of Diagnostic Failures]
+* [Resilience is not control: healthcare, crisis management, and ICT]
+* [Taking Things in One’s Stride: Cognitive Features of Two Resilient Performances]
 
 
 [Replacing Hindsight With Insight: Toward Better Understanding of Diagnostic Failures]: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.458.7283&rep=rep1&type=pdf
@@ -1203,7 +1209,7 @@ Vaughan is a sociology researcher who did a famous study of the NASA Challenger 
 
 ## Robert L. Wears
 
-Wears was a medical researcher who also had a PhD in industrial safety.
+[Wears](https://en.wikipedia.org/wiki/Robert_Wears) was a medical researcher who also had a PhD in industrial safety.
 
 ### Concepts
 
@@ -1227,6 +1233,7 @@ Wears was a medical researcher who also had a PhD in industrial safety.
 * [Exploring the Dynamics of Resilient Performance](https://pastel.archives-ouvertes.fr/pastel-00664145/document)
 * [Extemporaneous Adaptation to Evolving Complexity: A Case Study of Resilience in Healthcare] ([TWRR](https://resilienceroundup.com/issues/55))
 * [Automation, interaction, complexity, and failure: A case study]
+* [Resilience is not control: healthcare, crisis management, and ICT]
 
 ### Selected talks
 
