@@ -381,7 +381,45 @@ Dekker examines how cultural norms defining justice can be re-oriented to minimi
 6.  Complex systems:  normal behavior of practicioners and professionals in the context of a complex system can appear abnormal or deviant in hindsight, particularly in the eyes of non-expert juries and reviewers
 7.  The nature of practicioners:  professionals want to do good work, and therefore want to be held accountable for their mistakes; they generally want to help similarly-situated professionals avoid the same mistake.
 
+### Safety Differently
 
+- There is a difference between the organization's prescribed processes for completing work and how work is actually completed.  (work as imagined vs work as done)
+    - The difference between work as imagined and work as done is the result of the expertise that exists in your workers from contact with real-life pressures, heuristics, and unexpected conditions.
+    - Old View: People are the problem to control with process
+        - They did something wrong
+        - They need more rules and enforcement
+        - They need to try harder
+        - We need to get rid of "bad apples"
+        - Focus on the "sharp end" of the organization - the people closest to the work
+    - New View: Work is done adaptively in an uncertain world
+        - Things go wrong all the time
+        - Workers often detect and correct these problems
+        - Local adaptations are a source of organizational expertise
+        - "What conditions existed that made the selected course of action seem correct to the people involved?"
+- Traditional safety interventions have diminishing yields with increasing overhead.  Accumulated compliance burden and "safety clutter" makes it harder to get work done *and* to do so safely.
+    - Safety Clutter is accountable to safety bureaucracy and compliance rather than the safety of the workers or the process
+    - Safety Clutter is produced by the "blunt end" of the organization without local expertise of what is practicable or practical in-situ
+    - Safety Clutter represents a broader "deprofessionalization" - a removal of trust and confidence in professionals to do their job well, removing their pride, autonomy, and achievement.
+    - Paradoxically, Safety Clutter can result from government deregulation - organizations need to self-impose risk controls in the absence of external guidelines.
+    - Sadly for organizations with Safety Clutter, more internal rules do not equal better legal protection.
+- When a process is relatively safe or stable, measurements of bad outcomes lack statistical significance to understand trends or tie trends to interventions.
+    - Fundamental Regulator Paradox: regulating a system so well that there are no useful measurements left to understand how the system is performing
+    - Zero Paradox: A study of construction contractors showed more fatal accidents in firms with "goal zero" safety policies than in those without.  Non-fatal accidents were similar.
+    - Risk Secrecy: "goal zero" commitments result in injury underreporting and hiding of incidents which prevents learning, particularly when tied to financial incentives for leadership.
+- There are patterns (capacities) that help things go well
+    - _Diversity of opinion_ - possibility to voice dissent
+    - _Keeping the discussion on risk alive_ even when things go well
+    - _Deference to expertise_ that already exists in people at the sharp end
+    - _Psychological safety_ / "stop" ability
+    - _Low barriers_ to interaction between organizational groups
+    - _Sharp end improvements_ to existing systems based on local expertise
+    - _Pride in work_ - process and results
+- Rapid problem-solving can prevent effective problem-understanding
+- Leadership buy-in and practice of New View safety is imperative to its success.  It's also difficult to foster.
+    - Worker buy-in is rapid and fits their existing mental model
+    - Leadership must abandon the mental model that has governed their past work and decision-making - difficult for anyone.
+    - Peer discussions are especially helpful for leadership
+    - Highlighting how local adaptations helped things go well also helps
 
 ### Concepts
 * Drift into failure
