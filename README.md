@@ -248,6 +248,7 @@ Conklin tweets as [@preaccident](https://twitter.com/preaccident).
 * [Pre-accident investigations: an introduction to organizational safety](https://www.amazon.com/Pre-Accident-Investigations-Todd-Conklin/dp/1409447820)
 * [Pre-accident investigations: better questions - an applied approach to
   operational learning](https://www.amazon.com/gp/product/1472486137)
+* [Do Safety Differently](https://www.amazon.com/Do-Safety-Differently-Sidney-Dekker/dp/B09RM3Z17V)
 
 ### Selected talks
 
@@ -395,6 +396,7 @@ Dekker examines how cultural norms defining justice can be re-oriented to minimi
 * unruly technology
 * decrementalism
 * generic competencies
+* work as imagined vs work as done
 
 ### Selected publications
 
@@ -417,6 +419,8 @@ Dekker examines how cultural norms defining justice can be re-oriented to minimi
 * [Illusions of explanation: A critical essay on error classification](http://www.humanfactors.lth.se/fileadmin/lusa/Sidney_Dekker/articles/2003_and_before/Illusions_of_explanation.pdf) ([TWRR](https://resilienceroundup.com/issues/42/))
 * [Safety II professionals: How resilience engineering can transform safety practice] ([TWRR](https://resilienceroundup.com/issues/64/))
 * [The complexity of failure: implications of complexity theory for safety investigation](https://static1.squarespace.com/static/53b78765e4b0949940758017/t/5722beb0d51cd4d11675a69c/1461894833950/Dekker%2C+Cilliers+and+Hofmeyr+-+The+Complexity+of+Failure.pdf)
+* [The Safety Anarchist](https://www.amazon.com/Safety-Anarchist-innovation-bureaucracy-compliance/dp/1138300462))
+* [Compliance Capitalism](https://www.amazon.com/Compliance-Capitalism-Overregulated-Management-Neoliberalism/dp/1032012366)
 
 [Human factors and folk models]: https://link.springer.com/article/10.1007%2Fs10111-003-0136-9
 [The High Reliability Organization Perspective]: http://sidneydekker.com/wp-content/uploads/2013/01/CH005.pdf
