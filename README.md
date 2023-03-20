@@ -248,6 +248,7 @@ Conklin tweets as [@preaccident](https://twitter.com/preaccident).
 * [Pre-accident investigations: an introduction to organizational safety](https://www.amazon.com/Pre-Accident-Investigations-Todd-Conklin/dp/1409447820)
 * [Pre-accident investigations: better questions - an applied approach to
   operational learning](https://www.amazon.com/gp/product/1472486137)
+* [Do Safety Differently](https://www.amazon.com/Do-Safety-Differently-Sidney-Dekker/dp/B09RM3Z17V)
 
 ### Selected talks
 
@@ -380,7 +381,45 @@ Dekker examines how cultural norms defining justice can be re-oriented to minimi
 6.  Complex systems:  normal behavior of practicioners and professionals in the context of a complex system can appear abnormal or deviant in hindsight, particularly in the eyes of non-expert juries and reviewers
 7.  The nature of practicioners:  professionals want to do good work, and therefore want to be held accountable for their mistakes; they generally want to help similarly-situated professionals avoid the same mistake.
 
+### Safety Differently
 
+- There is a difference between the organization's prescribed processes for completing work and how work is actually completed.  (work as imagined vs work as done)
+    - The difference between work as imagined and work as done is the result of the expertise that exists in your workers from contact with real-life pressures, heuristics, and unexpected conditions.
+    - Old View: People are the problem to control with process
+        - They did something wrong
+        - They need more rules and enforcement
+        - They need to try harder
+        - We need to get rid of "bad apples"
+        - Focus on the "sharp end" of the organization - the people closest to the work
+    - New View: Work is done adaptively in an uncertain world
+        - Things go wrong all the time
+        - Workers often detect and correct these problems
+        - Local adaptations are a source of organizational expertise
+        - "What conditions existed that made the selected course of action seem correct to the people involved?"
+- Traditional safety interventions have diminishing yields with increasing overhead.  Accumulated compliance burden and "safety clutter" makes it harder to get work done *and* to do so safely.
+    - Safety Clutter is accountable to safety bureaucracy and compliance rather than the safety of the workers or the process
+    - Safety Clutter is produced by the "blunt end" of the organization without local expertise of what is practicable or practical in-situ
+    - Safety Clutter represents a broader "deprofessionalization" - a removal of trust and confidence in professionals to do their job well, removing their pride, autonomy, and achievement.
+    - Paradoxically, Safety Clutter can result from government deregulation - organizations need to self-impose risk controls in the absence of external guidelines.
+    - Sadly for organizations with Safety Clutter, more internal rules do not equal better legal protection.
+- When a process is relatively safe or stable, measurements of bad outcomes lack statistical significance to understand trends or tie trends to interventions.
+    - Fundamental Regulator Paradox: regulating a system so well that there are no useful measurements left to understand how the system is performing
+    - Zero Paradox: A study of construction contractors showed more fatal accidents in firms with "goal zero" safety policies than in those without.  Non-fatal accidents were similar.
+    - Risk Secrecy: "goal zero" commitments result in injury underreporting and hiding of incidents which prevents learning, particularly when tied to financial incentives for leadership.
+- There are patterns (capacities) that help things go well
+    - _Diversity of opinion_ - possibility to voice dissent
+    - _Keeping the discussion on risk alive_ even when things go well
+    - _Deference to expertise_ that already exists in people at the sharp end
+    - _Psychological safety_ / "stop" ability
+    - _Low barriers_ to interaction between organizational groups
+    - _Sharp end improvements_ to existing systems based on local expertise
+    - _Pride in work_ - process and results
+- Rapid problem-solving can prevent effective problem-understanding
+- Leadership buy-in and practice of New View safety is imperative to its success.  It's also difficult to foster.
+    - Worker buy-in is rapid and fits their existing mental model
+    - Leadership must abandon the mental model that has governed their past work and decision-making - difficult for anyone.
+    - Peer discussions are especially helpful for leadership
+    - Highlighting how local adaptations helped things go well also helps
 
 ### Concepts
 * Drift into failure
@@ -395,6 +434,7 @@ Dekker examines how cultural norms defining justice can be re-oriented to minimi
 * unruly technology
 * decrementalism
 * generic competencies
+* work as imagined vs work as done
 
 ### Selected publications
 
@@ -417,6 +457,8 @@ Dekker examines how cultural norms defining justice can be re-oriented to minimi
 * [Illusions of explanation: A critical essay on error classification](http://www.humanfactors.lth.se/fileadmin/lusa/Sidney_Dekker/articles/2003_and_before/Illusions_of_explanation.pdf) ([TWRR](https://resilienceroundup.com/issues/42/))
 * [Safety II professionals: How resilience engineering can transform safety practice] ([TWRR](https://resilienceroundup.com/issues/64/))
 * [The complexity of failure: implications of complexity theory for safety investigation](https://static1.squarespace.com/static/53b78765e4b0949940758017/t/5722beb0d51cd4d11675a69c/1461894833950/Dekker%2C+Cilliers+and+Hofmeyr+-+The+Complexity+of+Failure.pdf)
+* [The Safety Anarchist](https://www.amazon.com/Safety-Anarchist-innovation-bureaucracy-compliance/dp/1138300462))
+* [Compliance Capitalism](https://www.amazon.com/Compliance-Capitalism-Overregulated-Management-Neoliberalism/dp/1032012366)
 
 [Human factors and folk models]: https://link.springer.com/article/10.1007%2Fs10111-003-0136-9
 [The High Reliability Organization Perspective]: http://sidneydekker.com/wp-content/uploads/2013/01/CH005.pdf
