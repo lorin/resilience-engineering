@@ -61,7 +61,7 @@ they're ones I've read or have added to my to-read list.
 * [Carl Macrae](#carl-macrae)
 * [Laura Maguire](#laura-maguire)
 * [Christopher Nemeth](#christopher-nemeth)
-* [Anne-Sophie Nyssen](anne-sophie-nyssen)
+* [Anne-Sophie Nyssen](#anne-sophie-nyssen)
 * [Elinor Ostrom](#elinor-ostrom)
 * [Jean Pariès](#jean-paries)
 * [Emily Patterson](#emily-patterson)
