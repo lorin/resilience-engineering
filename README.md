@@ -867,7 +867,7 @@ A list of publications can be found on her website linked above.
 
 ## Elinor Ostrom
 
-[Ostrom](http://elinorostrom.com/) was a Nobel-prize winning economics and
+[Ostrom](http://www.elinorostrom.com/) was a Nobel-prize winning economics and
 political science researcher.
 
 ### Selected publications
