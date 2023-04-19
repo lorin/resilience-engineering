@@ -1284,7 +1284,7 @@ Vaughan is a sociology researcher who did a famous study of the NASA Challenger 
 
 ## David Woods
 
-[Woods](https://csel.engineering.osu.edu/people/woods.2) has a research background in cognitive systems engineering and did work
+[Woods](https://u.osu.edu/csel/member-directory/david-woods/) has a research background in cognitive systems engineering and did work
 researching NASA accidents.  He is one of the founders [Adaptive Capacity
 Labs](http://www.adaptivecapacitylabs.com/), a resilience engineering
 consultancy.
