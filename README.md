@@ -56,7 +56,7 @@ they're ones I've read or have added to my to-read list.
 * [Erik Hollnagel](#erik-hollnagel)
 * [Leila Johannesen](#leila-johannesen)
 * [Gary Klein](#gary-klein)
-* [Elizabeth Lay](https://www.linkedin.com/in/bethlay/)
+* [Elizabeth Lay](#elizabteh-lay)
 * [Nancy Leveson](#nancy-leveson)
 * [Carl Macrae](#carl-macrae)
 * [Laura Maguire](#laura-maguire)
@@ -222,7 +222,11 @@ Bergström tweets as [@bergstrom_johan](https://twitter.com/bergstrom_johan).
 ### Selected publications
 
 * [Basic patterns in how adaptive systems fail](https://www.researchgate.net/publication/284324002_Basic_patterns_in_how_adaptive_systems_fail) ([TWRR](https://resilienceroundup.com/issues/34/))
+* [A practitioner’s experiences operationalizing Resilience Engineering]
+* [Noticing Brittleness, Designing for Resilience]
 
+[A practitioner’s experiences operationalizing Resilience Engineering]: https://www.sciencedirect.com/science/article/abs/pii/S0951832015000812
+[Noticing Brittleness, Designing for Resilience]: https://www.taylorfrancis.com/chapters/edit/10.1201/9781315605708-18/noticing-brittleness-designing-resilience-elizabeth-lay-matthieu-branlat
 
 ## Sheuwen Chuang
 
@@ -312,6 +316,7 @@ He tweeted as [@ri_cook](https://twitter.com/ri_cook).
 * [Two years before the mast: Learning how to learn about patient safety](https://www.researchgate.net/publication/285346573_Two_years_before_the_mast_Learning_how_to_learn_about_patient_safety)
 * [Resilience is not control: healthcare, crisis management, and ICT]
 * [Taking Things in One’s Stride: Cognitive Features of Two Resilient Performances]
+
 
 [Behind Human Error]: https://www.amazon.com/Behind-Human-Error-David-Woods/dp/0754678342
 [Cognitive consequences of clumsy automation on high workload, high consequence human performance]: https://ntrs.nasa.gov/search.jsp?R=19910011398
@@ -764,6 +769,15 @@ Klein tweets as [@KleInsight](https://twitter.com/KleInsight).
 ### Selected talks
 
 * [Problem detection](https://www.youtube.com/watch?v=UXx51qK4ItQ&feature=emb_title)
+
+## Elizabeth Lay
+
+Elizabeth Lay is a resilience engineering practitioner. She is currently a director of safety and human performance at Lewis Tree Service.
+
+### Selected publications
+
+* [Noticing Brittleness, Designing for Resilience]
+* [A practitioner’s experiences operationalizing Resilience Engineering]
 
 ## Nancy Leveson
 
@@ -1547,6 +1561,7 @@ Many of these are mentioned in Woods's [short course](https://www.youtube.com/pl
 * [Human Performance in Anesthesia]
 * [Creating Foresight: Lessons for Enhancing Resilience from Columbia](https://www.researchgate.net/profile/David-Woods-19/publication/jjgg255648297_Creating_Foresight_Lessons_for_Enhancing_Resilience_from_Columbia/links/542becf50cf29bbc126ac095/Creating-Foresight-Lessons-for-Enhancing-Resilience-from-Columbia.pdf)
 * [Inventing the Future of Cognitive Work: Navigating the "Northwest Passage"](http://faculty.washington.edu/roesler/publications/design_cycle2005.pdf)
+* [A practitioner’s experiences operationalizing Resilience Engineering]
 
 
 [The theory of graceful extensibility: basic rules that govern adaptive systems]: https://www.researchgate.net/publication/327427067_The_Theory_of_Graceful_Extensibility_Basic_rules_that_govern_adaptive_systems
