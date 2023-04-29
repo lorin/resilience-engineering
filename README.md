@@ -276,7 +276,7 @@ He tweeted as [@ri_cook](https://twitter.com/ri_cook).
 
 * [How complex systems fail](https://www.adaptivecapacitylabs.com/HowComplexSystemsFail.pdf)
 * [A brief look at the New Look in complex system failure, error, safety, and resilience](https://www.adaptivecapacitylabs.com/BriefLookAtTheNewLook.pdf)
-* [*Where* complex systems fail](https://www.snafucatchers.com/single-post/2017/11/14/void-Incidents-as-Untyped-Pointers)
+* [void \*: Incidents as Untyped Pointers. *Where* complex systems fail](https://www.snafucatchers.com/single-post/2017/11/14/void-Incidents-as-Untyped-Pointers)
 * [Distancing through differencing: An obstacle to organizational learning following accidents](https://www.researchgate.net/publication/292504703_Distancing_through_differencing_An_obstacle_to_organizational_learning_following_accidents)
 * [Being bumpable](http://csel.eng.ohio-state.edu/productions/woodscta/media/beingbump.pdf) ([TWRR](https://www.getrevue.co/profile/resilience/issues/resilience-roundup-being-bumpable-issue-33-177340))
 * [Behind Human Error]
