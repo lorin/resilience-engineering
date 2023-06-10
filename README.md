@@ -925,6 +925,7 @@ in healthcare.
 * [Handoff strategies in settings with high consequences for failure: lessons for health care operations] ([TWRR](https://resilienceroundup.com/issues/56))
 * [How Unexpected Events Produce An Escalation Of Cognitive And Coordinative Demands] ([TWRR](https://resilienceroundup.com/issues/how-unexpected-events-produce-an-escalation-of-cognitive-and-coordinative-demands/))
 * [Communication Strategies from High-reliability Organizations: Translation is Hard Work](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1876978/) ([TWRR](https://resilienceroundup.com/issues/communication-strategies-from-high-reliability-organizations-translation-is-hard-work/))
+* [Understanding rigor in information analysis]
 
 [Using observational study as a tool for discovery: uncovering cognitive and collaborative demands and adaptive strategies]: https://www.researchgate.net/profile/Emily_Patterson2/publication/237138704_USING_OBSERVATIONAL_STUDY_AS_A_TOOL_FOR_DISCOVERY_UNCOVERING_COGNITIVE_AND_COLLABORATIVE_DEMANDS_AND_ADAPTIVE_STRATEGIES/links/0deec52c8e310b385a000000.pdf
 
@@ -935,6 +936,9 @@ in healthcare.
 [How Unexpected Events Produce An Escalation Of Cognitive And Coordinative Demands]: http://csel.eng.ohio-state.edu/productions/laws/laws_mediapaper/2_4_escalation.pdf
 
 [Handoff strategies in settings with high consequences for failure: lessons for health care operations]: https://www.researchgate.net/publication/8648890_Handoff_strategies_in_settings_with_high_consequences_for_failure_Lessons_for_health_care_operations
+
+[Understanding rigor in information analysis]: https://www.researchgate.net/publication/228809190_Understanding_rigor_in_information_analysis
+
 
 
 ## Charles Perrow
@@ -1468,6 +1472,7 @@ Many of these are mentioned in Woods's [short course](https://www.youtube.com/pl
 * automation surprises
 * disturbance management
 * Doyle's catch
+* Cooperative advocacy
 
 ### Selected publications
 
@@ -1562,6 +1567,7 @@ Many of these are mentioned in Woods's [short course](https://www.youtube.com/pl
 * [Creating Foresight: Lessons for Enhancing Resilience from Columbia](https://www.researchgate.net/profile/David-Woods-19/publication/jjgg255648297_Creating_Foresight_Lessons_for_Enhancing_Resilience_from_Columbia/links/542becf50cf29bbc126ac095/Creating-Foresight-Lessons-for-Enhancing-Resilience-from-Columbia.pdf)
 * [Inventing the Future of Cognitive Work: Navigating the "Northwest Passage"](http://faculty.washington.edu/roesler/publications/design_cycle2005.pdf)
 * [A practitioner’s experiences operationalizing Resilience Engineering]
+* [Understanding rigor in information analysis]
 
 
 [The theory of graceful extensibility: basic rules that govern adaptive systems]: https://www.researchgate.net/publication/327427067_The_Theory_of_Graceful_Extensibility_Basic_rules_that_govern_adaptive_systems
