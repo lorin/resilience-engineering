@@ -1511,7 +1511,7 @@ Many of these are mentioned in Woods's [short course](https://www.youtube.com/pl
 * [Voice Loops as Coordination Aids in Space Shuttle Mission Control]
 * [The Critical Incident Technique: 40 Years Later](https://journals.sagepub.com/doi/abs/10.1177/154193129403801702)
 * [Functionally distributed coordination during anomaly response in space shuttle mission control]
-* [Cooperative Advocacy: An Approach for Integrating Diverse Perspectives in Anomaly Response](https://www.semanticscholar.org/paper/Cooperative-Advocacy%3A-An-Approach-for-Integrating-Watts-Perotti-Woods/7671e568d33237f8085bebda5f8a43356aa2edcd)
+* [Cooperative Advocacy: An Approach for Integrating Diverse Perspectives in Anomaly Response](https://www.researchgate.net/publication/225211285_Cooperative_Advocacy_An_Approach_for_Integrating_Diverse_Perspectives_in_Anomaly_Response)
 * [Visual momentum: A concept to improve the cognitive coupling of person and computer](https://www.researchgate.net/publication/222737388_Visual_Momentum_A_Concept_to_Improve_the_Cognitive_Coupling_of_Person_and_Computer)
 * [Cognitive demands and activities in dynamic fault management: abductive reasoning and disturbance management](https://www.researchgate.net/publication/262401824_Cognitive_demands_and_activities_in_dynamic_fault_management_abductive_reasoning_and_disturbance_management)
 * [Coping with complexity: the psychology of human behaviour in complex systems](https://www.researchgate.net/publication/238727732_Coping_with_Complexity_The_psychology_of_human_behavior_in_complex_systems) ([TWRR](https://resilienceroundup.com/issues/coping-with-complexity/))
