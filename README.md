@@ -274,6 +274,7 @@ He tweeted as [@ri_cook](https://twitter.com/ri_cook).
 
 ### Selected publications
 
+* [A celebration of the work of Richard Cook, MD: A pioneer in understanding accidents, safety, human factors, and resilience](https://www.researchgate.net/publication/371403498_A_celebration_of_the_work_of_Richard_Cook_MD_A_pioneer_in_understanding_accidents_safety_human_factors_and_resilience)
 * [How complex systems fail](https://www.adaptivecapacitylabs.com/HowComplexSystemsFail.pdf)
 * [A brief look at the New Look in complex system failure, error, safety, and resilience](https://www.adaptivecapacitylabs.com/BriefLookAtTheNewLook.pdf)
 * [void \*: Incidents as Untyped Pointers. *Where* complex systems fail](https://www.snafucatchers.com/single-post/2017/11/14/void-Incidents-as-Untyped-Pointers)
