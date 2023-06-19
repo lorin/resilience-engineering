@@ -1295,6 +1295,7 @@ Vaughan is a sociology researcher who did a famous study of the NASA Challenger 
 * [Extemporaneous Adaptation to Evolving Complexity: A Case Study of Resilience in Healthcare] ([TWRR](https://resilienceroundup.com/issues/55))
 * [Automation, interaction, complexity, and failure: A case study]
 * [Resilience is not control: healthcare, crisis management, and ICT]
+* [The Secret Life of Policies](https://www.annemergmed.com/article/S0196-0644(17)30874-0/fulltext)
 
 ### Selected talks
 
