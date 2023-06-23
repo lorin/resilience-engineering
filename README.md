@@ -1173,7 +1173,7 @@ and applied cognitive psychology (cognitive engineering)
 
 ### Other
 
-* [Interview on Naturalistic Decision Making podcast](https://naturalisticdecisionmaking.org/podcasts/#Emilie-Roth-Cognitive-Engineering)
+* [Interview on Naturalistic Decision Making podcast](https://open.spotify.com/episode/3XqAhdpyrszLoB59VcRJWG)
 
 ## Nadine Sarter
 
