@@ -359,6 +359,8 @@ He tweeted as [@ri_cook](https://twitter.com/ri_cook).
 Le Coze is research director at INERIS (National Institute for the Industrial Environment and Risks) in France.
 He frequently writes on historical views of safety.
 
+Le Coze tweets as [@JcLeCoze](https://twitter.com/JcLeCoze).
+
 ### Selected publications
 
 * [Managing the Unexpected](https://www.academia.edu/36790092/Managing_the_unexpected)
