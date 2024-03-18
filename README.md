@@ -56,7 +56,8 @@ they're ones I've read or have added to my to-read list.
 * [Erik Hollnagel](#erik-hollnagel)
 * [Leila Johannesen](#leila-johannesen)
 * [Gary Klein](#gary-klein)
-* [Elizabeth Lay](#elizabteh-lay)
+* [Elizabeth Lay](#elizabeth-lay)
+* [Jean-Christophe Le Coze](#jean-christophe-le-coze)
 * [Nancy Leveson](#nancy-leveson)
 * [Carl Macrae](#carl-macrae)
 * [Laura Maguire](#laura-maguire)
@@ -353,6 +354,20 @@ He tweeted as [@ri_cook](https://twitter.com/ri_cook).
 [Panel discussion: Safety Culture, Lean, and DevOps]: https://www.youtube.com/watch?v=gtxtb9z_4FY&feature=youtu.be
 
 
+## Jean-Christophe Le Coze
+
+Le Coze is research director at INERIS (National Institute for the Industrial Environment and Risks) in France.
+He frequently writes on historical views of safety.
+
+### Selected publications
+
+️* [Managing the Unexpected](https://www.academia.edu/36790092/Managing_the_unexpected)
+* [The 'new view' of human error. Origins, ambiguities, success and critiques](https://www.sciencedirect.com/science/article/abs/pii/S0925753522001928)
+* [1984-2014. Normal Accident. Was Charles Perrow right for the wrong reasons?](https://www.academia.edu/15301538/1984_2014_Normal_Accident_Was_Charles_Perrow_right_for_the_wrong_reasons)
+* [Good and bad reasons: The Swiss cheese model and its critics](https://dx.doi.org/10.1016/j.ssci.2020.104660)
+* [Recurring themes in the legacy of Jens Rasmussen](https://doi.org/10.1016/j.apergo.2016.10.002)
+* [Reflecting on Jens Rasmussen’s legacy. A strong program for a hard problem](https://www.sciencedirect.com/science/article/pii/S0925753514000848)
+* [Reflecting on Jens Rasmussen's legacy (2) behind and beyond, a ‘constructivist turn’](https://www.sciencedirect.com/science/article/abs/pii/S0003687015300429)
 
 ## Sidney Dekker
 
