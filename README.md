@@ -361,6 +361,7 @@ He frequently writes on historical views of safety.
 
 ### Selected publications
 
+
 ️* [Managing the Unexpected](https://www.academia.edu/36790092/Managing_the_unexpected)
 * [The 'new view' of human error. Origins, ambiguities, success and critiques](https://www.sciencedirect.com/science/article/abs/pii/S0925753522001928)
 * [1984-2014. Normal Accident. Was Charles Perrow right for the wrong reasons?](https://www.academia.edu/15301538/1984_2014_Normal_Accident_Was_Charles_Perrow_right_for_the_wrong_reasons)
