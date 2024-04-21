@@ -1103,6 +1103,7 @@ Source: [Risk management in a dynamic society: a modelling problem]
 	- Awareness
 	- Commitment
 * Going solid
+* observability
 
 ### Selected publications
 * [Mental procedures in real-life tasks: a case study of electronic trouble shooting](https://www.tandfonline.com/doi/abs/10.1080/00140137408931355) (1974)
@@ -1117,6 +1118,7 @@ Source: [Risk management in a dynamic society: a modelling problem]
 * [The role of error in organizing behaviour](https://qualitysafety.bmj.com/content/qhc/12/5/377.full.pdf) ([TWRR](https://resilienceroundup.com/issues/the-role-of-error-in-organizing-behaviour/))
 * [Information processing and human-machine interaction](https://www.osti.gov/biblio/7011990-information-processing-human-machine-interaction)
 * [Risk management in a dynamic society: a modelling problem]
+* [Trends in Human Reliability Analysis](https://backend.orbit.dtu.dk/ws/portalfiles/portal/137294535/TREND.PDF)
 
 (These are written but others about Rasmussen's work)
 * [Recurring themes in the legacy of Jens Rasmussen](https://www.sciencedirect.com/science/article/abs/pii/S0003687016302150?via%3Dihub) - special issue of Applied Ergonomics
