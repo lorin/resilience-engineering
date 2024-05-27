@@ -69,6 +69,7 @@ they're ones I've read or have added to my to-read list.
 * [Charles Perrow](#charles-perrow)
 * [Shawna J. Perry](#shawna-j-perry)
 * [Jens Rasmussen](#jens-rasmussen)
+* [Mike Rayo](#mike-rayo)
 * [James Reason](#james-reason)
 * [J. Paul Reed](#j-paul-reed)
 * [Emilie M. Roth](#emilie-m-roth)
@@ -1126,6 +1127,19 @@ Source: [Risk management in a dynamic society: a modelling problem]
 * [Reflecting on Jens Rasmussen's legacy (2) behind and beyond, a ‘constructivist turn’](https://doi.org/10.1016/j.apergo.2015.07.013)
 
 [Risk management in a dynamic society: a modelling problem]: https://doi.org/10.1016/S0925-7535(97)00052-0
+
+## Mike Rayo
+
+Rayo is the Director of the Cognitive Systems Engineering Laboratory at the Ohio State University.
+
+### Concepts
+
+* SCAD (Systematic Contributors Analysis and Diagram)
+
+### Selected Publications
+
+
+* [Multiple Systemic Contributors versus Root Cause: Learning from a NASA Near Miss](https://www.researchgate.net/publication/308194080_Multiple_Systemic_Contributors_versus_Root_Cause_Learning_from_a_NASA_Near_Miss)
 
 ## James Reason
 
