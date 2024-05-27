@@ -1170,6 +1170,7 @@ Reason developed a model of the types of errors that humans make:
 ### Selected publications
 
 * [Human error]
+* [Organizational Accidents Revisited](https://www.amazon.com/Organizational-Accidents-Revisited-James-Reason/dp/1472447689)
 
 [Human error]: https://www.amazon.com/gp/product/0521314194/ref=dbs_a_def_rwt_bibl_vppi_i0
 
