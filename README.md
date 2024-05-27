@@ -114,6 +114,7 @@ Allspaw tweets as [@allspaw](https://twitter.com/allspaw).
 * [Technical Debt: Challenges and Perspectives](https://doi.org/10.1109/MS.2017.99)
 * [Revealing the Critical Role of Human Performance in Software](https://queue.acm.org/detail.cfm?id=3380776)
 * [SRE Cognitive Work] in [Seeking SRE]
+* [The infinite hows: An argument against the Five Whys and an alternative approach you can apply](https://www.oreilly.com/radar/the-infinite-hows/)
 
 [SRE Cognitive Work]: https://www.researchgate.net/publication/343430302_SRE_Cognitive_Work
 [Seeking SRE]: https://www.oreilly.com/library/view/seeking-sre/9781491978856/
