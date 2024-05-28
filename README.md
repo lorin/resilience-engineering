@@ -185,6 +185,7 @@ Baker tweets as [@thehopmentor](https://twitter.com/thehopmentor).
 ### Selected publications
 
 * [Resiliency Trade Space Study: The Interaction of Degraded C2 Link and Detect and Avoid Autonomy on Unmanned Aircraft](https://www.researchgate.net/publication/330222613_Resiliency_Trade_Space_Study_The_Interaction_of_Degraded_C2_Link_and_Detect_and_Avoid_Autonomy_on_Unmanned_Aircraft)
+* [Developing Systemic Contributors and Adaptations Diagramming (SCAD): systemic insights, multiple pragmatic implementations]
 
 ### Selected talks
 
@@ -1139,8 +1140,10 @@ Rayo is the Director of the Cognitive Systems Engineering Laboratory at the Ohio
 
 ### Selected Publications
 
-
+* [Developing Systemic Contributors and Adaptations Diagramming (SCAD): systemic insights, multiple pragmatic implementations]
 * [Multiple Systemic Contributors versus Root Cause: Learning from a NASA Near Miss](https://www.researchgate.net/publication/308194080_Multiple_Systemic_Contributors_versus_Root_Cause_Learning_from_a_NASA_Near_Miss)
+
+[Developing Systemic Contributors and Adaptations Diagramming (SCAD): systemic insights, multiple pragmatic implementations]: https://journals.sagepub.com/doi/10.1177/1071181322661334
 
 ## James Reason
 
