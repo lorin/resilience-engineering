@@ -1629,6 +1629,7 @@ Many of these are mentioned in Woods's [short course](https://www.youtube.com/pl
 
 ### Online courses
 
+* [Cognitive Systems Engineering Laboratory's (CSEL) Resilience Engineering 101 Series](https://resiliencefoundations.github.io/video-1-introduction-pt-1-it's-all-about-viability.html)
 * [Resilience Engineering: An Introductory Short Course](https://www.youtube.com/playlist?list=PLvlZBj1NU_ikTy1ot30EbEbYMAoBf9eAt)
 
 ## John Wreathall
