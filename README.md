@@ -321,6 +321,7 @@ He tweeted as [@ri_cook](https://twitter.com/ri_cook).
 * [Two years before the mast: Learning how to learn about patient safety](https://www.researchgate.net/publication/285346573_Two_years_before_the_mast_Learning_how_to_learn_about_patient_safety)
 * [Resilience is not control: healthcare, crisis management, and ICT]
 * [Taking Things in One’s Stride: Cognitive Features of Two Resilient Performances]
+* [Human Performance in Anesthesia: A Corpus of Cases]
 
 
 [Behind Human Error]: https://www.amazon.com/Behind-Human-Error-David-Woods/dp/0754678342
@@ -344,6 +345,7 @@ He tweeted as [@ri_cook](https://twitter.com/ri_cook).
 [Human Performance in Anesthesia]: http://dx.doi.org/10.13140/RG.2.2.29675.36648
 [Resilience is not control: healthcare, crisis management, and ICT]: https://www.researchgate.net/profile/Robert-Wears/publication/225108705_Resilience_is_Not_Control_Healthcare_Crisis_Management_and_ICT/links/00b49532b2c7f3ed62000000/Resilience-is-Not-Control-Healthcare-Crisis-Management-and-ICT.pdf
 [Taking Things in One’s Stride: Cognitive Features of Two Resilient Performances]: https://www.taylorfrancis.com/chapters/edit/10.1201/9781315605685-19/taking-things-one-stride-cognitive-features-two-resilient-performances-richard-cook-christopher-nemeth
+[Human Performance in Anesthesia: A Corpus of Cases]: https://www.researchgate.net/publication/347964304_Human_Performance_in_Anesthesia_Human_Performance_in_Anesthesia_Human_Performance_in_Anesthesia
 
 
 ### Selected talks
@@ -1608,7 +1610,7 @@ Many of these are mentioned in Woods's [short course](https://www.youtube.com/pl
 * [Inventing the Future of Cognitive Work: Navigating the "Northwest Passage"](http://faculty.washington.edu/roesler/publications/design_cycle2005.pdf)
 * [A practitioner’s experiences operationalizing Resilience Engineering]
 * [Understanding rigor in information analysis]
-
+* [Human Performance in Anesthesia: A Corpus of Cases]
 
 [The theory of graceful extensibility: basic rules that govern adaptive systems]: https://www.researchgate.net/publication/327427067_The_Theory_of_Graceful_Extensibility_Basic_rules_that_govern_adaptive_systems
 [How do systems manage their adaptive capacity to successfully handle disruptions? A resilience engineering perspective]: https://www.researchgate.net/publication/286581322_How_do_systems_manage_their_adaptive_capacity_to_successfully_handle_disruptions_A_resilience_engineering_perspective
