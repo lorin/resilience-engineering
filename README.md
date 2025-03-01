@@ -8,9 +8,13 @@ This doc contains notes about people active in resilience engineering, as well a
 researchers who are no longer with us, organized alphabetically. It also includes people and papers
 from related fields, such as cognitive systems engineering and naturalistic decision-making.
 
-Some papers have a ([TWRR](http://resilienceroundup.com)) link next to them. This
-stands for Thai Wood's [Resilience Roundup](http://resilienceroundup.com). Thai publishes a newsletter that
+## Annotations
+
+A ([TWRR](http://resilienceroundup.com)) link indicates Thai Wood's [Resilience Roundup](http://resilienceroundup.com). Thai publishes a newsletter that
 summarizes resilience engineering papers.
+
+A [BH](https://safety177496371.wordpress.com/) indicates Ben Hutchinson's [Safety & Performance Research Summaries](https://safety177496371.wordpress.com/) blog.
+Ben writes summaries of safety papers, posting them to his blog as well as LinkedIOn.
 
 ## Other interesting links
 
@@ -322,6 +326,10 @@ He tweeted as [@ri_cook](https://twitter.com/ri_cook).
 * [Resilience is not control: healthcare, crisis management, and ICT]
 * [Taking Things in One’s Stride: Cognitive Features of Two Resilient Performances]
 * [Human Performance in Anesthesia: A Corpus of Cases]
+* [Minding the Gaps: Creating Resilience in Health Care]
+* [From Counting Failures to Anticipating Risks: Possible Futures for Patient Safety]
+* [Resilience Engineering: New directions for measuring and maintaining safety in complex systems]
+* [Behind Human Error: Taming Complexity to Improve Patient Safety]
 
 
 [Behind Human Error]: https://www.amazon.com/Behind-Human-Error-David-Woods/dp/0754678342
@@ -346,7 +354,10 @@ He tweeted as [@ri_cook](https://twitter.com/ri_cook).
 [Resilience is not control: healthcare, crisis management, and ICT]: https://www.researchgate.net/profile/Robert-Wears/publication/225108705_Resilience_is_Not_Control_Healthcare_Crisis_Management_and_ICT/links/00b49532b2c7f3ed62000000/Resilience-is-Not-Control-Healthcare-Crisis-Management-and-ICT.pdf
 [Taking Things in One’s Stride: Cognitive Features of Two Resilient Performances]: https://www.taylorfrancis.com/chapters/edit/10.1201/9781315605685-19/taking-things-one-stride-cognitive-features-two-resilient-performances-richard-cook-christopher-nemeth
 [Human Performance in Anesthesia: A Corpus of Cases]: https://www.researchgate.net/publication/347964304_Human_Performance_in_Anesthesia_Human_Performance_in_Anesthesia_Human_Performance_in_Anesthesia
-
+[Minding the Gaps: Creating Resilience in Health Care]: https://europepmc.org/article/NBK/nbk43670
+[From Counting Failures to Anticipating Risks: Possible Futures for Patient Safety]: https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=ffe74633027ee354ebbf0ff9a6418e75f3b7a047
+[Resilience Engineering: New directions for measuring and maintaining safety in complex systems]: https://www.academia.edu/download/83819345/Resilience_Engineering_New_directions_fo20220411-23835-1ipo8pk.pdf
+[Behind Human Error: Taming Complexity to Improve Patient Safety]: https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=15f31969c4e1f4f599c5c68aa63f3bf930e0406f
 
 ### Selected talks
 * [How Complex Systems Fail](https://www.youtube.com/watch?v=2S0k12uZR14) (Velocity 2012)
@@ -469,12 +480,11 @@ Dekker examines how cultural norms defining justice can be re-oriented to minimi
 * [Drift into failure](https://www.amazon.com/Drift-into-Failure-Sidney-Dekker/dp/1409422216)
 * [Reconstructing human contributions to accidents: the new view on error and performance](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.411.4985&rep=rep1&type=pdf)
 * [The field guide to understanding 'human error'](https://www.amazon.com/Field-Guide-Understanding-Human-Error/dp/1472439058s://www.amazon.com/Field-Guide-Understanding-Human-Error/dp/1472439058)
-* [Behind Human Error](https://www.amazon.com/gp/product/B075QFGTNP/ref=x_gr_w_glide_bb?ie=UTF8&tag=x_gr_w_glide_bb-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B075QFGTNP&SubscriptionId=1MGPYB6YW3HWK55XCGG2)
+* [Behind Human Error]
 * [Rule- and role retreat: An empirical study of procedures and resilience](https://www.researchgate.net/publication/50917226_Rule-_and_role_retreat_An_empirical_study_of_procedures_and_resilience?enrichId=rgreq-23625e555a0d8e5250c74f24b5fd01ca-XXX&enrichSource=Y292ZXJQYWdlOzUwOTE3MjI2O0FTOjk3MzU5NjY5MjM1NzQ1QDE0MDAyMjM3NjI5NDY%3D&el=1_x_2&_esc=publicationCoverPdf)
 * [Anticipating the effects of technological change: A new era of dynamics for human factors](https://www.researchgate.net/publication/247512351_Anticipating_the_effects_of_technological_change_A_new_era_of_dynamics_for_human_factors)
 * [Why do things go right?](http://www.safetydifferently.com/why-do-things-go-right/)
 * [Six stages to the new view of human error](http://www.humanfactors.lth.se/fileadmin/lusa/Sidney_Dekker/articles/2007/SafetyScienceMonitor.pdf)
-* [Behind Human Error]
 * [Employees: A Problem to Control or Solution to Harness?](http://sidneydekker.com/wp-content/uploads/2014/08/DekkerPS2014.pdf)
 * [Team Coordination in Escalating Situations: An Empirical Study Using Mid-Fidelity Simulation]
 * [Resilience Engineering: New directions for measuring and maintaining safety in complex systems]
@@ -487,6 +497,7 @@ Dekker examines how cultural norms defining justice can be re-oriented to minimi
 * [The complexity of failure: implications of complexity theory for safety investigation](https://static1.squarespace.com/static/53b78765e4b0949940758017/t/5722beb0d51cd4d11675a69c/1461894833950/Dekker%2C+Cilliers+and+Hofmeyr+-+The+Complexity+of+Failure.pdf)
 * [The Safety Anarchist](https://www.amazon.com/Safety-Anarchist-innovation-bureaucracy-compliance/dp/1138300462))
 * [Compliance Capitalism](https://www.amazon.com/Compliance-Capitalism-Overregulated-Management-Neoliberalism/dp/1032012366)
+* [Resilience Engineering: New directions for measuring and maintaining safety in complex systems]
 
 [Human factors and folk models]: https://link.springer.com/article/10.1007%2Fs10111-003-0136-9
 [The High Reliability Organization Perspective]: http://sidneydekker.com/wp-content/uploads/2013/01/CH005.pdf
@@ -728,6 +739,8 @@ complex socio-technical systems.
 * [Designing for joint cognitive systems](https://www.researchgate.net/publication/4213914_Designing_for_joint_cognitive_systems)
 * [Macrocognition] ([TWRR](https://resilienceroundup.com/issues/62/))
 * [A day when (Almost) nothing happened](https://www.sciencedirect.com/science/article/abs/pii/S0925753521004719)
+* [Minding the Gaps: Creating Resilience in Health Care]
+* [Resilience Engineering: New directions for measuring and maintaining safety in complex systems]
 
 
 [Resilience Engineering: Concepts and Precepts]: https://www.amazon.com/gp/product/B009KNDF64/ref=x_gr_w_glide_bb?ie=UTF8&tag=x_gr_w_glide_bb-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B009KNDF64&SubscriptionId=1MGPYB6YW3HWK55XCGG2
@@ -890,6 +903,7 @@ Maguire tweets as [@LauraMDMaguire](https://twitter.com/lauramdmaguire).
 * [Replacing Hindsight With Insight: Toward Better Understanding of Diagnostic Failures]
 * [Resilience is not control: healthcare, crisis management, and ICT]
 * [Taking Things in One’s Stride: Cognitive Features of Two Resilient Performances]
+* [Minding the Gaps: Creating Resilience in Health Care]
 
 
 [Replacing Hindsight With Insight: Toward Better Understanding of Diagnostic Failures]: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.458.7283&rep=rep1&type=pdf
@@ -949,6 +963,7 @@ in healthcare.
 * [How Unexpected Events Produce An Escalation Of Cognitive And Coordinative Demands] ([TWRR](https://resilienceroundup.com/issues/how-unexpected-events-produce-an-escalation-of-cognitive-and-coordinative-demands/))
 * [Communication Strategies from High-reliability Organizations: Translation is Hard Work](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1876978/) ([TWRR](https://resilienceroundup.com/issues/communication-strategies-from-high-reliability-organizations-translation-is-hard-work/))
 * [Understanding rigor in information analysis]
+* [Behind Human Error: Taming Complexity to Improve Patient Safety]
 
 [Using observational study as a tool for discovery: uncovering cognitive and collaborative demands and adaptive strategies]: https://www.researchgate.net/profile/Emily_Patterson2/publication/237138704_USING_OBSERVATIONAL_STUDY_AS_A_TOOL_FOR_DISCOVERY_UNCOVERING_COGNITIVE_AND_COLLABORATIVE_DEMANDS_AND_ADAPTIVE_STRATEGIES/links/0deec52c8e310b385a000000.pdf
 
@@ -1116,6 +1131,7 @@ Source: [Risk management in a dynamic society: a modelling problem]
 * [Skills, rules, and knowledge; signals, signs, and symbols, and other distinctions in human performance models](https://www.iwolm.com/wp-content/downloads/SkillsRulesAndKnowledge-Rasmussen.pdf)
 * [“Going solid”: a model of system dynamics and consequences for patient safety](https://qualitysafety.bmj.com/content/14/2/130)
 * [Human error and the problem of causality in analysis of accidents](https://www.ida.liu.se/~729A71/Literature/Human%20Error_T/Rasmussen_1990.pdf) ([TWRR](https://resilienceroundup.com/issues/human-error-and-the-problem-of-causality-in-analysis-of-accidents/))
+* [Human Errors: A Taxonomy for Describing Human Malfunction in Industrial Installations](https://backend.orbit.dtu.dk/ws/portalfiles/portal/158020073/ERTAX1.PDF)
 * [Ecological interfaces: A technological imperative in high‐tech systems](https://core.ac.uk/download/pdf/13788397.pdf)
 * [Information processing and human-machine interaction: an approach to cognitive engineering](https://www.amazon.com/Information-Processing-Human-Machine-Interaction-North-Holland/dp/0444009876)
 * [The role of hierarchical knowledge representation in decisionmaking and system management](https://backend.orbit.dtu.dk/ws/files/158019622/HISMC.PDF)
@@ -1123,12 +1139,24 @@ Source: [Risk management in a dynamic society: a modelling problem]
 * [The role of error in organizing behaviour](https://qualitysafety.bmj.com/content/qhc/12/5/377.full.pdf) ([TWRR](https://resilienceroundup.com/issues/the-role-of-error-in-organizing-behaviour/))
 * [Information processing and human-machine interaction](https://www.osti.gov/biblio/7011990-information-processing-human-machine-interaction)
 * [Risk management in a dynamic society: a modelling problem]
+* [Proactive risk management in a dynamic society](https://rib.msb.se/Filer/pdf/16252.pdf)
 * [Trends in Human Reliability Analysis](https://backend.orbit.dtu.dk/ws/portalfiles/portal/137294535/TREND.PDF)
+* [The role of hierarchical knowledge representation in decisionmaking and system management](https://backend.orbit.dtu.dk/ws/portalfiles/portal/158019622/HISMC.PDF)
+* [The role of error in organizing behaviour](https://backend.orbit.dtu.dk/ws/portalfiles/portal/137538698/ERRROLE_1_.PDF)
+* [Human error and the problem of causality in analysis of accidents](https://backend.orbit.dtu.dk/ws/portalfiles/portal/158018718/ROYSOC.PDF)
+* [Coping with human errors through system design: implications for ecological interface design](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=5fb7644d205b342aa52c594b7982a9e208086238)
+* [Graphic representation of accident scenarios: mapping system structure and the causation of accidents](https://www.sciencedirect.com/science/article/abs/pii/S0925753500000369)
+* [Diagnostic reasoning in action](https://backend.orbit.dtu.dk/ws/portalfiles/portal/158017532/DIAACT.PDF)
+* [A framework for cognitive task analysis in systems design](https://orbit.dtu.dk/en/publications/a-framework-for-cognitive-task-analysis-in-systems-design)
+* [Analysis of human errors in industrial incidents and accidents for mprovement of work safety](https://backend.orbit.dtu.dk/ws/portalfiles/portal/158019864/LEPRAS.PDF)
+* [Why do complex organizational systems fail?](https://documents1.worldbank.org/curated/ru/535511468766200820/pdf/multi0page.pdf)
+* [Notes on human error analysis and prediction](https://orbit.dtu.dk/en/publications/notes-on-human-error-analysis-and-prediction)
 
 (These are written but others about Rasmussen's work)
 * [Recurring themes in the legacy of Jens Rasmussen](https://www.sciencedirect.com/science/article/abs/pii/S0003687016302150?via%3Dihub) - special issue of Applied Ergonomics
 * [Reflecting on Jens Rasmussen’s legacy. A strong program for a hard problem](https://doi.org/10.1016/j.ssci.2014.03.015) ([my notes](https://github.com/lorin/booknotes/blob/master/papers/Reflecting-on-Jens-Rasmussens-Legacy.md))
 * [Reflecting on Jens Rasmussen's legacy (2) behind and beyond, a ‘constructivist turn’](https://doi.org/10.1016/j.apergo.2015.07.013)
+* [Musings on Models and the Genius of Jens Rasmussen](https://www.sciencedirect.com/science/article/abs/pii/S0003687015301009?via%3Dihub)
 
 [Risk management in a dynamic society: a modelling problem]: https://doi.org/10.1016/S0925-7535(97)00052-0
 
@@ -1336,6 +1364,9 @@ Vaughan is a sociology researcher who did a famous study of the NASA Challenger 
 * [Automation, interaction, complexity, and failure: A case study]
 * [Resilience is not control: healthcare, crisis management, and ICT]
 * [The Secret Life of Policies](https://www.annemergmed.com/article/S0196-0644(17)30874-0/fulltext)
+* [The tragedy of adaptability](https://www.annemergmed.com/article/S0196-0644(13)01554-0/abstract)
+* [Relying on resilience: too much of a good thing?](https://www.taylorfrancis.com/chapters/edit/10.1201/9781315605722-11/relying-resilience-much-good-thing-robert-wears-charles-vincent) [BH](https://safety177496371.wordpress.com/2024/03/20/relying-on-resilience-too-much-of-a-good-thing/)
+* [Replacing hindsight with insight: toward better understanding of diagnostic failures]
 
 ### Selected talks
 
@@ -1611,6 +1642,10 @@ Many of these are mentioned in Woods's [short course](https://www.youtube.com/pl
 * [A practitioner’s experiences operationalizing Resilience Engineering]
 * [Understanding rigor in information analysis]
 * [Human Performance in Anesthesia: A Corpus of Cases]
+* [Minding the Gaps: Creating Resilience in Health Care]
+* [From Counting Failures to Anticipating Risks: Possible Futures for Patient Safety]
+* [Resilience Engineering: New directions for measuring and maintaining safety in complex systems]
+* [Behind Human Error: Taming Complexity to Improve Patient Safety]
 
 [The theory of graceful extensibility: basic rules that govern adaptive systems]: https://www.researchgate.net/publication/327427067_The_Theory_of_Graceful_Extensibility_Basic_rules_that_govern_adaptive_systems
 [How do systems manage their adaptive capacity to successfully handle disruptions? A resilience engineering perspective]: https://www.researchgate.net/publication/286581322_How_do_systems_manage_their_adaptive_capacity_to_successfully_handle_disruptions_A_resilience_engineering_perspective
