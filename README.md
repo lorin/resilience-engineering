@@ -283,7 +283,7 @@ He tweeted as [@ri_cook](https://twitter.com/ri_cook).
 ### Selected publications
 
 * [A celebration of the work of Richard Cook, MD: A pioneer in understanding accidents, safety, human factors, and resilience](https://www.researchgate.net/publication/371403498_A_celebration_of_the_work_of_Richard_Cook_MD_A_pioneer_in_understanding_accidents_safety_human_factors_and_resilience)
-* [How complex systems fail](https://www.adaptivecapacitylabs.com/HowComplexSystemsFail.pdf)
+* [How complex systems fail](https://www.adaptivecapacitylabs.com/HowComplexSystemsFail.pdf) [BH](https://safety177496371.wordpress.com/2022/11/04/how-complex-systems-fail-a-classic-from-richard-cook/)
 * [A brief look at the New Look in complex system failure, error, safety, and resilience](https://www.adaptivecapacitylabs.com/BriefLookAtTheNewLook.pdf)
 * [void \*: Incidents as Untyped Pointers. *Where* complex systems fail](https://www.snafucatchers.com/single-post/2017/11/14/void-Incidents-as-Untyped-Pointers)
 * [Distancing through differencing: An obstacle to organizational learning following accidents](https://www.researchgate.net/publication/292504703_Distancing_through_differencing_An_obstacle_to_organizational_learning_following_accidents)
@@ -302,7 +302,7 @@ He tweeted as [@ri_cook](https://twitter.com/ri_cook).
 * [The New Look at Error, Safety, and Failure: A Primer for Health Care]
 * [Grounding explanations in evolving, diagnostic situations]
 * [A Tale of Two Stories: Contrasting Views of Patient Safety] (appendix B, starting on page 64 (numbered 52) contains the talk by Charles Billings, MD, Chief Scientist (retired), NASA Ames on the lessons learned from incident reporting in aviation. Dr. Billings designed, started, and managed the Aviation Safety REporting System)
-* ["Those found responsible have been sacked": some observations on the usefulness of error](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.623.5749&rep=rep1&type=pdf)
+* ["Those found responsible have been sacked": some observations on the usefulness of error](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.623.5749&rep=rep1&type=pdf) [BH](https://safety177496371.wordpress.com/2025/01/26/those-found-responsible-have-been-sacked-some-observations-on-the-usefulness-of-error/)
 * [Perspectives on Human Error: Hindsight Biases and Local Rationality]
 * [Mistaking Error]
 * [Adapting to new technology in the operating room]
@@ -314,7 +314,7 @@ He tweeted as [@ri_cook](https://twitter.com/ri_cook).
 * [The Stockholm blizzard of 2012](https://www.taylorfrancis.com/books/e/9781315605739/chapters/10.1201/9781315605739-11)
 * [New Arctic Air Crash Aftermath Role-Play Simulation Orchestrating a Fundamental Surprise]
 * [Dissenting Statement: Health IT Is a Class III Medical Device](https://www.nap.edu/read/13269/chapter/14)
-* [Nine Steps to Move Forward From Error]
+* [Nine Steps to Move Forward From Error] [BH](https://safety177496371.wordpress.com/2022/11/03/nine-steps-to-move-forward-from-error/)
 * [Gaps in the continuity of care and progress on patient safety]
 * [Above the Line, Below the Line](https://queue.acm.org/detail.cfm?id=3380777) ([TWRR](https://resilienceroundup.com/issues/68/))
 * [Coping With a Mass Casualty: Insights into a Hospital’s Emergency Response and Adaptations After the Formosa Fun Coast Dust Explosion] ([TWRR](https://resilienceroundup.com/issues/76/))
@@ -330,6 +330,7 @@ He tweeted as [@ri_cook](https://twitter.com/ri_cook).
 * [From Counting Failures to Anticipating Risks: Possible Futures for Patient Safety]
 * [Resilience Engineering: New directions for measuring and maintaining safety in complex systems]
 * [Behind Human Error: Taming Complexity to Improve Patient Safety]
+* [The Illusion of Explanation]
 
 
 [Behind Human Error]: https://www.amazon.com/Behind-Human-Error-David-Woods/dp/0754678342
@@ -358,6 +359,7 @@ He tweeted as [@ri_cook](https://twitter.com/ri_cook).
 [From Counting Failures to Anticipating Risks: Possible Futures for Patient Safety]: https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=ffe74633027ee354ebbf0ff9a6418e75f3b7a047
 [Resilience Engineering: New directions for measuring and maintaining safety in complex systems]: https://www.academia.edu/download/83819345/Resilience_Engineering_New_directions_fo20220411-23835-1ipo8pk.pdf
 [Behind Human Error: Taming Complexity to Improve Patient Safety]: https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=15f31969c4e1f4f599c5c68aa63f3bf930e0406f
+[The Illusion of Explanation]: https://onlinelibrary.wiley.com/doi/pdf/10.1197/j.aem.2004.07.001
 
 ### Selected talks
 * [How Complex Systems Fail](https://www.youtube.com/watch?v=2S0k12uZR14) (Velocity 2012)
@@ -1352,7 +1354,7 @@ Vaughan is a sociology researcher who did a famous study of the NASA Challenger 
 
 ### Selected publications
 
-* [The error of counting "errors"](https://linkinghub.elsevier.com/retrieve/pii/S0196064408006070)
+* [The error of counting "errors"](https://linkinghub.elsevier.com/retrieve/pii/S0196064408006070) [BH](https://safety177496371.wordpress.com/2023/09/20/the-error-of-counting-errors/)
 * [Underground adaptations: case studies from health care](https://doi.org/10.1007/s10111-011-0207-2)
 * [Fundamental On Situational Surprise: A Case Study With Implications For Resilience](https://books.openedition.org/pressesmines/1122)
 * [Replacing Hindsight With Insight: Toward Better Understanding of Diagnostic Failures]
@@ -1364,9 +1366,18 @@ Vaughan is a sociology researcher who did a famous study of the NASA Challenger 
 * [Automation, interaction, complexity, and failure: A case study]
 * [Resilience is not control: healthcare, crisis management, and ICT]
 * [The Secret Life of Policies](https://www.annemergmed.com/article/S0196-0644(17)30874-0/fulltext)
-* [The tragedy of adaptability](https://www.annemergmed.com/article/S0196-0644(13)01554-0/abstract)
+* [The tragedy of adaptability](https://www.annemergmed.com/article/S0196-0644(13)01554-0/abstract) [BH](https://safety177496371.wordpress.com/2021/04/19/the-tragedy-of-adaptability/)
 * [Relying on resilience: too much of a good thing?](https://www.taylorfrancis.com/chapters/edit/10.1201/9781315605722-11/relying-resilience-much-good-thing-robert-wears-charles-vincent) [BH](https://safety177496371.wordpress.com/2024/03/20/relying-on-resilience-too-much-of-a-good-thing/)
-* [Replacing hindsight with insight: toward better understanding of diagnostic failures]
+* [Replacing hindsight with insight: toward better understanding of diagnostic failures] [BH](https://safety177496371.wordpress.com/2024/02/26/replacing-hindsight-with-insight-toward-better-understanding-of-diagnostic-failures/)
+* [The science of human factors: separating fact from fiction](https://safety177496371.wordpress.com/2024/10/29/the-science-of-human-factors-separating-fact-from-fiction/) [BH](https://safety177496371.wordpress.com/2024/10/29/the-science-of-human-factors-separating-fact-from-fiction/)
+* [Resilience skills as emergent phenomena: A study of emergency departments in Brazil and the United States](https://doi.org/10.1016/j.apergo.2016.02.012) [BH](https://safety177496371.wordpress.com/2023/01/20/resilience-skills-as-emergent-phenomena-a-study-of-emergency-departments-in-brazil-and-the-united-states/)
+* [Our current approach to root cause analysis: is it contributing to our failure to improve patient safety?](https://qualitysafety.bmj.com/content/26/5/381) [BH](https://safety177496371.wordpress.com/2021/03/18/our-current-approach-to-root-cause-analysis-is-it-contributing-to-our-failure-to-improve-patient-safety/)
+* [Error Reduction and Performance Improvement in the Emergency Department through Formal Teamwork Training: Evaluation Results of the MedTeams Project](https://pmc.ncbi.nlm.nih.gov/articles/PMC1464040/) [BH](https://safety177496371.wordpress.com/2021/03/18/our-current-approach-to-root-cause-analysis-is-it-contributing-to-our-failure-to-improve-patient-safety/)
+* [In situ simulation: detection of safety threats and teamwork training in a high risk emergency department](https://www.academia.edu/download/85660593/468.full.pdf)
+* [“Safeware”: Safety-Critical Computing and Health Care Information Technology](https://europepmc.org/article/nbk/nbk43774)
+* [The Illusion of Explanation]
+* [Thick Versus Thin: Description Versus Classification in Learning From Case Reviews](https://www.annemergmed.com/article/S0196-0644(07)01451-5/fulltext)
+* [Safety, Error, and Resilience: a Meta-narrative Review](https://www.resilience-engineering-association.org/download/resources/symposium/symposium_2015/Wears_R.-Sutcliffe_K.-Safety-error-and-resilience-a-meta-narrative-review-Paper.pdf)
 
 ### Selected talks
 
@@ -1564,7 +1575,7 @@ Many of these are mentioned in Woods's [short course](https://www.youtube.com/pl
 * [Joint Cognitive Systems: Patterns in Cognitive Systems Engineering](https://www.amazon.com/gp/product/0849339332/ref=x_gr_w_bb?ie=UTF8&tag=x_gr_w_bb-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0849339332&SubscriptionId=1MGPYB6YW3HWK55XCGG2)
 * [Patterns in Cooperative Cognition](https://www.researchgate.net/publication/262449980_Patterns_in_Cooperative_Cognition)
 * [Origins of cognitive systems engineering](https://www.researchgate.net/publication/298793082_Origins_of_Cognitive_Systems_Engineering)
-* [Incidents - markers of resilience or brittleness?](https://www.researchgate.net/publication/292504952_Incidents_-_markers_of_resilience_or_brittleness)
+* [Incidents - markers of resilience or brittleness?](https://www.researchgate.net/publication/292504952_Incidents_-_markers_of_resilience_or_brittleness) [BH](https://safety177496371.wordpress.com/2023/12/18/incidents-markers-of-resilience-or-brittleness/)
 * [The alarm problem and directed attention in dynamic fault management](https://www.researchgate.net/publication/40961767_The_Alarm_problem_and_directed_attention_in_dynamic_fault_management)
 * [Can We Trust Best Practices? Six Cognitive Challenges of Evidence-Based Approaches]
 * [Operating at the Sharp End: The Complexity of Human Error](https://www.researchgate.net/publication/313407259_Operating_at_the_Sharp_End_The_Complexity_of_Human_Error)
@@ -1619,7 +1630,7 @@ Many of these are mentioned in Woods's [short course](https://www.youtube.com/pl
 * [New Arctic Air Crash Aftermath Role-Play Simulation Orchestrating a Fundamental Surprise]
 * [Mapping Cognitive Demands in Complex Problem-Solving Worlds] (mentions disturbance management)
 * [Fixation Errors: Failures to Revise Situation Assessment in Dynamic and Risky Systems](https://www.researchgate.net/publication/290071190_Fixation_Errors_Failures_to_Revise_Situation_Assessment_in_Dynamic_and_Risky_Systems)
-* [Nine Steps to Move Forward From Error]
+* [Nine Steps to Move Forward From Error] [BH](https://safety177496371.wordpress.com/2022/11/03/nine-steps-to-move-forward-from-error/)
 * [Handoff strategies in settings with high consequences for failure: lessons for health care operations] ([TWRR](https://resilienceroundup.com/issues/56))
 * [The High Reliability Organization Perspective] ([TWRR](https://resilienceroundup.com/issues/09/))
 * [Automation surprises]
