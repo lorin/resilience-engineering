@@ -10,11 +10,11 @@ from related fields, such as cognitive systems engineering and naturalistic deci
 
 ## Annotations
 
-A ([TWRR](http://resilienceroundup.com)) link indicates Thai Wood's [Resilience Roundup](http://resilienceroundup.com). Thai publishes a newsletter that
-summarizes resilience engineering papers.
-
-A [BH](https://safety177496371.wordpress.com/) indicates Ben Hutchinson's [Safety & Performance Research Summaries](https://safety177496371.wordpress.com/) blog.
+A [BH](https://safety177496371.wordpress.com/) link indicates Ben Hutchinson's [Safety & Performance Research Summaries](https://safety177496371.wordpress.com/) blog.
 Ben writes summaries of safety papers, posting them to his blog as well as LinkedIOn.
+
+A [TWRR](http://resilienceroundup.com) link indicates Thai Wood's [Resilience Roundup](http://resilienceroundup.com). Thai publishes a newsletter that
+summarizes resilience engineering papers.
 
 ## Other interesting links
 
