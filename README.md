@@ -283,7 +283,7 @@ He tweeted as [@ri_cook](https://twitter.com/ri_cook).
 ### Selected publications
 
 * [A celebration of the work of Richard Cook, MD: A pioneer in understanding accidents, safety, human factors, and resilience](https://www.researchgate.net/publication/371403498_A_celebration_of_the_work_of_Richard_Cook_MD_A_pioneer_in_understanding_accidents_safety_human_factors_and_resilience)
-* [How complex systems fail](https://www.adaptivecapacitylabs.com/HowComplexSystemsFail.pdf) [BH](https://safety177496371.wordpress.com/2022/11/04/how-complex-systems-fail-a-classic-from-richard-cook/)
+* [How complex systems fail](https://www.adaptivecapacitylabs.com/HowComplexSystemsFail.pdf) ([BH](https://safety177496371.wordpress.com/2022/11/04/how-complex-systems-fail-a-classic-from-richard-cook/))
 * [A brief look at the New Look in complex system failure, error, safety, and resilience](https://www.adaptivecapacitylabs.com/BriefLookAtTheNewLook.pdf)
 * [void \*: Incidents as Untyped Pointers. *Where* complex systems fail](https://www.snafucatchers.com/single-post/2017/11/14/void-Incidents-as-Untyped-Pointers)
 * [Distancing through differencing: An obstacle to organizational learning following accidents](https://www.researchgate.net/publication/292504703_Distancing_through_differencing_An_obstacle_to_organizational_learning_following_accidents)
@@ -302,8 +302,8 @@ He tweeted as [@ri_cook](https://twitter.com/ri_cook).
 * [The New Look at Error, Safety, and Failure: A Primer for Health Care]
 * [Grounding explanations in evolving, diagnostic situations]
 * [A Tale of Two Stories: Contrasting Views of Patient Safety] (appendix B, starting on page 64 (numbered 52) contains the talk by Charles Billings, MD, Chief Scientist (retired), NASA Ames on the lessons learned from incident reporting in aviation. Dr. Billings designed, started, and managed the Aviation Safety REporting System)
-* ["Those found responsible have been sacked": some observations on the usefulness of error](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.623.5749&rep=rep1&type=pdf) [BH](https://safety177496371.wordpress.com/2025/01/26/those-found-responsible-have-been-sacked-some-observations-on-the-usefulness-of-error/)
-* [Perspectives on Human Error: Hindsight Biases and Local Rationality]
+* ["Those found responsible have been sacked": some observations on the usefulness of error](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.623.5749&rep=rep1&type=pdf) ([BH](https://safety177496371.wordpress.com/2025/01/26/those-found-responsible-have-been-sacked-some-observations-on-the-usefulness-of-error/)
+* [Perspectives on Human Error: Hindsight Biases and Local Rationality])
 * [Mistaking Error]
 * [Adapting to new technology in the operating room]
 * [Verite, Abstraction, and Ordinateur Systems in the Evolution of Complex Process Control](https://www.researchgate.net/publication/3657912_Verite_abstraction_and_ordinateur_systems_in_the_evolution_of_complex_process_control)
@@ -314,7 +314,7 @@ He tweeted as [@ri_cook](https://twitter.com/ri_cook).
 * [The Stockholm blizzard of 2012](https://www.taylorfrancis.com/books/e/9781315605739/chapters/10.1201/9781315605739-11)
 * [New Arctic Air Crash Aftermath Role-Play Simulation Orchestrating a Fundamental Surprise]
 * [Dissenting Statement: Health IT Is a Class III Medical Device](https://www.nap.edu/read/13269/chapter/14)
-* [Nine Steps to Move Forward From Error] [BH](https://safety177496371.wordpress.com/2022/11/03/nine-steps-to-move-forward-from-error/)
+* [Nine Steps to Move Forward From Error] ([BH](https://safety177496371.wordpress.com/2022/11/03/nine-steps-to-move-forward-from-error/))
 * [Gaps in the continuity of care and progress on patient safety]
 * [Above the Line, Below the Line](https://queue.acm.org/detail.cfm?id=3380777) ([TWRR](https://resilienceroundup.com/issues/68/))
 * [Coping With a Mass Casualty: Insights into a Hospital’s Emergency Response and Adaptations After the Formosa Fun Coast Dust Explosion] ([TWRR](https://resilienceroundup.com/issues/76/))
