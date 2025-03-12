@@ -743,6 +743,7 @@ complex socio-technical systems.
 * [A day when (Almost) nothing happened](https://www.sciencedirect.com/science/article/abs/pii/S0925753521004719)
 * [Minding the Gaps: Creating Resilience in Health Care]
 * [Resilience Engineering: New directions for measuring and maintaining safety in complex systems]
+* [Understanding Accidents - From Root Causes to Performance Variability](https://www.researchgate.net/publication/3973687_Understanding_accidents-from_root_causes_to_performance_variability) ([BH](https://safety177496371.wordpress.com/2025/03/12/understanding-accidents-from-root-causes-to-performance-variability/))
 
 
 [Resilience Engineering: Concepts and Precepts]: https://www.amazon.com/gp/product/B009KNDF64/ref=x_gr_w_glide_bb?ie=UTF8&tag=x_gr_w_glide_bb-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B009KNDF64&SubscriptionId=1MGPYB6YW3HWK55XCGG2
