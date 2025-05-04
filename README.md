@@ -8,6 +8,8 @@ This doc contains notes about people active in resilience engineering, as well a
 researchers who are no longer with us, organized alphabetically. It also includes people and papers
 from related fields, such as cognitive systems engineering and naturalistic decision-making.
 
+If you're not sure what to read first, check out[Resilience engineering: Where do I start?](intro.md) for which foundational papers to start with
+
 ## Annotations
 
 A [BH](https://safety177496371.wordpress.com/) link indicates Ben Hutchinson's [Safety & Performance Research Summaries](https://safety177496371.wordpress.com/) blog.
@@ -18,10 +20,8 @@ summarizes resilience engineering papers.
 
 ## Other interesting links
 
-If you're not sure what to read first, check out:
+[resilienceinsoftware.org](https://resilienceinsoftware.org) is the Resilience in Software Foundation, a community of software people who are interested in resilience engineering.
 
-* [www.learningfromincidents.io](http://www.learningfromincidents.io) is the Learning From Incidents in Software community site.
-* [Resilience engineering: Where do I start?](intro.md) for which foundational papers to start with
 
 For a collection of talks, check out the [Resilience Engineering, Cognitive Systems
 Engineering, and Human Factors Concepts in Software
