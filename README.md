@@ -500,6 +500,7 @@ Dekker examines how cultural norms defining justice can be re-oriented to minimi
 * [The Safety Anarchist](https://www.amazon.com/Safety-Anarchist-innovation-bureaucracy-compliance/dp/1138300462))
 * [Compliance Capitalism](https://www.amazon.com/Compliance-Capitalism-Overregulated-Management-Neoliberalism/dp/1032012366)
 * [Resilience Engineering: New directions for measuring and maintaining safety in complex systems]
+* [Drifting into failure: Complexity theory and the management of risk](https://maritimesafetyinnovationlab.org/wp-content/uploads/2021/03/DekkerDriftRiskChapter2013.pdf) ([BH](https://safety177496371.wordpress.com/2025/05/03/complex-systems-and-drifting-into-failure-further-extracts-from-dekker-2013/))
 
 [Human factors and folk models]: https://link.springer.com/article/10.1007%2Fs10111-003-0136-9
 [The High Reliability Organization Perspective]: http://sidneydekker.com/wp-content/uploads/2013/01/CH005.pdf
