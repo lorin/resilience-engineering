@@ -106,8 +106,8 @@ they're ones I've read or have added to my to-read list.
 Note: there are now [multiple contributors](https://github.com/lorin/resilience-engineering/graphs/contributors) to this repository.
 
 ## Colette Alexander
-[Alexander] (https://www.linkedin.com/in/colette-alexander-4168267/) is a Director of Engineering and researcher who previously held roles with IBM, Spotify, Cognite, and HashiCorp. She hosts the podcast This is Fine with co-host Clint Byrum. 
-She completed a Masters thesis at Lund titled [Risky Business: Quantitative Risk Assessments as Enabling Devices in Cybersecurity] (https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=9148570&fileOId=9148571). 
+[Alexander](https://www.linkedin.com/in/colette-alexander-4168267/) is a Director of Engineering and researcher who previously held roles with IBM, Spotify, Cognite, and HashiCorp. She hosts the podcast This is Fine with co-host Clint Byrum. 
+She completed a Masters thesis at Lund titled [Risky Business: Quantitative Risk Assessments as Enabling Devices in Cybersecurity](https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=9148570&fileOId=9148571). 
 
 
 ## John Allspaw
@@ -522,7 +522,7 @@ Dekker examines how cultural norms defining justice can be re-oriented to minimi
 
 
 ## Jessica Devita
-Devita is a software engineering manager and researcher in software resilience engineering. She has previously held roles at Microsoft, Netflix, and Google. Her master thesis [To Deploy, or Not to Deploy, That is the Question A qualitative study of the decision-making experiences of engineers deploying software changes in production]  (https://lup.lub.lu.se/student-papers/search/publication/9149521) focused on software deployments and decision making. 
+Devita is a software engineering manager and researcher in software resilience engineering. She has previously held roles at Microsoft, Netflix, and Google. Her master thesis [To Deploy, or Not to Deploy, That is the Question A qualitative study of the decision-making experiences of engineers deploying software changes in production](https://lup.lub.lu.se/student-papers/search/publication/9149521) focused on software deployments and decision making. 
 
 ## John C. Doyle
 
@@ -638,7 +638,7 @@ resilience engineering in avionics and air traffic management.
 See also: [list of publications](https://wo.cristin.no/as/WebObjects/cristin.woa/wa/fres?sort=ar&pnr=30556&action=sok)
 
 ## Cat Hicks
-[Hicks] is a psychological scientist and researcher who creates open science to drive change for people doing technical work. She holds a PhD in Quantitative Experimental Psychology from UC San Diego and is the founder and principal scientist of Catharsis Consulting, a scientific consultancy that helps organizations transform with human-centered evidence strategies.
+[Hicks](https://www.drcathicks.com/) is a psychological scientist and researcher who creates open science to drive change for people doing technical work. She holds a PhD in Quantitative Experimental Psychology from UC San Diego and is the founder and principal scientist of Catharsis Consulting, a scientific consultancy that helps organizations transform with human-centered evidence strategies.
 
 ### Selected Publications
 * [The Psychology of Software Teams](https://www.routledge.com/The-Psychology-of-Software-Teams/Hicks/p/book/9781032963389)
