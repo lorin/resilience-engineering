@@ -56,6 +56,7 @@ they're ones I've read or have added to my to-read list.
 * [Meir Finkel](#meir-finkel)
 * [Marisa Grayson](#marisa-grayson)
 * [Ivonne Andrade Herrera](#ivonne-andrade-herrera)
+* [Cat Hicks](#cat-hicks)
 * [Robert Hoffman](#robert-hoffman)
 * [Erik Hollnagel](#erik-hollnagel)
 * [Leila Johannesen](#leila-johannesen)
@@ -624,6 +625,14 @@ resilience engineering in avionics and air traffic management.
 
 See also: [list of publications](https://wo.cristin.no/as/WebObjects/cristin.woa/wa/fres?sort=ar&pnr=30556&action=sok)
 
+## Cat Hicks
+[Hicks] is a psychological scientist and researcher who creates open science to drive change for people doing technical work. She holds a PhD in Quantitative Experimental Psychology from UC San Diego and is the founder and principal scientist of Catharsis Consulting, a scientific consultancy that helps organizations transform with human-centered evidence strategies.
+
+### Selected Publications
+* [The Psychology of Software Teams](https://www.routledge.com/The-Psychology-of-Software-Teams/Hicks/p/book/9781032963389)
+* [Developer Thriving: four sociocognitive factors that create resilient productivity on software teams](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10491133)
+* [The New Developer: AI Skill Threat, Identity Change & Developer Thriving in the Transition to AI-Assisted Software Development](https://osf.io/preprints/psyarxiv/2gej5)
+* [Google Scholar](https://scholar.google.com/citations?user=MotKyQcAAAAJ&hl=en)
 
 ## Robert Hoffman
 
