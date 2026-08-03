@@ -38,6 +38,7 @@ For each person, I list concepts that they reference in their writings, along
 with some publications. The publications lists aren't comprehensive:
 they're ones I've read or have added to my to-read list.
 
+* [Colette Alexander](#colette-alexander) 
 * [John Allspaw](#john-allspaw)
 * [Lisanne Bainbridge](#lisanne-bainbridge)
 * [Andrea Baker](#andrea-baker)
@@ -48,6 +49,7 @@ they're ones I've read or have added to my to-read list.
 * [Todd Conklin](#todd-conklin)
 * [Richard I. Cook](#richard-i-cook)
 * [Sidney Dekker](#sidney-dekker)
+* [Jessica Devita](#jessica-devita)
 * [John C. Doyle](#john-c-doyle)
 * [Bob Edwards](#bob-edwards)
 * [Anders Ericsson](#anders-ericsson)
@@ -63,8 +65,10 @@ they're ones I've read or have added to my to-read list.
 * [Elizabeth Lay](#elizabeth-lay)
 * [Jean-Christophe Le Coze](#jean-christophe-le-coze)
 * [Nancy Leveson](#nancy-leveson)
+* [Beth Adele Long](#beth-long)
 * [Carl Macrae](#carl-macrae)
 * [Laura Maguire](#laura-maguire)
+* [Courtney Nash](#courtney-nash)
 * [Christopher Nemeth](#christopher-nemeth)
 * [Anne-Sophie Nyssen](#anne-sophie-nyssen)
 * [Elinor Ostrom](#elinor-ostrom)
@@ -99,6 +103,11 @@ they're ones I've read or have added to my to-read list.
 * Polycentric governance (Elinor Ostrom)
 
 Note: there are now [multiple contributors](https://github.com/lorin/resilience-engineering/graphs/contributors) to this repository.
+
+## Colette Alexander
+[Alexander] (https://www.linkedin.com/in/colette-alexander-4168267/) is a Director of Engineering and researcher who previously held roles with IBM, Spotify, Cognite, and HashiCorp. She hosts the podcast This is Fine with co-host Clint Byrum. 
+She completed a Masters thesis at Lund titled [Risky Business: Quantitative Risk Assessments as Enabling Devices in Cybersecurity] (https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=9148570&fileOId=9148571). 
+
 
 ## John Allspaw
 
@@ -511,6 +520,9 @@ Dekker examines how cultural norms defining justice can be re-oriented to minimi
 * [Panel discussion: Safety Culture, Lean, and DevOps]
 
 
+## Jessica Devita
+Devita is a software engineering manager and researcher in software resilience engineering. She has previously held roles at Microsoft, Netflix, and Google. Her master thesis [To Deploy, or Not to Deploy, That is the Question A qualitative study of the decision-making experiences of engineers deploying software changes in production]  (https://lup.lub.lu.se/student-papers/search/publication/9149521) focused on software deployments and decision making. 
+
 ## John C. Doyle
 
 [Doyle](http://www.cds.caltech.edu/~doyle/wiki/index.php?title=Main_Page) is a
@@ -859,6 +871,9 @@ See [STAMP](STAMP.md) for some more detailed notes of mine.
 * [High-pressure steam engines and computer software](http://dx.doi.org/10.1145/143062.143076)
 * [Resilience Engineering: Concepts and Precepts]
 
+## Beth Long
+[Long](https://www.linkedin.com/in/beth-adele-long/) is a software engineer, product manager, and Principal at software incident analysis company Adaptive Capacity Labs. She previously held roles at New Relic, Jeli, and  who co-authored the paper [Building and revising adaptive capacity sharing for technical incident response: A case of resilience engineering](https://www-sciencedirect-com.proxy.lib.ohio-state.edu/science/article/pii/S0003687020301903) with Dr. Richard Cook. 
+
 ## Carl Macrae
 
 [Macrae](https://www.nottingham.ac.uk/business/people/lizcjm.html) is a social psychology
@@ -881,24 +896,34 @@ Macrae tweets at [@CarlMacrae](https://twitter.com/CarlMacrae).
 ## Laura Maguire
 
 [Maguire](https://www.linkedin.com/in/lauramaguire/) is a cognitive systems
-engineering researcher with a PhD from Ohio State
-University. Maguire has done safety work in multiple domains, including
-forestry, avalanches, and software services. She currently works as a researcher
-at [jeli.io](jeli.io)
+engineer and ressearcher with a PhD from Ohio State University. Maguire has done safety work in multiple domains, including forestry, healthcare, oil & gas, wildland firefighting, mountain safety, and software services. She formerly led research & development at [jeli.io](jeli.io), is the a Director of the [Resilience & Proactive Safety Initiative(https://u.osu.edu/csel/resilienceproactivesafetyinitiative/) at The Ohio State University's Cognitive Systems Engineering Lab and is the founder of [Trace Cognitive Engineering](https://www.tracecognitive.com/) and [Cognition In The Wild](cognitioninthewild.com) translating theory into practice for software and other industries. She also supervises Masters thesis projects for the College of Engineering at Lund University for the Human Factors & Systems Safety program. She was a founding member of the [SNAFUCatchers Consortium](https://www.snafucatchers.com/) conducting focused cognitive systems and resilience engineering research on software companies. 
 
-Maguire tweets as [@LauraMDMaguire](https://twitter.com/lauramdmaguire).
+Maguire (rarely) tweets as [@LauraMDMaguire](https://twitter.com/lauramdmaguire).
 
 ### Selected publications
 
+* [Joint Cognitive Systems: Ideas With Impact for Designing Safer, More Resilient Automated Systems](https://ieeexplore.ieee.org/document/10493156/)
+* [Cognitive Skills in Software Engineering: Operating Complex, Adaptive Systems at Speed and Scale](https://ieeexplore.ieee.org/document/10339148)
+* [Automation doesn't work the way we think it does](https://ieeexplore.ieee.org/document/10372510)
+* [Realizing the Benefits of Human Machine Teaming for Safe Software Operations](https://dl.acm.org/doi/abs/10.1109/MS.2024.3480768) (with Laura Nolan)
+* [Navigating tradeoffs in software failures](https://www.computer.org/csdl/magazine/so/2025/03/10953345/25ICFoAidsk) (with Fred Hebert)
 * [Managing the Hidden Costs of Coordination](https://queue.acm.org/detail.cfm?id=3380779)
 * [Controlling the Costs of Coordination in Large-scale Distributed Software Systems](http://rave.ohiolink.edu/etdc/view?acc_num=osu1593661547087969) (PhD dissertation)
 * [Howie: The Post-Incident Guide](https://www.jeli.io/howie-the-post-incident-guide/)
+* [STELLA: Report from the SNAFUcatchers Workshop on Coping With Complexity](https://snafucatchers.github.io/)
+* Pre-prints of many of her paywalled publications are available on [Researchgate](https://www.researchgate.net/profile/Laura-Maguire-2)
 
 ### Selected talks
 
+* [Hard Choices, Tight Timelines: A Closer Look at Skip-Level Tradeoff Decisions During Incidents](https://www.usenix.org/conference/srecon24americas/presentation/maguire) (With Courtney Nash)
+* [Followship: A Cognitive Systems approach to coordination in software incidents](https://www.youtube.com/watch?v=m6NlJFsfimw) 
 * [How Many Is Too Much? Exploring Costs of Coordination During Outages](https://www.infoq.com/presentations/incident-command-system/)
 * [Mental models – why saying “I didn’t know it worked that way” is a sign of expertise not incompetence](https://www.youtube.com/watch?v=VEprjLtHzg0)
 * [Operating at the edge of the envelope](https://re-deploy.io/videos/27-maguire.html)
+
+## Courtney Nash 
+
+Nash is a researcher and founder of [The Void] (https://www.thevoid.community/), a community-contributed collection of software-related incident reports, aimed at making the internet a safer and more resilient place.
 
 ## Christopher Nemeth
 
@@ -913,6 +938,14 @@ Maguire tweets as [@LauraMDMaguire](https://twitter.com/lauramdmaguire).
 
 
 [Replacing Hindsight With Insight: Toward Better Understanding of Diagnostic Failures]: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.458.7283&rep=rep1&type=pdf
+
+## Laura Nolan
+
+[Nolan](https://www.linkedin.com/in/lauralifts/details/experience/) is a Principal Software Engineer and researcher who previously held roles at Google, Slack, Stanza.  Her forthcoming masters thesis from Lund university studied expert troubleshooting during outages in production software environments. 
+
+She currently works at Reddit.
+
+* [Realizing the Benefits of Human Machine Teaming for Safe Software Operations](https://dl.acm.org/doi/abs/10.1109/MS.2024.3480768) (with Laura Maguire)
 
 ## Anne-Sophie Nyssen
 
