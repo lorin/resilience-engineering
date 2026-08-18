@@ -171,6 +171,7 @@ be frequently cited.
 
 ## Selected publications
 * [Ironies of automation] ([TWRR](https://resilienceroundup.com/issues/35/))
+* [Verbal reports as evidence of the process operator's knowledge](https://www.sciencedirect.com/science/article/abs/pii/S0020737379800358)
 
 
 [Ironies of automation]: https://www.sciencedirect.com/science/article/abs/pii/0005109883900468
