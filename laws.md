@@ -34,9 +34,10 @@ Reference: [Beyond Simon’s Slice: Five Fundamental Trade-Offs that Bound the P
 
 Every system is stretched to operate at its capacity.
 
+Coined by David Woods.
+
 Reference: [Beyond Simon’s Slice: Five Fundamental Trade-Offs that Bound the Performance of Macrocognitive Work Systems]
 
-Coined by David Woods.
 
 ### Law of requisite variety
 
