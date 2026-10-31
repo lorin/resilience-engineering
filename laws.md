@@ -28,17 +28,15 @@ by Hoffman and Woods.
 Well-adapted cognitive work occurs with a facility that belies the difficulty
 of resolving demands and balancing dilemmas
 
-Source: [Beyond Simon’s Slice: Five Fundamental Trade-Offs that Bound the Performance of Macrocognitive Work Systems]
+Reference: [Beyond Simon’s Slice: Five Fundamental Trade-Offs that Bound the Performance of Macrocognitive Work Systems]
 
 ### Law of stretched systems
 
 Every system is stretched to operate at its capacity.
 
-Sources:
+Reference: [Beyond Simon’s Slice: Five Fundamental Trade-Offs that Bound the Performance of Macrocognitive Work Systems]
 
-* [Beyond Simon’s Slice: Five Fundamental Trade-Offs that Bound the Performance of Macrocognitive Work Systems]
-
-This law is attributed to Lawrence Hirschhorn, and has been popularized by David Woods and Richard Cook.
+Coined by David Woods.
 
 ### Law of requisite variety
 
@@ -47,7 +45,7 @@ variety of perturbations it is able to compensate.
 
 This is also called the first law of cybernetics or Ashby's law.
 
-Source: <http://pespmc1.vub.ac.be/REQVAR.html>
+Reference: <http://pespmc1.vub.ac.be/REQVAR.html>
 
 ### Laws of the adaptive universe
 
@@ -55,25 +53,25 @@ Source: <http://pespmc1.vub.ac.be/REQVAR.html>
 * Surprise is fundamental
 * Change never stops
 
-Source: <https://www.youtube.com/playlist?list=PLvlZBj1NU_ikTy1ot30EbEbYMAoBf9eAt.>
+Reference: <https://www.youtube.com/playlist?list=PLvlZBj1NU_ikTy1ot30EbEbYMAoBf9eAt.>
 
 ### Law of coordinative entropy
 
 Coordination costs, continuously.
 
-Source: [Beyond Simon’s Slice: Five Fundamental Trade-Offs that Bound the Performance of Macrocognitive Work Systems]
+Reference: [Beyond Simon’s Slice: Five Fundamental Trade-Offs that Bound the Performance of Macrocognitive Work Systems]
 
 ### Law of systems as surrogates
 
 Technology reflects the stances, agendas, and goals of those who design and deploy the technology.
 
-Source: [Beyond Simon’s Slice: Five Fundamental Trade-Offs that Bound the Performance of Macrocognitive Work Systems]
+Reference: [Beyond Simon’s Slice: Five Fundamental Trade-Offs that Bound the Performance of Macrocognitive Work Systems]
 
 ### Mr. Weasley's Law
 
 Never trust anything that can think for itself if you can’t see where it keeps its brain.
 
-Source: [Beyond Simon’s Slice: Five Fundamental Trade-Offs that Bound the Performance of Macrocognitive Work Systems]
+Reference: [Beyond Simon’s Slice: Five Fundamental Trade-Offs that Bound the Performance of Macrocognitive Work Systems]
 
 ### The Law of the Kludge
 
@@ -81,20 +79,20 @@ Work systems always require workarounds, with resultant kludges that attempt
 to bridge the gap between the original design objectives and current realities
 or to reconcile conflicting goals among workers.
 
-Source: [Beyond Simon’s Slice: Five Fundamental Trade-Offs that Bound the Performance of Macrocognitive Work Systems]
+Reference: [Beyond Simon’s Slice: Five Fundamental Trade-Offs that Bound the Performance of Macrocognitive Work Systems]
 
 ### First law of cooperative systems
 
 It's not cooperation, if either you do it all or I do it all.
 
-Source: David Woods. Not sure where he first wrote this, but it's referenced in *Cognitive Systems Engineering: The Future for a Changing World*
+Reference: David Woods. Not sure where he first wrote this, but it's referenced in *Cognitive Systems Engineering: The Future for a Changing World*
 
 ### (Robin) Murphy's Law
 
 Any deployment of robotic systems will fall short of the target level of autonomy, creating or exacerbating a shortfall
 in mechanisms for coordination with human stakeholders.
 
-Source: This is mentioned in [Joint Cognitive Systems: Patterns in Cogntive Systems Engineering](https://www.amazon.com/Joint-Cognitive-Systems-Patterns-Engineering-ebook/dp/B00918NQOE/ref=sr_1_1?keywords=joint+cognitive+systems&qid=1557092907&s=gateway&sr=8-1), Chapter 10 (Automation Surprises).
+Reference: This is mentioned in [Joint Cognitive Systems: Patterns in Cogntive Systems Engineering](https://www.amazon.com/Joint-Cognitive-Systems-Patterns-Engineering-ebook/dp/B00918NQOE/ref=sr_1_1?keywords=joint+cognitive+systems&qid=1557092907&s=gateway&sr=8-1), Chapter 10 (Automation Surprises).
 
 ## Tradeoffs
 
@@ -121,7 +119,7 @@ Described in *Beyond Simon's Slice* as:
 * bounded cognizance
 * *efficiency-thoroughness of situated plans trade-off*
 
-Source: <http://erikhollnagel.com/ideas/etto-principle/index.html>
+Reference: <http://erikhollnagel.com/ideas/etto-principle/index.html>
 
 ### Revelation vs. reflection
 
@@ -181,4 +179,4 @@ Described in *Beyond Simon's Slice* as:
    by shifts and contrasts over multiple perspectives.
 10. Reflective systems risk mis-calbiration
 
-Source: [The Theory of Graceful Extensibility: Basic rules that govern adaptive systems](https://www.researchgate.net/publication/327427067_The_Theory_of_Graceful_Extensibility_Basic_rules_that_govern_adaptive_systems)
+Reference: [The Theory of Graceful Extensibility: Basic rules that govern adaptive systems](https://www.researchgate.net/publication/327427067_The_Theory_of_Graceful_Extensibility_Basic_rules_that_govern_adaptive_systems)
